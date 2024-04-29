@@ -85,7 +85,7 @@ pub fn error_to_string(error: MatrixError) -> String {
 
 pub fn listen(client: Matrix, handler: fn(Matrix, String, Message) -> a) -> Nil {
   let next_batch =
-    simplifile.read("./next_batch.txt")
+    simplifile.read("./storage/next_batch.txt")
     |> result.map_error(fn(_) { Nil })
 
   sync_loop(client, next_batch, handler)
@@ -111,7 +111,7 @@ fn sync_loop(
       |> result.map_error(DecodeNextBatchError)
       |> result.try(fn(next_batch) {
         next_batch
-        |> simplifile.write("./next_batch.txt", _)
+        |> simplifile.write("./storage/next_batch.txt", _)
         |> result.map(fn(_) { next_batch })
         |> result.map_error(WriteNextBatchError)
       })
