@@ -128,14 +128,16 @@ fn sync_loop(
     new_next_batch
   }
 
-  let new_next_batch =
-    result.map_error(status, fn(error) {
+  let new_next_batch = case status {
+    Ok(batch) -> Ok(batch)
+    Error(error) -> {
       error
       |> error_to_string
       |> io.println
 
-      Nil
-    })
+      next_batch
+    }
+  }
 
   process.sleep(5000)
   sync_loop(client, new_next_batch, handler)
