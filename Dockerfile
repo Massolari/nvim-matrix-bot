@@ -4,6 +4,7 @@ RUN apk add --no-cache -X http://dl-cdn.alpinelinux.org/alpine/edge/testing \
 RUN mkdir /app
 COPY src /app/src
 COPY gleam.toml /app/gleam.toml
+COPY tags /app/tags
 COPY manifest.toml /app/manifest.toml
 WORKDIR /app
 RUN gleam build
