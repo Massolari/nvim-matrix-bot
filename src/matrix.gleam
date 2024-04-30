@@ -1,6 +1,5 @@
 import gleam/dict.{type Dict}
 import gleam/dynamic
-import gleam/erlang/process
 import gleam/hackney
 import gleam/http
 import gleam/http/request
