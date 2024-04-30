@@ -11,6 +11,7 @@ pub fn parse_nvim_response_test() {
   |> should.equal([
     #(
       "Massolari/forem.nvim",
+      "18",
       "Neovim plugin to read, write and post articles on Forem platforms like dev.to",
     ),
   ])

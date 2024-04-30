@@ -5,6 +5,9 @@ import gleam/list
 import gleam/result
 import gleam/string
 
+type PluginData =
+  #(String, String, String)
+
 pub type PluginError {
   NvimShError(hackney.Error)
 }
@@ -32,24 +35,32 @@ pub fn get(name: String) -> Result(String, PluginError) {
 }
 
 @internal
-pub fn parse_nvim_response(response: String, name: String) -> List(
-  #(String, String),
-) {
+pub fn parse_nvim_response(response: String, name: String) -> List(PluginData) {
   response
   |> string.split("\n")
   |> list.drop(1)
   |> list.fold(from: [], with: fn(lines, line) {
     let words = string.split(line, " ")
     let formatted = {
-      use name <- result.map(list.first(words))
+      use name <- result.try(list.first(words))
+
+      let words_not_empty =
+        words
+        |> list.filter(fn(word) { word != "" })
+
+      use stars <- result.map(
+        words_not_empty
+        |> list.drop(1)
+        |> list.first,
+      )
 
       let description =
-        words
+        words_not_empty
         |> list.filter(fn(word) { word != "" })
         |> list.drop(4)
         |> string.join(" ")
 
-      #(name, description)
+      #(name, stars, description)
     }
 
     case formatted {
@@ -62,11 +73,11 @@ pub fn parse_nvim_response(response: String, name: String) -> List(
   })
 }
 
-fn to_html(plugins: List(#(String, String))) -> String {
+fn to_html(plugins: List(PluginData)) -> String {
   let formatted = {
-    use plugin_description <- list.map(plugins)
+    use plugin_stars_description <- list.map(plugins)
 
-    let #(name, description) = plugin_description
+    let #(name, stars, description) = plugin_stars_description
 
     let formatted_description = case description {
       "" -> "No description"
@@ -77,7 +88,9 @@ fn to_html(plugins: List(#(String, String))) -> String {
     <> name
     <> "\">"
     <> name
-    <> "</a> - "
+    <> "</a> (⭐"
+    <> stars
+    <> ") - "
     <> formatted_description
     <> "</li>"
   }
