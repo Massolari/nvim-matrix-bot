@@ -81,7 +81,14 @@ fn handle_message(
       }
     })
 
-  let _ = handle_help_commands(client, room_id, help_commands)
+  case help_commands {
+    [] -> Nil
+    _ -> {
+      let _ = handle_help_commands(client, room_id, help_commands)
+
+      Nil
+    }
+  }
 }
 
 fn handle_plugin_command(
