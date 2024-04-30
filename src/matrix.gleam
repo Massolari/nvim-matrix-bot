@@ -139,7 +139,6 @@ fn sync_loop(
     }
   }
 
-  process.sleep(5000)
   sync_loop(client, new_next_batch, handler)
 }
 
