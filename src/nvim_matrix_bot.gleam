@@ -1,7 +1,6 @@
 import command
+import command/plugin
 import config
-import gleam/hackney
-import gleam/http/request
 import gleam/io
 import gleam/list
 import gleam/result
@@ -13,8 +12,8 @@ import simplifile
 type AppError {
   ConfigError(config.ConfigError)
   MatrixError(matrix.MatrixError)
-  NvimShError(hackney.Error)
   ReadTagsError(simplifile.FileError)
+  PluginError(plugin.PluginError)
 }
 
 pub fn main() {
@@ -91,57 +90,11 @@ fn handle_plugin_command(
   room_id: String,
 ) -> Result(Nil, AppError) {
   io.println("Handling plugin command for " <> plugin)
-  let assert Ok(request) = request.to("https://nvim.sh/s/" <> plugin)
 
-  io.println("Sending request to nvim.sh...")
-  use response <- result.try(
-    request
-    |> hackney.send
-    |> result.map_error(NvimShError),
+  use message <- result.try(
+    plugin.get(plugin)
+    |> result.map_error(PluginError),
   )
-  io.println("Response received. Parsing...")
-
-  let plugins =
-    response.body
-    |> string.split("\n")
-    |> list.drop(1)
-    |> list.fold(from: [], with: fn(lines, line) {
-      let words = string.split(line, " ")
-      let formatted = {
-        use name <- result.map(list.first(words))
-
-        let formatted_name =
-          "<a href=\"https://github.com/" <> name <> "\">" <> name <> "</a>"
-        let description =
-          words
-          |> list.filter(fn(word) { word != "" })
-          |> list.drop(3)
-          |> string.join(" ")
-
-        let formatted_description = case description {
-          "" -> "No description"
-          d -> d
-        }
-
-        #(formatted_name, formatted_description)
-      }
-
-      case formatted {
-        Ok(formatted) -> [formatted, ..lines]
-        Error(_) -> lines
-      }
-    })
-    |> list.filter(fn(name_description) {
-      string.contains(name_description.0, plugin)
-    })
-    |> list.map(fn(name_description) {
-      "<li>" <> name_description.0 <> " - " <> name_description.1 <> "</li>"
-    })
-
-  let message = case plugins {
-    [] -> "No plugins found by the name " <> plugin
-    _ -> "<ol>" <> string.join(plugins, "") <> "</ol>"
-  }
 
   client
   |> matrix.send_message(room_id, message)
@@ -219,7 +172,7 @@ fn error_to_string(error: AppError) {
   case error {
     ConfigError(e) -> config.error_to_string(e)
     MatrixError(e) -> matrix.error_to_string(e)
-    NvimShError(e) -> "Error connecting to nvim.sh: " <> string.inspect(e)
+    PluginError(e) -> plugin.error_to_string(e)
     ReadTagsError(e) -> "Error reading tags file: " <> string.inspect(e)
   }
 }
