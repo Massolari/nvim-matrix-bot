@@ -223,6 +223,7 @@ pub fn send_message(
   client: Matrix,
   room_id: String,
   message: String,
+  replying_to input_message: Message,
 ) -> Result(Nil, MatrixError) {
   io.println("Sending message to Matrix...")
   let assert Ok(request) =
@@ -247,6 +248,15 @@ pub fn send_message(
         #("body", json.string(message)),
         #("format", json.string("org.matrix.custom.html")),
         #("formatted_body", json.string(message)),
+        #(
+          "m.relates_to",
+          json.object([
+            #(
+              "m.in_reply_to",
+              json.object([#("event_id", json.string(input_message.event_id))]),
+            ),
+          ]),
+        ),
       ])
       |> json.to_string,
     )

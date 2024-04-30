@@ -69,7 +69,7 @@ fn handle_message(
         command.Help(help) -> [help, ..helps]
         command.Plugin(plugin) -> {
           let _ =
-            handle_plugin_command(client, plugin, room_id)
+            handle_plugin_command(client, plugin, room_id, message)
             |> result.map_error(fn(error) {
               error
               |> error_to_string
@@ -84,7 +84,7 @@ fn handle_message(
   case help_commands {
     [] -> Nil
     _ -> {
-      let _ = handle_help_commands(client, room_id, help_commands)
+      let _ = handle_help_commands(client, room_id, help_commands, message)
 
       Nil
     }
@@ -95,6 +95,7 @@ fn handle_plugin_command(
   client: matrix.Matrix,
   plugin: String,
   room_id: String,
+  input_message: matrix.Message,
 ) -> Result(Nil, AppError) {
   io.println("Handling plugin command for " <> plugin)
 
@@ -104,7 +105,7 @@ fn handle_plugin_command(
   )
 
   client
-  |> matrix.send_message(room_id, message)
+  |> matrix.send_message(room_id, message, replying_to: input_message)
   |> result.map_error(MatrixError)
 }
 
@@ -112,6 +113,7 @@ fn handle_help_commands(
   client: matrix.Matrix,
   room_id: String,
   helps: List(String),
+  input_message: matrix.Message,
 ) {
   io.println("Handling help commands...")
   io.println("Reading tags file...")
@@ -171,7 +173,7 @@ fn handle_help_commands(
     _ -> "<ul>" <> message <> "</ul>"
   }
   client
-  |> matrix.send_message(room_id, formatted_message)
+  |> matrix.send_message(room_id, formatted_message, replying_to: input_message)
   |> result.map_error(MatrixError)
 }
 
