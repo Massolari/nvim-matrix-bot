@@ -163,18 +163,27 @@ fn handle_help_commands(
           <> filename
           <> " <i></i></li>"
         }
-        Error(help) -> "<li>" <> help <> " not found</li>"
+        Error(help) ->
+          "<li><code>:help</code> for <code>"
+          <> help
+          <> "</code> not found</li>"
       }
     })
     |> string.join("")
 
-  let formatted_message = case message {
-    "" -> "No help found for any of the inputs: " <> string.join(helps, ", ")
-    _ -> "<ul>" <> message <> "</ul>"
+  case message {
+    "" -> Ok(Nil)
+    _ -> {
+      let formatted_message = "<ul>" <> message <> "</ul>"
+      client
+      |> matrix.send_message(
+        room_id,
+        formatted_message,
+        replying_to: input_message,
+      )
+      |> result.map_error(MatrixError)
+    }
   }
-  client
-  |> matrix.send_message(room_id, formatted_message, replying_to: input_message)
-  |> result.map_error(MatrixError)
 }
 
 fn error_to_string(error: AppError) {
