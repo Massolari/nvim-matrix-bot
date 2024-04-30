@@ -1,6 +1,8 @@
+import gleam/bool
 import gleam/list
 import gleam/option.{Some}
 import gleam/regex
+import gleam/string
 
 pub type Command {
   Help(String)
@@ -8,9 +10,20 @@ pub type Command {
 }
 
 pub fn from_string(text: String) -> Result(List(Command), Nil) {
-  let help_commands = parse_help_command(text)
+  let text_without_quote =
+    text
+    |> string.split("\n")
+    |> list.filter(fn(line) {
+      line
+      |> string.trim
+      |> string.starts_with(">")
+      |> bool.negate
+    })
+    |> string.join("\n")
 
-  let plugin_commands = parse_plugin_command(text)
+  let help_commands = parse_help_command(text_without_quote)
+
+  let plugin_commands = parse_plugin_command(text_without_quote)
 
   let commands =
     [help_commands, plugin_commands]

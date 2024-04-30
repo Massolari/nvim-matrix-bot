@@ -38,3 +38,9 @@ pub fn from_string_mixed_test() {
   |> command.from_string
   |> should.equal(Ok([command.Plugin("nvim-lspconfig"), command.Help("lsp")]))
 }
+
+pub fn from_string_ignore_quotes_test() {
+  "> how to I setup the `:help lsp`?\n\nto setup LSP you need !plugin nvim-lspconfig"
+  |> command.from_string
+  |> should.equal(Ok([command.Plugin("nvim-lspconfig")]))
+}
