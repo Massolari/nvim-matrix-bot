@@ -4,15 +4,77 @@ import gleam/io
 import gleam/list
 import gleam/result
 import gleam/string
+import simplifile
 
-type PluginData =
-  #(String, String, String)
+pub type PluginData {
+  PluginData(name: String, link: String, description: String)
+}
 
 pub type PluginError {
   NvimShError(hackney.Error)
 }
 
 pub fn get(name: String) -> Result(String, PluginError) {
+  use plugins <- result.map(
+    name
+    |> search_in_file
+    |> result.try_recover(fn(_) { fetch_from_nvim_sh(name) }),
+  )
+
+  case plugins {
+    "" -> "No plugins found by the name " <> name
+    _ -> plugins
+  }
+}
+
+fn search_in_file(plugin: String) -> Result(String, Nil) {
+  io.println("Reading plugins file...")
+  let assert Ok(all_plugins) = simplifile.read("./plugins.md")
+  io.println("Read!")
+
+  let plugins = parse_plugins_file(all_plugins, plugin)
+
+  case plugins {
+    [] -> Error(Nil)
+    _ ->
+      plugins
+      |> to_html
+      |> Ok
+  }
+}
+
+@internal
+pub fn parse_plugins_file(plugins: String, plugin: String) -> List(PluginData) {
+  plugins
+  |> string.split("\n")
+  |> list.filter_map(fn(line) {
+    let parts =
+      line
+      |> string.split(" - ")
+    use name <- result.try(list.first(parts))
+
+    case string.contains(name, plugin) {
+      True -> {
+        use link <- result.try(
+          parts
+          |> list.drop(1)
+          |> list.first,
+        )
+
+        use description <- result.map(
+          parts
+          |> list.drop(2)
+          |> list.first,
+        )
+
+        PluginData(name: name, link: link, description: description)
+      }
+      False -> Error(Nil)
+    }
+  })
+}
+
+fn fetch_from_nvim_sh(name: String) -> Result(String, PluginError) {
   let assert Ok(request) = request.to("https://nvim.sh/s/" <> name)
 
   io.println("Sending request to nvim.sh...")
@@ -23,36 +85,24 @@ pub fn get(name: String) -> Result(String, PluginError) {
   )
   io.println("Response received. Parsing...")
 
-  let plugins =
-    response.body
-    |> parse_nvim_response(name)
-    |> to_html
-
-  case plugins {
-    "" -> "No plugins found by the name " <> name
-    _ -> plugins
-  }
+  response.body
+  |> parse_nvim_response(name)
+  |> to_html
 }
 
 @internal
-pub fn parse_nvim_response(response: String, name: String) -> List(PluginData) {
-  response
+pub fn parse_nvim_response(plugins: String, name: String) -> List(PluginData) {
+  plugins
   |> string.split("\n")
   |> list.drop(1)
   |> list.fold(from: [], with: fn(lines, line) {
     let words = string.split(line, " ")
     let formatted = {
-      use name <- result.try(list.first(words))
+      use name <- result.map(list.first(words))
 
       let words_not_empty =
         words
         |> list.filter(fn(word) { word != "" })
-
-      use stars <- result.map(
-        words_not_empty
-        |> list.drop(1)
-        |> list.first,
-      )
 
       let description =
         words_not_empty
@@ -60,7 +110,11 @@ pub fn parse_nvim_response(response: String, name: String) -> List(PluginData) {
         |> list.drop(4)
         |> string.join(" ")
 
-      #(name, stars, description)
+      PluginData(
+        name: name,
+        link: "https://github.com/" <> name,
+        description: description,
+      )
     }
 
     case formatted {
@@ -68,29 +122,23 @@ pub fn parse_nvim_response(response: String, name: String) -> List(PluginData) {
       Error(_) -> lines
     }
   })
-  |> list.filter(fn(name_description) {
-    string.contains(name_description.0, name)
-  })
+  |> list.filter(fn(data) { string.contains(data.name, name) })
 }
 
 fn to_html(plugins: List(PluginData)) -> String {
   let formatted = {
-    use plugin_stars_description <- list.map(plugins)
+    use data <- list.map(plugins)
 
-    let #(name, stars, description) = plugin_stars_description
-
-    let formatted_description = case description {
+    let formatted_description = case data.description {
       "" -> "No description"
       d -> d
     }
 
-    "<li><a href=\"https://github.com/"
-    <> name
+    "<li><a href=\""
+    <> data.link
     <> "\">"
-    <> name
-    <> "</a> (⭐"
-    <> stars
-    <> ") - "
+    <> data.name
+    <> "</a> - "
     <> formatted_description
     <> "</li>"
   }
