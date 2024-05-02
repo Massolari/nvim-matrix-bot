@@ -1,0 +1,38 @@
+name: update tags file
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out awesome-neovim repo
+        uses: actions/checkout@v4
+        with:
+          repository: rockerBOO/awesome-neovim
+          path: './awesome-neovim'
+
+      - name: Build nvim and update tags file
+        run: |
+          cd ./awesome-neovim
+
+          sed -n -e '/ *- .* - /p' plugins.md | sed -e 's/- \[\(.*\)\]/\1 - /' | sed -e 's/(\(.*\))/\1/' > plugins.md
+          mv plugins.md ../
+
+          cd ../
+          git config user.name "GitHub Actions"
+          git add plugins.md
+          git commit -m "chore(plugins): update"
+
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+
