@@ -18,7 +18,7 @@ jobs:
           repository: rockerBOO/awesome-neovim
           path: './awesome-neovim'
 
-      - name: Fetch and update plugins file
+      - name: Format and update plugins file
         run: |
           cd ./awesome-neovim
 
