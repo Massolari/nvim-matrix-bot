@@ -30,7 +30,7 @@ jobs:
 
           cd ../
           git config user.name "GitHub Actions"
-          git add src/tags
+          git add tags
           git commit -m "chore(tags): update"
 
       - name: Push changes # push the output folder to your repo
