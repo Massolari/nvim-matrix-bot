@@ -27,6 +27,7 @@ jobs:
 
           cd ../
           git config user.name "GitHub Actions"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add plugins.md
           git commit -m "chore(plugins): update"
 
