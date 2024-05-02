@@ -5,6 +5,7 @@ RUN mkdir /app
 COPY src /app/src
 COPY gleam.toml /app/gleam.toml
 COPY tags /app/tags
+COPY plugins.md /app/plugins.md
 COPY manifest.toml /app/manifest.toml
 WORKDIR /app
 RUN gleam build
