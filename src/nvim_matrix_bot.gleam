@@ -1,18 +1,16 @@
 import command
+import command/help
 import command/plugin
 import config
 import gleam/io
 import gleam/list
 import gleam/result
-import gleam/string
-import gleam/uri
 import matrix
-import simplifile
 
 type AppError {
   ConfigError(config.ConfigError)
   MatrixError(matrix.MatrixError)
-  ReadTagsError(simplifile.FileError)
+  HelpError(help.HelpError)
   PluginError(plugin.PluginError)
 }
 
@@ -116,71 +114,17 @@ fn handle_help_commands(
   input_message: matrix.Message,
 ) {
   io.println("Handling help commands...")
-  io.println("Reading tags file...")
-  use tags <- result.try(
-    simplifile.read("./tags")
-    |> result.map_error(ReadTagsError),
+
+  use message <- result.try(
+    help.find(helps)
+    |> result.map_error(HelpError),
   )
-  io.println("Done! Parsing...")
-
-  let help_files = {
-    use result, help <- list.fold(over: helps, from: [])
-    let filename =
-      tags
-      |> string.split("\n")
-      |> list.filter(fn(tag) { string.contains(tag, "*" <> help <> "*") })
-      |> list.first
-      |> result.try(fn(tag) {
-        tag
-        |> string.split("\t")
-        |> list.drop(1)
-        |> list.first
-      })
-      |> result.map(fn(filename) { #(help, filename) })
-      |> result.map_error(fn(_) { help })
-
-    [filename, ..result]
-  }
-
-  let message =
-    help_files
-    |> list.map(fn(help_file) {
-      case help_file {
-        Ok(#(help, filename)) -> {
-          let file_without_extension =
-            filename
-            |> string.split(".")
-            |> list.first
-            |> result.unwrap(filename)
-
-          "<li><a href=\"https://neovim.io/doc/user/"
-          <> file_without_extension
-          <> ".html#"
-          <> uri.percent_encode(help)
-          <> "\">"
-          <> help
-          <> "</a> in "
-          <> filename
-          <> " <i></i></li>"
-        }
-        Error(help) ->
-          "<li><code>:help</code> for <code>"
-          <> help
-          <> "</code> not found</li>"
-      }
-    })
-    |> string.join("")
 
   case message {
-    "" -> Ok(Nil)
-    _ -> {
-      let formatted_message = "<ul>" <> message <> "</ul>"
+    help.NoResult -> Ok(Nil)
+    help.Found(help) -> {
       client
-      |> matrix.send_message(
-        room_id,
-        formatted_message,
-        replying_to: input_message,
-      )
+      |> matrix.send_message(room_id, help, replying_to: input_message)
       |> result.map_error(MatrixError)
     }
   }
@@ -190,7 +134,7 @@ fn error_to_string(error: AppError) {
   case error {
     ConfigError(e) -> config.error_to_string(e)
     MatrixError(e) -> matrix.error_to_string(e)
+    HelpError(e) -> help.error_to_string(e)
     PluginError(e) -> plugin.error_to_string(e)
-    ReadTagsError(e) -> "Error reading tags file: " <> string.inspect(e)
   }
 }
