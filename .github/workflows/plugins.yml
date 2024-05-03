@@ -22,7 +22,7 @@ jobs:
         run: |
           cd ./awesome-neovim
 
-          sed -n -e '/ *- .* - /p' README.md | sed -e 's/- \[\(.*\)\]/\1 - /' | sed -e 's/(\(.*\))/\1/' > plugins.md
+          sed -n -e '/ *- .* - /p' README.md | sed -e 's/- \[\(.*?\)\]/\1 - /' | sed -e 's/(\(.*?\))/\1/' > plugins.md
           mv plugins.md ../
 
           cd ../
