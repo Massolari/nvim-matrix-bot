@@ -3286,6 +3286,7 @@ CTRL-W_b	windows.txt	/*CTRL-W_b*
 CTRL-W_bar	windows.txt	/*CTRL-W_bar*
 CTRL-W_c	windows.txt	/*CTRL-W_c*
 CTRL-W_d	tagsrch.txt	/*CTRL-W_d*
+CTRL-W_d-default	tagsrch.txt	/*CTRL-W_d-default*
 CTRL-W_f	windows.txt	/*CTRL-W_f*
 CTRL-W_g<Tab>	tabpage.txt	/*CTRL-W_g<Tab>*
 CTRL-W_gF	windows.txt	/*CTRL-W_gF*
@@ -4264,15 +4265,15 @@ Iter:join()	lua.txt	/*Iter:join()*
 Iter:last()	lua.txt	/*Iter:last()*
 Iter:map()	lua.txt	/*Iter:map()*
 Iter:next()	lua.txt	/*Iter:next()*
-Iter:nextback()	lua.txt	/*Iter:nextback()*
 Iter:nth()	lua.txt	/*Iter:nth()*
-Iter:nthback()	lua.txt	/*Iter:nthback()*
 Iter:peek()	lua.txt	/*Iter:peek()*
-Iter:peekback()	lua.txt	/*Iter:peekback()*
+Iter:pop()	lua.txt	/*Iter:pop()*
+Iter:reduce()	lua.txt	/*Iter:reduce()*
 Iter:rev()	lua.txt	/*Iter:rev()*
 Iter:rfind()	lua.txt	/*Iter:rfind()*
+Iter:rpeek()	lua.txt	/*Iter:rpeek()*
+Iter:rskip()	lua.txt	/*Iter:rskip()*
 Iter:skip()	lua.txt	/*Iter:skip()*
-Iter:skipback()	lua.txt	/*Iter:skipback()*
 Iter:slice()	lua.txt	/*Iter:slice()*
 Iter:take()	lua.txt	/*Iter:take()*
 Iter:totable()	lua.txt	/*Iter:totable()*
@@ -4597,6 +4598,7 @@ ZZ	editing.txt	/*ZZ*
 [c	diff.txt	/*[c*
 [count]	intro.txt	/*[count]*
 [d	tagsrch.txt	/*[d*
+[d-default	tagsrch.txt	/*[d-default*
 [f	deprecated.txt	/*[f*
 [i	tagsrch.txt	/*[i*
 [m	motion.txt	/*[m*
@@ -4627,6 +4629,7 @@ ZZ	editing.txt	/*ZZ*
 ]`	motion.txt	/*]`*
 ]c	diff.txt	/*]c*
 ]d	tagsrch.txt	/*]d*
+]d-default	tagsrch.txt	/*]d-default*
 ]f	deprecated.txt	/*]f*
 ]i	tagsrch.txt	/*]i*
 ]m	motion.txt	/*]m*
@@ -4848,6 +4851,7 @@ b:rust_cargo_check_examples	ft_rust.txt	/*b:rust_cargo_check_examples*
 b:rust_cargo_check_tests	ft_rust.txt	/*b:rust_cargo_check_tests*
 b:rustfmt_autosave	ft_rust.txt	/*b:rustfmt_autosave*
 b:term_title	nvim_terminal_emulator.txt	/*b:term_title*
+b:terminal_job_id	deprecated.txt	/*b:terminal_job_id*
 b:terminal_job_pid	deprecated.txt	/*b:terminal_job_pid*
 b:tex_stylish	syntax.txt	/*b:tex_stylish*
 b:var	eval.txt	/*b:var*
@@ -5298,7 +5302,9 @@ cpp.vim	syntax.txt	/*cpp.vim*
 crash-recovery	recover.txt	/*crash-recovery*
 creating-menus	gui.txt	/*creating-menus*
 credits	intro.txt	/*credits*
+crn	lsp.txt	/*crn*
 crontab	options.txt	/*crontab*
+crr	lsp.txt	/*crr*
 cscope	vim_diff.txt	/*cscope*
 cscope_connection()	vim_diff.txt	/*cscope_connection()*
 csh.vim	syntax.txt	/*csh.vim*
@@ -5386,6 +5392,8 @@ delete-menus	gui.txt	/*delete-menus*
 deletebufline()	builtin.txt	/*deletebufline()*
 deleting	change.txt	/*deleting*
 deprecated	deprecated.txt	/*deprecated*
+deprecated-0.10	deprecated.txt	/*deprecated-0.10*
+deprecated-0.9	deprecated.txt	/*deprecated-0.9*
 deprecated.txt	deprecated.txt	/*deprecated.txt*
 design-documented	develop.txt	/*design-documented*
 design-goals	develop.txt	/*design-goals*
@@ -5578,6 +5586,8 @@ eval-api	builtin.txt	/*eval-api*
 eval-examples	eval.txt	/*eval-examples*
 eval-sandbox	eval.txt	/*eval-sandbox*
 eval.txt	eval.txt	/*eval.txt*
+event-args	api.txt	/*event-args*
+event-data	api.txt	/*event-data*
 event-variable	vvars.txt	/*event-variable*
 eventhandler()	builtin.txt	/*eventhandler()*
 events	autocmd.txt	/*events*
@@ -5905,6 +5915,7 @@ ft-inform-syntax	syntax.txt	/*ft-inform-syntax*
 ft-java-plugin	filetype.txt	/*ft-java-plugin*
 ft-java-syntax	syntax.txt	/*ft-java-syntax*
 ft-javascript-omni	insert.txt	/*ft-javascript-omni*
+ft-jq-syntax	syntax.txt	/*ft-jq-syntax*
 ft-json-syntax	syntax.txt	/*ft-json-syntax*
 ft-ksh-syntax	syntax.txt	/*ft-ksh-syntax*
 ft-lace-syntax	syntax.txt	/*ft-lace-syntax*
@@ -6423,6 +6434,7 @@ gqap	change.txt	/*gqap*
 gqgq	change.txt	/*gqgq*
 gqq	change.txt	/*gqq*
 gr	change.txt	/*gr*
+gr-default	change.txt	/*gr-default*
 greek	options.txt	/*greek*
 grep	quickfix.txt	/*grep*
 groff.vim	syntax.txt	/*groff.vim*
@@ -6677,6 +6689,7 @@ hl-QuickFixLine	syntax.txt	/*hl-QuickFixLine*
 hl-Scrollbar	syntax.txt	/*hl-Scrollbar*
 hl-Search	syntax.txt	/*hl-Search*
 hl-SignColumn	syntax.txt	/*hl-SignColumn*
+hl-SnippetTabstop	syntax.txt	/*hl-SnippetTabstop*
 hl-SpecialKey	syntax.txt	/*hl-SpecialKey*
 hl-SpellBad	syntax.txt	/*hl-SpellBad*
 hl-SpellCap	syntax.txt	/*hl-SpellCap*
@@ -6803,6 +6816,7 @@ i_CTRL-R_=	insert.txt	/*i_CTRL-R_=*
 i_CTRL-R_CTRL-O	insert.txt	/*i_CTRL-R_CTRL-O*
 i_CTRL-R_CTRL-P	insert.txt	/*i_CTRL-R_CTRL-P*
 i_CTRL-R_CTRL-R	insert.txt	/*i_CTRL-R_CTRL-R*
+i_CTRL-S	lsp.txt	/*i_CTRL-S*
 i_CTRL-SHIFT-Q	insert.txt	/*i_CTRL-SHIFT-Q*
 i_CTRL-SHIFT-V	insert.txt	/*i_CTRL-SHIFT-V*
 i_CTRL-T	insert.txt	/*i_CTRL-T*
@@ -6968,6 +6982,8 @@ jobstart-options	builtin.txt	/*jobstart-options*
 jobstop()	builtin.txt	/*jobstop()*
 jobwait()	builtin.txt	/*jobwait()*
 join()	builtin.txt	/*join()*
+jq.vim	syntax.txt	/*jq.vim*
+jq_quote_highlight	syntax.txt	/*jq_quote_highlight*
 js_decode()	vim_diff.txt	/*js_decode()*
 js_encode()	vim_diff.txt	/*js_encode()*
 json.vim	syntax.txt	/*json.vim*
@@ -7981,6 +7997,7 @@ nvim-removed	vim_diff.txt	/*nvim-removed*
 nvim-upstreamed	vim_diff.txt	/*nvim-upstreamed*
 nvim.txt	nvim.txt	/*nvim.txt*
 nvim_...()	builtin.txt	/*nvim_...()*
+nvim__complete_set()	api.txt	/*nvim__complete_set()*
 nvim__get_runtime()	api.txt	/*nvim__get_runtime()*
 nvim__id()	api.txt	/*nvim__id()*
 nvim__id_array()	api.txt	/*nvim__id_array()*
@@ -7988,6 +8005,7 @@ nvim__id_dictionary()	api.txt	/*nvim__id_dictionary()*
 nvim__id_float()	api.txt	/*nvim__id_float()*
 nvim__inspect_cell()	api.txt	/*nvim__inspect_cell()*
 nvim__invalidate_glyph_cache()	api.txt	/*nvim__invalidate_glyph_cache()*
+nvim__redraw()	api.txt	/*nvim__redraw()*
 nvim__stats()	api.txt	/*nvim__stats()*
 nvim_buf_add_highlight()	api.txt	/*nvim_buf_add_highlight()*
 nvim_buf_attach()	api.txt	/*nvim_buf_attach()*
@@ -8029,7 +8047,7 @@ nvim_buf_set_option()	deprecated.txt	/*nvim_buf_set_option()*
 nvim_buf_set_text()	api.txt	/*nvim_buf_set_text()*
 nvim_buf_set_var()	api.txt	/*nvim_buf_set_var()*
 nvim_buf_set_virtual_text()	deprecated.txt	/*nvim_buf_set_virtual_text()*
-nvim_call_atomic()	api.txt	/*nvim_call_atomic()*
+nvim_call_atomic()	deprecated.txt	/*nvim_call_atomic()*
 nvim_call_dict_function()	api.txt	/*nvim_call_dict_function()*
 nvim_call_function()	api.txt	/*nvim_call_function()*
 nvim_chan_send()	api.txt	/*nvim_chan_send()*
@@ -8037,7 +8055,6 @@ nvim_clear_autocmds()	api.txt	/*nvim_clear_autocmds()*
 nvim_cmd()	api.txt	/*nvim_cmd()*
 nvim_command()	api.txt	/*nvim_command()*
 nvim_command_output()	deprecated.txt	/*nvim_command_output()*
-nvim_complete_set()	api.txt	/*nvim_complete_set()*
 nvim_create_augroup()	api.txt	/*nvim_create_augroup()*
 nvim_create_autocmd()	api.txt	/*nvim_create_autocmd()*
 nvim_create_buf()	api.txt	/*nvim_create_buf()*
@@ -9070,6 +9087,7 @@ syntax-highlighting	syntax.txt	/*syntax-highlighting*
 syntax-latex	syntax.txt	/*syntax-latex*
 syntax-loading	syntax.txt	/*syntax-loading*
 syntax-tex	syntax.txt	/*syntax-tex*
+syntax-vs-match	pattern.txt	/*syntax-vs-match*
 syntax.txt	syntax.txt	/*syntax.txt*
 sysinit.vim	starting.txt	/*sysinit.vim*
 system()	builtin.txt	/*system()*
@@ -9190,8 +9208,10 @@ terminal	nvim_terminal_emulator.txt	/*terminal*
 terminal-config	nvim_terminal_emulator.txt	/*terminal-config*
 terminal-debug	nvim_terminal_emulator.txt	/*terminal-debug*
 terminal-emulator	nvim_terminal_emulator.txt	/*terminal-emulator*
+terminal-events	nvim_terminal_emulator.txt	/*terminal-events*
 terminal-input	nvim_terminal_emulator.txt	/*terminal-input*
 terminal-mode-index	index.txt	/*terminal-mode-index*
+terminal-osc7	nvim_terminal_emulator.txt	/*terminal-osc7*
 terminal-start	nvim_terminal_emulator.txt	/*terminal-start*
 terminal-status	nvim_terminal_emulator.txt	/*terminal-status*
 terminal_emulator.txt	nvim_terminal_emulator.txt	/*terminal_emulator.txt*
@@ -9782,6 +9802,8 @@ v_CTRL-G	visual.txt	/*v_CTRL-G*
 v_CTRL-H	change.txt	/*v_CTRL-H*
 v_CTRL-O	visual.txt	/*v_CTRL-O*
 v_CTRL-R	visual.txt	/*v_CTRL-R*
+v_CTRL-R_CTRL-R	lsp.txt	/*v_CTRL-R_CTRL-R*
+v_CTRL-R_r	lsp.txt	/*v_CTRL-R_r*
 v_CTRL-V	visual.txt	/*v_CTRL-V*
 v_CTRL-X	change.txt	/*v_CTRL-X*
 v_CTRL-Z	starting.txt	/*v_CTRL-Z*
@@ -9990,6 +10012,7 @@ vim.fs.find()	lua.txt	/*vim.fs.find()*
 vim.fs.joinpath()	lua.txt	/*vim.fs.joinpath()*
 vim.fs.normalize()	lua.txt	/*vim.fs.normalize()*
 vim.fs.parents()	lua.txt	/*vim.fs.parents()*
+vim.fs.root()	lua.txt	/*vim.fs.root()*
 vim.g	lua.txt	/*vim.g*
 vim.glob	lua.txt	/*vim.glob*
 vim.glob.to_lpeg()	lua.txt	/*vim.glob.to_lpeg()*
@@ -10089,9 +10112,8 @@ vim.lsp.buf.remove_workspace_folder()	lsp.txt	/*vim.lsp.buf.remove_workspace_fol
 vim.lsp.buf.rename()	lsp.txt	/*vim.lsp.buf.rename()*
 vim.lsp.buf.server_ready()	deprecated.txt	/*vim.lsp.buf.server_ready()*
 vim.lsp.buf.signature_help()	lsp.txt	/*vim.lsp.buf.signature_help()*
-vim.lsp.buf.subtypes()	lsp.txt	/*vim.lsp.buf.subtypes()*
-vim.lsp.buf.supertypes()	lsp.txt	/*vim.lsp.buf.supertypes()*
 vim.lsp.buf.type_definition()	lsp.txt	/*vim.lsp.buf.type_definition()*
+vim.lsp.buf.typehierarchy()	lsp.txt	/*vim.lsp.buf.typehierarchy()*
 vim.lsp.buf.workspace_symbol()	lsp.txt	/*vim.lsp.buf.workspace_symbol()*
 vim.lsp.buf_attach_client()	lsp.txt	/*vim.lsp.buf_attach_client()*
 vim.lsp.buf_detach_client()	lsp.txt	/*vim.lsp.buf_detach_client()*
@@ -10253,11 +10275,11 @@ vim.secure.read()	lua.txt	/*vim.secure.read()*
 vim.secure.trust()	lua.txt	/*vim.secure.trust()*
 vim.show_pos()	lua.txt	/*vim.show_pos()*
 vim.snippet	lua.txt	/*vim.snippet*
+vim.snippet.ActiveFilter	lua.txt	/*vim.snippet.ActiveFilter*
 vim.snippet.active()	lua.txt	/*vim.snippet.active()*
 vim.snippet.exit()	lua.txt	/*vim.snippet.exit()*
 vim.snippet.expand()	lua.txt	/*vim.snippet.expand()*
 vim.snippet.jump()	lua.txt	/*vim.snippet.jump()*
-vim.snippet.jumpable()	lua.txt	/*vim.snippet.jumpable()*
 vim.spairs()	lua.txt	/*vim.spairs()*
 vim.spell	lua.txt	/*vim.spell*
 vim.spell.check()	lua.txt	/*vim.spell.check()*
@@ -10277,6 +10299,7 @@ vim.tbl_count()	lua.txt	/*vim.tbl_count()*
 vim.tbl_deep_extend()	lua.txt	/*vim.tbl_deep_extend()*
 vim.tbl_extend()	lua.txt	/*vim.tbl_extend()*
 vim.tbl_filter()	lua.txt	/*vim.tbl_filter()*
+vim.tbl_flatten()	deprecated.txt	/*vim.tbl_flatten()*
 vim.tbl_get()	lua.txt	/*vim.tbl_get()*
 vim.tbl_isempty()	lua.txt	/*vim.tbl_isempty()*
 vim.tbl_islist()	deprecated.txt	/*vim.tbl_islist()*
@@ -10287,6 +10310,8 @@ vim.text	lua.txt	/*vim.text*
 vim.text.hexdecode()	lua.txt	/*vim.text.hexdecode()*
 vim.text.hexencode()	lua.txt	/*vim.text.hexencode()*
 vim.tohtml	lua.txt	/*vim.tohtml*
+vim.treesitter.add_directive()	deprecated.txt	/*vim.treesitter.add_directive()*
+vim.treesitter.add_predicate()	deprecated.txt	/*vim.treesitter.add_predicate()*
 vim.treesitter.foldexpr()	treesitter.txt	/*vim.treesitter.foldexpr()*
 vim.treesitter.get_captures_at_cursor()	treesitter.txt	/*vim.treesitter.get_captures_at_cursor()*
 vim.treesitter.get_captures_at_pos()	treesitter.txt	/*vim.treesitter.get_captures_at_pos()*
@@ -10296,8 +10321,11 @@ vim.treesitter.get_node_at_pos()	deprecated.txt	/*vim.treesitter.get_node_at_pos
 vim.treesitter.get_node_range()	treesitter.txt	/*vim.treesitter.get_node_range()*
 vim.treesitter.get_node_text()	treesitter.txt	/*vim.treesitter.get_node_text()*
 vim.treesitter.get_parser()	treesitter.txt	/*vim.treesitter.get_parser()*
+vim.treesitter.get_query()	deprecated.txt	/*vim.treesitter.get_query()*
+vim.treesitter.get_query_files()	deprecated.txt	/*vim.treesitter.get_query_files()*
 vim.treesitter.get_range()	treesitter.txt	/*vim.treesitter.get_range()*
 vim.treesitter.get_string_parser()	treesitter.txt	/*vim.treesitter.get_string_parser()*
+vim.treesitter.inspect_language()	deprecated.txt	/*vim.treesitter.inspect_language()*
 vim.treesitter.inspect_tree()	treesitter.txt	/*vim.treesitter.inspect_tree()*
 vim.treesitter.is_ancestor()	treesitter.txt	/*vim.treesitter.is_ancestor()*
 vim.treesitter.is_in_node_range()	treesitter.txt	/*vim.treesitter.is_in_node_range()*
@@ -10308,20 +10336,28 @@ vim.treesitter.language.inspect()	treesitter.txt	/*vim.treesitter.language.inspe
 vim.treesitter.language.register()	treesitter.txt	/*vim.treesitter.language.register()*
 vim.treesitter.language.require_language()	deprecated.txt	/*vim.treesitter.language.require_language()*
 vim.treesitter.language_version	treesitter.txt	/*vim.treesitter.language_version*
+vim.treesitter.list_directives()	deprecated.txt	/*vim.treesitter.list_directives()*
+vim.treesitter.list_predicates()	deprecated.txt	/*vim.treesitter.list_predicates()*
 vim.treesitter.minimum_language_version	treesitter.txt	/*vim.treesitter.minimum_language_version*
 vim.treesitter.node_contains()	treesitter.txt	/*vim.treesitter.node_contains()*
+vim.treesitter.parse_query()	deprecated.txt	/*vim.treesitter.parse_query()*
 vim.treesitter.query.add_directive()	treesitter.txt	/*vim.treesitter.query.add_directive()*
 vim.treesitter.query.add_predicate()	treesitter.txt	/*vim.treesitter.query.add_predicate()*
 vim.treesitter.query.edit()	treesitter.txt	/*vim.treesitter.query.edit()*
 vim.treesitter.query.get()	treesitter.txt	/*vim.treesitter.query.get()*
 vim.treesitter.query.get_files()	treesitter.txt	/*vim.treesitter.query.get_files()*
+vim.treesitter.query.get_node_text()	deprecated.txt	/*vim.treesitter.query.get_node_text()*
 vim.treesitter.query.get_query()	deprecated.txt	/*vim.treesitter.query.get_query()*
+vim.treesitter.query.get_range()	deprecated.txt	/*vim.treesitter.query.get_range()*
 vim.treesitter.query.lint()	treesitter.txt	/*vim.treesitter.query.lint()*
 vim.treesitter.query.list_directives()	treesitter.txt	/*vim.treesitter.query.list_directives()*
 vim.treesitter.query.list_predicates()	treesitter.txt	/*vim.treesitter.query.list_predicates()*
 vim.treesitter.query.omnifunc()	treesitter.txt	/*vim.treesitter.query.omnifunc()*
 vim.treesitter.query.parse()	treesitter.txt	/*vim.treesitter.query.parse()*
+vim.treesitter.query.parse_query()	deprecated.txt	/*vim.treesitter.query.parse_query()*
 vim.treesitter.query.set()	treesitter.txt	/*vim.treesitter.query.set()*
+vim.treesitter.query.set_query()	deprecated.txt	/*vim.treesitter.query.set_query()*
+vim.treesitter.set_query()	deprecated.txt	/*vim.treesitter.set_query()*
 vim.treesitter.start()	treesitter.txt	/*vim.treesitter.start()*
 vim.treesitter.stop()	treesitter.txt	/*vim.treesitter.stop()*
 vim.trim()	lua.txt	/*vim.trim()*
