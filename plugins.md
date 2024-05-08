@@ -93,6 +93,7 @@ kiddos/gemini.nvim - https://github.com/kiddos/gemini.nvim - Bindings to Google 
 olimorris/codecompanion.nvim - https://github.com/olimorris/codecompanion.nvim - Copilot chat like experience via a buffer. Supports Anthropic, Ollama and OpenAI.
 simplegpt.nvim - https://github.com/you-n-g/simplegpt.nvim - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 Exafunction/codeium.nvim - https://github.com/Exafunction/codeium.nvim - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
+CopilotC-Nvim/CopilotChat.nvim - https://github.com/CopilotC-Nvim/CopilotChat.nvim - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 akinsho/flutter-tools.nvim - https://github.com/akinsho/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
