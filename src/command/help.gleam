@@ -82,21 +82,14 @@ fn to_html(matches: List(Result(#(String, String), String))) -> String {
   |> list.map(fn(help_file) {
     case help_file {
       Ok(#(help, filename)) -> {
-        let file_without_extension =
-          filename
-          |> string.split(".")
-          |> list.first
-          |> result.unwrap(filename)
-
-        "<li><a href=\"https://neovim.io/doc/user/"
-        <> file_without_extension
-        <> ".html#"
-        <> uri.percent_encode(help)
-        <> "\">"
+        "<li>Found <code>"
         <> help
-        <> "</a> in "
+        <> "</code> in "
+        <> "<a href=\""
+        <> get_help_link(help, filename)
+        <> "\"><i>"
         <> filename
-        <> " <i></i></li>"
+        <> "</i></a></li>"
       }
       Error(help) ->
         "<li><code>:help</code> for <code>" <> help <> "</code> not found</li>"
@@ -109,6 +102,19 @@ fn to_html(matches: List(Result(#(String, String), String))) -> String {
       _ -> "<ul>" <> content <> "</ul>"
     }
   }
+}
+
+fn get_help_link(help: String, filename: String) -> String {
+  let file_without_extension =
+    filename
+    |> string.split(".")
+    |> list.first
+    |> result.unwrap(filename)
+
+  "https://neovim.io/doc/user/"
+  <> file_without_extension
+  <> ".html#"
+  <> uri.percent_encode(help)
 }
 
 pub fn error_to_string(error: HelpError) -> String {
