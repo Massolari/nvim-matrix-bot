@@ -38,7 +38,7 @@ pub fn from_string(text: String) -> Result(List(Command), Nil) {
 
 fn parse_help_command(text: String) -> List(Command) {
   let assert Ok(help_regex) =
-    regex.from_string("`:(?:help|h|he|hel) (((?!`).)*)`")
+    regex.from_string("[!:](?:help|h|he|hel) ([^`\\n\\s]+)")
 
   let matches =
     help_regex
