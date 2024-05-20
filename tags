@@ -4446,6 +4446,7 @@ TRUE	eval.txt	/*TRUE*
 TSNode	treesitter.txt	/*TSNode*
 TSNode:byte_length()	treesitter.txt	/*TSNode:byte_length()*
 TSNode:child()	treesitter.txt	/*TSNode:child()*
+TSNode:child_containing_descendant()	treesitter.txt	/*TSNode:child_containing_descendant()*
 TSNode:child_count()	treesitter.txt	/*TSNode:child_count()*
 TSNode:descendant_for_range()	treesitter.txt	/*TSNode:descendant_for_range()*
 TSNode:end_()	treesitter.txt	/*TSNode:end_()*
@@ -4605,6 +4606,7 @@ ZZ	editing.txt	/*ZZ*
 [p	change.txt	/*[p*
 [pattern]	pattern.txt	/*[pattern]*
 [quotex]	intro.txt	/*[quotex]*
+[r	spell.txt	/*[r*
 [range]	cmdline.txt	/*[range]*
 [s	spell.txt	/*[s*
 [star	motion.txt	/*[star*
@@ -4634,6 +4636,7 @@ ZZ	editing.txt	/*ZZ*
 ]i	tagsrch.txt	/*]i*
 ]m	motion.txt	/*]m*
 ]p	change.txt	/*]p*
+]r	spell.txt	/*]r*
 ]s	spell.txt	/*]s*
 ]star	motion.txt	/*]star*
 ]z	fold.txt	/*]z*
@@ -5391,6 +5394,7 @@ deletebufline()	builtin.txt	/*deletebufline()*
 deleting	change.txt	/*deleting*
 deprecated	deprecated.txt	/*deprecated*
 deprecated-0.10	deprecated.txt	/*deprecated-0.10*
+deprecated-0.11	deprecated.txt	/*deprecated-0.11*
 deprecated-0.9	deprecated.txt	/*deprecated-0.9*
 deprecated.txt	deprecated.txt	/*deprecated.txt*
 design-documented	develop.txt	/*design-documented*
@@ -5403,11 +5407,12 @@ desktop.vim	syntax.txt	/*desktop.vim*
 dev	develop.txt	/*dev*
 dev-api	develop.txt	/*dev-api*
 dev-api-client	develop.txt	/*dev-api-client*
+dev-api-name	develop.txt	/*dev-api-name*
+dev-api-patterns	develop.txt	/*dev-api-patterns*
 dev-doc	develop.txt	/*dev-doc*
 dev-guidelines	develop.txt	/*dev-guidelines*
 dev-lua	develop.txt	/*dev-lua*
 dev-lua-doc	develop.txt	/*dev-lua-doc*
-dev-name-api	develop.txt	/*dev-name-api*
 dev-name-common	develop.txt	/*dev-name-common*
 dev-name-events	develop.txt	/*dev-name-events*
 dev-naming	develop.txt	/*dev-naming*
@@ -6432,7 +6437,6 @@ gqap	change.txt	/*gqap*
 gqgq	change.txt	/*gqgq*
 gqq	change.txt	/*gqq*
 gr	change.txt	/*gr*
-gr-default	change.txt	/*gr-default*
 greek	options.txt	/*greek*
 grep	quickfix.txt	/*grep*
 groff.vim	syntax.txt	/*groff.vim*
@@ -7253,6 +7257,7 @@ lua-pattern	luaref.txt	/*lua-pattern*
 lua-patternitem	luaref.txt	/*lua-patternitem*
 lua-patterns	luaref.txt	/*lua-patterns*
 lua-precedence	luaref.txt	/*lua-precedence*
+lua-profile	lua.txt	/*lua-profile*
 lua-pseudoindex	luaref.txt	/*lua-pseudoindex*
 lua-ref-bibliography	luaref.txt	/*lua-ref-bibliography*
 lua-ref-copyright	luaref.txt	/*lua-ref-copyright*
@@ -7953,8 +7958,10 @@ new-filetype	filetype.txt	/*new-filetype*
 new-filetype-scripts	filetype.txt	/*new-filetype-scripts*
 new-style-testing	testing.txt	/*new-style-testing*
 news	news.txt	/*news*
+news-0.10	news-0.10.txt	/*news-0.10*
 news-0.9	news-0.9.txt	/*news-0.9*
 news-0.9.txt	news-0.9.txt	/*news-0.9.txt*
+news-10.txt	news-0.10.txt	/*news-10.txt*
 news-breaking	news.txt	/*news-breaking*
 news-breaking-dev	news.txt	/*news-breaking-dev*
 news-changed	news.txt	/*news-changed*
@@ -7968,6 +7975,7 @@ no-type-checking	eval.txt	/*no-type-checking*
 no_mail_maps	filetype.txt	/*no_mail_maps*
 no_plugin_maps	filetype.txt	/*no_plugin_maps*
 nocombine	syntax.txt	/*nocombine*
+node-client	develop.txt	/*node-client*
 non-greedy	pattern.txt	/*non-greedy*
 non-zero-arg	eval.txt	/*non-zero-arg*
 normal-index	index.txt	/*normal-index*
@@ -8144,7 +8152,6 @@ nvim_set_option_value()	api.txt	/*nvim_set_option_value()*
 nvim_set_var()	api.txt	/*nvim_set_var()*
 nvim_set_vvar()	api.txt	/*nvim_set_vvar()*
 nvim_strwidth()	api.txt	/*nvim_strwidth()*
-nvim_subscribe()	api.txt	/*nvim_subscribe()*
 nvim_tabpage_del_var()	api.txt	/*nvim_tabpage_del_var()*
 nvim_tabpage_get_number()	api.txt	/*nvim_tabpage_get_number()*
 nvim_tabpage_get_var()	api.txt	/*nvim_tabpage_get_var()*
@@ -8162,7 +8169,6 @@ nvim_ui_set_option()	api.txt	/*nvim_ui_set_option()*
 nvim_ui_term_event()	api.txt	/*nvim_ui_term_event()*
 nvim_ui_try_resize()	api.txt	/*nvim_ui_try_resize()*
 nvim_ui_try_resize_grid()	api.txt	/*nvim_ui_try_resize_grid()*
-nvim_unsubscribe()	api.txt	/*nvim_unsubscribe()*
 nvim_win_call()	api.txt	/*nvim_win_call()*
 nvim_win_close()	api.txt	/*nvim_win_close()*
 nvim_win_del_var()	api.txt	/*nvim_win_del_var()*
