@@ -62,6 +62,7 @@ jmbuhr/otter.nvim - https://github.com/jmbuhr/otter.nvim - Provides LSP features
 lopi-py/luau-lsp.nvim - https://github.com/lopi-py/luau-lsp.nvim - A luau-lsp extension to improve your experience.
 LukasPietzschmann/boo.nvim - https://github.com/LukasPietzschmann/boo.nvim - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 zeioth/garbage-day.nvim - https://github.com/Zeioth/garbage-day.nvim - Garbage collector that stops inactive LSP clients to free RAM.
+luckasRanarison/clear-action.nvim - https://github.com/luckasRanarison/clear-action.nvim - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -646,6 +647,7 @@ benlubas/molten-nvim - https://github.com/benlubas/molten-nvim - Enables running
 bfredl/nvim-ipy - https://github.com/bfredl/nvim-ipy - Make interfacing with IPython/Jupyter easier.
 pianocomposer321/officer.nvim - https://github.com/pianocomposer321/officer.nvim - Like dispatch.vim but using overseer.nvim.
 speelbarrow/spLauncher.nvim - https://github.com/speelbarrow/spLauncher.nvim - For launching tasks, I guess.
+al1-ce/just.nvim - https://github.com/al1-ce/just.nvim - Task runner for justfiles.
 folke/neodev.nvim - https://github.com/folke/neodev.nvim - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
 nvim-neorocks/luarocks-tag-release - https://github.com/nvim-neorocks/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
 svermeulen/vimpeccable - https://github.com/svermeulen/vimpeccable - Commands to help write your .vimrc in Lua or any Lua based language.
