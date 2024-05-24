@@ -382,6 +382,7 @@ samharju/synthweave.nvim - https://github.com/samharju/synthweave.nvim - Synthwa
 loganswartz/sunburn.nvim - https://github.com/loganswartz/sunburn.nvim - A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
 ptdewey/darkearth-nvim - https://github.com/ptdewey/darkearth-nvim - A dark and earthy colorscheme supporting Tree-sitter and LSP.
 uloco/bluloco.nvim - https://github.com/uloco/bluloco.nvim - A dark and earthy colorscheme supporting Tree-sitter and LSP.
+slugbyte/lackluster.nvim - https://github.com/slugbyte/lackluster.nvim - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
 tjdevries/gruvbuddy.nvim - https://github.com/tjdevries/gruvbuddy.nvim - Gruvbox colors.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
@@ -681,6 +682,7 @@ piersolenski/telescope-import.nvim - https://github.com/piersolenski/telescope-i
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show git blame info.
 lewis6991/gitsigns.nvim - https://github.com/lewis6991/gitsigns.nvim - Git integration: signs, hunk actions, blame, etc.
 echasnovski/mini.nvim#mini.diff - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
+echasnovski/mini.nvim#mini.git - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-git.md - Module of `mini.nvim` for enhanced Git integration with current Neovim process. Implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
 NeogitOrg/neogit - https://github.com/NeogitOrg/neogit - A Magit clone that may change some things to fit the Vim philosophy.
 tveskag/nvim-blame-line - https://github.com/tveskag/nvim-blame-line - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 ruifm/gitlinker.nvim - https://github.com/ruifm/gitlinker.nvim - Generate shareable file permalinks for several git hosts. Inspired by tpope/vim-fugitive's :GBrowse.
