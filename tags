@@ -4587,6 +4587,7 @@ ZZ	editing.txt	/*ZZ*
 [<MiddleMouse>	change.txt	/*[<MiddleMouse>*
 [==]	pattern.txt	/*[==]*
 [D	tagsrch.txt	/*[D*
+[D-default	tagsrch.txt	/*[D-default*
 [I	tagsrch.txt	/*[I*
 [M	motion.txt	/*[M*
 [P	change.txt	/*[P*
@@ -4620,6 +4621,7 @@ ZZ	editing.txt	/*ZZ*
 ]/	motion.txt	/*]\/*
 ]<MiddleMouse>	change.txt	/*]<MiddleMouse>*
 ]D	tagsrch.txt	/*]D*
+]D-default	tagsrch.txt	/*]D-default*
 ]I	tagsrch.txt	/*]I*
 ]M	motion.txt	/*]M*
 ]P	change.txt	/*]P*
@@ -5975,6 +5977,7 @@ ft-quake-syntax	syntax.txt	/*ft-quake-syntax*
 ft-query-plugin	filetype.txt	/*ft-query-plugin*
 ft-r-indent	indent.txt	/*ft-r-indent*
 ft-r-syntax	syntax.txt	/*ft-r-syntax*
+ft-rasi-syntax	syntax.txt	/*ft-rasi-syntax*
 ft-readline-syntax	syntax.txt	/*ft-readline-syntax*
 ft-rego-syntax	syntax.txt	/*ft-rego-syntax*
 ft-rexx-syntax	syntax.txt	/*ft-rexx-syntax*
@@ -7140,6 +7143,7 @@ lsp-api	lsp.txt	/*lsp-api*
 lsp-buf	lsp.txt	/*lsp-buf*
 lsp-client	lsp.txt	/*lsp-client*
 lsp-codelens	lsp.txt	/*lsp-codelens*
+lsp-completion	lsp.txt	/*lsp-completion*
 lsp-config	lsp.txt	/*lsp-config*
 lsp-core	lsp.txt	/*lsp-core*
 lsp-defaults	lsp.txt	/*lsp-defaults*
@@ -8532,6 +8536,7 @@ r.vim	syntax.txt	/*r.vim*
 raku-unicode	ft_raku.txt	/*raku-unicode*
 rand()	builtin.txt	/*rand()*
 range()	builtin.txt	/*range()*
+rasi.vim	syntax.txt	/*rasi.vim*
 rawequal()	luaref.txt	/*rawequal()*
 rawget()	luaref.txt	/*rawget()*
 rawset()	luaref.txt	/*rawset()*
@@ -9985,10 +9990,11 @@ vim.defer_fn()	lua.txt	/*vim.defer_fn()*
 vim.deprecate()	lua.txt	/*vim.deprecate()*
 vim.diagnostic	diagnostic.txt	/*vim.diagnostic*
 vim.diagnostic.GetOpts	diagnostic.txt	/*vim.diagnostic.GetOpts*
-vim.diagnostic.GotoOpts	diagnostic.txt	/*vim.diagnostic.GotoOpts*
+vim.diagnostic.JumpOpts	diagnostic.txt	/*vim.diagnostic.JumpOpts*
 vim.diagnostic.NS	diagnostic.txt	/*vim.diagnostic.NS*
 vim.diagnostic.Opts	diagnostic.txt	/*vim.diagnostic.Opts*
 vim.diagnostic.Opts.Float	diagnostic.txt	/*vim.diagnostic.Opts.Float*
+vim.diagnostic.Opts.Jump	diagnostic.txt	/*vim.diagnostic.Opts.Jump*
 vim.diagnostic.Opts.Signs	diagnostic.txt	/*vim.diagnostic.Opts.Signs*
 vim.diagnostic.Opts.Underline	diagnostic.txt	/*vim.diagnostic.Opts.Underline*
 vim.diagnostic.Opts.VirtualText	diagnostic.txt	/*vim.diagnostic.Opts.VirtualText*
@@ -10001,14 +10007,15 @@ vim.diagnostic.get()	diagnostic.txt	/*vim.diagnostic.get()*
 vim.diagnostic.get_namespace()	diagnostic.txt	/*vim.diagnostic.get_namespace()*
 vim.diagnostic.get_namespaces()	diagnostic.txt	/*vim.diagnostic.get_namespaces()*
 vim.diagnostic.get_next()	diagnostic.txt	/*vim.diagnostic.get_next()*
-vim.diagnostic.get_next_pos()	diagnostic.txt	/*vim.diagnostic.get_next_pos()*
+vim.diagnostic.get_next_pos()	deprecated.txt	/*vim.diagnostic.get_next_pos()*
 vim.diagnostic.get_prev()	diagnostic.txt	/*vim.diagnostic.get_prev()*
-vim.diagnostic.get_prev_pos()	diagnostic.txt	/*vim.diagnostic.get_prev_pos()*
-vim.diagnostic.goto_next()	diagnostic.txt	/*vim.diagnostic.goto_next()*
-vim.diagnostic.goto_prev()	diagnostic.txt	/*vim.diagnostic.goto_prev()*
+vim.diagnostic.get_prev_pos()	deprecated.txt	/*vim.diagnostic.get_prev_pos()*
+vim.diagnostic.goto_next()	deprecated.txt	/*vim.diagnostic.goto_next()*
+vim.diagnostic.goto_prev()	deprecated.txt	/*vim.diagnostic.goto_prev()*
 vim.diagnostic.hide()	diagnostic.txt	/*vim.diagnostic.hide()*
 vim.diagnostic.is_disabled()	deprecated.txt	/*vim.diagnostic.is_disabled()*
 vim.diagnostic.is_enabled()	diagnostic.txt	/*vim.diagnostic.is_enabled()*
+vim.diagnostic.jump()	diagnostic.txt	/*vim.diagnostic.jump()*
 vim.diagnostic.match()	diagnostic.txt	/*vim.diagnostic.match()*
 vim.diagnostic.open_float()	diagnostic.txt	/*vim.diagnostic.open_float()*
 vim.diagnostic.reset()	diagnostic.txt	/*vim.diagnostic.reset()*
@@ -10155,6 +10162,9 @@ vim.lsp.codelens.refresh()	lsp.txt	/*vim.lsp.codelens.refresh()*
 vim.lsp.codelens.run()	lsp.txt	/*vim.lsp.codelens.run()*
 vim.lsp.codelens.save()	lsp.txt	/*vim.lsp.codelens.save()*
 vim.lsp.commands	lsp.txt	/*vim.lsp.commands*
+vim.lsp.completion.BufferOpts	lsp.txt	/*vim.lsp.completion.BufferOpts*
+vim.lsp.completion.enable()	lsp.txt	/*vim.lsp.completion.enable()*
+vim.lsp.completion.trigger()	lsp.txt	/*vim.lsp.completion.trigger()*
 vim.lsp.diagnostic.clear()	deprecated.txt	/*vim.lsp.diagnostic.clear()*
 vim.lsp.diagnostic.disable()	deprecated.txt	/*vim.lsp.diagnostic.disable()*
 vim.lsp.diagnostic.display()	deprecated.txt	/*vim.lsp.diagnostic.display()*
@@ -10230,6 +10240,7 @@ vim.lsp.util.apply_text_edits()	lsp.txt	/*vim.lsp.util.apply_text_edits()*
 vim.lsp.util.apply_workspace_edit()	lsp.txt	/*vim.lsp.util.apply_workspace_edit()*
 vim.lsp.util.buf_clear_references()	lsp.txt	/*vim.lsp.util.buf_clear_references()*
 vim.lsp.util.buf_highlight_references()	lsp.txt	/*vim.lsp.util.buf_highlight_references()*
+vim.lsp.util.buf_versions	deprecated.txt	/*vim.lsp.util.buf_versions*
 vim.lsp.util.character_offset()	lsp.txt	/*vim.lsp.util.character_offset()*
 vim.lsp.util.convert_input_to_markdown_lines()	lsp.txt	/*vim.lsp.util.convert_input_to_markdown_lines()*
 vim.lsp.util.convert_signature_help_to_markdown_lines()	lsp.txt	/*vim.lsp.util.convert_signature_help_to_markdown_lines()*
@@ -10288,7 +10299,6 @@ vim.re.match()	lua.txt	/*vim.re.match()*
 vim.re.updatelocale()	lua.txt	/*vim.re.updatelocale()*
 vim.regex	lua.txt	/*vim.regex*
 vim.regex()	lua.txt	/*vim.regex()*
-vim.region()	lua.txt	/*vim.region()*
 vim.ringbuf()	lua.txt	/*vim.ringbuf()*
 vim.rpcnotify()	lua.txt	/*vim.rpcnotify()*
 vim.rpcrequest()	lua.txt	/*vim.rpcrequest()*
