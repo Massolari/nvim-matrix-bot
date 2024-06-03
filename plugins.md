@@ -382,7 +382,7 @@ bartekjaszczak/distinct-nvim - https://gitlab.com/bartekjaszczak/distinct-nvim -
 samharju/synthweave.nvim - https://github.com/samharju/synthweave.nvim - Synthwave '84 colorscheme port.
 loganswartz/sunburn.nvim - https://github.com/loganswartz/sunburn.nvim - A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
 ptdewey/darkearth-nvim - https://github.com/ptdewey/darkearth-nvim - A dark and earthy colorscheme supporting Tree-sitter and LSP.
-uloco/bluloco.nvim - https://github.com/uloco/bluloco.nvim - A dark and earthy colorscheme supporting Tree-sitter and LSP.
+uloco/bluloco.nvim - https://github.com/uloco/bluloco.nvim - A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
 slugbyte/lackluster.nvim - https://github.com/slugbyte/lackluster.nvim - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
 tjdevries/gruvbuddy.nvim - https://github.com/tjdevries/gruvbuddy.nvim - Gruvbox colors.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
@@ -700,6 +700,7 @@ niuiic/git-log.nvim - https://github.com/niuiic/git-log.nvim - Check git log of 
 2KAbhishek/co-author.nvim - https://github.com/2KAbhishek/co-author.nvim - Quickly add co-authors to commits.
 isak102/telescope-git-file-history.nvim - https://github.com/isak102/telescope-git-file-history.nvim - Open/preview contents of the current file at a specific commit, without using git checkout.
 moyiz/git-dev.nvim - https://github.com/moyiz/git-dev.nvim - Open remote git repositories in the comfort of Neovim.
+SuperBo/fugit2.nvim - https://github.com/SuperBo/fugit2.nvim - Git GUI powered by [libgit2](https://libgit2.org).
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin to help writing and testing CodeQL queries.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
