@@ -239,6 +239,7 @@ kelly-lin/ranger.nvim - https://github.com/kelly-lin/ranger.nvim - [Ranger](http
 simonmclean/triptych.nvim - https://github.com/simonmclean/triptych.nvim - A directory browser inspired by Ranger.
 echasnovski/mini.nvim#mini.files - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 prichrd/netrw.nvim - https://github.com/prichrd/netrw.nvim - Add icons and custom keybindings to netrw.
+neotree-file-nesting-config - https://github.com/saifulapm/neotree-file-nesting-config - Pre-defined file nesting rules for `neo-tree.nvim`.
 pluffie/neoproj - https://github.com/pluffie/neoproj - Small yet powerful project (and session) manager.
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Load Neovim config depend on project directory.
