@@ -175,6 +175,7 @@ mrcjkb/haskell-snippets.nvim - https://github.com/mrcjkb/haskell-snippets.nvim -
 rafamadriz/friendly-snippets - https://github.com/rafamadriz/friendly-snippets - Set of preconfigured snippets for different languages.
 cvigilv/esqueleto.nvim - https://github.com/cvigilv/esqueleto.nvim - Simple templates to use when creating new files.
 chrisgrieser/nvim-scissors - https://github.com/chrisgrieser/nvim-scissors - Automagical editing and creation of snippets.
+guilherme-puida/tesoura.nvim - https://github.com/guilherme-puida/tesoura.nvim - A flexible snippet system using Neovim's new snippet API.
 gennaro-tedesco/nvim-peekup - https://github.com/gennaro-tedesco/nvim-peekup - Dynamically interact with Vim registers.
 tversteeg/registers.nvim - https://github.com/tversteeg/registers.nvim - Non-obtrusive minimal preview of Vim registers.
 acksld/nvim-neoclip.lua - https://github.com/AckslD/nvim-neoclip.lua - Clipboard manager Neovim plugin with telescope integration.
