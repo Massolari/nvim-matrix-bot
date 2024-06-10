@@ -5546,6 +5546,7 @@ editorconfig.indent_style	editorconfig.txt	/*editorconfig.indent_style*
 editorconfig.insert_final_newline	editorconfig.txt	/*editorconfig.insert_final_newline*
 editorconfig.max_line_length	editorconfig.txt	/*editorconfig.max_line_length*
 editorconfig.root	editorconfig.txt	/*editorconfig.root*
+editorconfig.spelling_language	editorconfig.txt	/*editorconfig.spelling_language*
 editorconfig.tab_width	editorconfig.txt	/*editorconfig.tab_width*
 editorconfig.trim_trailing_whitespace	editorconfig.txt	/*editorconfig.trim_trailing_whitespace*
 editorconfig.txt	editorconfig.txt	/*editorconfig.txt*
@@ -8036,11 +8037,10 @@ nvim__id_dictionary()	api.txt	/*nvim__id_dictionary()*
 nvim__id_float()	api.txt	/*nvim__id_float()*
 nvim__inspect_cell()	api.txt	/*nvim__inspect_cell()*
 nvim__invalidate_glyph_cache()	api.txt	/*nvim__invalidate_glyph_cache()*
+nvim__ns_get()	api.txt	/*nvim__ns_get()*
+nvim__ns_set()	api.txt	/*nvim__ns_set()*
 nvim__redraw()	api.txt	/*nvim__redraw()*
 nvim__stats()	api.txt	/*nvim__stats()*
-nvim__win_add_ns()	api.txt	/*nvim__win_add_ns()*
-nvim__win_del_ns()	api.txt	/*nvim__win_del_ns()*
-nvim__win_get_ns()	api.txt	/*nvim__win_get_ns()*
 nvim_buf_add_highlight()	api.txt	/*nvim_buf_add_highlight()*
 nvim_buf_attach()	api.txt	/*nvim_buf_attach()*
 nvim_buf_call()	api.txt	/*nvim_buf_call()*
@@ -10240,7 +10240,6 @@ vim.lsp.util.apply_text_edits()	lsp.txt	/*vim.lsp.util.apply_text_edits()*
 vim.lsp.util.apply_workspace_edit()	lsp.txt	/*vim.lsp.util.apply_workspace_edit()*
 vim.lsp.util.buf_clear_references()	lsp.txt	/*vim.lsp.util.buf_clear_references()*
 vim.lsp.util.buf_highlight_references()	lsp.txt	/*vim.lsp.util.buf_highlight_references()*
-vim.lsp.util.buf_versions	deprecated.txt	/*vim.lsp.util.buf_versions*
 vim.lsp.util.character_offset()	lsp.txt	/*vim.lsp.util.character_offset()*
 vim.lsp.util.convert_input_to_markdown_lines()	lsp.txt	/*vim.lsp.util.convert_input_to_markdown_lines()*
 vim.lsp.util.convert_signature_help_to_markdown_lines()	lsp.txt	/*vim.lsp.util.convert_signature_help_to_markdown_lines()*
