@@ -654,6 +654,7 @@ bfredl/nvim-ipy - https://github.com/bfredl/nvim-ipy - Make interfacing with IPy
 pianocomposer321/officer.nvim - https://github.com/pianocomposer321/officer.nvim - Like dispatch.vim but using overseer.nvim.
 speelbarrow/spLauncher.nvim - https://github.com/speelbarrow/spLauncher.nvim - For launching tasks, I guess.
 al1-ce/just.nvim - https://github.com/al1-ce/just.nvim - Task runner for justfiles.
+niuiic/task.nvim - https://github.com/niuiic/task.nvim - Another highly configurable task manager that enables seamless interaction with tasks.
 folke/neodev.nvim - https://github.com/folke/neodev.nvim - Dev setup for init.lua and plugin development with full signature help, docs and completion for the Neovim Lua API.
 nvim-neorocks/luarocks-tag-release - https://github.com/nvim-neorocks/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
 svermeulen/vimpeccable - https://github.com/svermeulen/vimpeccable - Commands to help write your .vimrc in Lua or any Lua based language.
