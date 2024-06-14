@@ -581,6 +581,7 @@ pluffie/md-babel.nvim - https://codeberg.org/pluffie/md-babel.nvim - Run code ch
 mistricky/codesnap.nvim - https://github.com/mistricky/codesnap.nvim - Snapshot plugin with rich features that can make pretty code snapshots.
 AlejandroSuero/freeze-code.nvim - https://github.com/AlejandroSuero/freeze-code.nvim - Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
 ysmb-wtsg/in-and-out.nvim - https://github.com/ysmb-wtsg/in-and-out.nvim - Quick navigation in and out of surrounding characters.
+ChuufMaster/buffer-vacuum - https://github.com/ChuufMaster/buffer-vacuum - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
