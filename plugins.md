@@ -150,6 +150,7 @@ mpas/marp-nvim - https://github.com/mpas/marp-nvim - Present using markdown with
 Myzel394/easytables.nvim - https://github.com/Myzel394/easytables.nvim - Easily insert and edit markdown tables with a live preview and useful helpers.
 MeanderingProgrammer/markdown.nvim - https://github.com/MeanderingProgrammer/markdown.nvim - Improve viewing markdown files directly.
 arminveres/md-pdf.nvim - https://github.com/arminveres/md-pdf.nvim - Preview markdown files and convert to PDF.
+ChuufMaster/markdown-toc - https://github.com/ChuufMaster/markdown-toc - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
