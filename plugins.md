@@ -127,6 +127,7 @@ rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTT
 ray-x/web-tools.nvim - https://github.com/ray-x/web-tools.nvim - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
 roobert/tailwindcss-colorizer-cmp.nvim - https://github.com/roobert/tailwindcss-colorizer-cmp.nvim - Add vscode-style TailwindCSS completion to nvim-cmp.
 luckasRanarison/tailwind-tools.nvim - https://github.com/luckasRanarison/tailwind-tools.nvim - Unofficial TailwindCSS tooling.
+cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - A tool for CSS unit conversions.
 ellisonleao/glow.nvim - https://github.com/ellisonleao/glow.nvim - Markdown preview using glow.
 ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist .env support.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
