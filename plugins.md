@@ -63,6 +63,7 @@ lopi-py/luau-lsp.nvim - https://github.com/lopi-py/luau-lsp.nvim - A luau-lsp ex
 LukasPietzschmann/boo.nvim - https://github.com/LukasPietzschmann/boo.nvim - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 zeioth/garbage-day.nvim - https://github.com/Zeioth/garbage-day.nvim - Garbage collector that stops inactive LSP clients to free RAM.
 luckasRanarison/clear-action.nvim - https://github.com/luckasRanarison/clear-action.nvim - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
+rachartier/tiny-inline-diagnostic.nvim - https://github.com/rachartier/tiny-inline-diagnostic.nvim - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
