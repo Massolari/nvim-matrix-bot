@@ -64,6 +64,7 @@ LukasPietzschmann/boo.nvim - https://github.com/LukasPietzschmann/boo.nvim - Qui
 zeioth/garbage-day.nvim - https://github.com/Zeioth/garbage-day.nvim - Garbage collector that stops inactive LSP clients to free RAM.
 luckasRanarison/clear-action.nvim - https://github.com/luckasRanarison/clear-action.nvim - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 rachartier/tiny-inline-diagnostic.nvim - https://github.com/rachartier/tiny-inline-diagnostic.nvim - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
+chrisgrieser/nvim-lsp-endhints - https://github.com/chrisgrieser/nvim-lsp-endhints - Display LSP inlay hints at the end of the line, rather than within the line.
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -965,6 +966,7 @@ mrcjkb/kickstart-nix.nvim - https://github.com/mrcjkb/kickstart-nix.nvim - A sim
 drybalka/clean.nvim - https://github.com/drybalka/clean.nvim - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 StratOS-Linux/StratVIM - https://github.com/StratOS-Linux/StratVIM - A full-fledged Neovim distribution included by default in [StratOS](https://github.com/StratOS-Linux), an upcoming Arch-based Linux distro.
 Shaobin-Jiang/IceNvim - https://github.com/Shaobin-Jiang/IceNvim - A beautiful, powerful and customizable config that is blazingly fast.
+ayamir/nvimdots - https://github.com/ayamir/nvimdots - A well-configured and structured configuration with NixOS support.
 MordechaiHadad/bob - https://github.com/MordechaiHadad/bob - A cross platform and easy to use Neovim version manager.
 NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and blazing fast Neovim version manager.
 shohi/neva - https://github.com/shohi/neva - A Neovim version manager written in Lua.
