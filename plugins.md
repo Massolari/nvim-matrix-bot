@@ -467,6 +467,7 @@ startup-nvim/startup.nvim - https://github.com/startup-nvim/startup.nvim - The f
 willothy/veil.nvim - https://github.com/willothy/veil.nvim - A blazingly fast, animated, and infinitely customizable startup / dashboard plugin.
 TobinPalmer/Tip.nvim - https://github.com/TobinPalmer/Tip.nvim - Get a simple tip when you launch Neovim.
 CWood-sdf/spaceport.nvim - https://github.com/CWood-sdf/spaceport.nvim - The start screen that gets you to your projects blazingly fast.
+mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file you actually meant to load.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 yamatsum/nvim-nonicons - https://github.com/yamatsum/nvim-nonicons - Collection of configurations for nvim-web-devicons.
 ziontee113/icon-picker.nvim - https://github.com/ziontee113/icon-picker.nvim - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis ✨.
@@ -588,6 +589,7 @@ mistricky/codesnap.nvim - https://github.com/mistricky/codesnap.nvim - Snapshot 
 AlejandroSuero/freeze-code.nvim - https://github.com/AlejandroSuero/freeze-code.nvim - Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
 ysmb-wtsg/in-and-out.nvim - https://github.com/ysmb-wtsg/in-and-out.nvim - Quick navigation in and out of surrounding characters.
 ChuufMaster/buffer-vacuum - https://github.com/ChuufMaster/buffer-vacuum - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
+mong8se/buffish.nvim - https://github.com/mong8se/buffish.nvim - A buffer switcher in the spirit of dirvish or vinegar.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
