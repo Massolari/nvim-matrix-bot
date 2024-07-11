@@ -885,6 +885,7 @@ yaocccc/nvim-hlchunk - https://github.com/yaocccc/nvim-hlchunk - Highlight a `{}
 shellRaining/hlchunk.nvim - https://github.com/shellRaining/hlchunk.nvim - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 VidocqH/auto-indent.nvim - https://github.com/VidocqH/auto-indent.nvim - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
 Mr-LLLLL/cool-chunk.nvim - https://github.com/Mr-LLLLL/cool-chunk.nvim - Simpler and faster chunking with animations.
+gh-liu/fold_line.nvim - https://github.com/gh-liu/fold_line.nvim - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
 notomo/cmdbuf.nvim - https://github.com/notomo/cmdbuf.nvim - Alternative command-line-window plugin.
 gelguy/wilder.nvim - https://github.com/gelguy/wilder.nvim - A plugin for fuzzy command line autocompletion.
 rmagatti/auto-session - https://github.com/rmagatti/auto-session - A small automated session manager.
