@@ -881,6 +881,7 @@ $quote	eval.txt	/*$quote*
 'syn'	options.txt	/*'syn'*
 'synmaxcol'	options.txt	/*'synmaxcol'*
 'syntax'	options.txt	/*'syntax'*
+'tabclose'	options.txt	/*'tabclose'*
 'tabline'	options.txt	/*'tabline'*
 'tabpagemax'	options.txt	/*'tabpagemax'*
 'tabstop'	options.txt	/*'tabstop'*
@@ -899,6 +900,7 @@ $quote	eval.txt	/*$quote*
 'tbis'	vim_diff.txt	/*'tbis'*
 'tbs'	options.txt	/*'tbs'*
 'tc'	options.txt	/*'tc'*
+'tcl'	options.txt	/*'tcl'*
 'tenc'	vim_diff.txt	/*'tenc'*
 'term'	vim_diff.txt	/*'term'*
 'termbidi'	options.txt	/*'termbidi'*
@@ -6382,6 +6384,10 @@ gdb	debug.txt	/*gdb*
 gdb-version	nvim_terminal_emulator.txt	/*gdb-version*
 ge	motion.txt	/*ge*
 get()	builtin.txt	/*get()*
+get()-blob	builtin.txt	/*get()-blob*
+get()-dict	builtin.txt	/*get()-dict*
+get()-func	builtin.txt	/*get()-func*
+get()-list	builtin.txt	/*get()-list*
 get-ms-debuggers	debug.txt	/*get-ms-debuggers*
 getbufinfo()	builtin.txt	/*getbufinfo()*
 getbufline()	builtin.txt	/*getbufline()*
