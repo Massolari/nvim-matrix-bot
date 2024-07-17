@@ -156,6 +156,7 @@ MeanderingProgrammer/markdown.nvim - https://github.com/MeanderingProgrammer/mar
 arminveres/md-pdf.nvim - https://github.com/arminveres/md-pdf.nvim - Preview markdown files and convert to PDF.
 ChuufMaster/markdown-toc - https://github.com/ChuufMaster/markdown-toc - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 OXY2DEV/markview.nvim - https://github.com/OXY2DEV/markview.nvim - An experimental markdown previewer.
+Kicamon/markdown-table-mode.nvim - https://github.com/Kicamon/markdown-table-mode.nvim - Markdown format plugin like vim-table-mode but write in Lua.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
