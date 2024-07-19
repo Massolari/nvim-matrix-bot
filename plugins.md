@@ -100,6 +100,7 @@ olimorris/codecompanion.nvim - https://github.com/olimorris/codecompanion.nvim -
 simplegpt.nvim - https://github.com/you-n-g/simplegpt.nvim - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 Exafunction/codeium.nvim - https://github.com/Exafunction/codeium.nvim - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 CopilotC-Nvim/CopilotChat.nvim - https://github.com/CopilotC-Nvim/CopilotChat.nvim - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+tzachar/cmp-ai - https://github.com/tzachar/cmp-ai - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 akinsho/flutter-tools.nvim - https://github.com/akinsho/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -454,7 +455,6 @@ echasnovski/mini.nvim#mini.tabline - https://github.com/echasnovski/mini.nvim/bl
 rafcamlet/tabline-framework.nvim - https://github.com/rafcamlet/tabline-framework.nvim - User-friendly framework for building your dream tabline in a few lines of code.
 nanozuki/tabby.nvim - https://github.com/nanozuki/tabby.nvim - A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer.
 roobert/bufferline-cycle-windowless.nvim - https://github.com/roobert/bufferline-cycle-windowless.nvim - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
-mg979/tabline.nvim - https://github.com/mg979/tabline.nvim - A comprehensive tabline for rendering and managing tabs, buffers or arglist, and featuring buffer filtering, fzf integration and session management.
 yamatsum/nvim-cursorline - https://github.com/yamatsum/nvim-cursorline - A plugin that highlights cursor words and lines.
 xiyaowong/nvim-cursorword - https://github.com/xiyaowong/nvim-cursorword - Part of nvim-cursorline. Highlight the word under the cursor.
 sontungexpt/stcursorword - https://github.com/sontungexpt/stcursorword - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
@@ -889,7 +889,6 @@ gh-liu/fold_line.nvim - https://github.com/gh-liu/fold_line.nvim - Lines for ind
 notomo/cmdbuf.nvim - https://github.com/notomo/cmdbuf.nvim - Alternative command-line-window plugin.
 gelguy/wilder.nvim - https://github.com/gelguy/wilder.nvim - A plugin for fuzzy command line autocompletion.
 rmagatti/auto-session - https://github.com/rmagatti/auto-session - A small automated session manager.
-rmagatti/session-lens - https://github.com/rmagatti/session-lens - A session-switcher extension for rmagatti/auto-session using Telescope.nvim.
 echasnovski/mini.nvim#mini.sessions - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md - Module of `mini.nvim` for session management (read, write, delete).
 gennaro-tedesco/nvim-possession - https://github.com/gennaro-tedesco/nvim-possession - The no-nonsense session manager.
 olimorris/persisted.nvim - https://github.com/olimorris/persisted.nvim - Simple session management with git branching, autosave/autoload and Telescope support.
