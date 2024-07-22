@@ -4812,6 +4812,7 @@ assert_notmatch()	builtin.txt	/*assert_notmatch()*
 assert_report()	builtin.txt	/*assert_report()*
 assert_true()	builtin.txt	/*assert_true()*
 astro.vim	syntax.txt	/*astro.vim*
+asy.vim	syntax.txt	/*asy.vim*
 at	motion.txt	/*at*
 atan()	builtin.txt	/*atan()*
 atan2()	builtin.txt	/*atan2()*
@@ -5204,6 +5205,7 @@ compiler-perl	quickfix.txt	/*compiler-perl*
 compiler-pyunit	quickfix.txt	/*compiler-pyunit*
 compiler-select	quickfix.txt	/*compiler-select*
 compiler-tex	quickfix.txt	/*compiler-tex*
+compiler-typst	quickfix.txt	/*compiler-typst*
 compiler-vaxada	ft_ada.txt	/*compiler-vaxada*
 compl-autocomplete	insert.txt	/*compl-autocomplete*
 compl-current	insert.txt	/*compl-current*
@@ -5445,6 +5447,7 @@ dev-ui	develop.txt	/*dev-ui*
 dev-vimpatch	dev_vimpatch.txt	/*dev-vimpatch*
 dev-vimpatch-code-differences	dev_vimpatch.txt	/*dev-vimpatch-code-differences*
 dev-vimpatch-documentation	dev_vimpatch.txt	/*dev-vimpatch-documentation*
+dev-vimpatch-filetype	dev_vimpatch.txt	/*dev-vimpatch-filetype*
 dev-vimpatch-list-management	dev_vimpatch.txt	/*dev-vimpatch-list-management*
 dev-vimpatch-not-applicable	dev_vimpatch.txt	/*dev-vimpatch-not-applicable*
 dev-vimpatch-pull-requests	dev_vimpatch.txt	/*dev-vimpatch-pull-requests*
@@ -5878,6 +5881,7 @@ ft-asmh8300-syntax	syntax.txt	/*ft-asmh8300-syntax*
 ft-aspperl-syntax	syntax.txt	/*ft-aspperl-syntax*
 ft-aspvbs-syntax	syntax.txt	/*ft-aspvbs-syntax*
 ft-astro-syntax	syntax.txt	/*ft-astro-syntax*
+ft-asy-syntax	syntax.txt	/*ft-asy-syntax*
 ft-awk-plugin	filetype.txt	/*ft-awk-plugin*
 ft-bash-syntax	syntax.txt	/*ft-bash-syntax*
 ft-basic-syntax	syntax.txt	/*ft-basic-syntax*
@@ -5919,7 +5923,9 @@ ft-fortran-syntax	syntax.txt	/*ft-fortran-syntax*
 ft-freebasic-plugin	filetype.txt	/*ft-freebasic-plugin*
 ft-freebasic-syntax	syntax.txt	/*ft-freebasic-syntax*
 ft-fvwm-syntax	syntax.txt	/*ft-fvwm-syntax*
+ft-gdscript-plugin	filetype.txt	/*ft-gdscript-plugin*
 ft-gitcommit-plugin	filetype.txt	/*ft-gitcommit-plugin*
+ft-go-plugin	filetype.txt	/*ft-go-plugin*
 ft-gprof-plugin	filetype.txt	/*ft-gprof-plugin*
 ft-groff-syntax	syntax.txt	/*ft-groff-syntax*
 ft-gsp-syntax	syntax.txt	/*ft-gsp-syntax*
@@ -5954,6 +5960,7 @@ ft-markdown-syntax	syntax.txt	/*ft-markdown-syntax*
 ft-masm-syntax	syntax.txt	/*ft-masm-syntax*
 ft-mathematica-syntax	syntax.txt	/*ft-mathematica-syntax*
 ft-matlab-indent	indent.txt	/*ft-matlab-indent*
+ft-mediawiki-syntax	syntax.txt	/*ft-mediawiki-syntax*
 ft-mma-syntax	syntax.txt	/*ft-mma-syntax*
 ft-modula2-syntax	syntax.txt	/*ft-modula2-syntax*
 ft-moo-syntax	syntax.txt	/*ft-moo-syntax*
@@ -6025,6 +6032,8 @@ ft-tex-syntax	syntax.txt	/*ft-tex-syntax*
 ft-tf-syntax	syntax.txt	/*ft-tf-syntax*
 ft-typescript-syntax	syntax.txt	/*ft-typescript-syntax*
 ft-typescriptreact-syntax	syntax.txt	/*ft-typescriptreact-syntax*
+ft-typst-plugin	filetype.txt	/*ft-typst-plugin*
+ft-typst-syntax	syntax.txt	/*ft-typst-syntax*
 ft-vb-syntax	syntax.txt	/*ft-vb-syntax*
 ft-verilog-indent	indent.txt	/*ft-verilog-indent*
 ft-vhdl-indent	indent.txt	/*ft-vhdl-indent*
@@ -6316,6 +6325,9 @@ g:tex_subscripts	syntax.txt	/*g:tex_subscripts*
 g:tex_superscripts	syntax.txt	/*g:tex_superscripts*
 g:tex_verbspell	syntax.txt	/*g:tex_verbspell*
 g:typescript_host_keyword	syntax.txt	/*g:typescript_host_keyword*
+g:typst_cmd	quickfix.txt	/*g:typst_cmd*
+g:typst_conceal	filetype.txt	/*g:typst_conceal*
+g:typst_embedded_languages	syntax.txt	/*g:typst_embedded_languages*
 g:var	eval.txt	/*g:var*
 g:vim_indent_cont	indent.txt	/*g:vim_indent_cont*
 g:vimsyn_comment_strings	syntax.txt	/*g:vimsyn_comment_strings*
