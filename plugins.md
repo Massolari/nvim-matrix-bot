@@ -128,6 +128,7 @@ yanskun/gotests.nvim - https://github.com/yanskun/gotests.nvim - Make Go tests e
 someone-stole-my-name/yaml-companion.nvim - https://github.com/someone-stole-my-name/yaml-companion.nvim - Get, set and autodetect YAML schemas in your buffers.
 cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YAML files.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTTP client written in Lua.
+mistweaverco/kulala.nvim - https://github.com/mistweaverco/kulala.nvim - A minimal HTTP-client interface.
 ray-x/web-tools.nvim - https://github.com/ray-x/web-tools.nvim - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
 roobert/tailwindcss-colorizer-cmp.nvim - https://github.com/roobert/tailwindcss-colorizer-cmp.nvim - Add vscode-style TailwindCSS completion to nvim-cmp.
 luckasRanarison/tailwind-tools.nvim - https://github.com/luckasRanarison/tailwind-tools.nvim - Unofficial TailwindCSS tooling.
