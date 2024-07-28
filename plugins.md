@@ -646,6 +646,7 @@ David-Kunz/jester - https://github.com/David-Kunz/jester - Easily run and debug 
 klen/nvim-test - https://github.com/klen/nvim-test - A Neovim wrapper for running tests.
 nvim-neotest/neotest - https://github.com/nvim-neotest/neotest - An extensible framework for interacting with tests within Neovim.
 andythigpen/nvim-coverage - https://github.com/andythigpen/nvim-coverage - Displays coverage information in the sign column.
+quolpr/quicktest.nvim - https://github.com/quolpr/quicktest.nvim - Run your tests in split window or popup with live feedback.
 michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of any language directly from Neovim.
 pianocomposer321/yabs.nvim - https://github.com/pianocomposer321/yabs.nvim - Yet Another Build System, written in Lua.
 CRAG666/code_runner.nvim - https://github.com/CRAG666/code_runner.nvim - The best code runner you could have, with super powers.
