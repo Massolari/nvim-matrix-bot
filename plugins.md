@@ -598,6 +598,7 @@ ysmb-wtsg/in-and-out.nvim - https://github.com/ysmb-wtsg/in-and-out.nvim - Quick
 ChuufMaster/buffer-vacuum - https://github.com/ChuufMaster/buffer-vacuum - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
 mong8se/buffish.nvim - https://github.com/mong8se/buffish.nvim - A buffer switcher in the spirit of dirvish or vinegar.
 niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful todo manager based on text.
+QuentinGruber/timespent.nvim - https://github.com/QuentinGruber/timespent.nvim - Display time spent on projects / files.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
