@@ -695,6 +695,7 @@ ray-x/guihua.lua - https://github.com/ray-x/guihua.lua - A Lua UI library. Inclu
 anuvyklack/animation.nvim - https://github.com/anuvyklack/animation.nvim - Create animations.
 nfrid/treesitter-utils - https://github.com/nfrid/treesitter-utils - Some useful Treesitter methods.
 nvim-lusc - https://github.com/svermeulen/nvim-lusc - Adds support for Structured Async/Concurrency in Lua.
+CWood-sdf/banana.nvim - https://github.com/CWood-sdf/banana.nvim - HTML renderer for plugin UIs.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel (Lisp to Lua).
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 Olical/conjure - https://github.com/Olical/conjure - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
