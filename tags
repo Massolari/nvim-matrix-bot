@@ -3389,14 +3389,20 @@ E1111	builtin.txt	/*E1111*
 E1112	builtin.txt	/*E1112*
 E1113	builtin.txt	/*E1113*
 E1114	builtin.txt	/*E1114*
+E1115	builtin.txt	/*E1115*
+E1116	builtin.txt	/*E1116*
 E112	eval.txt	/*E112*
+E1122	eval.txt	/*E1122*
 E113	eval.txt	/*E113*
 E1136	map.txt	/*E1136*
 E114	eval.txt	/*E114*
+E1142	builtin.txt	/*E1142*
 E1145	eval.txt	/*E1145*
 E115	eval.txt	/*E115*
+E1156	editing.txt	/*E1156*
 E1159	windows.txt	/*E1159*
 E116	eval.txt	/*E116*
+E1169	eval.txt	/*E1169*
 E117	userfunc.txt	/*E117*
 E118	eval.txt	/*E118*
 E1188	cmdline.txt	/*E1188*
@@ -4304,6 +4310,7 @@ LanguageTree:is_valid()	treesitter.txt	/*LanguageTree:is_valid()*
 LanguageTree:lang()	treesitter.txt	/*LanguageTree:lang()*
 LanguageTree:language_for_range()	treesitter.txt	/*LanguageTree:language_for_range()*
 LanguageTree:named_node_for_range()	treesitter.txt	/*LanguageTree:named_node_for_range()*
+LanguageTree:node_for_range()	treesitter.txt	/*LanguageTree:node_for_range()*
 LanguageTree:parse()	treesitter.txt	/*LanguageTree:parse()*
 LanguageTree:register_cbs()	treesitter.txt	/*LanguageTree:register_cbs()*
 LanguageTree:source()	treesitter.txt	/*LanguageTree:source()*
@@ -5698,6 +5705,7 @@ expr-lambda	eval.txt	/*expr-lambda*
 expr-nesting	eval.txt	/*expr-nesting*
 expr-number	eval.txt	/*expr-number*
 expr-option	eval.txt	/*expr-option*
+expr-option-function	options.txt	/*expr-option-function*
 expr-quote	eval.txt	/*expr-quote*
 expr-register	eval.txt	/*expr-register*
 expr-star	eval.txt	/*expr-star*
