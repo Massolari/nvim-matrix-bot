@@ -102,6 +102,7 @@ simplegpt.nvim - https://github.com/you-n-g/simplegpt.nvim - Provide a simple ye
 Exafunction/codeium.nvim - https://github.com/Exafunction/codeium.nvim - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 CopilotC-Nvim/CopilotChat.nvim - https://github.com/CopilotC-Nvim/CopilotChat.nvim - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 tzachar/cmp-ai - https://github.com/tzachar/cmp-ai - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
+milanglacier/minuet-ai.nvim - https://github.com/milanglacier/minuet-ai.nvim - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 akinsho/flutter-tools.nvim - https://github.com/akinsho/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
