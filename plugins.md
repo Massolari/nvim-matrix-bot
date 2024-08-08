@@ -65,7 +65,7 @@ zeioth/garbage-day.nvim - https://github.com/Zeioth/garbage-day.nvim - Garbage c
 luckasRanarison/clear-action.nvim - https://github.com/luckasRanarison/clear-action.nvim - Enhances LSP code actions with fully customizable signs, personalized actions, and server-specific mappings, making code actions more predictable.
 rachartier/tiny-inline-diagnostic.nvim - https://github.com/rachartier/tiny-inline-diagnostic.nvim - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 chrisgrieser/nvim-lsp-endhints - https://github.com/chrisgrieser/nvim-lsp-endhints - Display LSP inlay hints at the end of the line, rather than within the line.
-rachartier/tiny-code-action.nvim - https://github.com/rachartier/tiny-code-action.nvim - Provides a simple way to run and visualize code actions with Telescope. 
+rachartier/tiny-code-action.nvim - https://github.com/rachartier/tiny-code-action.nvim - Provides a simple way to run and visualize code actions with Telescope.
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -641,6 +641,7 @@ yorickpeterse/nvim-pqf - https://github.com/yorickpeterse/nvim-pqf - Prettier qu
 nyngwang/NeoWell.lua - https://github.com/nyngwang/NeoWell.lua - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 ashfinal/qfview.nvim - https://github.com/ashfinal/qfview.nvim - Pretty quickfix/location view with consistent path-shorten and folding.
 niuiic/quickfix.nvim - https://github.com/niuiic/quickfix.nvim - Extended functionality for quickfix, including store, restore, make, remove, etc.
+stevearc/quicker.nvim - https://github.com/stevearc/quicker.nvim - Improved quickfix UI and editable quickfix buffer.
 coffebar/transfer.nvim - https://github.com/coffebar/transfer.nvim - Sync and diff with remote server using rsync and OpenSSH.
 OscarCreator/rsync.nvim - https://github.com/OscarCreator/rsync.nvim - Automatically sync up/down project to a remote with rsync.
 sachinsenal0x64/hot.nvim - https://github.com/sachinsenal0x64/hot.nvim - A hot reloader that works with any programming language.
@@ -970,6 +971,7 @@ jrychn/moduleVim - https://github.com/jrychn/ModuleVim - A very easy to use
 askfiy/nvim - https://github.com/askfiy/nvim - An excellent Neovim configuration, which is as powerful as Vscode, is lightning fast ⚡️.
 imbacraft/dusk.nvim - https://github.com/imbacraft/dusk.nvim - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
 nvim-lua/kickstart.nvim - https://github.com/nvim-lua/kickstart.nvim - A launch point for your personal Neovim configuration.
+dam9000/kickstart-modular.nvim - https://github.com/dam9000/kickstart-modular.nvim - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
 cunderw/nvim - https://github.com/cunderw/nvim - Neovim custom configuration, focused on JS/TS, Go, and Java development. Very IDE like.
 otavioschwanck/mood-nvim - https://github.com/otavioschwanck/mood-nvim - Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
 ldelossa/nvim-ide - https://github.com/ldelossa/nvim-ide - A full featured IDE layer heavily inspired by VSCode.
