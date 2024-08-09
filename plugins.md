@@ -401,6 +401,7 @@ ptdewey/darkearth-nvim - https://github.com/ptdewey/darkearth-nvim - A dark and 
 uloco/bluloco.nvim - https://github.com/uloco/bluloco.nvim - A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
 slugbyte/lackluster.nvim - https://github.com/slugbyte/lackluster.nvim - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
 0xstepit/flow.nvim - https://github.com/0xstepit/flow.nvim - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+samharju/serene.nvim - https://github.com/samharju/serene.nvim - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
 tjdevries/gruvbuddy.nvim - https://github.com/tjdevries/gruvbuddy.nvim - Gruvbox colors.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
