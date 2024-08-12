@@ -4341,6 +4341,7 @@ N<Del>	various.txt	/*N<Del>*
 NFA	pattern.txt	/*NFA*
 NL-used-for-Nul	pattern.txt	/*NL-used-for-Nul*
 NetUserPass()	pi_netrw.txt	/*NetUserPass()*
+NoDefaultCurrentDirectoryInExePath	builtin.txt	/*NoDefaultCurrentDirectoryInExePath*
 Normal	intro.txt	/*Normal*
 Normal-mode	intro.txt	/*Normal-mode*
 Number	eval.txt	/*Number*
@@ -5764,6 +5765,7 @@ file:seek()	luaref.txt	/*file:seek()*
 file:setvbuf()	luaref.txt	/*file:setvbuf()*
 file:write()	luaref.txt	/*file:write()*
 file_readable()	deprecated.txt	/*file_readable()*
+filecopy()	builtin.txt	/*filecopy()*
 filename-backslash	cmdline.txt	/*filename-backslash*
 filename-modifiers	cmdline.txt	/*filename-modifiers*
 filereadable()	builtin.txt	/*filereadable()*
@@ -7015,6 +7017,7 @@ ip	motion.txt	/*ip*
 ipairs()	luaref.txt	/*ipairs()*
 iquote	motion.txt	/*iquote*
 is	motion.txt	/*is*
+isabsolutepath()	builtin.txt	/*isabsolutepath()*
 isdirectory()	builtin.txt	/*isdirectory()*
 isinf()	builtin.txt	/*isinf()*
 islocked()	builtin.txt	/*islocked()*
