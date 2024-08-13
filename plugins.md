@@ -119,6 +119,7 @@ chomosuke/typst-preview.nvim - https://github.com/chomosuke/typst-preview.nvim -
 quarto-dev/quarto-nvim - https://github.com/quarto-dev/quarto-nvim - Tools for working with [Quarto](https://quarto.org/) documents.
 iabdelkareem/csharp.nvim - https://github.com/iabdelkareem/csharp.nvim - Enhances the development experience for .NET developers.
 jim-at-jibba/micropython.nvim - https://github.com/jim-at-jibba/micropython.nvim - Enhances the development experience for developers using Micro-python for IoT and maker projects.
+neolooong/whichpy.nvim - https://github.com/neolooong/whichpy.nvim - Switch Python interpreter without restarting LSP.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on lsp and Treesitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
 crispgm/nvim-go - https://github.com/crispgm/nvim-go - A minimal implementation of Golang development plugin.
@@ -779,6 +780,7 @@ max397574/better-escape.nvim - https://github.com/max397574/better-escape.nvim -
 Nexmean/caskey.nvim - https://github.com/Nexmean/caskey.nvim - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 Wansmer/langmapper.nvim - https://github.com/Wansmer/langmapper.nvim - Auto translating your mappings for non-English input methods.
 tris203/hawtkeys.nvim - https://github.com/tris203/hawtkeys.nvim - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+mawkler/demicolon.nvim - https://github.com/mawkler/demicolon.nvim - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 notomo/gesture.nvim - https://github.com/notomo/gesture.nvim - Mouse gesture plugin.
 karb94/neoscroll.nvim - https://github.com/karb94/neoscroll.nvim - Smooth scrolling.
 declancm/cinnamon.nvim - https://github.com/declancm/cinnamon.nvim - Smooth scrolling for any movement command.
