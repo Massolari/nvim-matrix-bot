@@ -423,6 +423,7 @@ f-person/auto-dark-mode.nvim - https://github.com/f-person/auto-dark-mode.nvim -
 zaldih/themery.nvim - https://github.com/zaldih/themery.nvim - A new way to change the colorscheme on the fly like in vscode.
 linrongbin16/colorbox.nvim - https://github.com/linrongbin16/colorbox.nvim - Load all the ultra colorschemes into your Neovim player!
 CWood-sdf/pineapple - https://github.com/CWood-sdf/pineapple - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
+BrunoCiccarino/gardenal - https://github.com/BrunoCiccarino/gardenal - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
 Bekaboo/deadcolumn.nvim - https://github.com/Bekaboo/deadcolumn.nvim - Shows your colorcolumn dynamically.
 ecthelionvi/NeoColumn.nvim - https://github.com/ecthelionvi/NeoColumn.nvim - Toggleable colorcolumn highlighting specific characters.
 m4xshen/smartcolumn.nvim - https://github.com/m4xshen/smartcolumn.nvim - Hide your colorcolumn when unneeded.
@@ -602,6 +603,7 @@ ChuufMaster/buffer-vacuum - https://github.com/ChuufMaster/buffer-vacuum - Set a
 mong8se/buffish.nvim - https://github.com/mong8se/buffish.nvim - A buffer switcher in the spirit of dirvish or vinegar.
 niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful todo manager based on text.
 QuentinGruber/timespent.nvim - https://github.com/QuentinGruber/timespent.nvim - Display time spent on projects / files.
+SunnyTamang/pendulum.nvim - https://github.com/SunnyTamang/pendulum.nvim - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
