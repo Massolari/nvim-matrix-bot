@@ -6177,6 +6177,9 @@ g:loaded_perl_provider	provider.txt	/*g:loaded_perl_provider*
 g:loaded_python3_provider	provider.txt	/*g:loaded_python3_provider*
 g:loaded_ruby_provider	provider.txt	/*g:loaded_ruby_provider*
 g:man_hardwrap	filetype.txt	/*g:man_hardwrap*
+g:markdown_fenced_languages	syntax.txt	/*g:markdown_fenced_languages*
+g:markdown_minlines	syntax.txt	/*g:markdown_minlines*
+g:markdown_syntax_conceal	syntax.txt	/*g:markdown_syntax_conceal*
 g:netrw_altfile	pi_netrw.txt	/*g:netrw_altfile*
 g:netrw_alto	pi_netrw.txt	/*g:netrw_alto*
 g:netrw_altv	pi_netrw.txt	/*g:netrw_altv*
@@ -6340,6 +6343,8 @@ g:typst_conceal	filetype.txt	/*g:typst_conceal*
 g:typst_embedded_languages	syntax.txt	/*g:typst_embedded_languages*
 g:var	eval.txt	/*g:var*
 g:vim_indent_cont	indent.txt	/*g:vim_indent_cont*
+g:vim_json_conceal	syntax.txt	/*g:vim_json_conceal*
+g:vim_json_warnings	syntax.txt	/*g:vim_json_warnings*
 g:vimsyn_comment_strings	syntax.txt	/*g:vimsyn_comment_strings*
 g:vimsyn_embed	syntax.txt	/*g:vimsyn_embed*
 g:vimsyn_folding	syntax.txt	/*g:vimsyn_folding*
