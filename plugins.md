@@ -103,6 +103,7 @@ Exafunction/codeium.nvim - https://github.com/Exafunction/codeium.nvim - Free, u
 CopilotC-Nvim/CopilotChat.nvim - https://github.com/CopilotC-Nvim/CopilotChat.nvim - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 tzachar/cmp-ai - https://github.com/tzachar/cmp-ai - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 milanglacier/minuet-ai.nvim - https://github.com/milanglacier/minuet-ai.nvim - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
+yetone/avante.nvim - https://github.com/yetone/avante.nvim - Chat with your code as if you are in Cursor AI IDE.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 akinsho/flutter-tools.nvim - https://github.com/akinsho/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -783,6 +784,7 @@ Nexmean/caskey.nvim - https://github.com/Nexmean/caskey.nvim - Utility to keymap
 Wansmer/langmapper.nvim - https://github.com/Wansmer/langmapper.nvim - Auto translating your mappings for non-English input methods.
 tris203/hawtkeys.nvim - https://github.com/tris203/hawtkeys.nvim - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 mawkler/demicolon.nvim - https://github.com/mawkler/demicolon.nvim - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
+debugloop/layers.nvim - https://github.com/debugloop/layers.nvim -  Craft temporary keymap overlays and layered modes with ease.
 notomo/gesture.nvim - https://github.com/notomo/gesture.nvim - Mouse gesture plugin.
 karb94/neoscroll.nvim - https://github.com/karb94/neoscroll.nvim - Smooth scrolling.
 declancm/cinnamon.nvim - https://github.com/declancm/cinnamon.nvim - Smooth scrolling for any movement command.
