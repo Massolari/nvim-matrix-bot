@@ -790,6 +790,7 @@ karb94/neoscroll.nvim - https://github.com/karb94/neoscroll.nvim - Smooth scroll
 declancm/cinnamon.nvim - https://github.com/declancm/cinnamon.nvim - Smooth scrolling for any movement command.
 nkakouros-original/scrollofffraction.nvim - https://github.com/nkakouros-original/scrollofffraction.nvim - Scrolloff as a fraction of the window height.
 niuiic/scroll.nvim - https://github.com/niuiic/scroll.nvim - Smooth scrolling, custom smooth strategy.
+rlychrisg/keepcursor.nvim - https://github.com/rlychrisg/keepcursor.nvim - A collection of functions to control how the screen is positioned around the cursor.
 Xuyuanp/scrollbar.nvim - https://github.com/Xuyuanp/scrollbar.nvim - Scrollbar.
 dstein64/nvim-scrollview - https://github.com/dstein64/nvim-scrollview - Display interactive scrollbars.
 petertriho/nvim-scrollbar - https://github.com/petertriho/nvim-scrollbar - Extensible scrollbar that shows diagnostics and search results.
