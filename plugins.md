@@ -104,6 +104,7 @@ CopilotC-Nvim/CopilotChat.nvim - https://github.com/CopilotC-Nvim/CopilotChat.nv
 tzachar/cmp-ai - https://github.com/tzachar/cmp-ai - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 milanglacier/minuet-ai.nvim - https://github.com/milanglacier/minuet-ai.nvim - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 yetone/avante.nvim - https://github.com/yetone/avante.nvim - Chat with your code as if you are in Cursor AI IDE.
+StubbornVegeta/llm.nvim - https://github.com/StubbornVegeta/llm.nvim - Free large language model (LLM) support, provides commands to interact with LLM.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 akinsho/flutter-tools.nvim - https://github.com/akinsho/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -138,6 +139,8 @@ ray-x/web-tools.nvim - https://github.com/ray-x/web-tools.nvim - Launch a local 
 roobert/tailwindcss-colorizer-cmp.nvim - https://github.com/roobert/tailwindcss-colorizer-cmp.nvim - Add vscode-style TailwindCSS completion to nvim-cmp.
 luckasRanarison/tailwind-tools.nvim - https://github.com/luckasRanarison/tailwind-tools.nvim - Unofficial TailwindCSS tooling.
 cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - A tool for CSS unit conversions.
+farias-hecdin/CSSVarViewer - https://github.com/farias-hecdin/CSSVarViewer - Easily visualize the content of your CSS variables in a virtual text.
+farias-hecdin/CSSVarHighlight - https://github.com/farias-hecdin/CSSVarHighlight - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 ellisonleao/glow.nvim - https://github.com/ellisonleao/glow.nvim - Markdown preview using glow.
 ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist .env support.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
@@ -404,6 +407,7 @@ uloco/bluloco.nvim - https://github.com/uloco/bluloco.nvim - A fancy and sophist
 slugbyte/lackluster.nvim - https://github.com/slugbyte/lackluster.nvim - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
 0xstepit/flow.nvim - https://github.com/0xstepit/flow.nvim - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 samharju/serene.nvim - https://github.com/samharju/serene.nvim - A soothing and dark tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
+killitar/obscure.nvim - https://github.com/killitar/obscure.nvim - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins.
 tjdevries/gruvbuddy.nvim - https://github.com/tjdevries/gruvbuddy.nvim - Gruvbox colors.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
@@ -621,6 +625,7 @@ jlesquembre/nterm.nvim - https://github.com/jlesquembre/nterm.nvim - Interact wi
 s1n7ax/nvim-terminal - https://github.com/s1n7ax/nvim-terminal - A simple & easy to use multi-terminal plugin.
 m00qek/baleia.nvim - https://github.com/m00qek/baleia.nvim - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor).
 samjwill/nvim-unception - https://github.com/samjwill/nvim-unception - Automatic unnesting of Neovim sessions started from terminal buffers.
+kassio/neoterm - https://github.com/kassio/neoterm - Wrapper of some `:terminal` functions.
 nyngwang/NeoTerm.lua - https://github.com/nyngwang/NeoTerm.lua - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 idanarye/nvim-channelot - https://github.com/idanarye/nvim-channelot - Operate Neovim jobs from Lua coroutines.
 chomosuke/term-edit.nvim - https://github.com/chomosuke/term-edit.nvim - Allowing you to edit your command in the terminal just like any other buffer.
@@ -864,6 +869,7 @@ Jxstxs/conceal.nvim - https://github.com/Jxstxs/conceal.nvim - Use Tree-sitter t
 hiberabyss/bzlops.vim - https://github.com/hiberabyss/bzlops.vim - Help to manage your bazel build rule.
 altermo/iedit.nvim - https://github.com/altermo/iedit.nvim - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 ptdewey/yankbank-nvim - https://github.com/ptdewey/yankbank-nvim - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
+OXY2DEV/foldtext.nvim - https://github.com/OXY2DEV/foldtext.nvim - Dynamic & stylized foldtext.
 numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
 gennaro-tedesco/nvim-commaround - https://github.com/gennaro-tedesco/nvim-commaround - Fast and light commenting plugin written in Lua.
