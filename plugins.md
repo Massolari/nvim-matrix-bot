@@ -105,6 +105,7 @@ tzachar/cmp-ai - https://github.com/tzachar/cmp-ai - This is a general purpose A
 milanglacier/minuet-ai.nvim - https://github.com/milanglacier/minuet-ai.nvim - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 yetone/avante.nvim - https://github.com/yetone/avante.nvim - Chat with your code as if you are in Cursor AI IDE.
 StubbornVegeta/llm.nvim - https://github.com/StubbornVegeta/llm.nvim - Free large language model (LLM) support, provides commands to interact with LLM.
+3v0k4/exit.nvim - https://github.com/3v0k4/exit.nvim - Prompt LLMs (large language models) to write Vim commands.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 akinsho/flutter-tools.nvim - https://github.com/akinsho/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -609,6 +610,7 @@ mong8se/buffish.nvim - https://github.com/mong8se/buffish.nvim - A buffer switch
 niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful todo manager based on text.
 QuentinGruber/timespent.nvim - https://github.com/QuentinGruber/timespent.nvim - Display time spent on projects / files.
 SunnyTamang/pendulum.nvim - https://github.com/SunnyTamang/pendulum.nvim - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
+ptdewey/pendulum-nvim - https://github.com/ptdewey/pendulum-nvim - Track time spent coding and glean insights through on-demand time reports.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
