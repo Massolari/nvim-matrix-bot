@@ -67,6 +67,7 @@ rachartier/tiny-inline-diagnostic.nvim - https://github.com/rachartier/tiny-inli
 chrisgrieser/nvim-lsp-endhints - https://github.com/chrisgrieser/nvim-lsp-endhints - Display LSP inlay hints at the end of the line, rather than within the line.
 rachartier/tiny-code-action.nvim - https://github.com/rachartier/tiny-code-action.nvim - Provides a simple way to run and visualize code actions with Telescope.
 mawkler/refjump.nvim - https://github.com/mawkler/refjump.nvim - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
+alexpasmantier/pymple.nvim - https://github.com/alexpasmantier/pymple.nvim - Refactor Python imports on file move/rename.
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
