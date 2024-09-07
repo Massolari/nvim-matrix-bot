@@ -977,6 +977,7 @@ drybalka/clean.nvim - https://github.com/drybalka/clean.nvim - Cleaning up the d
 StratOS-Linux/StratVIM - https://github.com/StratOS-Linux/StratVIM - A full-fledged Neovim distribution included by default in [StratOS](https://github.com/StratOS-Linux), an upcoming Arch-based Linux distro.
 Shaobin-Jiang/IceNvim - https://github.com/Shaobin-Jiang/IceNvim - A beautiful, powerful and customizable config that is blazingly fast.
 ayamir/nvimdots - https://github.com/ayamir/nvimdots - A well-configured and structured configuration with NixOS support.
+adoyle-h/one.nvim - https://github.com/adoyle-h/one.nvim - All-in-one config framework in Lua.
 MordechaiHadad/bob - https://github.com/MordechaiHadad/bob - A cross platform and easy to use Neovim version manager.
 NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and blazing fast Neovim version manager.
 gennaro-tedesco/boilit - https://github.com/gennaro-tedesco/boilit - Create boilerplate structure plugins.
