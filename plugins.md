@@ -100,6 +100,7 @@ milanglacier/minuet-ai.nvim - https://github.com/milanglacier/minuet-ai.nvim - M
 yetone/avante.nvim - https://github.com/yetone/avante.nvim - Chat with your code as if you are in Cursor AI IDE.
 Kurama622/llm.nvim - https://github.com/Kurama622/llm.nvim - Free large language model (LLM) support, provides commands to interact with LLM.
 3v0k4/exit.nvim - https://github.com/3v0k4/exit.nvim - Prompt LLMs (large language models) to write Vim commands.
+k2589/LLuMinate.nvim - https://github.com/k2589/lluminate.nvim - Enrich context for LLM with LSP hover added to clipboard.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 akinsho/flutter-tools.nvim - https://github.com/akinsho/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
