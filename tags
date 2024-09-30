@@ -5433,6 +5433,7 @@ dev-api-client	develop.txt	/*dev-api-client*
 dev-api-name	develop.txt	/*dev-api-name*
 dev-api-patterns	develop.txt	/*dev-api-patterns*
 dev-doc	develop.txt	/*dev-doc*
+dev-error-patterns	develop.txt	/*dev-error-patterns*
 dev-guidelines	develop.txt	/*dev-guidelines*
 dev-lua	develop.txt	/*dev-lua*
 dev-lua-doc	develop.txt	/*dev-lua-doc*
@@ -6431,6 +6432,7 @@ getcharstr()	builtin.txt	/*getcharstr()*
 getcmdcompltype()	builtin.txt	/*getcmdcompltype()*
 getcmdline()	builtin.txt	/*getcmdline()*
 getcmdpos()	builtin.txt	/*getcmdpos()*
+getcmdprompt()	builtin.txt	/*getcmdprompt()*
 getcmdscreenpos()	builtin.txt	/*getcmdscreenpos()*
 getcmdtype()	builtin.txt	/*getcmdtype()*
 getcmdwintype()	builtin.txt	/*getcmdwintype()*
@@ -7260,6 +7262,7 @@ lua-else	luaref.txt	/*lua-else*
 lua-elseif	luaref.txt	/*lua-elseif*
 lua-end	luaref.txt	/*lua-end*
 lua-environments	luaref.txt	/*lua-environments*
+lua-error-handling	lua.txt	/*lua-error-handling*
 lua-errors	luaref.txt	/*lua-errors*
 lua-eval	lua.txt	/*lua-eval*
 lua-expressions	luaref.txt	/*lua-expressions*
@@ -7343,6 +7346,7 @@ lua-regex	lua.txt	/*lua-regex*
 lua-registry	luaref.txt	/*lua-registry*
 lua-relational	luaref.txt	/*lua-relational*
 lua-repeat	luaref.txt	/*lua-repeat*
+lua-result-or-message	lua.txt	/*lua-result-or-message*
 lua-return	luaref.txt	/*lua-return*
 lua-special-tbl	lua.txt	/*lua-special-tbl*
 lua-stack	luaref.txt	/*lua-stack*
@@ -8084,7 +8088,7 @@ nvim__complete_set()	api.txt	/*nvim__complete_set()*
 nvim__get_runtime()	api.txt	/*nvim__get_runtime()*
 nvim__id()	api.txt	/*nvim__id()*
 nvim__id_array()	api.txt	/*nvim__id_array()*
-nvim__id_dictionary()	api.txt	/*nvim__id_dictionary()*
+nvim__id_dict()	api.txt	/*nvim__id_dict()*
 nvim__id_float()	api.txt	/*nvim__id_float()*
 nvim__inspect_cell()	api.txt	/*nvim__inspect_cell()*
 nvim__invalidate_glyph_cache()	api.txt	/*nvim__invalidate_glyph_cache()*
