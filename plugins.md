@@ -914,6 +914,7 @@ esensar/nvim-dev-container - https://github.com/esensar/nvim-dev-container - Neo
 miversen33/netman.nvim - https://github.com/miversen33/netman.nvim - Lua powered Network Resource Manager.
 niuiic/remote.nvim - https://github.com/niuiic/remote.nvim - Edit remote files with local configuration.
 nosduco/remote-sshfs.nvim - https://github.com/nosduco/remote-sshfs.nvim - Explore, edit, and develop on a remote machine via SSHFS.
+live-share.nvim - https://github.com/azratul/live-share.nvim - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
 ~henriquehbr/ataraxis.lua - https://sr.ht/~henriquehbr/ataraxis.lua - A zen mode for improving code readability on Neovim.
 yorickpeterse/nvim-window - https://github.com/yorickpeterse/nvim-window - Easily jump between Neovim windows.
 sindrets/winshift.nvim - https://github.com/sindrets/winshift.nvim - Rearrange your windows with ease.
