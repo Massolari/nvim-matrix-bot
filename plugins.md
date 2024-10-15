@@ -138,7 +138,6 @@ cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - A tool for CSS unit
 farias-hecdin/CSSVarViewer - https://github.com/farias-hecdin/CSSVarViewer - Easily visualize the content of your CSS variables in a virtual text.
 farias-hecdin/CSSVarHighlight - https://github.com/farias-hecdin/CSSVarHighlight - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 ellisonleao/glow.nvim - https://github.com/ellisonleao/glow.nvim - Markdown preview using glow.
-ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist .env support.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
@@ -603,6 +602,7 @@ SunnyTamang/pendulum.nvim - https://github.com/SunnyTamang/pendulum.nvim - Simpl
 ptdewey/pendulum-nvim - https://github.com/ptdewey/pendulum-nvim - Track time spent coding and glean insights through on-demand time reports.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 rlychrisg/truncateline.nvim - https://github.com/rlychrisg/truncateline.nvim - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
+ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist .env support.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -700,6 +700,7 @@ nfrid/treesitter-utils - https://github.com/nfrid/treesitter-utils - Some useful
 nvim-lusc - https://github.com/svermeulen/nvim-lusc - Adds support for Structured Async/Concurrency in Lua.
 CWood-sdf/banana.nvim - https://github.com/CWood-sdf/banana.nvim - HTML renderer for plugin UIs.
 OXY2DEV/helpview.nvim - https://github.com/OXY2DEV/helpview.nvim - Decorations for `vimdoc/help` files.
+niuiic/omega.nvim - https://github.com/niuiic/omega.nvim - Missing functions for Lua plugin development.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel (Lisp to Lua).
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 Olical/conjure - https://github.com/Olical/conjure - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
