@@ -405,6 +405,7 @@ samharju/serene.nvim - https://github.com/samharju/serene.nvim - A soothing and 
 killitar/obscure.nvim - https://github.com/killitar/obscure.nvim - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins.
 bakageddy/alduin.nvim - https://github.com/bakageddy/alduin.nvim - A port of [alduin](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
 diegoulloao/neofusion.nvim - https://github.com/diegoulloao/neofusion.nvim - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
+bartekjaszczak/luma-nvim - https://gitlab.com/bartekjaszczak/luma-nvim - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
@@ -909,6 +910,7 @@ jedrzejboczar/possession.nvim - https://github.com/jedrzejboczar/possession.nvim
 niuiic/multiple-session.nvim - https://github.com/niuiic/multiple-session.nvim - Provides multi-session management capabilities.
 RutaTang/spectacle.nvim - https://github.com/RutaTang/spectacle.nvim - Easily manage multiple sessions with telescope integration.
 coffebar/neovim-project - https://github.com/coffebar/neovim-project - Declarative project management, automatic saving of sessions, uses Telescope.
+njayman/season.nvim - https://github.com/njayman/season.nvim - A lightweight plugin to manage session based on current working directory.
 chipsenkbeil/distant.nvim - https://github.com/chipsenkbeil/distant.nvim - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
 jamestthompson3/nvim-remote-containers - https://github.com/jamestthompson3/nvim-remote-containers - Develop inside docker containers, just like VSCode.
 esensar/nvim-dev-container - https://github.com/esensar/nvim-dev-container - Neovim devcontainer.json and general development container support.
