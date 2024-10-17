@@ -499,6 +499,7 @@ krady21/compiler-explorer.nvim - https://github.com/krady21/compiler-explorer.nv
 adelarsq/image_preview.nvim - https://github.com/adelarsq/image_preview.nvim - Image preview based on terminal's Image Protocol support.
 niuiic/code-shot.nvim - https://github.com/niuiic/code-shot.nvim - Take a picture of the code.
 AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-controls.nvim - Quickly control your favorite music player (Spotify, VLC, and more).
+neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, atom, json feed).
 0styx0/abbreinder.nvim - https://github.com/0styx0/abbreinder.nvim - Abbreviation reminders (Neovim >= 0.5).
 jakewvincent/mkdnflow.nvim - https://github.com/jakewvincent/mkdnflow.nvim - Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
 jbyuki/nabla.nvim - https://github.com/jbyuki/nabla.nvim - Take your scientific notes.
@@ -993,6 +994,7 @@ NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and b
 gennaro-tedesco/boilit - https://github.com/gennaro-tedesco/boilit - Create boilerplate structure plugins.
 m00qek/plugin-template.nvim - https://github.com/m00qek/plugin-template.nvim - A plugin template that setups test infrastructure and GitHub Actions.
 ellisonleao/nvim-plugin-template - https://github.com/ellisonleao/nvim-plugin-template - Another Neovim plugin template, using GitHub's template feature.
+2KAbhishek/template.nvim - https://github.com/2kabhishek/template.nvim - Opinionated template for starting plugin dev quickly.
 chrisgrieser/alfred-neovim-utilities - https://github.com/chrisgrieser/alfred-neovim-utilities - Search Neovim plugins and online `:help` via Alfred (macOS).
 massix/termux.nvim - https://github.com/massix/termux.nvim - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 m15a/flake-awesome-neovim-plugins - https://github.com/m15a/flake-awesome-neovim-plugins - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
