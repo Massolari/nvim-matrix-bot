@@ -207,6 +207,7 @@ desdic/marlin.nvim - https://github.com/desdic/marlin.nvim - Like harpoon, but w
 fnune/recall.nvim - https://github.com/fnune/recall.nvim - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 niuiic/track.nvim - https://github.com/niuiic/track.nvim - Enhanced mark with description. Track the thought process of reading source code.
 tristone13th/lspmark.nvim - https://github.com/tristone13th/lspmark.nvim - Sane project-wise bookmarks with persistent storage based on LSP.
+EvWilson/spelunk.nvim - https://github.com/EvWilson/spelunk.nvim - Create and manage bookmarks as stacks with a friendly UI.
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
 rktjmp/highlight-current-n.nvim - https://github.com/rktjmp/highlight-current-n.nvim - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
 gaborvecsei/memento.nvim - https://github.com/gaborvecsei/memento.nvim - Keeps track of your visited file history after a buffer is closed. Reopen files more easily.
@@ -939,6 +940,7 @@ declancm/windex.nvim - https://github.com/declancm/windex.nvim - Collection of w
 otavioschwanck/tmux-awesome-manager.nvim - https://github.com/otavioschwanck/tmux-awesome-manager.nvim - Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc.
 karshPrime/only-tmux.nvim - https://github.com/karshPrime/only-tmux.nvim - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
 karshPrime/tmux-compile.nvim - https://github.com/karshPrime/tmux-compile.nvim - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
+EvWilson/slimux.nvim - https://github.com/EvWilson/slimux.nvim - Send content from the current buffer to a configurable tmux pane.
 ThePrimeagen/vim-be-good - https://github.com/ThePrimeagen/vim-be-good - Vim-be-good is a Neovim plugin designed to make you better at Vim Movements.
 alec-gibson/nvim-tetris - https://github.com/alec-gibson/nvim-tetris - Bringing emacs' greatest feature to Neovim - Tetris!.
 seandewar/nvimesweeper - https://github.com/seandewar/nvimesweeper - Play Minesweeper in your favourite text editor.
