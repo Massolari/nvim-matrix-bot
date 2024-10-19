@@ -208,6 +208,7 @@ fnune/recall.nvim - https://github.com/fnune/recall.nvim - Recall refines the us
 niuiic/track.nvim - https://github.com/niuiic/track.nvim - Enhanced mark with description. Track the thought process of reading source code.
 tristone13th/lspmark.nvim - https://github.com/tristone13th/lspmark.nvim - Sane project-wise bookmarks with persistent storage based on LSP.
 EvWilson/spelunk.nvim - https://github.com/EvWilson/spelunk.nvim - Create and manage bookmarks as stacks with a friendly UI.
+2KAbhishek/markit.nvim - https://github.com/2KAbhishek/markit.nvim - Improved global marks and project wide bookmarks, to quickly navigate files.
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
 rktjmp/highlight-current-n.nvim - https://github.com/rktjmp/highlight-current-n.nvim - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
 gaborvecsei/memento.nvim - https://github.com/gaborvecsei/memento.nvim - Keeps track of your visited file history after a buffer is closed. Reopen files more easily.
@@ -605,6 +606,7 @@ SunnyTamang/pendulum.nvim - https://github.com/SunnyTamang/pendulum.nvim - Simpl
 ptdewey/pendulum-nvim - https://github.com/ptdewey/pendulum-nvim - Track time spent coding and glean insights through on-demand time reports.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 rlychrisg/truncateline.nvim - https://github.com/rlychrisg/truncateline.nvim - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
+EL-MASTOR/bufferlist.nvim - https://github.com/EL-MASTOR/bufferlist.nvim - A super fast, lightweight, minimal and super easy buffer manager.
 ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist .env support.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
@@ -704,6 +706,7 @@ nvim-lusc - https://github.com/svermeulen/nvim-lusc - Adds support for Structure
 CWood-sdf/banana.nvim - https://github.com/CWood-sdf/banana.nvim - HTML renderer for plugin UIs.
 OXY2DEV/helpview.nvim - https://github.com/OXY2DEV/helpview.nvim - Decorations for `vimdoc/help` files.
 niuiic/omega.nvim - https://github.com/niuiic/omega.nvim - Missing functions for Lua plugin development.
+2KAbhishek/utils.nvim - https://github.com/2kabhishek/utils.nvim - Powerful utilities to speed up plugin development.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel (Lisp to Lua).
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 Olical/conjure - https://github.com/Olical/conjure - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
@@ -739,6 +742,7 @@ pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/gh-actions.nvim - https://github.com/topaxi/gh-actions.nvim - View and dispatch GitHub Actions workflow runs.
 rawnly/gist.nvim - https://github.com/rawnly/gist.nvim - Create a GitHub Gist from the current file (powered by gh).
+2KAbhishek/octohub.nvim - https://github.com/2kabhishek/octohub.nvim - Access all your gihub repos, stats and more in simple keystrokes.
 tris203/precognition.nvim - https://github.com/tris203/precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
 smoka7/hop.nvim - https://github.com/smoka7/hop.nvim - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 ggandor/lightspeed.nvim - https://github.com/ggandor/lightspeed.nvim - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
