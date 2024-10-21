@@ -5792,6 +5792,7 @@ file-read	insert.txt	/*file-read*
 file-searching	editing.txt	/*file-searching*
 file-type	filetype.txt	/*file-type*
 file-types	filetype.txt	/*file-types*
+file-watcher	editing.txt	/*file-watcher*
 file:close()	luaref.txt	/*file:close()*
 file:flush()	luaref.txt	/*file:flush()*
 file:lines()	luaref.txt	/*file:lines()*
@@ -6015,6 +6016,8 @@ ft-msql-syntax	syntax.txt	/*ft-msql-syntax*
 ft-n1ql-syntax	syntax.txt	/*ft-n1ql-syntax*
 ft-nasm-syntax	syntax.txt	/*ft-nasm-syntax*
 ft-ncf-syntax	syntax.txt	/*ft-ncf-syntax*
+ft-neomuttlog-syntax	syntax.txt	/*ft-neomuttlog-syntax*
+ft-neomuttrc-syntax	syntax.txt	/*ft-neomuttrc-syntax*
 ft-nroff-syntax	syntax.txt	/*ft-nroff-syntax*
 ft-ocaml-syntax	syntax.txt	/*ft-ocaml-syntax*
 ft-pandoc-syntax	syntax.txt	/*ft-pandoc-syntax*
@@ -7848,6 +7851,7 @@ namespace	api.txt	/*namespace*
 nasm.vim	syntax.txt	/*nasm.vim*
 navigation	motion.txt	/*navigation*
 ncf.vim	syntax.txt	/*ncf.vim*
+neomutt.vim	syntax.txt	/*neomutt.vim*
 neovim	nvim.txt	/*neovim*
 netreadfixup	pi_netrw.txt	/*netreadfixup*
 netrw	pi_netrw.txt	/*netrw*
@@ -10166,10 +10170,11 @@ vim.health.report_start()	deprecated.txt	/*vim.health.report_start()*
 vim.health.report_warn()	deprecated.txt	/*vim.health.report_warn()*
 vim.health.start()	health.txt	/*vim.health.start()*
 vim.health.warn()	health.txt	/*vim.health.warn()*
-vim.highlight	lua.txt	/*vim.highlight*
-vim.highlight.on_yank()	lua.txt	/*vim.highlight.on_yank()*
-vim.highlight.priorities	lua.txt	/*vim.highlight.priorities*
-vim.highlight.range()	lua.txt	/*vim.highlight.range()*
+vim.highlight	deprecated.txt	/*vim.highlight*
+vim.hl	lua.txt	/*vim.hl*
+vim.hl.on_yank()	lua.txt	/*vim.hl.on_yank()*
+vim.hl.priorities	lua.txt	/*vim.hl.priorities*
+vim.hl.range()	lua.txt	/*vim.hl.range()*
 vim.iconv()	lua.txt	/*vim.iconv()*
 vim.in_fast_event()	lua.txt	/*vim.in_fast_event()*
 vim.inspect()	lua.txt	/*vim.inspect()*
@@ -10354,7 +10359,7 @@ vim.lsp.util.diagnostics_to_items()	deprecated.txt	/*vim.lsp.util.diagnostics_to
 vim.lsp.util.extract_completion_items()	deprecated.txt	/*vim.lsp.util.extract_completion_items()*
 vim.lsp.util.get_effective_tabstop()	lsp.txt	/*vim.lsp.util.get_effective_tabstop()*
 vim.lsp.util.get_progress_messages()	deprecated.txt	/*vim.lsp.util.get_progress_messages()*
-vim.lsp.util.jump_to_location()	lsp.txt	/*vim.lsp.util.jump_to_location()*
+vim.lsp.util.jump_to_location	deprecated.txt	/*vim.lsp.util.jump_to_location*
 vim.lsp.util.locations_to_items()	lsp.txt	/*vim.lsp.util.locations_to_items()*
 vim.lsp.util.lookup_section()	deprecated.txt	/*vim.lsp.util.lookup_section()*
 vim.lsp.util.make_floating_popup_options()	lsp.txt	/*vim.lsp.util.make_floating_popup_options()*
@@ -10365,6 +10370,7 @@ vim.lsp.util.make_range_params()	lsp.txt	/*vim.lsp.util.make_range_params()*
 vim.lsp.util.make_text_document_params()	lsp.txt	/*vim.lsp.util.make_text_document_params()*
 vim.lsp.util.make_workspace_params()	lsp.txt	/*vim.lsp.util.make_workspace_params()*
 vim.lsp.util.open_floating_preview()	lsp.txt	/*vim.lsp.util.open_floating_preview()*
+vim.lsp.util.open_floating_preview.Opts	lsp.txt	/*vim.lsp.util.open_floating_preview.Opts*
 vim.lsp.util.parse_snippet()	deprecated.txt	/*vim.lsp.util.parse_snippet()*
 vim.lsp.util.preview_location()	lsp.txt	/*vim.lsp.util.preview_location()*
 vim.lsp.util.rename()	lsp.txt	/*vim.lsp.util.rename()*
