@@ -127,6 +127,7 @@ rafaelsq/nvim-goc.lua - https://github.com/rafaelsq/nvim-goc.lua - Highlight you
 crusj/hierarchy-tree-go.nvim - https://github.com/crusj/hierarchy-tree-go.nvim - Neovim plugin for Golang, callHierarchy UI tree.
 yanskun/gotests.nvim - https://github.com/yanskun/gotests.nvim - Make Go tests easy with [gotests](https://github.com/cweill/gotests).
 maxandron/goplements.nvim - https://github.com/maxandron/goplements.nvim - Visualize Go struct and interface implementations.
+Snikimonkd/cmp-go-pkgs - https://github.com/Snikimonkd/cmp-go-pkgs - Cmp source for Go packages names.
 someone-stole-my-name/yaml-companion.nvim - https://github.com/someone-stole-my-name/yaml-companion.nvim - Get, set and autodetect YAML schemas in your buffers.
 cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YAML files.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTTP client written in Lua.
