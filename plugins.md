@@ -609,6 +609,7 @@ QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - U
 rlychrisg/truncateline.nvim - https://github.com/rlychrisg/truncateline.nvim - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
 EL-MASTOR/bufferlist.nvim - https://github.com/EL-MASTOR/bufferlist.nvim - A super fast, lightweight, minimal and super easy buffer manager.
 ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist .env support.
+dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -801,6 +802,7 @@ petertriho/nvim-scrollbar - https://github.com/petertriho/nvim-scrollbar - Exten
 echasnovski/mini.nvim#mini.map - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 gorbit99/codewindow.nvim - https://github.com/gorbit99/codewindow.nvim - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
 lewis6991/satellite.nvim - https://github.com/lewis6991/satellite.nvim - Decorate scrollbar.
+csessh/stopinser.nvim - https://github.com/csessh/stopinsert.nvim - Automatically exit Insert mode after inactivity.
 windwp/nvim-ts-autotag - https://github.com/windwp/nvim-ts-autotag - Use Tree-sitter to autoclose and autorename XML, HTML, JSX tag.
 windwp/nvim-autopairs - https://github.com/windwp/nvim-autopairs - A minimalist autopairs written by Lua.
 ZhiyuanLck/smart-pairs - https://github.com/ZhiyuanLck/smart-pairs - Ultimate smart pairs written by Lua.
