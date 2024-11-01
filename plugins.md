@@ -409,6 +409,7 @@ killitar/obscure.nvim - https://github.com/killitar/obscure.nvim - A pastel dark
 bakageddy/alduin.nvim - https://github.com/bakageddy/alduin.nvim - A port of [alduin](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
 diegoulloao/neofusion.nvim - https://github.com/diegoulloao/neofusion.nvim - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 bartekjaszczak/luma-nvim - https://gitlab.com/bartekjaszczak/luma-nvim - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
+bartekjaszczak/finale-nvim - https://gitlab.com/bartekjaszczak/finale-nvim - A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
