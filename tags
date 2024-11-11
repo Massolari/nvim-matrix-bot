@@ -1646,7 +1646,6 @@ $quote	eval.txt	/*$quote*
 :abclear	map.txt	/*:abclear*
 :abo	windows.txt	/*:abo*
 :aboveleft	windows.txt	/*:aboveleft*
-:addd	quickfix.txt	/*:addd*
 :al	windows.txt	/*:al*
 :all	windows.txt	/*:all*
 :am	gui.txt	/*:am*
@@ -2130,6 +2129,7 @@ $quote	eval.txt	/*$quote*
 :lab	quickfix.txt	/*:lab*
 :labove	quickfix.txt	/*:labove*
 :lad	quickfix.txt	/*:lad*
+:ladd	quickfix.txt	/*:ladd*
 :laddb	quickfix.txt	/*:laddb*
 :laddbuffer	quickfix.txt	/*:laddbuffer*
 :laddexpr	quickfix.txt	/*:laddexpr*
@@ -4588,6 +4588,7 @@ ZZ	editing.txt	/*ZZ*
 [:upper:]	pattern.txt	/*[:upper:]*
 [:xdigit:]	pattern.txt	/*[:xdigit:]*
 [<MiddleMouse>	change.txt	/*[<MiddleMouse>*
+[<Space>	insert.txt	/*[<Space>*
 [==]	pattern.txt	/*[==]*
 [A	editing.txt	/*[A*
 [B	windows.txt	/*[B*
@@ -4636,6 +4637,7 @@ ZZ	editing.txt	/*ZZ*
 ])	motion.txt	/*])*
 ]/	motion.txt	/*]\/*
 ]<MiddleMouse>	change.txt	/*]<MiddleMouse>*
+]<Space>	insert.txt	/*]<Space>*
 ]A	editing.txt	/*]A*
 ]B	windows.txt	/*]B*
 ]CTRL-L	quickfix.txt	/*]CTRL-L*
@@ -5225,9 +5227,12 @@ compiler-groff	quickfix.txt	/*compiler-groff*
 compiler-hpada	ft_ada.txt	/*compiler-hpada*
 compiler-javac	quickfix.txt	/*compiler-javac*
 compiler-make	quickfix.txt	/*compiler-make*
+compiler-mypy	quickfix.txt	/*compiler-mypy*
 compiler-pandoc	quickfix.txt	/*compiler-pandoc*
 compiler-perl	quickfix.txt	/*compiler-perl*
+compiler-pylint	quickfix.txt	/*compiler-pylint*
 compiler-pyunit	quickfix.txt	/*compiler-pyunit*
+compiler-ruff	quickfix.txt	/*compiler-ruff*
 compiler-select	quickfix.txt	/*compiler-select*
 compiler-tex	quickfix.txt	/*compiler-tex*
 compiler-typst	quickfix.txt	/*compiler-typst*
