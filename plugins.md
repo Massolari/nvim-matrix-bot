@@ -237,6 +237,7 @@ linrongbin16/fzfx.nvim - https://github.com/linrongbin16/fzfx.nvim - A fuzzy fin
 echasnovski/mini.nvim#mini.pick - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 echasnovski/mini.nvim#mini.extra - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 fdschmidt93/telescope-egrepify.nvim - https://github.com/fdschmidt93/telescope-egrepify.nvim - Telescope plugin for better `rg` flags in `live_grep`.
+crispgm/telescope-heading.nvim - https://github.com/crispgm/telescope-heading.nvim - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
 nvim-tree/nvim-tree.lua - https://github.com/nvim-tree/nvim-tree.lua - A simple and fast file explorer tree.
 luukvbaal/nnn.nvim - https://github.com/luukvbaal/nnn.nvim - File explorer powered by [nnn](https://github.com/jarun/nnn) and Lua.
 tamago324/lir.nvim - https://github.com/tamago324/lir.nvim - Simple file explorer.
@@ -872,6 +873,7 @@ hiberabyss/bzlops.vim - https://github.com/hiberabyss/bzlops.vim - Help to manag
 altermo/iedit.nvim - https://github.com/altermo/iedit.nvim - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 ptdewey/yankbank-nvim - https://github.com/ptdewey/yankbank-nvim - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 OXY2DEV/foldtext.nvim - https://github.com/OXY2DEV/foldtext.nvim - Dynamic & stylized foldtext.
+tummetott/unimpaired.nvim - https://github.com/tummetott/unimpaired.nvim - Lua port of [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired).
 numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
 gennaro-tedesco/nvim-commaround - https://github.com/gennaro-tedesco/nvim-commaround - Fast and light commenting plugin written in Lua.
