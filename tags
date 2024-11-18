@@ -417,6 +417,7 @@ $quote	eval.txt	/*$quote*
 'menuitems'	options.txt	/*'menuitems'*
 'mfd'	options.txt	/*'mfd'*
 'mh'	options.txt	/*'mh'*
+'mhi'	options.txt	/*'mhi'*
 'mis'	options.txt	/*'mis'*
 'mkspellmem'	options.txt	/*'mkspellmem'*
 'ml'	options.txt	/*'ml'*
@@ -446,6 +447,7 @@ $quote	eval.txt	/*$quote*
 'mousetime'	options.txt	/*'mousetime'*
 'mp'	options.txt	/*'mp'*
 'mps'	options.txt	/*'mps'*
+'msghistory'	options.txt	/*'msghistory'*
 'msm'	options.txt	/*'msm'*
 'nf'	options.txt	/*'nf'*
 'noacd'	options.txt	/*'noacd'*
@@ -5973,6 +5975,8 @@ ft-html-omni	insert.txt	/*ft-html-omni*
 ft-html-syntax	syntax.txt	/*ft-html-syntax*
 ft-htmlos-syntax	syntax.txt	/*ft-htmlos-syntax*
 ft-ia64-syntax	syntax.txt	/*ft-ia64-syntax*
+ft-idris2-indent	indent.txt	/*ft-idris2-indent*
+ft-idris2-plugin	filetype.txt	/*ft-idris2-plugin*
 ft-inform-syntax	syntax.txt	/*ft-inform-syntax*
 ft-java-plugin	filetype.txt	/*ft-java-plugin*
 ft-java-syntax	syntax.txt	/*ft-java-syntax*
@@ -6010,6 +6014,7 @@ ft-neomuttlog-syntax	syntax.txt	/*ft-neomuttlog-syntax*
 ft-neomuttrc-syntax	syntax.txt	/*ft-neomuttrc-syntax*
 ft-nroff-syntax	syntax.txt	/*ft-nroff-syntax*
 ft-ocaml-syntax	syntax.txt	/*ft-ocaml-syntax*
+ft-org-plugin	filetype.txt	/*ft-org-plugin*
 ft-pandoc-syntax	syntax.txt	/*ft-pandoc-syntax*
 ft-papp-syntax	syntax.txt	/*ft-papp-syntax*
 ft-pascal-syntax	syntax.txt	/*ft-pascal-syntax*
@@ -6703,6 +6708,7 @@ hl-LspCodeLens	lsp.txt	/*hl-LspCodeLens*
 hl-LspCodeLensSeparator	lsp.txt	/*hl-LspCodeLensSeparator*
 hl-LspInlayHint	lsp.txt	/*hl-LspInlayHint*
 hl-LspReferenceRead	lsp.txt	/*hl-LspReferenceRead*
+hl-LspReferenceTarget	lsp.txt	/*hl-LspReferenceTarget*
 hl-LspReferenceText	lsp.txt	/*hl-LspReferenceText*
 hl-LspReferenceWrite	lsp.txt	/*hl-LspReferenceWrite*
 hl-LspSignatureActiveParameter	lsp.txt	/*hl-LspSignatureActiveParameter*
