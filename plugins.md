@@ -64,6 +64,7 @@ chrisgrieser/nvim-lsp-endhints - https://github.com/chrisgrieser/nvim-lsp-endhin
 rachartier/tiny-code-action.nvim - https://github.com/rachartier/tiny-code-action.nvim - Provides a simple way to run and visualize code actions with Telescope.
 mawkler/refjump.nvim - https://github.com/mawkler/refjump.nvim - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
 alexpasmantier/pymple.nvim - https://github.com/alexpasmantier/pymple.nvim - Refactor Python imports on file move/rename.
+esmuellert/nvim-eslint - https://github.com/esmuellert/nvim-eslint - Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -486,6 +487,7 @@ willothy/veil.nvim - https://github.com/willothy/veil.nvim - A blazingly fast, a
 TobinPalmer/Tip.nvim - https://github.com/TobinPalmer/Tip.nvim - Get a simple tip when you launch Neovim.
 CWood-sdf/spaceport.nvim - https://github.com/CWood-sdf/spaceport.nvim - The start screen that gets you to your projects blazingly fast.
 mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file you actually meant to load.
+Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - Your personal homepage.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 echasnovski/mini.nvim#mini.icons - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
 yamatsum/nvim-nonicons - https://github.com/yamatsum/nvim-nonicons - Collection of configurations for nvim-web-devicons.
@@ -541,7 +543,7 @@ rcarriga/nvim-notify - https://github.com/rcarriga/nvim-notify - A fancy, config
 echasnovski/mini.nvim#mini.notify - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-notify.md - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
 folke/noice.nvim - https://github.com/folke/noice.nvim - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 sQVe/bufignore.nvim - https://github.com/sQVe/bufignore.nvim - Unlist hidden buffers matching specified ignore sources.
-saifulapm/chartoggle.nvim - https://github.com/saifulapm/chartoggle.nvim - Toggle any character at end of line.
+saifulapm/commasemi.nvim - https://github.com/saifulapm/commasemi.nvim - Toggle comma and semicolon.
 stevearc/dressing.nvim - https://github.com/stevearc/dressing.nvim - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 gaborvecsei/cryptoprice.nvim - https://github.com/gaborvecsei/cryptoprice.nvim - Check the price of the defined cryptocurrencies.
 jghauser/fold-cycle.nvim - https://github.com/jghauser/fold-cycle.nvim - Cycle folds open or closed.
