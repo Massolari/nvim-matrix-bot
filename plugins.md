@@ -84,7 +84,6 @@ deathbeam/autocomplete.nvim - https://github.com/deathbeam/autocomplete.nvim - V
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 Aaronik/GPTModels.nvim - https://github.com/Aaronik/GPTModels.nvim - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 Robitx/gp.nvim - https://github.com/Robitx/gp.nvim - ChatGPT like sessions and instructable text/code operations in your favorite editor.
-dpayne/CodeGPT.nvim - https://github.com/dpayne/CodeGPT.nvim - Provides commands to interact with ChatGPT, the focus is around code related usages.
 jackMort/ChatGPT.nvim - https://github.com/jackMort/ChatGPT.nvim - Effortless Natural Language Generation with OpenAI's ChatGPT API.
 CamdenClark/flyboy - https://github.com/CamdenClark/flyboy - Simple interaction with ChatGPT in a markdown buffer. Supports GPT-4 and Azure OpenAI.
 gsuuon/model.nvim - https://github.com/gsuuon/model.nvim - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
@@ -132,6 +131,7 @@ Snikimonkd/cmp-go-pkgs - https://github.com/Snikimonkd/cmp-go-pkgs - Cmp source 
 someone-stole-my-name/yaml-companion.nvim - https://github.com/someone-stole-my-name/yaml-companion.nvim - Get, set and autodetect YAML schemas in your buffers.
 cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YAML files.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTTP client written in Lua.
+lima1909/resty.nvim - https://github.com/lima1909/resty.nvim - Fast and easy-to-use HTTP-Rest-Client.
 mistweaverco/kulala.nvim - https://github.com/mistweaverco/kulala.nvim - A minimal HTTP-client interface.
 ray-x/web-tools.nvim - https://github.com/ray-x/web-tools.nvim - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
 roobert/tailwindcss-colorizer-cmp.nvim - https://github.com/roobert/tailwindcss-colorizer-cmp.nvim - Add vscode-style TailwindCSS completion to nvim-cmp.
@@ -692,6 +692,7 @@ pianocomposer321/officer.nvim - https://github.com/pianocomposer321/officer.nvim
 speelbarrow/spLauncher.nvim - https://github.com/speelbarrow/spLauncher.nvim - For launching tasks, I guess.
 al1-ce/just.nvim - https://github.com/al1-ce/just.nvim - Task runner for justfiles.
 niuiic/task.nvim - https://github.com/niuiic/task.nvim - Another highly configurable task manager that enables seamless interaction with tasks.
+chrisgrieser/nvim-justice - https://github.com/chrisgrieser/nvim-justice - Lightweight integration of the `just` task runner.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim -  Faster LuaLS setup.
 nvim-neorocks/luarocks-tag-release - https://github.com/nvim-neorocks/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
 svermeulen/vimpeccable - https://github.com/svermeulen/vimpeccable - Commands to help write your .vimrc in Lua or any Lua based language.
