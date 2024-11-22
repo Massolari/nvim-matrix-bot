@@ -750,7 +750,7 @@ SuperBo/fugit2.nvim - https://github.com/SuperBo/fugit2.nvim - Git GUI powered b
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin to help writing and testing CodeQL queries.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
-topaxi/gh-actions.nvim - https://github.com/topaxi/gh-actions.nvim - View and dispatch GitHub Actions workflow runs.
+topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 rawnly/gist.nvim - https://github.com/rawnly/gist.nvim - Create a GitHub Gist from the current file (powered by gh).
 2KAbhishek/octohub.nvim - https://github.com/2kabhishek/octohub.nvim - Access all your gihub repos, stats and more in simple keystrokes.
 tris203/precognition.nvim - https://github.com/tris203/precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
