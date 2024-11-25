@@ -5,6 +5,7 @@ folke/lazy.nvim - https://github.com/folke/lazy.nvim - A modern plugin manager, 
 roobert/activate.nvim - https://github.com/roobert/activate.nvim - A plugin installation system designed to complement `folke/lazy.nvim`.
 nvim-neorocks/rocks.nvim - https://github.com/nvim-neorocks/rocks.nvim - A modern approach to plugin management using Luarocks, inspired by Cargo.
 echasnovski/mini.nvim#mini.deps - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
 neovim/nvim-lspconfig - https://github.com/neovim/nvim-lspconfig - Quickstart configurations for the LSP client.
 nvim-lua/lsp-status.nvim - https://github.com/nvim-lua/lsp-status.nvim - This is a plugin/library for generating statusline components from the built-in LSP client.
 RishabhRD/nvim-lsputils - https://github.com/RishabhRD/nvim-lsputils - Better defaults for nvim-lsp actions.
@@ -211,6 +212,7 @@ niuiic/track.nvim - https://github.com/niuiic/track.nvim - Enhanced mark with de
 tristone13th/lspmark.nvim - https://github.com/tristone13th/lspmark.nvim - Sane project-wise bookmarks with persistent storage based on LSP.
 EvWilson/spelunk.nvim - https://github.com/EvWilson/spelunk.nvim - Create and manage bookmarks as stacks with a friendly UI.
 2KAbhishek/markit.nvim - https://github.com/2KAbhishek/markit.nvim - Improved global marks and project wide bookmarks, to quickly navigate files.
+you-n-g/navigate-note.nvim - https://github.com/you-n-g/navigate-note.nvim -  Integrating note-taking capabilities with navigation/marking. 
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
 rktjmp/highlight-current-n.nvim - https://github.com/rktjmp/highlight-current-n.nvim - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
 gaborvecsei/memento.nvim - https://github.com/gaborvecsei/memento.nvim - Keeps track of your visited file history after a buffer is closed. Reopen files more easily.
@@ -619,6 +621,7 @@ VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
 hat0uma/csvview.nvim - https://github.com/hat0uma/csvview.nvim - An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes.
+Dan7h3x/neaterm.nvim - https://github.com/Dan7h3x/neaterm.nvim - A little smart terminal/REPL manager with awesome features.
 LoricAndre/OneTerm.nvim - https://github.com/LoricAndre/OneTerm.nvim - Plugin framework for running commands in the terminal.
 nikvdp/neomux - https://github.com/nikvdp/neomux - Control Neovim from shells running inside Neovim.
 willothy/flatten.nvim - https://github.com/willothy/flatten.nvim - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
@@ -693,7 +696,7 @@ speelbarrow/spLauncher.nvim - https://github.com/speelbarrow/spLauncher.nvim - F
 al1-ce/just.nvim - https://github.com/al1-ce/just.nvim - Task runner for justfiles.
 niuiic/task.nvim - https://github.com/niuiic/task.nvim - Another highly configurable task manager that enables seamless interaction with tasks.
 chrisgrieser/nvim-justice - https://github.com/chrisgrieser/nvim-justice - Lightweight integration of the `just` task runner.
-folke/lazydev.nvim - https://github.com/folke/lazydev.nvim -  Faster LuaLS setup.
+folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 nvim-neorocks/luarocks-tag-release - https://github.com/nvim-neorocks/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
 svermeulen/vimpeccable - https://github.com/svermeulen/vimpeccable - Commands to help write your .vimrc in Lua or any Lua based language.
 rafcamlet/nvim-luapad - https://github.com/rafcamlet/nvim-luapad - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
@@ -715,7 +718,7 @@ nvim-lusc - https://github.com/svermeulen/nvim-lusc - Adds support for Structure
 CWood-sdf/banana.nvim - https://github.com/CWood-sdf/banana.nvim - HTML renderer for plugin UIs.
 OXY2DEV/helpview.nvim - https://github.com/OXY2DEV/helpview.nvim - Decorations for `vimdoc/help` files.
 niuiic/omega.nvim - https://github.com/niuiic/omega.nvim - Missing functions for Lua plugin development.
-2KAbhishek/utils.nvim - https://github.com/2kabhishek/utils.nvim - Powerful utilities to speed up plugin development.
+2KAbhishek/utils.nvim - https://github.com/2KAbhishek/utils.nvim - Powerful utilities to speed up plugin development.
 YaroSpace/lua-console.nvim - https://github.com/YaroSpace/lua-console.nvim - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel (Lisp to Lua).
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
@@ -752,7 +755,7 @@ pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 rawnly/gist.nvim - https://github.com/rawnly/gist.nvim - Create a GitHub Gist from the current file (powered by gh).
-2KAbhishek/octohub.nvim - https://github.com/2kabhishek/octohub.nvim - Access all your gihub repos, stats and more in simple keystrokes.
+2KAbhishek/octohub.nvim - https://github.com/2KAbhishek/octohub.nvim - Access all your gihub repos, stats and more in simple keystrokes.
 tris203/precognition.nvim - https://github.com/tris203/precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
 smoka7/hop.nvim - https://github.com/smoka7/hop.nvim - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 ggandor/lightspeed.nvim - https://github.com/ggandor/lightspeed.nvim - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
@@ -797,7 +800,7 @@ Nexmean/caskey.nvim - https://github.com/Nexmean/caskey.nvim - Utility to keymap
 Wansmer/langmapper.nvim - https://github.com/Wansmer/langmapper.nvim - Auto translating your mappings for non-English input methods.
 tris203/hawtkeys.nvim - https://github.com/tris203/hawtkeys.nvim - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 mawkler/demicolon.nvim - https://github.com/mawkler/demicolon.nvim - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
-debugloop/layers.nvim - https://github.com/debugloop/layers.nvim -  Craft temporary keymap overlays and layered modes with ease.
+debugloop/layers.nvim - https://github.com/debugloop/layers.nvim - Craft temporary keymap overlays and layered modes with ease.
 notomo/gesture.nvim - https://github.com/notomo/gesture.nvim - Mouse gesture plugin.
 karb94/neoscroll.nvim - https://github.com/karb94/neoscroll.nvim - Smooth scrolling.
 declancm/cinnamon.nvim - https://github.com/declancm/cinnamon.nvim - Smooth scrolling for any movement command.
@@ -968,6 +971,7 @@ jim-fx/sudoku.nvim - https://github.com/jim-fx/sudoku.nvim - Classic sudoku puzz
 p00f/cphelper.nvim - https://github.com/p00f/cphelper.nvim - Neovim helper for competitive programming written in Lua.
 xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugin to automate testcases management and checking for Competitive Programming contests.
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
+2KAbhishek/exercism.nvim - https://github.com/2KAbhishek/exercism.nvim - Browse and solve Exercism problems.
 m4xshen/hardtime.nvim - https://github.com/m4xshen/hardtime.nvim - Helping you establish good command workflow and habit.
 antonk52/bad-practices.nvim - https://github.com/antonk52/bad-practices.nvim - Helping you give up bad practices in Vim.
 Cris-lml007/NeoPlus - https://github.com/Cris-lml007/NeoPlus - NeoPlus is a free, open source IDE with tools that works on Neovim.
@@ -1012,7 +1016,7 @@ NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and b
 gennaro-tedesco/boilit - https://github.com/gennaro-tedesco/boilit - Create boilerplate structure plugins.
 m00qek/plugin-template.nvim - https://github.com/m00qek/plugin-template.nvim - A plugin template that setups test infrastructure and GitHub Actions.
 ellisonleao/nvim-plugin-template - https://github.com/ellisonleao/nvim-plugin-template - Another Neovim plugin template, using GitHub's template feature.
-2KAbhishek/template.nvim - https://github.com/2kabhishek/template.nvim - Opinionated template for starting plugin dev quickly.
+2KAbhishek/template.nvim - https://github.com/2KAbhishek/template.nvim - Opinionated template for starting plugin dev quickly.
 chrisgrieser/alfred-neovim-utilities - https://github.com/chrisgrieser/alfred-neovim-utilities - Search Neovim plugins and online `:help` via Alfred (macOS).
 massix/termux.nvim - https://github.com/massix/termux.nvim - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 m15a/flake-awesome-neovim-plugins - https://github.com/m15a/flake-awesome-neovim-plugins - Nix flake that provides Awesome Neovim plugins collection as Nix packages.
@@ -1024,4 +1028,4 @@ vim-plugin-list - https://github.com/altermo/vim-plugin-list - List of Vim and N
 Neovimcraft - https://neovimcraft.com - A site dedicated to searching specific plugins and guides for building plugins in Lua.
 Dotfyle - https://dotfyle.com - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
 NeoLand - https://neoland.dev - A beautifully crafted website for Neovim resources.
-Nvim-training -  https://github.com/Weyaaron/nvim-training - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+Nvim-training - https://github.com/Weyaaron/nvim-training - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
