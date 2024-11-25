@@ -3319,7 +3319,15 @@ CTRL-{char}	intro.txt	/*CTRL-{char}*
 ChanInfo	autocmd.txt	/*ChanInfo*
 ChanOpen	autocmd.txt	/*ChanOpen*
 Chinese	mbyte.txt	/*Chinese*
+Client:cancel_request()	lsp.txt	/*Client:cancel_request()*
 Client:exec_cmd()	lsp.txt	/*Client:exec_cmd()*
+Client:is_stopped()	lsp.txt	/*Client:is_stopped()*
+Client:notify()	lsp.txt	/*Client:notify()*
+Client:on_attach()	lsp.txt	/*Client:on_attach()*
+Client:request()	lsp.txt	/*Client:request()*
+Client:request_sync()	lsp.txt	/*Client:request_sync()*
+Client:stop()	lsp.txt	/*Client:stop()*
+Client:supports_method()	lsp.txt	/*Client:supports_method()*
 Cmd-event	autocmd.txt	/*Cmd-event*
 CmdUndefined	autocmd.txt	/*CmdUndefined*
 Cmdline	cmdline.txt	/*Cmdline*
