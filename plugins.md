@@ -292,6 +292,7 @@ miversen33/sunglasses.nvim - https://github.com/miversen33/sunglasses.nvim - Dyn
 rasulomaroff/reactive.nvim - https://github.com/rasulomaroff/reactive.nvim - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 moyiz/command-and-cursor.nvim - https://github.com/moyiz/command-and-cursor.nvim - Highlight cursor and visual selections when entering command mode.
 rachartier/tiny-devicons-auto-colors.nvim - https://github.com/rachartier/tiny-devicons-auto-colors.nvim - Automatically updates nvim-web-devicons colors based on your current colorscheme.
+TaDaa/vimade - https://github.com/TaDaa/vimade - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 sontungexpt/witch - https://github.com/sontungexpt/witch - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 Abstract-IDE/Abstract-cs - https://github.com/Abstract-IDE/Abstract-cs - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
 rafamadriz/neon - https://github.com/rafamadriz/neon - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
