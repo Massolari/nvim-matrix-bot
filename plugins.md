@@ -435,7 +435,7 @@ zaldih/themery.nvim - https://github.com/zaldih/themery.nvim - A new way to chan
 linrongbin16/colorbox.nvim - https://github.com/linrongbin16/colorbox.nvim - Load all the ultra colorschemes into your Neovim player!
 CWood-sdf/pineapple - https://github.com/CWood-sdf/pineapple - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
 BrunoCiccarino/gardenal - https://github.com/BrunoCiccarino/gardenal - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
-LmanTW/themify.nvim - https://github.com/LmanTW/themify.nvim/tree/main - A colorscheme manager and switcher. Inspired by Themery.nvim and Lazy.nvim.
+LmanTW/themify.nvim - https://github.com/LmanTW/themify.nvim/tree/main - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 Bekaboo/deadcolumn.nvim - https://github.com/Bekaboo/deadcolumn.nvim - Shows your colorcolumn dynamically.
 ecthelionvi/NeoColumn.nvim - https://github.com/ecthelionvi/NeoColumn.nvim - Toggleable colorcolumn highlighting specific characters.
 m4xshen/smartcolumn.nvim - https://github.com/m4xshen/smartcolumn.nvim - Hide your colorcolumn when unneeded.
