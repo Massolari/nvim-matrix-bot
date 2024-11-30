@@ -716,6 +716,7 @@ ray-x/guihua.lua - https://github.com/ray-x/guihua.lua - A Lua UI library. Inclu
 anuvyklack/animation.nvim - https://github.com/anuvyklack/animation.nvim - Create animations.
 nfrid/treesitter-utils - https://github.com/nfrid/treesitter-utils - Some useful Tree-sitter methods.
 nvim-lusc - https://github.com/svermeulen/nvim-lusc - Adds support for Structured Async/Concurrency in Lua.
+gregorias/coop.nvim - https://github.com/gregorias/coop.nvim - Structured concurrency with Lua coroutines.
 CWood-sdf/banana.nvim - https://github.com/CWood-sdf/banana.nvim - HTML renderer for plugin UIs.
 OXY2DEV/helpview.nvim - https://github.com/OXY2DEV/helpview.nvim - Decorations for `vimdoc/help` files.
 niuiic/omega.nvim - https://github.com/niuiic/omega.nvim - Missing functions for Lua plugin development.
@@ -911,6 +912,7 @@ niuiic/format.nvim - https://github.com/niuiic/format.nvim - An asynchronous, mu
 elentok/format-on-save.nvim - https://github.com/elentok/format-on-save.nvim - A synchronous formatter that combines LSP and non-LSP formatting (e.g. shfmt, stylua, prettier), focused specifically on format-on-save.
 stevearc/conform.nvim - https://github.com/stevearc/conform.nvim - A lightweight formatting engine that plays nice with LSP.
 nvimdev/guard.nvim - https://github.com/nvimdev/guard.nvim - Minimalist async formatting and linting plugin.
+paul-louyot/toggle-quotes.nvim - https://github.com/paul-louyot/toggle-quotes.nvim - Toggle between quotes.
 nvimdev/indentmini.nvim - https://github.com/nvimdev/indentmini.nvim - A minimal and blazing fast indentline plugin by using nvim_set_decoration_provide API.
 lukas-reineke/indent-blankline.nvim - https://github.com/lukas-reineke/indent-blankline.nvim - IndentLine replacement in Lua with more features and Tree-sitter support.
 LucasTavaresA/simpleIndentGuides.nvim - https://github.com/LucasTavaresA/simpleIndentGuides.nvim - Indentation guides using the builtin variables.
