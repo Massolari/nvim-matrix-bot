@@ -5237,13 +5237,16 @@ compiler-groff	quickfix.txt	/*compiler-groff*
 compiler-hpada	ft_ada.txt	/*compiler-hpada*
 compiler-javac	quickfix.txt	/*compiler-javac*
 compiler-make	quickfix.txt	/*compiler-make*
+compiler-maven	quickfix.txt	/*compiler-maven*
 compiler-mypy	quickfix.txt	/*compiler-mypy*
 compiler-pandoc	quickfix.txt	/*compiler-pandoc*
 compiler-perl	quickfix.txt	/*compiler-perl*
 compiler-pylint	quickfix.txt	/*compiler-pylint*
+compiler-pytest	quickfix.txt	/*compiler-pytest*
 compiler-pyunit	quickfix.txt	/*compiler-pyunit*
 compiler-ruff	quickfix.txt	/*compiler-ruff*
 compiler-select	quickfix.txt	/*compiler-select*
+compiler-spotbugs	quickfix.txt	/*compiler-spotbugs*
 compiler-tex	quickfix.txt	/*compiler-tex*
 compiler-typst	quickfix.txt	/*compiler-typst*
 compiler-vaxada	ft_ada.txt	/*compiler-vaxada*
@@ -5513,6 +5516,7 @@ diagnostic-events	diagnostic.txt	/*diagnostic-events*
 diagnostic-handlers	diagnostic.txt	/*diagnostic-handlers*
 diagnostic-handlers-example	diagnostic.txt	/*diagnostic-handlers-example*
 diagnostic-highlights	diagnostic.txt	/*diagnostic-highlights*
+diagnostic-loclist-example	diagnostic.txt	/*diagnostic-loclist-example*
 diagnostic-quickstart	diagnostic.txt	/*diagnostic-quickstart*
 diagnostic-severity	diagnostic.txt	/*diagnostic-severity*
 diagnostic-signs	diagnostic.txt	/*diagnostic-signs*
@@ -9133,6 +9137,7 @@ statusmsg-variable	vvars.txt	/*statusmsg-variable*
 stderr-variable	vvars.txt	/*stderr-variable*
 stdioopen()	builtin.txt	/*stdioopen()*
 stdpath()	builtin.txt	/*stdpath()*
+stl-%!	options.txt	/*stl-%!*
 stl-%{	options.txt	/*stl-%{*
 str2float()	builtin.txt	/*str2float()*
 str2list()	builtin.txt	/*str2list()*
@@ -10150,6 +10155,7 @@ vim.fs	lua.txt	/*vim.fs*
 vim.fs.basename()	lua.txt	/*vim.fs.basename()*
 vim.fs.dir()	lua.txt	/*vim.fs.dir()*
 vim.fs.dirname()	lua.txt	/*vim.fs.dirname()*
+vim.fs.exists()	lua.txt	/*vim.fs.exists()*
 vim.fs.find()	lua.txt	/*vim.fs.find()*
 vim.fs.joinpath()	lua.txt	/*vim.fs.joinpath()*
 vim.fs.normalize()	lua.txt	/*vim.fs.normalize()*
@@ -10198,7 +10204,6 @@ vim.list_contains()	lua.txt	/*vim.list_contains()*
 vim.list_extend()	lua.txt	/*vim.list_extend()*
 vim.list_slice()	lua.txt	/*vim.list_slice()*
 vim.loader	lua.txt	/*vim.loader*
-vim.loader.disable()	lua.txt	/*vim.loader.disable()*
 vim.loader.enable()	lua.txt	/*vim.loader.enable()*
 vim.loader.find()	lua.txt	/*vim.loader.find()*
 vim.loader.reset()	lua.txt	/*vim.loader.reset()*
@@ -10309,6 +10314,9 @@ vim.lsp.diagnostic.set_underline()	deprecated.txt	/*vim.lsp.diagnostic.set_under
 vim.lsp.diagnostic.set_virtual_text()	deprecated.txt	/*vim.lsp.diagnostic.set_virtual_text()*
 vim.lsp.diagnostic.show_line_diagnostics()	deprecated.txt	/*vim.lsp.diagnostic.show_line_diagnostics()*
 vim.lsp.diagnostic.show_position_diagnostics()	deprecated.txt	/*vim.lsp.diagnostic.show_position_diagnostics()*
+vim.lsp.foldclose()	lsp.txt	/*vim.lsp.foldclose()*
+vim.lsp.foldexpr()	lsp.txt	/*vim.lsp.foldexpr()*
+vim.lsp.foldtext()	lsp.txt	/*vim.lsp.foldtext()*
 vim.lsp.for_each_buffer_client()	deprecated.txt	/*vim.lsp.for_each_buffer_client()*
 vim.lsp.formatexpr()	lsp.txt	/*vim.lsp.formatexpr()*
 vim.lsp.get_active_clients()	deprecated.txt	/*vim.lsp.get_active_clients()*
