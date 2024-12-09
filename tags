@@ -415,9 +415,9 @@ $quote	eval.txt	/*$quote*
 'mef'	options.txt	/*'mef'*
 'menc'	options.txt	/*'menc'*
 'menuitems'	options.txt	/*'menuitems'*
+'messagesopt'	options.txt	/*'messagesopt'*
 'mfd'	options.txt	/*'mfd'*
 'mh'	options.txt	/*'mh'*
-'mhi'	options.txt	/*'mhi'*
 'mis'	options.txt	/*'mis'*
 'mkspellmem'	options.txt	/*'mkspellmem'*
 'ml'	options.txt	/*'ml'*
@@ -431,6 +431,7 @@ $quote	eval.txt	/*$quote*
 'modelines'	options.txt	/*'modelines'*
 'modifiable'	options.txt	/*'modifiable'*
 'modified'	options.txt	/*'modified'*
+'mopt'	options.txt	/*'mopt'*
 'more'	options.txt	/*'more'*
 'mouse'	options.txt	/*'mouse'*
 'mousef'	options.txt	/*'mousef'*
@@ -447,7 +448,6 @@ $quote	eval.txt	/*$quote*
 'mousetime'	options.txt	/*'mousetime'*
 'mp'	options.txt	/*'mp'*
 'mps'	options.txt	/*'mps'*
-'msghistory'	options.txt	/*'msghistory'*
 'msm'	options.txt	/*'msm'*
 'nf'	options.txt	/*'nf'*
 'noacd'	options.txt	/*'noacd'*
@@ -4211,7 +4211,7 @@ E996	eval.txt	/*E996*
 E998	builtin.txt	/*E998*
 EX	intro.txt	/*EX*
 EXINIT	starting.txt	/*EXINIT*
-Elvis	intro.txt	/*Elvis*
+Elvis	credits.txt	/*Elvis*
 EncodingChanged	deprecated.txt	/*EncodingChanged*
 Ex	intro.txt	/*Ex*
 Ex-commands	index.txt	/*Ex-commands*
@@ -4340,7 +4340,7 @@ NoDefaultCurrentDirectoryInExePath	builtin.txt	/*NoDefaultCurrentDirectoryInExeP
 Normal	intro.txt	/*Normal*
 Normal-mode	intro.txt	/*Normal-mode*
 Number	eval.txt	/*Number*
-Nvi	intro.txt	/*Nvi*
+Nvi	credits.txt	/*Nvi*
 O	insert.txt	/*O*
 Operator-pending	intro.txt	/*Operator-pending*
 Operator-pending-mode	intro.txt	/*Operator-pending-mode*
@@ -4527,8 +4527,9 @@ User	autocmd.txt	/*User*
 UserGettingBored	autocmd.txt	/*UserGettingBored*
 V	visual.txt	/*V*
 VIMINIT	starting.txt	/*VIMINIT*
-Vi	intro.txt	/*Vi*
+Vi	credits.txt	/*Vi*
 View	starting.txt	/*View*
+Vim9script	vim_diff.txt	/*Vim9script*
 VimEnter	autocmd.txt	/*VimEnter*
 VimLeave	autocmd.txt	/*VimLeave*
 VimLeavePre	autocmd.txt	/*VimLeavePre*
@@ -4907,7 +4908,7 @@ b:yaml_schema	syntax.txt	/*b:yaml_schema*
 baan-folding	syntax.txt	/*baan-folding*
 baan-syntax	syntax.txt	/*baan-syntax*
 baan.vim	syntax.txt	/*baan.vim*
-backers.txt	backers.txt	/*backers.txt*
+backers.txt	credits.txt	/*backers.txt*
 backslash	intro.txt	/*backslash*
 backspace	intro.txt	/*backspace*
 backtick-expansion	editing.txt	/*backtick-expansion*
@@ -5361,7 +5362,8 @@ cpo-y	options.txt	/*cpo-y*
 cpp.vim	syntax.txt	/*cpp.vim*
 crash-recovery	recover.txt	/*crash-recovery*
 creating-menus	gui.txt	/*creating-menus*
-credits	intro.txt	/*credits*
+credits	credits.txt	/*credits*
+credits.txt	credits.txt	/*credits.txt*
 crontab	options.txt	/*crontab*
 cscope	vim_diff.txt	/*cscope*
 cscope_connection()	vim_diff.txt	/*cscope_connection()*
@@ -5787,6 +5789,7 @@ fcs_choice-variable	vvars.txt	/*fcs_choice-variable*
 fcs_reason-variable	vvars.txt	/*fcs_reason-variable*
 feature-compile	vim_diff.txt	/*feature-compile*
 feature-list	builtin.txt	/*feature-list*
+feature-request	intro.txt	/*feature-request*
 feedkeys()	builtin.txt	/*feedkeys()*
 fetch	pi_netrw.txt	/*fetch*
 file-formats	editing.txt	/*file-formats*
@@ -5910,7 +5913,7 @@ freebasic_no_comment_fold	syntax.txt	/*freebasic_no_comment_fold*
 freebasic_operators	syntax.txt	/*freebasic_operators*
 freebasic_space_errors	syntax.txt	/*freebasic_space_errors*
 freebasic_type_suffixes	syntax.txt	/*freebasic_type_suffixes*
-friendship	intro.txt	/*friendship*
+friendship	credits.txt	/*friendship*
 frombook	usr_01.txt	/*frombook*
 ft-abel-syntax	syntax.txt	/*ft-abel-syntax*
 ft-ada-commands	ft_ada.txt	/*ft-ada-commands*
@@ -6557,7 +6560,7 @@ grep	quickfix.txt	/*grep*
 gri	lsp.txt	/*gri*
 grn	lsp.txt	/*grn*
 groff.vim	syntax.txt	/*groff.vim*
-gross-national-happiness	intro.txt	/*gross-national-happiness*
+gross-national-happiness	credits.txt	/*gross-national-happiness*
 group-name	syntax.txt	/*group-name*
 grr	lsp.txt	/*grr*
 gs	various.txt	/*gs*
@@ -6580,6 +6583,7 @@ gui.txt	gui.txt	/*gui.txt*
 guibg	syntax.txt	/*guibg*
 guifg	syntax.txt	/*guifg*
 guisp	syntax.txt	/*guisp*
+gutter	sign.txt	/*gutter*
 guu	change.txt	/*guu*
 gv	visual.txt	/*gv*
 gvimrc	gui.txt	/*gvimrc*
@@ -7050,6 +7054,7 @@ inserting	insert.txt	/*inserting*
 inserting-ex	insert.txt	/*inserting-ex*
 inserting-file	insert.txt	/*inserting-file*
 insertmode-variable	vvars.txt	/*insertmode-variable*
+install	intro.txt	/*install*
 intel-itanium	syntax.txt	/*intel-itanium*
 interactive-functions	usr_41.txt	/*interactive-functions*
 internal-variables	eval.txt	/*internal-variables*
@@ -7129,6 +7134,7 @@ key-codes	intro.txt	/*key-codes*
 key-mapping	map.txt	/*key-mapping*
 key-notation	intro.txt	/*key-notation*
 key-variable	vvars.txt	/*key-variable*
+keybind	map.txt	/*keybind*
 keycodes	intro.txt	/*keycodes*
 keymap-accents	mbyte.txt	/*keymap-accents*
 keymap-file-format	mbyte.txt	/*keymap-file-format*
@@ -7155,6 +7161,7 @@ keypad-plus	intro.txt	/*keypad-plus*
 keypad-point	intro.txt	/*keypad-point*
 keys()	builtin.txt	/*keys()*
 keytrans()	builtin.txt	/*keytrans()*
+kickstart	nvim.txt	/*kickstart*
 kwargs	lua.txt	/*kwargs*
 l	motion.txt	/*l*
 l:	eval.txt	/*l:*
@@ -7168,6 +7175,7 @@ last-pattern	pattern.txt	/*last-pattern*
 last-position-jump	usr_05.txt	/*last-position-jump*
 last_buffer_nr()	deprecated.txt	/*last_buffer_nr()*
 latex-syntax	syntax.txt	/*latex-syntax*
+lazyvim	nvim.txt	/*lazyvim*
 lc_time-variable	vvars.txt	/*lc_time-variable*
 lcs-conceal	options.txt	/*lcs-conceal*
 lcs-eol	options.txt	/*lcs-eol*
@@ -7238,7 +7246,7 @@ log	starting.txt	/*log*
 log()	builtin.txt	/*log()*
 log10()	builtin.txt	/*log10()*
 log_levels	lua.txt	/*log_levels*
-love	intro.txt	/*love*
+love	credits.txt	/*love*
 lowercase	change.txt	/*lowercase*
 lpc.vim	syntax.txt	/*lpc.vim*
 lsp	lsp.txt	/*lsp*
@@ -8122,6 +8130,7 @@ numbered-function	eval.txt	/*numbered-function*
 numbermax-variable	vvars.txt	/*numbermax-variable*
 numbermin-variable	vvars.txt	/*numbermin-variable*
 numbersize-variable	vvars.txt	/*numbersize-variable*
+nvchad	nvim.txt	/*nvchad*
 nvim	nvim.txt	/*nvim*
 nvim-changed	vim_diff.txt	/*nvim-changed*
 nvim-config	vim_diff.txt	/*nvim-config*
@@ -8130,6 +8139,7 @@ nvim-features	vim_diff.txt	/*nvim-features*
 nvim-from-vim	nvim.txt	/*nvim-from-vim*
 nvim-intro	nvim.txt	/*nvim-intro*
 nvim-missing	vim_diff.txt	/*nvim-missing*
+nvim-quickstart	nvim.txt	/*nvim-quickstart*
 nvim-removed	vim_diff.txt	/*nvim-removed*
 nvim-upstreamed	vim_diff.txt	/*nvim-upstreamed*
 nvim.txt	nvim.txt	/*nvim.txt*
@@ -8418,7 +8428,7 @@ pattern-searches	pattern.txt	/*pattern-searches*
 pattern.txt	pattern.txt	/*pattern.txt*
 patterns-composing	pattern.txt	/*patterns-composing*
 pcall()	luaref.txt	/*pcall()*
-peace	intro.txt	/*peace*
+peace	credits.txt	/*peace*
 perl	if_perl.txt	/*perl*
 perl-Blob	if_perl.txt	/*perl-Blob*
 perl-Buffer-Append	if_perl.txt	/*perl-Buffer-Append*
@@ -8703,6 +8713,7 @@ replacing-ex	insert.txt	/*replacing-ex*
 require()	luaref.txt	/*require()*
 reselect-Visual	visual.txt	/*reselect-Visual*
 resolve()	builtin.txt	/*resolve()*
+resources	intro.txt	/*resources*
 restore-cursor	usr_05.txt	/*restore-cursor*
 restore-position	tips.txt	/*restore-position*
 retab-example	change.txt	/*retab-example*
@@ -9352,6 +9363,7 @@ terminal-input	terminal.txt	/*terminal-input*
 terminal-mode-index	index.txt	/*terminal-mode-index*
 terminal-osc52	terminal.txt	/*terminal-osc52*
 terminal-osc7	terminal.txt	/*terminal-osc7*
+terminal-scrollback-pager	api.txt	/*terminal-scrollback-pager*
 terminal-start	terminal.txt	/*terminal-start*
 terminal-status	terminal.txt	/*terminal-status*
 terminal.txt	terminal.txt	/*terminal.txt*
@@ -9478,6 +9490,7 @@ type-mistakes	tips.txt	/*type-mistakes*
 typescript.vim	syntax.txt	/*typescript.vim*
 typescriptreact.vim	syntax.txt	/*typescriptreact.vim*
 u	undo.txt	/*u*
+ubuntu	intro.txt	/*ubuntu*
 uganda	uganda.txt	/*uganda*
 uganda.txt	uganda.txt	/*uganda.txt*
 ui	ui.txt	/*ui*
@@ -9526,10 +9539,12 @@ undo_indent	usr_41.txt	/*undo_indent*
 undofile()	builtin.txt	/*undofile()*
 undotree()	builtin.txt	/*undotree()*
 unicode	mbyte.txt	/*unicode*
+uninstall	intro.txt	/*uninstall*
 uniq()	builtin.txt	/*uniq()*
 unlisted-buffer	windows.txt	/*unlisted-buffer*
 unpack()	luaref.txt	/*unpack()*
 up-down-motions	motion.txt	/*up-down-motions*
+upgrade	intro.txt	/*upgrade*
 uppercase	change.txt	/*uppercase*
 use-cpo-save	usr_41.txt	/*use-cpo-save*
 useful-mappings	tips.txt	/*useful-mappings*
@@ -10066,11 +10081,19 @@ vb.vim	syntax.txt	/*vb.vim*
 verbose	starting.txt	/*verbose*
 version-range	lua.txt	/*version-range*
 version-variable	vvars.txt	/*version-variable*
-vi	intro.txt	/*vi*
+vi	credits.txt	/*vi*
 vi-differences	vi_diff.txt	/*vi-differences*
 vi:	options.txt	/*vi:*
 vi_diff.txt	vi_diff.txt	/*vi_diff.txt*
 vib	motion.txt	/*vib*
+vietnamese-ime_diff	vietnamese.txt	/*vietnamese-ime_diff*
+vietnamese-intro	vietnamese.txt	/*vietnamese-intro*
+vietnamese-keymap	vietnamese.txt	/*vietnamese-keymap*
+vietnamese-l10n	vietnamese.txt	/*vietnamese-l10n*
+vietnamese-telex_utf-8	vietnamese.txt	/*vietnamese-telex_utf-8*
+vietnamese-viqr_utf-8	vietnamese.txt	/*vietnamese-viqr_utf-8*
+vietnamese-vni_utf-8	vietnamese.txt	/*vietnamese-vni_utf-8*
+vietnamese.txt	vietnamese.txt	/*vietnamese.txt*
 view-diffs	diff.txt	/*view-diffs*
 view-file	starting.txt	/*view-file*
 views-sessions	starting.txt	/*views-sessions*
@@ -10354,7 +10377,6 @@ vim.lsp.semantic_tokens.start()	lsp.txt	/*vim.lsp.semantic_tokens.start()*
 vim.lsp.semantic_tokens.stop()	lsp.txt	/*vim.lsp.semantic_tokens.stop()*
 vim.lsp.set_log_level()	lsp.txt	/*vim.lsp.set_log_level()*
 vim.lsp.start()	lsp.txt	/*vim.lsp.start()*
-vim.lsp.start_client()	lsp.txt	/*vim.lsp.start_client()*
 vim.lsp.status()	lsp.txt	/*vim.lsp.status()*
 vim.lsp.stop_client()	lsp.txt	/*vim.lsp.stop_client()*
 vim.lsp.tagfunc()	lsp.txt	/*vim.lsp.tagfunc()*
@@ -10582,6 +10604,7 @@ visual-use	visual.txt	/*visual-use*
 visual.txt	visual.txt	/*visual.txt*
 visualmode()	builtin.txt	/*visualmode()*
 vreplace-mode	insert.txt	/*vreplace-mode*
+vscode	gui.txt	/*vscode*
 vvars	vvars.txt	/*vvars*
 vvars.txt	vvars.txt	/*vvars.txt*
 w	motion.txt	/*w*
@@ -10601,6 +10624,7 @@ wildcards	editing.txt	/*wildcards*
 wildmenumode()	builtin.txt	/*wildmenumode()*
 win-scrolled-resized	windows.txt	/*win-scrolled-resized*
 win32-hidden-menus	gui.txt	/*win32-hidden-menus*
+win32yank	provider.txt	/*win32yank*
 win_execute()	builtin.txt	/*win_execute()*
 win_findbuf()	builtin.txt	/*win_findbuf()*
 win_getid()	builtin.txt	/*win_getid()*
