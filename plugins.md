@@ -789,6 +789,8 @@ gsuuon/tshjkl.nvim - https://github.com/gsuuon/tshjkl.nvim - Toggle to navigate 
 backdround/neowords.nvim - https://github.com/backdround/neowords.nvim - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 backdround/improved-ft.nvim - https://github.com/backdround/improved-ft.nvim - Improve default `f`/`t` abilities.
 Mr-LLLLL/treesitter-outer - https://github.com/Mr-LLLLL/treesitter-outer - Jump to outer node with smart.
+DanilaMihailov/beacon.nvim - https://github.com/DanilaMihailov/beacon.nvim - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+Aaronik/Treewalker.nvim - https://github.com/aaronik/Treewalker.nvim - Move seamlessly around the abstract syntax tree.
 mfussenegger/nvim-treehopper - https://github.com/mfussenegger/nvim-treehopper - Region selection with hints on the AST nodes of a document powered by Tree-sitter.
 ziontee113/syntax-tree-surfer - https://github.com/ziontee113/syntax-tree-surfer - Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
 drybalka/tree-climber.nvim - https://github.com/drybalka/tree-climber.nvim - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
@@ -978,6 +980,7 @@ rktjmp/playtime.nvim - https://github.com/rktjmp/playtime.nvim - A collection of
 Eandrju/cellular-automaton.nvim - https://github.com/Eandrju/cellular-automaton.nvim - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
 alanfortlink/blackjack.nvim - https://github.com/alanfortlink/blackjack.nvim - Classic Black Jack game.
 jim-fx/sudoku.nvim - https://github.com/jim-fx/sudoku.nvim - Classic sudoku puzzle.
+csessh/aoc.vim - https://github.com/csessh/aoc.nvim - Simple little elf who fetches Advent of Code puzzle input for you.
 p00f/cphelper.nvim - https://github.com/p00f/cphelper.nvim - Neovim helper for competitive programming written in Lua.
 xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugin to automate testcases management and checking for Competitive Programming contests.
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
