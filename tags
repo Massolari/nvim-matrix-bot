@@ -7015,6 +7015,7 @@ ignore-timestamp	editing.txt	/*ignore-timestamp*
 inactive-buffer	windows.txt	/*inactive-buffer*
 include-search	tagsrch.txt	/*include-search*
 inclusive	motion.txt	/*inclusive*
+inclusive-motion-selection-exclusive	motion.txt	/*inclusive-motion-selection-exclusive*
 indent()	builtin.txt	/*indent()*
 indent-expression	indent.txt	/*indent-expression*
 indent.txt	indent.txt	/*indent.txt*
@@ -7251,6 +7252,7 @@ lowercase	change.txt	/*lowercase*
 lpc.vim	syntax.txt	/*lpc.vim*
 lsp	lsp.txt	/*lsp*
 lsp-api	lsp.txt	/*lsp-api*
+lsp-attach	lsp.txt	/*lsp-attach*
 lsp-buf	lsp.txt	/*lsp-buf*
 lsp-client	lsp.txt	/*lsp-client*
 lsp-codelens	lsp.txt	/*lsp-codelens*
@@ -10257,6 +10259,7 @@ vim.lpeg.version()	lua.txt	/*vim.lpeg.version()*
 vim.lsp.Client	lsp.txt	/*vim.lsp.Client*
 vim.lsp.Client.Progress	lsp.txt	/*vim.lsp.Client.Progress*
 vim.lsp.ClientConfig	lsp.txt	/*vim.lsp.ClientConfig*
+vim.lsp.Config	lsp.txt	/*vim.lsp.Config*
 vim.lsp.ListOpts	lsp.txt	/*vim.lsp.ListOpts*
 vim.lsp.LocationOpts	lsp.txt	/*vim.lsp.LocationOpts*
 vim.lsp.LocationOpts.OnList	lsp.txt	/*vim.lsp.LocationOpts.OnList*
@@ -10308,6 +10311,7 @@ vim.lsp.commands	lsp.txt	/*vim.lsp.commands*
 vim.lsp.completion.BufferOpts	lsp.txt	/*vim.lsp.completion.BufferOpts*
 vim.lsp.completion.enable()	lsp.txt	/*vim.lsp.completion.enable()*
 vim.lsp.completion.trigger()	lsp.txt	/*vim.lsp.completion.trigger()*
+vim.lsp.config()	lsp.txt	/*vim.lsp.config()*
 vim.lsp.diagnostic.clear()	deprecated.txt	/*vim.lsp.diagnostic.clear()*
 vim.lsp.diagnostic.disable()	deprecated.txt	/*vim.lsp.diagnostic.disable()*
 vim.lsp.diagnostic.display()	deprecated.txt	/*vim.lsp.diagnostic.display()*
@@ -10337,6 +10341,7 @@ vim.lsp.diagnostic.set_underline()	deprecated.txt	/*vim.lsp.diagnostic.set_under
 vim.lsp.diagnostic.set_virtual_text()	deprecated.txt	/*vim.lsp.diagnostic.set_virtual_text()*
 vim.lsp.diagnostic.show_line_diagnostics()	deprecated.txt	/*vim.lsp.diagnostic.show_line_diagnostics()*
 vim.lsp.diagnostic.show_position_diagnostics()	deprecated.txt	/*vim.lsp.diagnostic.show_position_diagnostics()*
+vim.lsp.enable()	lsp.txt	/*vim.lsp.enable()*
 vim.lsp.foldclose()	lsp.txt	/*vim.lsp.foldclose()*
 vim.lsp.foldexpr()	lsp.txt	/*vim.lsp.foldexpr()*
 vim.lsp.foldtext()	lsp.txt	/*vim.lsp.foldtext()*
