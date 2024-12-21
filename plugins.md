@@ -791,6 +791,7 @@ backdround/improved-ft.nvim - https://github.com/backdround/improved-ft.nvim - I
 Mr-LLLLL/treesitter-outer - https://github.com/Mr-LLLLL/treesitter-outer - Jump to outer node with smart.
 DanilaMihailov/beacon.nvim - https://github.com/DanilaMihailov/beacon.nvim - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
 Aaronik/Treewalker.nvim - https://github.com/aaronik/Treewalker.nvim - Move seamlessly around the abstract syntax tree.
+sphamba/smear-cursor.nvim - https://github.com/sphamba/smear-cursor.nvim - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 mfussenegger/nvim-treehopper - https://github.com/mfussenegger/nvim-treehopper - Region selection with hints on the AST nodes of a document powered by Tree-sitter.
 ziontee113/syntax-tree-surfer - https://github.com/ziontee113/syntax-tree-surfer - Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
 drybalka/tree-climber.nvim - https://github.com/drybalka/tree-climber.nvim - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
