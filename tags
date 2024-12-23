@@ -2408,6 +2408,8 @@ $quote	eval.txt	/*$quote*
 :packadd	repeat.txt	/*:packadd*
 :packl	repeat.txt	/*:packl*
 :packloadall	repeat.txt	/*:packloadall*
+:pb	windows.txt	/*:pb*
+:pbuffer	windows.txt	/*:pbuffer*
 :pc	windows.txt	/*:pc*
 :pclose	windows.txt	/*:pclose*
 :ped	windows.txt	/*:ped*
@@ -4498,6 +4500,7 @@ TabLeave	autocmd.txt	/*TabLeave*
 TabNew	autocmd.txt	/*TabNew*
 TabNewEntered	autocmd.txt	/*TabNewEntered*
 TermClose	autocmd.txt	/*TermClose*
+TermCursorNC	deprecated.txt	/*TermCursorNC*
 TermEnter	autocmd.txt	/*TermEnter*
 TermLeave	autocmd.txt	/*TermLeave*
 TermOpen	autocmd.txt	/*TermOpen*
@@ -5875,6 +5878,7 @@ fold-create-marker	fold.txt	/*fold-create-marker*
 fold-delete-marker	fold.txt	/*fold-delete-marker*
 fold-diff	fold.txt	/*fold-diff*
 fold-expr	fold.txt	/*fold-expr*
+fold-expr-slow	fold.txt	/*fold-expr-slow*
 fold-foldcolumn	fold.txt	/*fold-foldcolumn*
 fold-foldlevel	fold.txt	/*fold-foldlevel*
 fold-foldtext	fold.txt	/*fold-foldtext*
@@ -6667,6 +6671,7 @@ hit-return	message.txt	/*hit-return*
 hitest.vim	syntax.txt	/*hitest.vim*
 hjkl	usr_02.txt	/*hjkl*
 hl-ColorColumn	syntax.txt	/*hl-ColorColumn*
+hl-ComplMatchIns	syntax.txt	/*hl-ComplMatchIns*
 hl-Conceal	syntax.txt	/*hl-Conceal*
 hl-CurSearch	syntax.txt	/*hl-CurSearch*
 hl-Cursor	syntax.txt	/*hl-Cursor*
@@ -6835,7 +6840,6 @@ hl-TabLine	syntax.txt	/*hl-TabLine*
 hl-TabLineFill	syntax.txt	/*hl-TabLineFill*
 hl-TabLineSel	syntax.txt	/*hl-TabLineSel*
 hl-TermCursor	syntax.txt	/*hl-TermCursor*
-hl-TermCursorNC	syntax.txt	/*hl-TermCursorNC*
 hl-Title	syntax.txt	/*hl-Title*
 hl-Tooltip	syntax.txt	/*hl-Tooltip*
 hl-User1	syntax.txt	/*hl-User1*
@@ -9370,7 +9374,7 @@ terminal-start	terminal.txt	/*terminal-start*
 terminal-status	terminal.txt	/*terminal-status*
 terminal.txt	terminal.txt	/*terminal.txt*
 terminfo	tui.txt	/*terminfo*
-termopen()	builtin.txt	/*termopen()*
+termopen()	deprecated.txt	/*termopen()*
 termrequest-variable	vvars.txt	/*termrequest-variable*
 termresponse-variable	vvars.txt	/*termresponse-variable*
 ternary	eval.txt	/*ternary*
