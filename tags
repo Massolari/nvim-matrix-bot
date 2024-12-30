@@ -10181,6 +10181,7 @@ vim.filetype.get_option()	lua.txt	/*vim.filetype.get_option()*
 vim.filetype.match()	lua.txt	/*vim.filetype.match()*
 vim.fn	lua.txt	/*vim.fn*
 vim.fs	lua.txt	/*vim.fs*
+vim.fs.abspath()	lua.txt	/*vim.fs.abspath()*
 vim.fs.basename()	lua.txt	/*vim.fs.basename()*
 vim.fs.dir()	lua.txt	/*vim.fs.dir()*
 vim.fs.dirname()	lua.txt	/*vim.fs.dirname()*
