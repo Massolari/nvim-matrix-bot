@@ -183,7 +183,7 @@ roobert/surround-ui.nvim - https://github.com/roobert/surround-ui.nvim - Helper 
 echasnovski/mini.nvim#mini.surround - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-surround.md - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, Tree-sitter integration, and more.
 m-demare/hlargs.nvim - https://github.com/m-demare/hlargs.nvim - Highlight arguments' definitions and usages, using Tree-sitter.
 LhKipp/nvim-nu - https://github.com/LhKipp/nvim-nu - Basic editor support for the nushell language.
-desdic/agrolens.nvim - https://github.com/desdic/agrolens.nvim - Navigate via Tree-sitter nodes using Telescope.
+desdic/agrolens.nvim - https://github.com/desdic/agrolens.nvim - Navigate via Tree-sitter nodes using Telescope or FZF.
 IndianBoy42/tree-sitter-just - https://github.com/IndianBoy42/tree-sitter-just - Tree-sitter grammar for [Justfiles](https://github.com/casey/just).
 norcalli/snippets.nvim - https://github.com/norcalli/snippets.nvim - Snippets in Lua.
 L3MON4D3/LuaSnip - https://github.com/L3MON4D3/LuaSnip - A snippet engine written in Lua.
@@ -948,6 +948,7 @@ rmagatti/auto-session - https://github.com/rmagatti/auto-session - A small autom
 echasnovski/mini.nvim#mini.sessions - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md - Module of `mini.nvim` for session management (read, write, delete).
 gennaro-tedesco/nvim-possession - https://github.com/gennaro-tedesco/nvim-possession - The no-nonsense session manager.
 olimorris/persisted.nvim - https://github.com/olimorris/persisted.nvim - Simple session management with Git branching, autosave/autoload and Telescope support.
+folke/persistence.nvim - https://github.com/folke/persistence.nvim - Simple automated session management.
 Shatur/neovim-session-manager - https://github.com/Shatur/neovim-session-manager - A simple wrapper around :mksession.
 jedrzejboczar/possession.nvim - https://github.com/jedrzejboczar/possession.nvim - Flexible session management with arbitrary persistent data stored as JSON.
 niuiic/multiple-session.nvim - https://github.com/niuiic/multiple-session.nvim - Provides multi-session management capabilities.
