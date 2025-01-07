@@ -282,6 +282,7 @@ desdic/telescope-rooter.nvim - https://github.com/desdic/telescope-rooter.nvim -
 SalOrak/whaler.nvim - https://github.com/SalOrak/whaler.nvim - Telescope extension to move between directories blazingly fast.
 echasnovski/mini.nvim#mini.visits - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
 LintaoAmons/cd-project.nvim - https://github.com/LintaoAmons/cd-project.nvim - All you need is just an easier way to `cd` to another project directory.
+LucasTavaresA/headers.nvim - https://github.com/LucasTavaresA/headers.nvim - Zero-config header/footer warnings.
 catgoose/nvim-colorizer.lua - https://github.com/catgoose/nvim-colorizer.lua - A high-performance color highlighter which has no external dependencies.
 winston0410/range-highlight.nvim - https://github.com/winston0410/range-highlight.nvim - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
 xiyaowong/transparent.nvim - https://github.com/xiyaowong/transparent.nvim - Make your Neovim transparent.
