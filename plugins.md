@@ -742,6 +742,7 @@ udayvir-singh/hibiscus.nvim - https://github.com/udayvir-singh/hibiscus.nvim - H
 vuki656/package-info.nvim - https://github.com/vuki656/package-info.nvim - Display latest package version as virtual text in package.json.
 Saecki/crates.nvim - https://github.com/Saecki/crates.nvim - Rust dependency management for `Cargo.toml`.
 piersolenski/telescope-import.nvim - https://github.com/piersolenski/telescope-import.nvim - Import modules faster based on what you've already imported in your project.
+mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show Git blame info.
 trevorhauter/gitportal.nvim - https://github.com/trevorhauter/gitportal.nvim - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
 lewis6991/gitsigns.nvim - https://github.com/lewis6991/gitsigns.nvim - Git integration: signs, hunk actions, blame, etc.
@@ -976,6 +977,7 @@ jyscao/ventana.nvim - https://github.com/jyscao/ventana.nvim - Convenient flips 
 mrjones2014/smart-splits.nvim - https://github.com/mrjones2014/smart-splits.nvim - Smart, seamless, directional navigation and resizing of splits.
 altermo/nwm - https://github.com/altermo/nwm - X11 window manager.
 MisanthropicBit/winmove.nvim - https://github.com/MisanthropicBit/winmove.nvim - Easily move, swap, and resize windows.
+ycdzj/win-mover.nvim - https://github.com/ycdzj/win-mover.nvim - Window mover that avoids moving side windows.
 aserowy/tmux.nvim - https://github.com/aserowy/tmux.nvim - Tmux integration features pane movement and resizing.
 danielpieper/telescope-tmuxinator.nvim - https://github.com/danielpieper/telescope-tmuxinator.nvim - Integration for tmuxinator with telescope.nvim.
 hkupty/nvimux - https://github.com/hkupty/nvimux - Neovim as tmux replacement.
