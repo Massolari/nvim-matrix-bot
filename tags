@@ -1575,6 +1575,7 @@ $quote	eval.txt	/*$quote*
 :Inspect	lua.txt	/*:Inspect*
 :Inspect!	lua.txt	/*:Inspect!*
 :InspectTree	treesitter.txt	/*:InspectTree*
+:Justify	usr_25.txt	/*:Justify*
 :Launch	pi_netrw.txt	/*:Launch*
 :Lexplore	pi_netrw.txt	/*:Lexplore*
 :Lfilter	quickfix.txt	/*:Lfilter*
@@ -4289,6 +4290,7 @@ Iter:take()	lua.txt	/*Iter:take()*
 Iter:totable()	lua.txt	/*Iter:totable()*
 J	change.txt	/*J*
 Japanese	mbyte.txt	/*Japanese*
+Justify()	usr_25.txt	/*Justify()*
 K	various.txt	/*K*
 K-lsp-default	various.txt	/*K-lsp-default*
 Kibaale	uganda.txt	/*Kibaale*
@@ -4776,6 +4778,7 @@ alternate-file	editing.txt	/*alternate-file*
 altfont	syntax.txt	/*altfont*
 and()	builtin.txt	/*and()*
 anonymous-function	eval.txt	/*anonymous-function*
+ansi-colorize	api.txt	/*ansi-colorize*
 ant.vim	syntax.txt	/*ant.vim*
 ap	motion.txt	/*ap*
 apache.vim	syntax.txt	/*apache.vim*
@@ -6227,6 +6230,7 @@ g:gzip_exec	pi_gzip.txt	/*g:gzip_exec*
 g:hare_recommended_style	ft_hare.txt	/*g:hare_recommended_style*
 g:hare_space_error	ft_hare.txt	/*g:hare_space_error*
 g:haredoc_search_depth	ft_hare.txt	/*g:haredoc_search_depth*
+g:health	health.txt	/*g:health*
 g:lf_shell_syntax	syntax.txt	/*g:lf_shell_syntax*
 g:loaded_node_provider	provider.txt	/*g:loaded_node_provider*
 g:loaded_perl_provider	provider.txt	/*g:loaded_perl_provider*
@@ -6523,6 +6527,7 @@ getregion-notes	builtin.txt	/*getregion-notes*
 getregionpos()	builtin.txt	/*getregionpos()*
 getregtype()	builtin.txt	/*getregtype()*
 getscriptinfo()	builtin.txt	/*getscriptinfo()*
+getstacktrace()	builtin.txt	/*getstacktrace()*
 gettabinfo()	builtin.txt	/*gettabinfo()*
 gettabvar()	builtin.txt	/*gettabvar()*
 gettabwinvar()	builtin.txt	/*gettabwinvar()*
@@ -6626,6 +6631,7 @@ health#report_start	deprecated.txt	/*health#report_start*
 health#report_warn	deprecated.txt	/*health#report_warn*
 health-commands	health.txt	/*health-commands*
 health-dev	health.txt	/*health-dev*
+health-usage	health.txt	/*health-usage*
 health.txt	health.txt	/*health.txt*
 hebrew	hebrew.txt	/*hebrew*
 hebrew.txt	hebrew.txt	/*hebrew.txt*
@@ -7135,6 +7141,7 @@ jump-motions	motion.txt	/*jump-motions*
 jumplist	motion.txt	/*jumplist*
 jumplist-stack	motion.txt	/*jumplist-stack*
 jumpto-diffs	diff.txt	/*jumpto-diffs*
+justify	usr_25.txt	/*justify*
 k	motion.txt	/*k*
 kcc	uganda.txt	/*kcc*
 key-codes	intro.txt	/*key-codes*
@@ -8222,8 +8229,6 @@ nvim_del_mark()	api.txt	/*nvim_del_mark()*
 nvim_del_user_command()	api.txt	/*nvim_del_user_command()*
 nvim_del_var()	api.txt	/*nvim_del_var()*
 nvim_echo()	api.txt	/*nvim_echo()*
-nvim_err_write()	api.txt	/*nvim_err_write()*
-nvim_err_writeln()	api.txt	/*nvim_err_writeln()*
 nvim_error_event	api.txt	/*nvim_error_event*
 nvim_eval()	api.txt	/*nvim_eval()*
 nvim_eval_statusline()	api.txt	/*nvim_eval_statusline()*
@@ -8272,10 +8277,8 @@ nvim_list_tabpages()	api.txt	/*nvim_list_tabpages()*
 nvim_list_uis()	api.txt	/*nvim_list_uis()*
 nvim_list_wins()	api.txt	/*nvim_list_wins()*
 nvim_load_context()	api.txt	/*nvim_load_context()*
-nvim_notify()	api.txt	/*nvim_notify()*
 nvim_open_term()	api.txt	/*nvim_open_term()*
 nvim_open_win()	api.txt	/*nvim_open_win()*
-nvim_out_write()	api.txt	/*nvim_out_write()*
 nvim_parse_cmd()	api.txt	/*nvim_parse_cmd()*
 nvim_parse_expression()	api.txt	/*nvim_parse_expression()*
 nvim_paste()	api.txt	/*nvim_paste()*
@@ -8399,7 +8402,11 @@ os.time()	luaref.txt	/*os.time()*
 os.tmpname()	luaref.txt	/*os.tmpname()*
 p	change.txt	/*p*
 pack-add	repeat.txt	/*pack-add*
+package-cfilter	quickfix.txt	/*package-cfilter*
 package-create	repeat.txt	/*package-create*
+package-justify	usr_25.txt	/*package-justify*
+package-nohlsearch	usr_05.txt	/*package-nohlsearch*
+package-termdebug	terminal.txt	/*package-termdebug*
 package.cpath	luaref.txt	/*package.cpath*
 package.loaded()	luaref.txt	/*package.loaded()*
 package.loadlib()	luaref.txt	/*package.loadlib()*
@@ -9130,6 +9137,7 @@ sqrt()	builtin.txt	/*sqrt()*
 squirrel.vim	syntax.txt	/*squirrel.vim*
 srand()	builtin.txt	/*srand()*
 sscanf	eval.txt	/*sscanf*
+stacktrace-variable	vvars.txt	/*stacktrace-variable*
 standard-path	starting.txt	/*standard-path*
 standard-plugin	usr_05.txt	/*standard-plugin*
 standard-plugin-list	help.txt	/*standard-plugin-list*
@@ -9361,6 +9369,7 @@ termdebug_wide	terminal.txt	/*termdebug_wide*
 terminal	terminal.txt	/*terminal*
 terminal-config	terminal.txt	/*terminal-config*
 terminal-debug	terminal.txt	/*terminal-debug*
+terminal-debugger	terminal.txt	/*terminal-debugger*
 terminal-emulator	terminal.txt	/*terminal-emulator*
 terminal-events	terminal.txt	/*terminal-events*
 terminal-input	terminal.txt	/*terminal-input*
@@ -9927,6 +9936,7 @@ v:shell_error	vvars.txt	/*v:shell_error*
 v:sizeofint	vim_diff.txt	/*v:sizeofint*
 v:sizeoflong	vim_diff.txt	/*v:sizeoflong*
 v:sizeofpointer	vim_diff.txt	/*v:sizeofpointer*
+v:stacktrace	vvars.txt	/*v:stacktrace*
 v:statusmsg	vvars.txt	/*v:statusmsg*
 v:stderr	vvars.txt	/*v:stderr*
 v:swapchoice	vvars.txt	/*v:swapchoice*
@@ -10720,6 +10730,7 @@ y	change.txt	/*y*
 yaml.vim	syntax.txt	/*yaml.vim*
 yank	change.txt	/*yank*
 your-runtime-dir	usr_43.txt	/*your-runtime-dir*
+yxx	various.txt	/*yxx*
 yy	change.txt	/*yy*
 z	index.txt	/*z*
 z+	scroll.txt	/*z+*
