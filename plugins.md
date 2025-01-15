@@ -450,6 +450,7 @@ utilyre/barbecue.nvim - https://github.com/utilyre/barbecue.nvim - A VS Code lik
 Bekaboo/dropbar.nvim - https://github.com/Bekaboo/dropbar.nvim - IDE-like breadcrumbs, out of the box.
 SmiteshP/nvim-navic - https://github.com/SmiteshP/nvim-navic - A simple statusline/winbar component that uses LSP to show your current code context.
 luukvbaal/statuscol.nvim - https://github.com/luukvbaal/statuscol.nvim - Configurable 'statuscolumn' with builtin segments and click handlers.
+mawkler/hml.nvim - https://github.com/mawkler/hml.nvim - Adds `H`/`M`/`L` indicators to your line numbers.
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - Galaxyline componentizes Vim's statusline by having a provider for each text area. This means you can use the API provided by galaxyline to create the statusline that you want, easily.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
 sontungexpt/sttusline - https://github.com/sontungexpt/sttusline - Very lightweight, super fast and lazyloading statusline.
