@@ -284,6 +284,7 @@ SalOrak/whaler.nvim - https://github.com/SalOrak/whaler.nvim - Telescope extensi
 echasnovski/mini.nvim#mini.visits - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-visits.md - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
 LintaoAmons/cd-project.nvim - https://github.com/LintaoAmons/cd-project.nvim - All you need is just an easier way to `cd` to another project directory.
 LucasTavaresA/headers.nvim - https://github.com/LucasTavaresA/headers.nvim - Zero-config header/footer warnings.
+zongben/proot.nvim - https://github.com/zongben/proot.nvim - Lightweight project navigator with telescope.
 catgoose/nvim-colorizer.lua - https://github.com/catgoose/nvim-colorizer.lua - A high-performance color highlighter which has no external dependencies.
 winston0410/range-highlight.nvim - https://github.com/winston0410/range-highlight.nvim - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
 xiyaowong/transparent.nvim - https://github.com/xiyaowong/transparent.nvim - Make your Neovim transparent.
@@ -659,6 +660,7 @@ NeViRAIDE/nekifoch.nvim - https://github.com/NeViRAIDE/nekifoch.nvim - Managing 
 2KAbhishek/termim.nvim - https://github.com/2KAbhishek/termim.nvim/ - Neovim Terminal, Improved.
 samharju/yeet.nvim - https://github.com/samharju/yeet.nvim - Run shell commands in terminal buffers or tmux panes.
 isak102/ghostty.nvim - https://github.com/isak102/ghostty.nvim - Automatically validate your Ghostty configuration on save.
+laktak/tome - https://github.com/laktak/tome - Interactive Script playbooks for your terminal (optionally with Tmux).
 mfussenegger/nvim-dap - https://github.com/mfussenegger/nvim-dap - Debug Adapter Protocol client implementation.
 sakhnik/nvim-gdb - https://github.com/sakhnik/nvim-gdb - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
 rcarriga/nvim-dap-ui - https://github.com/rcarriga/nvim-dap-ui - A UI for nvim-dap.
