@@ -170,6 +170,7 @@ ChuufMaster/markdown-toc - https://github.com/ChuufMaster/markdown-toc - Generat
 OXY2DEV/markview.nvim - https://github.com/OXY2DEV/markview.nvim - Highly customisable markdown(latex & inline html) previewer.
 Kicamon/markdown-table-mode.nvim - https://github.com/Kicamon/markdown-table-mode.nvim - Markdown format plugin like vim-table-mode but write in Lua.
 SCJangra/table-nvim - https://github.com/SCJangra/table-nvim - A markdown table editor that formats the table as you type.
+nvim-telescope/telescope-bibtex.nvim - https://github.com/nvim-telescope/telescope-bibtex.nvim - Telescope extension to search and paste BibTeX entries into your TeX files.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
@@ -484,7 +485,7 @@ echasnovski/mini.nvim#mini.tabline - https://github.com/echasnovski/mini.nvim/bl
 rafcamlet/tabline-framework.nvim - https://github.com/rafcamlet/tabline-framework.nvim - User-friendly framework for building your dream tabline in a few lines of code.
 nanozuki/tabby.nvim - https://github.com/nanozuki/tabby.nvim - A minimal, configurable, Neovim style tabline. Use your Neovim tabs as workspace multiplexer.
 roobert/bufferline-cycle-windowless.nvim - https://github.com/roobert/bufferline-cycle-windowless.nvim - A bufferline extension to cycle through windowless buffers to give a more traditional tab based experience.
-yamatsum/nvim-cursorline - https://github.com/yamatsum/nvim-cursorline - A plugin that highlights cursor words and lines.
+ya2s/nvim-cursorline - https://github.com/ya2s/nvim-cursorline - A plugin that highlights cursor words and lines.
 xiyaowong/nvim-cursorword - https://github.com/xiyaowong/nvim-cursorword - Part of nvim-cursorline. Highlight the word under the cursor.
 sontungexpt/stcursorword - https://github.com/sontungexpt/stcursorword - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 RRethy/vim-illuminate - https://github.com/RRethy/vim-illuminate - Highlight the word under the cursor. Neovim's builtin LSP is available, it can be used to highlight more intelligently.
@@ -503,7 +504,7 @@ mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file
 Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - Your personal homepage.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 echasnovski/mini.nvim#mini.icons - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
-yamatsum/nvim-nonicons - https://github.com/yamatsum/nvim-nonicons - Collection of configurations for nvim-web-devicons.
+ya2s/nvim-nonicons - https://github.com/ya2s/nvim-nonicons - Collection of configurations for nvim-web-devicons.
 ziontee113/icon-picker.nvim - https://github.com/ziontee113/icon-picker.nvim - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
 edluffy/hologram.nvim - https://github.com/edluffy/hologram.nvim - A cross platform terminal image viewer. Works on macOS and Linux.
