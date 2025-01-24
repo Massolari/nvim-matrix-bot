@@ -635,6 +635,7 @@ ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalis
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 MisanthropicBit/decipher.nvim - https://github.com/MisanthropicBit/decipher.nvim - Encode and decode text using various codecs such as base64.
 philosofonusus/ecolog.nvim - https://github.com/philosofonusus/ecolog.nvim - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+MatanyaP/keyboard-guard.nvim - https://github.com/matandd/keyboard-guard.nvim - Prevents unintended actions when typing in non-English keyboard layouts.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
