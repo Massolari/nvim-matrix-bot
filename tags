@@ -4289,6 +4289,7 @@ LanguageTree:lang()	treesitter.txt	/*LanguageTree:lang()*
 LanguageTree:language_for_range()	treesitter.txt	/*LanguageTree:language_for_range()*
 LanguageTree:named_node_for_range()	treesitter.txt	/*LanguageTree:named_node_for_range()*
 LanguageTree:node_for_range()	treesitter.txt	/*LanguageTree:node_for_range()*
+LanguageTree:parent()	treesitter.txt	/*LanguageTree:parent()*
 LanguageTree:parse()	treesitter.txt	/*LanguageTree:parse()*
 LanguageTree:register_cbs()	treesitter.txt	/*LanguageTree:register_cbs()*
 LanguageTree:source()	treesitter.txt	/*LanguageTree:source()*
@@ -5508,6 +5509,7 @@ diagnostic-quickstart	diagnostic.txt	/*diagnostic-quickstart*
 diagnostic-severity	diagnostic.txt	/*diagnostic-severity*
 diagnostic-signs	diagnostic.txt	/*diagnostic-signs*
 diagnostic-structure	diagnostic.txt	/*diagnostic-structure*
+diagnostic-toggle-virtual-lines-example	diagnostic.txt	/*diagnostic-toggle-virtual-lines-example*
 diagnostic.txt	diagnostic.txt	/*diagnostic.txt*
 dib	motion.txt	/*dib*
 dict	eval.txt	/*dict*
@@ -5983,6 +5985,7 @@ ft-java-syntax	syntax.txt	/*ft-java-syntax*
 ft-javascript-omni	insert.txt	/*ft-javascript-omni*
 ft-jq-syntax	syntax.txt	/*ft-jq-syntax*
 ft-json-syntax	syntax.txt	/*ft-json-syntax*
+ft-kconfig-syntax	syntax.txt	/*ft-kconfig-syntax*
 ft-ksh-syntax	syntax.txt	/*ft-ksh-syntax*
 ft-lace-syntax	syntax.txt	/*ft-lace-syntax*
 ft-lex-syntax	syntax.txt	/*ft-lex-syntax*
@@ -7812,7 +7815,6 @@ nvim__ns_get()	api.txt	/*nvim__ns_get()*
 nvim__ns_set()	api.txt	/*nvim__ns_set()*
 nvim__redraw()	api.txt	/*nvim__redraw()*
 nvim__stats()	api.txt	/*nvim__stats()*
-nvim_buf_add_highlight()	api.txt	/*nvim_buf_add_highlight()*
 nvim_buf_attach()	api.txt	/*nvim_buf_attach()*
 nvim_buf_call()	api.txt	/*nvim_buf_call()*
 nvim_buf_changedtick_event	api.txt	/*nvim_buf_changedtick_event*
@@ -9795,6 +9797,7 @@ vim.diagnostic.Opts.Float	diagnostic.txt	/*vim.diagnostic.Opts.Float*
 vim.diagnostic.Opts.Jump	diagnostic.txt	/*vim.diagnostic.Opts.Jump*
 vim.diagnostic.Opts.Signs	diagnostic.txt	/*vim.diagnostic.Opts.Signs*
 vim.diagnostic.Opts.Underline	diagnostic.txt	/*vim.diagnostic.Opts.Underline*
+vim.diagnostic.Opts.VirtualLines	diagnostic.txt	/*vim.diagnostic.Opts.VirtualLines*
 vim.diagnostic.Opts.VirtualText	diagnostic.txt	/*vim.diagnostic.Opts.VirtualText*
 vim.diagnostic.config()	diagnostic.txt	/*vim.diagnostic.config()*
 vim.diagnostic.count()	diagnostic.txt	/*vim.diagnostic.count()*
