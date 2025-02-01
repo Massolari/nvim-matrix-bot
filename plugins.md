@@ -106,6 +106,8 @@ Kurama622/llm.nvim - https://github.com/Kurama622/llm.nvim - Free large language
 k2589/LLuMinate.nvim - https://github.com/k2589/lluminate.nvim - Enrich context for LLM with LSP hover added to clipboard.
 supermaven-inc/supermaven-nvim - https://github.com/supermaven-inc/supermaven-nvim - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 milanglacier/yarepl.nvim#aider-extensions - https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
+Davidyz/VectorCode - https://github.com/davidyz/vectorcode - Supercharge your LLM experience with repository-level RAG.
+dlants/magenta.nvim - https://github.com/dlants/magenta.nvim - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -525,6 +527,7 @@ adelarsq/image_preview.nvim - https://github.com/adelarsq/image_preview.nvim - I
 niuiic/code-shot.nvim - https://github.com/niuiic/code-shot.nvim - Take a picture of the code.
 AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-controls.nvim - Quickly control your favorite music player (Spotify, VLC, and more).
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, atom, json feed).
+lfilho/note2cal.nvim - https://github.com/lfilho/note2cal.nvim - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 0styx0/abbreinder.nvim - https://github.com/0styx0/abbreinder.nvim - Abbreviation reminders (Neovim >= 0.5).
 jakewvincent/mkdnflow.nvim - https://github.com/jakewvincent/mkdnflow.nvim - Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
 jbyuki/nabla.nvim - https://github.com/jbyuki/nabla.nvim - Take your scientific notes.
@@ -638,6 +641,7 @@ ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalis
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 MisanthropicBit/decipher.nvim - https://github.com/MisanthropicBit/decipher.nvim - Encode and decode text using various codecs such as base64.
 philosofonusus/ecolog.nvim - https://github.com/philosofonusus/ecolog.nvim - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+theKnightsOfRohan/hexer.nvim - https://github.com/theKnightsOfRohan/hexer.nvim - Easily convert between binary representations without a conversion table.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -679,6 +683,7 @@ niuiic/dap-utils - https://github.com/niuiic/dap-utils.nvim - Utilities to provi
 theHamsta/nvim-dap-virtual-text - https://github.com/theHamsta/nvim-dap-virtual-text - Virtual text support for nvim-dap.
 chrisgrieser/nvim-chainsaw - https://github.com/chrisgrieser/nvim-chainsaw - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
 Willem-J-an/visidata.nvim - https://github.com/Willem-J-an/visidata.nvim - Render pandas dataframes in nvim-dap using the power of visidata.
+igorlfs/nvim-dap-view - https://github.com/igorlfs/nvim-dap-view - A modern, minimalistic UI for nvim-dap.
 kevinhwang91/nvim-bqf - https://github.com/kevinhwang91/nvim-bqf - The goal of nvim-bqf is to make Neovim's quickfix window better.
 yorickpeterse/nvim-pqf - https://github.com/yorickpeterse/nvim-pqf - Prettier quickfix/location list windows.
 nyngwang/NeoWell.lua - https://github.com/nyngwang/NeoWell.lua - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
