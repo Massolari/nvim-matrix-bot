@@ -4441,7 +4441,7 @@ TRUE	eval.txt	/*TRUE*
 TSNode	treesitter.txt	/*TSNode*
 TSNode:byte_length()	treesitter.txt	/*TSNode:byte_length()*
 TSNode:child()	treesitter.txt	/*TSNode:child()*
-TSNode:child_containing_descendant()	deprecated.txt	/*TSNode:child_containing_descendant()*
+TSNode:child_containing_descendant()	news.txt	/*TSNode:child_containing_descendant()*
 TSNode:child_count()	treesitter.txt	/*TSNode:child_count()*
 TSNode:child_with_descendant()	treesitter.txt	/*TSNode:child_with_descendant()*
 TSNode:descendant_for_range()	treesitter.txt	/*TSNode:descendant_for_range()*
@@ -5823,6 +5823,7 @@ float-pi	eval.txt	/*float-pi*
 float2nr()	builtin.txt	/*float2nr()*
 floating-point-format	eval.txt	/*floating-point-format*
 floating-point-precision	eval.txt	/*floating-point-precision*
+floating-windows	api.txt	/*floating-windows*
 floor()	builtin.txt	/*floor()*
 fmod()	builtin.txt	/*fmod()*
 fname-variable	vvars.txt	/*fname-variable*
