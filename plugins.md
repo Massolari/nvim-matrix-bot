@@ -467,7 +467,6 @@ adelarsq/neoline.vim - https://github.com/adelarsq/neoline.vim - A light statusl
 ojroques/nvim-hardline - https://github.com/ojroques/nvim-hardline - A statusline / bufferline. It is inspired by [vim-airline](https://github.com/vim-airline/vim-airline) but aims to be as light and simple as possible.
 beauwilliams/statusline.lua - https://github.com/beauwilliams/statusline.lua - A zero-config minimal statusline written in Lua featuring awesome integrations and blazing speed!
 tamton-aquib/staline.nvim - https://github.com/tamton-aquib/staline.nvim - A modern lightweight statusline in Lua. Mainly uses unicode symbols for showing info.
-freddiehaddad/feline.nvim - https://github.com/freddiehaddad/feline.nvim - A minimal, stylish and customizable statusline written in Lua.
 windwp/windline.nvim - https://github.com/windwp/windline.nvim - The next generation statusline. Animation statusline.
 konapun/vacuumline.nvim - https://github.com/konapun/vacuumline.nvim - A galaxyline configuration inspired by airline.
 echasnovski/mini.nvim#mini.statusline - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-statusline.md - Module of `mini.nvim` for minimal and fast statusline. Supports content change depending on window width.
@@ -527,6 +526,7 @@ adelarsq/image_preview.nvim - https://github.com/adelarsq/image_preview.nvim - I
 niuiic/code-shot.nvim - https://github.com/niuiic/code-shot.nvim - Take a picture of the code.
 AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-controls.nvim - Quickly control your favorite music player (Spotify, VLC, and more).
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, atom, json feed).
+vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 lfilho/note2cal.nvim - https://github.com/lfilho/note2cal.nvim - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 0styx0/abbreinder.nvim - https://github.com/0styx0/abbreinder.nvim - Abbreviation reminders (Neovim >= 0.5).
 jakewvincent/mkdnflow.nvim - https://github.com/jakewvincent/mkdnflow.nvim - Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
