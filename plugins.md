@@ -240,6 +240,7 @@ backdround/improved-search.nvim - https://github.com/backdround/improved-search.
 polirritmico/telescope-lazy-plugins.nvim - https://github.com/polirritmico/telescope-lazy-plugins.nvim - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 MagicDuck/grug-far.nvim - https://github.com/MagicDuck/grug-far.nvim - Buffer-based live search and replace with full power of `rg` flags. Grug like!
 chrisgrieser/nvim-rip-substitute - https://github.com/chrisgrieser/nvim-rip-substitute - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
+wsdjeg/flygrep.nvim - https://github.com/wsdjeg/flygrep.nvim - Search text in a floating window asynchronously.
 nvim-telescope/telescope.nvim - https://github.com/nvim-telescope/telescope.nvim - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
 vijaymarupudi/nvim-fzf - https://github.com/vijaymarupudi/nvim-fzf - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 camspiers/snap - https://github.com/camspiers/snap - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
