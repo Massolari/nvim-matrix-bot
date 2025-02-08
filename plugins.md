@@ -174,6 +174,7 @@ OXY2DEV/markview.nvim - https://github.com/OXY2DEV/markview.nvim - A hackable ma
 Kicamon/markdown-table-mode.nvim - https://github.com/Kicamon/markdown-table-mode.nvim - Markdown format plugin like vim-table-mode but write in Lua.
 SCJangra/table-nvim - https://github.com/SCJangra/table-nvim - A markdown table editor that formats the table as you type.
 nvim-telescope/telescope-bibtex.nvim - https://github.com/nvim-telescope/telescope-bibtex.nvim - Telescope extension to search and paste BibTeX entries into your TeX files.
+Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A markdown equation previewer, using Kitty Graphics Protocol.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
@@ -431,6 +432,7 @@ diegoulloao/neofusion.nvim - https://github.com/diegoulloao/neofusion.nvim - A t
 bartekjaszczak/luma-nvim - https://gitlab.com/bartekjaszczak/luma-nvim - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 bartekjaszczak/finale-nvim - https://gitlab.com/bartekjaszczak/finale-nvim - A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 m15a/nvim-srcerite - https://github.com/m15a/nvim-srcerite - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+neko-night/nvim - https://github.com/neko-night/nvim - A buffet of colorschemes for every taste and mood.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
