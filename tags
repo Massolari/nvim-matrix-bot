@@ -204,6 +204,7 @@ $quote	eval.txt	/*$quote*
 'ef'	options.txt	/*'ef'*
 'efm'	options.txt	/*'efm'*
 'ei'	options.txt	/*'ei'*
+'eiw'	options.txt	/*'eiw'*
 'emo'	options.txt	/*'emo'*
 'emoji'	options.txt	/*'emoji'*
 'enc'	options.txt	/*'enc'*
@@ -220,6 +221,7 @@ $quote	eval.txt	/*$quote*
 'errorformat'	options.txt	/*'errorformat'*
 'et'	options.txt	/*'et'*
 'eventignore'	options.txt	/*'eventignore'*
+'eventignorewin'	options.txt	/*'eventignorewin'*
 'ex'	options.txt	/*'ex'*
 'expandtab'	options.txt	/*'expandtab'*
 'exrc'	options.txt	/*'exrc'*
@@ -1882,6 +1884,7 @@ $quote	eval.txt	/*$quote*
 :delfunction	userfunc.txt	/*:delfunction*
 :delm	motion.txt	/*:delm*
 :delmarks	motion.txt	/*:delmarks*
+:detach	gui.txt	/*:detach*
 :di	change.txt	/*:di*
 :dif	diff.txt	/*:dif*
 :diff	diff.txt	/*:diff*
