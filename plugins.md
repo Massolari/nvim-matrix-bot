@@ -225,6 +225,7 @@ EvWilson/spelunk.nvim - https://github.com/EvWilson/spelunk.nvim - Create and ma
 2KAbhishek/markit.nvim - https://github.com/2KAbhishek/markit.nvim - Improved global marks and project wide bookmarks, to quickly navigate files.
 you-n-g/navigate-note.nvim - https://github.com/you-n-g/navigate-note.nvim -  Integrating note-taking capabilities with navigation/marking.
 zongben/navimark.nvim - https://github.com/zongben/navimark.nvim - An easy and powerful bookmark manager with telescope.
+francescarpi/buffon.nvim - https://github.com/francescarpi/buffon.nvim - Buffers navigation, reorganize and close.
 wurli/visimatch.nvim - https://github.com/wurli/visimatch.nvim - Adds highlights to any text matching the current selection in visual mode.
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
 rktjmp/highlight-current-n.nvim - https://github.com/rktjmp/highlight-current-n.nvim - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
