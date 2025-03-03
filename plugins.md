@@ -5,6 +5,7 @@ folke/lazy.nvim - https://github.com/folke/lazy.nvim - A modern plugin manager, 
 roobert/activate.nvim - https://github.com/roobert/activate.nvim - A plugin installation system designed to complement `folke/lazy.nvim`.
 nvim-neorocks/rocks.nvim - https://github.com/nvim-neorocks/rocks.nvim - A modern approach to plugin management using Luarocks, inspired by Cargo.
 echasnovski/mini.nvim#mini.deps - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous Neovim plugin manager written in Lua.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
 neovim/nvim-lspconfig - https://github.com/neovim/nvim-lspconfig - Quickstart configurations for the LSP client.
 nvim-lua/lsp-status.nvim - https://github.com/nvim-lua/lsp-status.nvim - This is a plugin/library for generating statusline components from the built-in LSP client.
@@ -137,6 +138,7 @@ crusj/hierarchy-tree-go.nvim - https://github.com/crusj/hierarchy-tree-go.nvim -
 yanskun/gotests.nvim - https://github.com/yanskun/gotests.nvim - Make Go tests easy with [gotests](https://github.com/cweill/gotests).
 maxandron/goplements.nvim - https://github.com/maxandron/goplements.nvim - Visualize Go struct and interface implementations.
 Snikimonkd/cmp-go-pkgs - https://github.com/Snikimonkd/cmp-go-pkgs - Cmp source for Go packages names.
+Yu-Leo/gosigns.nvim - https://github.com/Yu-Leo/gosigns.nvim - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 someone-stole-my-name/yaml-companion.nvim - https://github.com/someone-stole-my-name/yaml-companion.nvim - Get, set and autodetect YAML schemas in your buffers.
 cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YAML files.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTTP client written in Lua.
@@ -295,6 +297,7 @@ echasnovski/mini.nvim#mini.visits - https://github.com/echasnovski/mini.nvim/blo
 LintaoAmons/cd-project.nvim - https://github.com/LintaoAmons/cd-project.nvim - All you need is just an easier way to `cd` to another project directory.
 LucasTavaresA/headers.nvim - https://github.com/LucasTavaresA/headers.nvim - Zero-config header/footer warnings.
 zongben/proot.nvim - https://github.com/zongben/proot.nvim - Lightweight project navigator with telescope.
+wsdjeg/rooter.nvim - https://github.com/wsdjeg/rooter.nvim - Change working directory to project root.
 catgoose/nvim-colorizer.lua - https://github.com/catgoose/nvim-colorizer.lua - A high-performance color highlighter which has no external dependencies.
 winston0410/range-highlight.nvim - https://github.com/winston0410/range-highlight.nvim - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
 xiyaowong/transparent.nvim - https://github.com/xiyaowong/transparent.nvim - Make your Neovim transparent.
