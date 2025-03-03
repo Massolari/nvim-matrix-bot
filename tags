@@ -1579,6 +1579,7 @@ $quote	eval.txt	/*$quote*
 :N	editing.txt	/*:N*
 :Next	editing.txt	/*:Next*
 :NoMatchParen	pi_paren.txt	/*:NoMatchParen*
+:Open	lua.txt	/*:Open*
 :Over	terminal.txt	/*:Over*
 :Program	terminal.txt	/*:Program*
 :Run	terminal.txt	/*:Run*
@@ -6009,6 +6010,7 @@ ft-lifelines-syntax	syntax.txt	/*ft-lifelines-syntax*
 ft-lisp-syntax	syntax.txt	/*ft-lisp-syntax*
 ft-lite-syntax	syntax.txt	/*ft-lite-syntax*
 ft-lpc-syntax	syntax.txt	/*ft-lpc-syntax*
+ft-lua-plugin	filetype.txt	/*ft-lua-plugin*
 ft-lua-syntax	syntax.txt	/*ft-lua-syntax*
 ft-mail-plugin	filetype.txt	/*ft-mail-plugin*
 ft-mail.vim	syntax.txt	/*ft-mail.vim*
@@ -6226,6 +6228,8 @@ g:loaded_node_provider	provider.txt	/*g:loaded_node_provider*
 g:loaded_perl_provider	provider.txt	/*g:loaded_perl_provider*
 g:loaded_python3_provider	provider.txt	/*g:loaded_python3_provider*
 g:loaded_ruby_provider	provider.txt	/*g:loaded_ruby_provider*
+g:lua_subversion	filetype.txt	/*g:lua_subversion*
+g:lua_version	filetype.txt	/*g:lua_version*
 g:man_hardwrap	filetype.txt	/*g:man_hardwrap*
 g:markdown_fenced_languages	syntax.txt	/*g:markdown_fenced_languages*
 g:markdown_minlines	syntax.txt	/*g:markdown_minlines*
@@ -7723,6 +7727,7 @@ more-prompt	message.txt	/*more-prompt*
 more-variables	eval.txt	/*more-variables*
 motion-count-multiplied	motion.txt	/*motion-count-multiplied*
 motion.txt	motion.txt	/*motion.txt*
+mouse-hover	options.txt	/*mouse-hover*
 mouse-mode-table	gui.txt	/*mouse-mode-table*
 mouse-overview	gui.txt	/*mouse-overview*
 mouse-swap-buttons	gui.txt	/*mouse-swap-buttons*
@@ -8946,10 +8951,12 @@ t_string-variable	vvars.txt	/*t_string-variable*
 t_vb	vim_diff.txt	/*t_vb*
 t_xx	vim_diff.txt	/*t_xx*
 tab	intro.txt	/*tab*
+tab-ID	tabpage.txt	/*tab-ID*
 tab-page	tabpage.txt	/*tab-page*
 tab-page-commands	tabpage.txt	/*tab-page-commands*
 tab-page-intro	tabpage.txt	/*tab-page-intro*
 tab-page-other	tabpage.txt	/*tab-page-other*
+tabid	tabpage.txt	/*tabid*
 table.concat()	luaref.txt	/*table.concat()*
 table.foreach()	luaref.txt	/*table.foreach()*
 table.foreachi()	luaref.txt	/*table.foreachi()*
@@ -8963,6 +8970,7 @@ tabpage	tabpage.txt	/*tabpage*
 tabpage-variable	eval.txt	/*tabpage-variable*
 tabpage.txt	tabpage.txt	/*tabpage.txt*
 tabpagebuflist()	builtin.txt	/*tabpagebuflist()*
+tabpageid	tabpage.txt	/*tabpageid*
 tabpagenr()	builtin.txt	/*tabpagenr()*
 tabpagewinnr()	builtin.txt	/*tabpagewinnr()*
 tag	tagsrch.txt	/*tag*
@@ -9118,6 +9126,7 @@ treesitter-directive-set!	treesitter.txt	/*treesitter-directive-set!*
 treesitter-directive-trim!	treesitter.txt	/*treesitter-directive-trim!*
 treesitter-directives	treesitter.txt	/*treesitter-directives*
 treesitter-highlight	treesitter.txt	/*treesitter-highlight*
+treesitter-highlight-commentstring	treesitter.txt	/*treesitter-highlight-commentstring*
 treesitter-highlight-conceal	treesitter.txt	/*treesitter-highlight-conceal*
 treesitter-highlight-groups	treesitter.txt	/*treesitter-highlight-groups*
 treesitter-highlight-priority	treesitter.txt	/*treesitter-highlight-priority*
@@ -10192,6 +10201,7 @@ vim.tbl_values()	lua.txt	/*vim.tbl_values()*
 vim.text	lua.txt	/*vim.text*
 vim.text.hexdecode()	lua.txt	/*vim.text.hexdecode()*
 vim.text.hexencode()	lua.txt	/*vim.text.hexencode()*
+vim.text.indent()	lua.txt	/*vim.text.indent()*
 vim.tohtml	lua.txt	/*vim.tohtml*
 vim.treesitter.add_directive()	deprecated.txt	/*vim.treesitter.add_directive()*
 vim.treesitter.add_predicate()	deprecated.txt	/*vim.treesitter.add_predicate()*
