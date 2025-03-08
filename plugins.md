@@ -139,6 +139,7 @@ yanskun/gotests.nvim - https://github.com/yanskun/gotests.nvim - Make Go tests e
 maxandron/goplements.nvim - https://github.com/maxandron/goplements.nvim - Visualize Go struct and interface implementations.
 Snikimonkd/cmp-go-pkgs - https://github.com/Snikimonkd/cmp-go-pkgs - Cmp source for Go packages names.
 Yu-Leo/gosigns.nvim - https://github.com/Yu-Leo/gosigns.nvim - Visualize some Go hints: struct, interface, and methods implementations; go comments.
+Yu-Leo/cmp-go-pkgs - https://github.com/Yu-Leo/cmp-go-pkgs - Cmp source providing the names of Go packages to import.
 someone-stole-my-name/yaml-companion.nvim - https://github.com/someone-stole-my-name/yaml-companion.nvim - Get, set and autodetect YAML schemas in your buffers.
 cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YAML files.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTTP client written in Lua.
@@ -656,6 +657,7 @@ theKnightsOfRohan/hexer.nvim - https://github.com/theKnightsOfRohan/hexer.nvim -
 rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.  
 neanvo/buben.nvim - https://github.com/neanvo/buben.nvim - Human-readable names to blockchain(eth) addresses.
 josephburgess/nvumi - https://github.com/josephburgess/nvumi - Natural language calculator in a scratch buffer.
+redoxahmii/json-to-types.nvim - https://github.com/redoxahmii/json-to-types.nvim - Convert JSON objects to type definitions for multiple languages.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
