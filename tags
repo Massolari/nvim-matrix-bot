@@ -6571,7 +6571,6 @@ history-functions	usr_41.txt	/*history-functions*
 hit-enter	message.txt	/*hit-enter*
 hit-enter-prompt	message.txt	/*hit-enter-prompt*
 hit-return	message.txt	/*hit-return*
-hitest.vim	syntax.txt	/*hitest.vim*
 hjkl	usr_02.txt	/*hjkl*
 hl-ColorColumn	syntax.txt	/*hl-ColorColumn*
 hl-ComplMatchIns	syntax.txt	/*hl-ComplMatchIns*
@@ -8599,6 +8598,7 @@ shada-read-write	starting.txt	/*shada-read-write*
 shada-s	options.txt	/*shada-s*
 shada-write	starting.txt	/*shada-write*
 shell-powershell	options.txt	/*shell-powershell*
+shell-prompt-config	terminal.txt	/*shell-prompt-config*
 shell-unquoting	options.txt	/*shell-unquoting*
 shell_error-variable	vvars.txt	/*shell_error-variable*
 shellescape()	builtin.txt	/*shellescape()*
@@ -9051,12 +9051,16 @@ terminal-emulator	terminal.txt	/*terminal-emulator*
 terminal-events	terminal.txt	/*terminal-events*
 terminal-input	terminal.txt	/*terminal-input*
 terminal-mode-index	index.txt	/*terminal-mode-index*
+terminal-osc133	terminal.txt	/*terminal-osc133*
 terminal-osc52	terminal.txt	/*terminal-osc52*
 terminal-osc7	terminal.txt	/*terminal-osc7*
 terminal-scrollback-pager	api.txt	/*terminal-scrollback-pager*
+terminal-shell-prompt-signs	terminal.txt	/*terminal-shell-prompt-signs*
 terminal-start	terminal.txt	/*terminal-start*
 terminal-status	terminal.txt	/*terminal-status*
 terminal.txt	terminal.txt	/*terminal.txt*
+terminal_[[	terminal.txt	/*terminal_[[*
+terminal_]]	terminal.txt	/*terminal_]]*
 terminfo	tui.txt	/*terminfo*
 termopen()	deprecated.txt	/*termopen()*
 termrequest-variable	vvars.txt	/*termrequest-variable*
