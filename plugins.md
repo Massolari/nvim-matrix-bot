@@ -658,6 +658,7 @@ rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ 
 neanvo/buben.nvim - https://github.com/neanvo/buben.nvim - Human-readable names to blockchain(eth) addresses.
 josephburgess/nvumi - https://github.com/josephburgess/nvumi - Natural language calculator in a scratch buffer.
 redoxahmii/json-to-types.nvim - https://github.com/redoxahmii/json-to-types.nvim - Convert JSON objects to type definitions for multiple languages.
+ovk/endec.nvim - https://github.com/ovk/endec.nvim - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -1075,6 +1076,7 @@ ayamir/nvimdots - https://github.com/ayamir/nvimdots - A well-configured and str
 adoyle-h/one.nvim - https://github.com/adoyle-h/one.nvim - All-in-one config framework in Lua.
 MordechaiHadad/bob - https://github.com/MordechaiHadad/bob - A cross platform and easy to use Neovim version manager.
 NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and blazing fast Neovim version manager.
+y3owk1n/nvs - https://github.com/y3owk1n/nvs - Another Neovim version manager with config switcher.
 gennaro-tedesco/boilit - https://github.com/gennaro-tedesco/boilit - Create boilerplate structure plugins.
 m00qek/plugin-template.nvim - https://github.com/m00qek/plugin-template.nvim - A plugin template that setups test infrastructure and GitHub Actions.
 ellisonleao/nvim-plugin-template - https://github.com/ellisonleao/nvim-plugin-template - Another Neovim plugin template, using GitHub's template feature.
