@@ -4474,6 +4474,9 @@ TSNode:symbol()	treesitter.txt	/*TSNode:symbol()*
 TSNode:tree()	treesitter.txt	/*TSNode:tree()*
 TSNode:type()	treesitter.txt	/*TSNode:type()*
 TSQL	ft_sql.txt	/*TSQL*
+TSQuery	treesitter.txt	/*TSQuery*
+TSQuery:disable_capture()	treesitter.txt	/*TSQuery:disable_capture()*
+TSQuery:disable_pattern()	treesitter.txt	/*TSQuery:disable_pattern()*
 TSTree	treesitter.txt	/*TSTree*
 TSTree:copy()	treesitter.txt	/*TSTree:copy()*
 TSTree:root()	treesitter.txt	/*TSTree:root()*
@@ -5249,6 +5252,7 @@ compiler-ruff	quickfix.txt	/*compiler-ruff*
 compiler-select	quickfix.txt	/*compiler-select*
 compiler-spotbugs	quickfix.txt	/*compiler-spotbugs*
 compiler-tex	quickfix.txt	/*compiler-tex*
+compiler-tsc	quickfix.txt	/*compiler-tsc*
 compiler-typst	quickfix.txt	/*compiler-typst*
 compiler-vaxada	ft_ada.txt	/*compiler-vaxada*
 compl-autocomplete	insert.txt	/*compl-autocomplete*
@@ -5365,6 +5369,7 @@ creating-menus	gui.txt	/*creating-menus*
 credits	credits.txt	/*credits*
 credits.txt	credits.txt	/*credits.txt*
 crontab	options.txt	/*crontab*
+cs.vim	syntax.txt	/*cs.vim*
 cscope	vim_diff.txt	/*cscope*
 cscope_connection()	vim_diff.txt	/*cscope_connection()*
 csh.vim	syntax.txt	/*csh.vim*
@@ -5953,6 +5958,7 @@ ft-clojure-syntax	syntax.txt	/*ft-clojure-syntax*
 ft-cobol-syntax	syntax.txt	/*ft-cobol-syntax*
 ft-coldfusion-syntax	syntax.txt	/*ft-coldfusion-syntax*
 ft-cpp-syntax	syntax.txt	/*ft-cpp-syntax*
+ft-cs-syntax	syntax.txt	/*ft-cs-syntax*
 ft-csh-syntax	syntax.txt	/*ft-csh-syntax*
 ft-css-omni	insert.txt	/*ft-css-omni*
 ft-csv-syntax	syntax.txt	/*ft-csv-syntax*
@@ -5982,6 +5988,7 @@ ft-freebasic-syntax	syntax.txt	/*ft-freebasic-syntax*
 ft-fvwm-syntax	syntax.txt	/*ft-fvwm-syntax*
 ft-gdscript-plugin	filetype.txt	/*ft-gdscript-plugin*
 ft-gitcommit-plugin	filetype.txt	/*ft-gitcommit-plugin*
+ft-gitrebase-plugin	filetype.txt	/*ft-gitrebase-plugin*
 ft-go-plugin	filetype.txt	/*ft-go-plugin*
 ft-gprof-plugin	filetype.txt	/*ft-gprof-plugin*
 ft-groff-syntax	syntax.txt	/*ft-groff-syntax*
@@ -6010,6 +6017,7 @@ ft-lifelines-syntax	syntax.txt	/*ft-lifelines-syntax*
 ft-lisp-syntax	syntax.txt	/*ft-lisp-syntax*
 ft-lite-syntax	syntax.txt	/*ft-lite-syntax*
 ft-lpc-syntax	syntax.txt	/*ft-lpc-syntax*
+ft-lua-omni	insert.txt	/*ft-lua-omni*
 ft-lua-plugin	filetype.txt	/*ft-lua-plugin*
 ft-lua-syntax	syntax.txt	/*ft-lua-syntax*
 ft-mail-plugin	filetype.txt	/*ft-mail-plugin*
@@ -6046,6 +6054,7 @@ ft-php-syntax	syntax.txt	/*ft-php-syntax*
 ft-php3-syntax	syntax.txt	/*ft-php3-syntax*
 ft-phtml-syntax	syntax.txt	/*ft-phtml-syntax*
 ft-plaintex-syntax	syntax.txt	/*ft-plaintex-syntax*
+ft-plsql-plugin	filetype.txt	/*ft-plsql-plugin*
 ft-posix-syntax	syntax.txt	/*ft-posix-syntax*
 ft-postscr-syntax	syntax.txt	/*ft-postscr-syntax*
 ft-ppwiz-syntax	syntax.txt	/*ft-ppwiz-syntax*
@@ -8087,7 +8096,7 @@ package-justify	usr_25.txt	/*package-justify*
 package-nohlsearch	usr_05.txt	/*package-nohlsearch*
 package-termdebug	terminal.txt	/*package-termdebug*
 package.cpath	luaref.txt	/*package.cpath*
-package.loaded()	luaref.txt	/*package.loaded()*
+package.loaded	luaref.txt	/*package.loaded*
 package.loadlib()	luaref.txt	/*package.loadlib()*
 package.path	luaref.txt	/*package.path*
 package.preload()	luaref.txt	/*package.preload()*
@@ -10022,7 +10031,7 @@ vim.lsp.codelens.save()	lsp.txt	/*vim.lsp.codelens.save()*
 vim.lsp.commands	lsp.txt	/*vim.lsp.commands*
 vim.lsp.completion.BufferOpts	lsp.txt	/*vim.lsp.completion.BufferOpts*
 vim.lsp.completion.enable()	lsp.txt	/*vim.lsp.completion.enable()*
-vim.lsp.completion.trigger()	lsp.txt	/*vim.lsp.completion.trigger()*
+vim.lsp.completion.get()	lsp.txt	/*vim.lsp.completion.get()*
 vim.lsp.config()	lsp.txt	/*vim.lsp.config()*
 vim.lsp.diagnostic.clear()	deprecated.txt	/*vim.lsp.diagnostic.clear()*
 vim.lsp.diagnostic.disable()	deprecated.txt	/*vim.lsp.diagnostic.disable()*
@@ -10207,6 +10216,7 @@ vim.text.hexdecode()	lua.txt	/*vim.text.hexdecode()*
 vim.text.hexencode()	lua.txt	/*vim.text.hexencode()*
 vim.text.indent()	lua.txt	/*vim.text.indent()*
 vim.tohtml	lua.txt	/*vim.tohtml*
+vim.treesitter.Query	treesitter.txt	/*vim.treesitter.Query*
 vim.treesitter.add_directive()	deprecated.txt	/*vim.treesitter.add_directive()*
 vim.treesitter.add_predicate()	deprecated.txt	/*vim.treesitter.add_predicate()*
 vim.treesitter.foldexpr()	treesitter.txt	/*vim.treesitter.foldexpr()*
