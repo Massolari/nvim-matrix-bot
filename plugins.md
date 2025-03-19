@@ -128,6 +128,7 @@ iabdelkareem/csharp.nvim - https://github.com/iabdelkareem/csharp.nvim - Enhance
 jim-at-jibba/micropython.nvim - https://github.com/jim-at-jibba/micropython.nvim - Enhances the development experience for developers using Micro-python for IoT and maker projects.
 neolooong/whichpy.nvim - https://github.com/neolooong/whichpy.nvim - Switch Python interpreter without restarting LSP.
 nvim-java/nvim-java - https://github.com/nvim-java/nvim-java - Everything you need for a painless Java experience.
+kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford. 
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
 crispgm/nvim-go - https://github.com/crispgm/nvim-go - A minimal implementation of Golang development plugin.
@@ -184,6 +185,7 @@ ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods o
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
 niuiic/translate.nvim - https://github.com/niuiic/translate.nvim - Invoke any translation engine via shell command.
 tanloong/interlaced.nvim - https://github.com/tanloong/interlaced.nvim - Help align bilingual parallel texts.
+kiyoon/Korean-IME.nvim - https://github.com/kiyoon/Korean-IME.nvim - OS-independent Korean input method that converts English inputs to Korean in-place.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Neovim Tree-sitter configurations and abstraction layer.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
@@ -471,6 +473,7 @@ SmiteshP/nvim-navic - https://github.com/SmiteshP/nvim-navic - A simple statusli
 luukvbaal/statuscol.nvim - https://github.com/luukvbaal/statuscol.nvim - Configurable 'statuscolumn' with builtin segments and click handlers.
 mawkler/hml.nvim - https://github.com/mawkler/hml.nvim - Adds `H`/`M`/`L` indicators to your line numbers.
 neur1n/noline.nvim - https://github.com/neur1n/noline.nvim - Fully customizable bars and lines components with no presets or constraints. See [construction](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
+OXY2DEV/bars.nvim - https://github.com/OXY2DEV/bars.nvim - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - Galaxyline componentizes Vim's statusline by having a provider for each text area. This means you can use the API provided by galaxyline to create the statusline that you want, easily.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
 sontungexpt/sttusline - https://github.com/sontungexpt/sttusline - Very lightweight, super fast and lazyloading statusline.
@@ -659,6 +662,7 @@ neanvo/buben.nvim - https://github.com/neanvo/buben.nvim - Human-readable names 
 josephburgess/nvumi - https://github.com/josephburgess/nvumi - Natural language calculator in a scratch buffer.
 redoxahmii/json-to-types.nvim - https://github.com/redoxahmii/json-to-types.nvim - Convert JSON objects to type definitions for multiple languages.
 ovk/endec.nvim - https://github.com/ovk/endec.nvim - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
+kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -838,6 +842,7 @@ mfussenegger/nvim-treehopper - https://github.com/mfussenegger/nvim-treehopper -
 ziontee113/syntax-tree-surfer - https://github.com/ziontee113/syntax-tree-surfer - Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
 drybalka/tree-climber.nvim - https://github.com/drybalka/tree-climber.nvim - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
 atusy/treemonkey.nvim - https://github.com/atusy/treemonkey.nvim - Region selection with Tree-sitter nodes.
+kiyoon/treesitter-indent-object.nvim - https://github.com/kiyoon/treesitter-indent-object.nvim - Context-aware indent textobject powered by Tree-sitter.
 folke/which-key.nvim - https://github.com/folke/which-key.nvim - Neovim plugin that shows a popup with possible keybindings of the command you started typing.
 echasnovski/mini.nvim#mini.clue - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 mrjones2014/legendary.nvim - https://github.com/mrjones2014/legendary.nvim - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VS Code's Command Palette), integrates with `which-key.nvim`.
@@ -937,6 +942,7 @@ tummetott/unimpaired.nvim - https://github.com/tummetott/unimpaired.nvim - Lua p
 daltongd/yanklock.nvim - https://github.com/daltongd/yanklock.nvim - Temporarily lock the paste register to `"0`, and use `d`, `c`, and `s` motions while keeping the most recent yanked content easily accessible.
 zongben/capsoff.nvim - https://github.com/zongben/capsoff.nvim - Turns off CapsLock when you leaving insert mode.
 kobbikobb/move-lines.nvim - https://github.com/kobbikobb/move-lines.nvim - Moves lines selected in virtual mode.
+kiyoon/telescope-insert-path.nvim - https://github.com/kiyoon/telescope-insert-path.nvim - Insert file path in the current buffer using Telescope.
 numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
 gennaro-tedesco/nvim-commaround - https://github.com/gennaro-tedesco/nvim-commaround - Fast and light commenting plugin written in Lua.
@@ -1022,6 +1028,7 @@ karshPrime/only-tmux.nvim - https://github.com/karshPrime/only-tmux.nvim - Expan
 karshPrime/tmux-compile.nvim - https://github.com/karshPrime/tmux-compile.nvim - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
 EvWilson/slimux.nvim - https://github.com/EvWilson/slimux.nvim - Send content from the current buffer to a configurable tmux pane.
 juselara1/tmutils.nvim - https://github.com/juselara1/tmutils.nvim - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
+kiyoon/tmux-send.nvim - https://github.com/kiyoon/tmux-send.nvim - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
 ThePrimeagen/vim-be-good - https://github.com/ThePrimeagen/vim-be-good - Vim-be-good is a Neovim plugin designed to make you better at Vim Movements.
 alec-gibson/nvim-tetris - https://github.com/alec-gibson/nvim-tetris - Bringing emacs' greatest feature to Neovim - Tetris!.
 seandewar/nvimesweeper - https://github.com/seandewar/nvimesweeper - Play Minesweeper in your favourite text editor.
