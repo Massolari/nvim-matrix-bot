@@ -994,6 +994,7 @@ $quote	eval.txt	/*$quote*
 'winbar'	options.txt	/*'winbar'*
 'winbl'	options.txt	/*'winbl'*
 'winblend'	options.txt	/*'winblend'*
+'winborder'	options.txt	/*'winborder'*
 'window'	options.txt	/*'window'*
 'winfixbuf'	options.txt	/*'winfixbuf'*
 'winfixheight'	options.txt	/*'winfixheight'*
@@ -4461,6 +4462,7 @@ TSNode:missing()	treesitter.txt	/*TSNode:missing()*
 TSNode:named()	treesitter.txt	/*TSNode:named()*
 TSNode:named_child()	treesitter.txt	/*TSNode:named_child()*
 TSNode:named_child_count()	treesitter.txt	/*TSNode:named_child_count()*
+TSNode:named_children()	treesitter.txt	/*TSNode:named_children()*
 TSNode:named_descendant_for_range()	treesitter.txt	/*TSNode:named_descendant_for_range()*
 TSNode:next_named_sibling()	treesitter.txt	/*TSNode:next_named_sibling()*
 TSNode:next_sibling()	treesitter.txt	/*TSNode:next_sibling()*
@@ -7178,12 +7180,14 @@ lsp-defaults-disable	lsp.txt	/*lsp-defaults-disable*
 lsp-diagnostic	lsp.txt	/*lsp-diagnostic*
 lsp-events	lsp.txt	/*lsp-events*
 lsp-faq	lsp.txt	/*lsp-faq*
+lsp-format	lsp.txt	/*lsp-format*
 lsp-handler	lsp.txt	/*lsp-handler*
 lsp-handler-resolution	lsp.txt	/*lsp-handler-resolution*
 lsp-highlight	lsp.txt	/*lsp-highlight*
 lsp-highlight-codelens	lsp.txt	/*lsp-highlight-codelens*
 lsp-highlight-signature	lsp.txt	/*lsp-highlight-signature*
 lsp-inlay_hint	lsp.txt	/*lsp-inlay_hint*
+lsp-lint	lsp.txt	/*lsp-lint*
 lsp-log	lsp.txt	/*lsp-log*
 lsp-method	lsp.txt	/*lsp-method*
 lsp-notification	lsp.txt	/*lsp-notification*
@@ -8047,6 +8051,7 @@ octal-number	eval.txt	/*octal-number*
 oldfiles-variable	vvars.txt	/*oldfiles-variable*
 omap-info	map.txt	/*omap-info*
 omni-sql-completion	ft_sql.txt	/*omni-sql-completion*
+omnicompletion	insert.txt	/*omnicompletion*
 on_data	channel.txt	/*on_data*
 on_exit	job_control.txt	/*on_exit*
 on_stderr	channel.txt	/*on_stderr*
@@ -8214,6 +8219,7 @@ profiling-variable	vvars.txt	/*profiling-variable*
 progname-variable	vvars.txt	/*progname-variable*
 progpath-variable	vvars.txt	/*progpath-variable*
 progress.vim	syntax.txt	/*progress.vim*
+project-config	options.txt	/*project-config*
 prompt-buffer	channel.txt	/*prompt-buffer*
 prompt_getprompt()	builtin.txt	/*prompt_getprompt()*
 prompt_setcallback()	builtin.txt	/*prompt_setcallback()*
@@ -8607,7 +8613,8 @@ shada-read-write	starting.txt	/*shada-read-write*
 shada-s	options.txt	/*shada-s*
 shada-write	starting.txt	/*shada-write*
 shell-powershell	options.txt	/*shell-powershell*
-shell-prompt-config	terminal.txt	/*shell-prompt-config*
+shell-prompt	terminal.txt	/*shell-prompt*
+shell-prompt-signs	terminal.txt	/*shell-prompt-signs*
 shell-unquoting	options.txt	/*shell-unquoting*
 shell_error-variable	vvars.txt	/*shell_error-variable*
 shellescape()	builtin.txt	/*shellescape()*
@@ -9064,7 +9071,6 @@ terminal-osc133	terminal.txt	/*terminal-osc133*
 terminal-osc52	terminal.txt	/*terminal-osc52*
 terminal-osc7	terminal.txt	/*terminal-osc7*
 terminal-scrollback-pager	api.txt	/*terminal-scrollback-pager*
-terminal-shell-prompt-signs	terminal.txt	/*terminal-shell-prompt-signs*
 terminal-start	terminal.txt	/*terminal-start*
 terminal-status	terminal.txt	/*terminal-status*
 terminal.txt	terminal.txt	/*terminal.txt*
@@ -10029,7 +10035,6 @@ vim.lsp.codelens.refresh()	lsp.txt	/*vim.lsp.codelens.refresh()*
 vim.lsp.codelens.run()	lsp.txt	/*vim.lsp.codelens.run()*
 vim.lsp.codelens.save()	lsp.txt	/*vim.lsp.codelens.save()*
 vim.lsp.commands	lsp.txt	/*vim.lsp.commands*
-vim.lsp.completion.BufferOpts	lsp.txt	/*vim.lsp.completion.BufferOpts*
 vim.lsp.completion.enable()	lsp.txt	/*vim.lsp.completion.enable()*
 vim.lsp.completion.get()	lsp.txt	/*vim.lsp.completion.get()*
 vim.lsp.config()	lsp.txt	/*vim.lsp.config()*
@@ -10398,6 +10403,7 @@ word	motion.txt	/*word*
 word-count	editing.txt	/*word-count*
 word-motions	motion.txt	/*word-motions*
 wordcount()	builtin.txt	/*wordcount()*
+workspace-config	options.txt	/*workspace-config*
 wrap-off	intro.txt	/*wrap-off*
 write-compiler-plugin	usr_41.txt	/*write-compiler-plugin*
 write-device	editing.txt	/*write-device*
