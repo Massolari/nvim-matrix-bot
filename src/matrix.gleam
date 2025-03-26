@@ -104,7 +104,6 @@ fn sync_loop(
 
     use messages <- result.try(
       sync_response.body
-      |> echo
       |> json.parse(using: messages_decoder())
       |> result.map_error(DecodeMessageError),
     )
