@@ -34,9 +34,10 @@ pub fn find(queries: List(String)) -> Result(Help, HelpError) {
 }
 
 @internal
-pub fn search(on tags: String, for queries: List(String)) -> List(
-  Result(#(String, String), String),
-) {
+pub fn search(
+  on tags: String,
+  for queries: List(String),
+) -> List(Result(#(String, String), String)) {
   use result, query <- list.fold(over: queries, from: [])
 
   let match =
