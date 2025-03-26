@@ -1,9 +1,9 @@
 import gleam/dict.{type Dict}
-import gleam/dynamic
-import gleam/hackney
+import gleam/dynamic/decode
 import gleam/http
 import gleam/http/request
 import gleam/http/response
+import gleam/httpc
 import gleam/io
 import gleam/json
 import gleam/list
@@ -17,11 +17,11 @@ pub opaque type Matrix {
 }
 
 pub type MatrixError {
-  LoginError(hackney.Error)
+  LoginError(httpc.HttpError)
   DecodeAccessTokenError(json.DecodeError)
-  SyncError(hackney.Error)
+  SyncError(httpc.HttpError)
   DecodeMessageError(json.DecodeError)
-  SendError(hackney.Error)
+  SendError(httpc.HttpError)
   DecodeNextBatchError(json.DecodeError)
   WriteNextBatchError(simplifile.FileError)
 }
@@ -35,29 +35,34 @@ pub fn new(
   user user: String,
   password password: String,
 ) -> Result(Matrix, MatrixError) {
-  let assert Ok(request) = request.to(server <> "/_matrix/client/r0/login")
+  let assert Ok(request) = request.to(server <> "/_matrix/client/v3/login")
 
   use response <- result.try(
     request
     |> request.set_method(http.Post)
     |> request.prepend_header("accept", "application/json")
     |> request.prepend_header("content-type", "application/json")
-    |> request.prepend_header("charset", "utf-8")
     |> request.set_body(
       json.object([
         #("type", json.string("m.login.password")),
-        #("user", json.string(user)),
+        #(
+          "identifier",
+          json.object([
+            #("type", json.string("m.id.user")),
+            #("user", json.string(user)),
+          ]),
+        ),
         #("password", json.string(password)),
       ])
       |> json.to_string,
     )
-    |> hackney.send
+    |> httpc.send
     |> result.map_error(LoginError),
   )
 
   use access_token <- result.map(
     response.body
-    |> json.decode(dynamic.field(named: "access_token", of: dynamic.string))
+    |> json.parse(decode.at(["access_token"], decode.string))
     |> result.map_error(DecodeAccessTokenError),
   )
 
@@ -66,15 +71,14 @@ pub fn new(
 
 pub fn error_to_string(error: MatrixError) -> String {
   case error {
-    LoginError(hackney_error) ->
-      "Login error: " <> string.inspect(hackney_error)
+    LoginError(httpc_error) -> "Login error: " <> string.inspect(httpc_error)
     DecodeAccessTokenError(decode_error) ->
       "Decode access token error: " <> string.inspect(decode_error)
-    SyncError(hackney_error) -> "Sync error: " <> string.inspect(hackney_error)
+    SyncError(httpc_error) -> "Sync error: " <> string.inspect(httpc_error)
     DecodeMessageError(decode_error) ->
       "Decode message error: " <> string.inspect(decode_error)
-    SendError(hackney_error) ->
-      "Error sending message: " <> string.inspect(hackney_error)
+    SendError(httpc_error) ->
+      "Error sending message: " <> string.inspect(httpc_error)
     DecodeNextBatchError(decode_error) ->
       "Decode next_batch error: " <> string.inspect(decode_error)
     WriteNextBatchError(file_error) ->
@@ -100,13 +104,14 @@ fn sync_loop(
 
     use messages <- result.try(
       sync_response.body
-      |> json.decode(using: messages_decoder())
+      |> echo
+      |> json.parse(using: messages_decoder())
       |> result.map_error(DecodeMessageError),
     )
 
     let new_next_batch =
       sync_response.body
-      |> json.decode(dynamic.field(named: "next_batch", of: dynamic.string))
+      |> json.parse(decode.at(["next_batch"], decode.string))
       |> result.map_error(DecodeNextBatchError)
       |> result.try(fn(next_batch) {
         next_batch
@@ -159,61 +164,41 @@ fn sync(
       Error(_) -> req
     }
   }
-  |> hackney.send
+  |> httpc.send
   |> result.map_error(SyncError)
 }
 
-fn messages_decoder() -> dynamic.Decoder(Option(Dict(String, List(Message)))) {
-  dynamic.optional_field(
-    named: "rooms",
-    of: dynamic.field(
-      named: "join",
-      of: dynamic.dict(
-        dynamic.string,
-        dynamic.field(
-          named: "timeline",
-          of: dynamic.field(named: "events", of: fn(json_events) {
-            json_events
-            |> dynamic.shallow_list
-            |> result.try(list.try_fold(
-              _,
-              [],
-              fn(messages, json_event) {
-                use event_id <- result.try(
-                  json_event
-                  |> dynamic.field(named: "event_id", of: dynamic.string),
-                )
+fn messages_decoder() -> decode.Decoder(Option(Dict(String, List(Message)))) {
+  let event_decoder = {
+    use event_id <- decode.field("event_id", decode.string)
+    use event_type <- decode.field("type", decode.string)
 
-                use event_type <- result.map(
-                  json_event
-                  |> dynamic.field(named: "type", of: dynamic.string),
-                )
+    case event_type {
+      "m.room.message" -> {
+        use content <- decode.subfield(["content", "body"], decode.string)
 
-                case event_type {
-                  "m.room.message" -> {
-                    let content =
-                      json_event
-                      |> dynamic.field(
-                        named: "content",
-                        of: dynamic.field(named: "body", of: dynamic.string),
-                      )
+        Message(event_id: event_id, content: content)
+        |> option.Some
+        |> decode.success
+      }
+      _ ->
+        option.None
+        |> decode.success
+    }
+  }
+  let events_decoder = {
+    decode.at(
+      ["timeline", "events"],
+      decode.list(event_decoder)
+        |> decode.map(option.values),
+    )
+  }
 
-                    case content {
-                      Ok(content) -> [
-                        Message(event_id: event_id, content: content),
-                        ..messages
-                      ]
-                      Error(_) -> messages
-                    }
-                  }
-                  _ -> messages
-                }
-              },
-            ))
-          }),
-        ),
-      ),
-    ),
+  decode.optionally_at(
+    ["rooms", "join"],
+    option.None,
+    decode.dict(decode.string, events_decoder)
+      |> decode.map(option.Some),
   )
 }
 
@@ -258,7 +243,7 @@ pub fn send_message(
       ])
       |> json.to_string,
     )
-    |> hackney.send
+    |> httpc.send
     |> result.map_error(SendError),
   )
 

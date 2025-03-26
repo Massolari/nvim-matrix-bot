@@ -1,7 +1,7 @@
 import gleam/bool
 import gleam/list
 import gleam/option.{Some}
-import gleam/regex
+import gleam/regexp
 import gleam/string
 
 pub type Command {
@@ -27,7 +27,7 @@ pub fn from_string(text: String) -> Result(List(Command), Nil) {
 
   let commands =
     [help_commands, plugin_commands]
-    |> list.concat
+    |> list.flatten
     |> list.reverse
 
   case commands {
@@ -38,11 +38,11 @@ pub fn from_string(text: String) -> Result(List(Command), Nil) {
 
 fn parse_help_command(text: String) -> List(Command) {
   let assert Ok(help_regex) =
-    regex.from_string("[!:](?:help|h|he|hel) ([^`\\n\\s]+)")
+    regexp.from_string("[!:](?:help|h|he|hel) ([^`\\n\\s]+)")
 
   let matches =
     help_regex
-    |> regex.scan(content: text)
+    |> regexp.scan(content: text)
 
   use commands, match <- list.fold(over: matches, from: [])
 
@@ -53,11 +53,11 @@ fn parse_help_command(text: String) -> List(Command) {
 }
 
 fn parse_plugin_command(text: String) -> List(Command) {
-  let assert Ok(plugin_regex) = regex.from_string("!plugin ([\\w.-]+)")
+  let assert Ok(plugin_regex) = regexp.from_string("!plugin ([\\w.-]+)")
 
   let matches =
     plugin_regex
-    |> regex.scan(content: text)
+    |> regexp.scan(content: text)
 
   use commands, match <- list.fold(over: matches, from: [])
 

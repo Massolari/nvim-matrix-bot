@@ -1,5 +1,5 @@
-import gleam/hackney
 import gleam/http/request
+import gleam/httpc
 import gleam/io
 import gleam/list
 import gleam/result
@@ -11,7 +11,7 @@ pub type PluginData {
 }
 
 pub type PluginError {
-  NvimShError(hackney.Error)
+  NvimShError(httpc.HttpError)
 }
 
 pub fn get(name: String) -> Result(String, PluginError) {
@@ -80,7 +80,7 @@ fn fetch_from_nvim_sh(name: String) -> Result(String, PluginError) {
   io.println("Sending request to nvim.sh...")
   use response <- result.map(
     request
-    |> hackney.send
+    |> httpc.send
     |> result.map_error(NvimShError),
   )
   io.println("Response received. Parsing...")

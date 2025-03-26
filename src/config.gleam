@@ -17,7 +17,7 @@ pub type ConfigError {
 }
 
 pub fn from_env() -> Result(Config, ConfigError) {
-  dot_env.load()
+  dot_env.load_default()
 
   use username <- result.try(get_env("MATRIX_USERNAME"))
   use password <- result.map(get_env("MATRIX_PASSWORD"))
@@ -25,7 +25,7 @@ pub fn from_env() -> Result(Config, ConfigError) {
     get_env("MATRIX_SERVER")
     |> result.unwrap("https://matrix.org")
   let format_link_as_code =
-    env.get("FORMAT_LINK_AS_CODE")
+    env.get_string("FORMAT_LINK_AS_CODE")
     |> result.map(fn(value) { string.lowercase(value) == "true" })
     |> result.unwrap(True)
 
@@ -38,7 +38,7 @@ pub fn from_env() -> Result(Config, ConfigError) {
 }
 
 fn get_env(name: String) -> Result(String, ConfigError) {
-  env.get(name)
+  env.get_string(name)
   |> result.map_error(fn(_) { UndefinedEnvVar(name) })
 }
 
