@@ -7,7 +7,7 @@ import gleam/httpc
 import gleam/io
 import gleam/json
 import gleam/list
-import gleam/option.{type Option}
+import gleam/option
 import gleam/result
 import gleam/string
 import simplifile
@@ -120,7 +120,6 @@ fn sync_loop(
       })
 
     messages
-    |> option.unwrap(dict.new())
     |> dict.to_list
     |> list.each(fn(room_message) {
       let #(room, messages) = room_message
@@ -167,14 +166,17 @@ fn sync(
   |> result.map_error(SyncError)
 }
 
-fn messages_decoder() -> decode.Decoder(Option(Dict(String, List(Message)))) {
+fn messages_decoder() -> decode.Decoder(Dict(String, List(Message))) {
   let event_decoder = {
     use event_id <- decode.field("event_id", decode.string)
     use event_type <- decode.field("type", decode.string)
 
     case event_type {
       "m.room.message" -> {
-        use content <- decode.subfield(["content", "body"], decode.string)
+        use content <- decode.field(
+          "content",
+          decode.optionally_at(["body"], "", decode.string),
+        )
 
         Message(event_id: event_id, content: content)
         |> option.Some
@@ -186,18 +188,20 @@ fn messages_decoder() -> decode.Decoder(Option(Dict(String, List(Message)))) {
     }
   }
   let events_decoder = {
-    decode.at(
+    use maybe_events <- decode.subfield(
       ["timeline", "events"],
-      decode.list(event_decoder)
-        |> decode.map(option.values),
+      decode.list(event_decoder),
     )
+
+    maybe_events
+    |> option.values
+    |> decode.success
   }
 
   decode.optionally_at(
-    ["rooms", "join"],
-    option.None,
-    decode.dict(decode.string, events_decoder)
-      |> decode.map(option.Some),
+    ["rooms"],
+    dict.new(),
+    decode.at(["join"], decode.dict(decode.string, events_decoder)),
   )
 }
 
