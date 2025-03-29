@@ -252,6 +252,7 @@ polirritmico/telescope-lazy-plugins.nvim - https://github.com/polirritmico/teles
 MagicDuck/grug-far.nvim - https://github.com/MagicDuck/grug-far.nvim - Buffer-based live search and replace with full power of `rg` flags. Grug like!
 chrisgrieser/nvim-rip-substitute - https://github.com/chrisgrieser/nvim-rip-substitute - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
 wsdjeg/flygrep.nvim - https://github.com/wsdjeg/flygrep.nvim - Search text in a floating window asynchronously.
+prochri/telescope-all-recent.nvim - https://github.com/prochri/telescope-all-recent.nvim - Frequency and recency sorter for any Telescope picker.
 nvim-telescope/telescope.nvim - https://github.com/nvim-telescope/telescope.nvim - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
 vijaymarupudi/nvim-fzf - https://github.com/vijaymarupudi/nvim-fzf - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 camspiers/snap - https://github.com/camspiers/snap - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
@@ -806,6 +807,7 @@ isak102/telescope-git-file-history.nvim - https://github.com/isak102/telescope-g
 moyiz/git-dev.nvim - https://github.com/moyiz/git-dev.nvim - Open remote Git repositories in the comfort of Neovim.
 SuperBo/fugit2.nvim - https://github.com/SuperBo/fugit2.nvim - Git GUI powered by [libgit2](https://libgit2.org).
 Yu-Leo/blame-column.nvim - https://github.com/Yu-Leo/blame-column.nvim - Show Git blame info.
+yutkat/git-rebase-auto-diff.nvim - https://github.com/yutkat/git-rebase-auto-diff.nvim - Show diff automatically when Git rebase.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin to help writing and testing CodeQL queries.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
