@@ -153,6 +153,7 @@ luckasRanarison/tailwind-tools.nvim - https://github.com/luckasRanarison/tailwin
 cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - A tool for CSS unit conversions.
 farias-hecdin/CSSVarViewer - https://github.com/farias-hecdin/CSSVarViewer - Easily visualize the content of your CSS variables in a virtual text.
 farias-hecdin/CSSVarHighlight - https://github.com/farias-hecdin/CSSVarHighlight - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
+BibekBhusal0/nvim-shadcn - https://github.com/BibekBhusal0/nvim-shadcn - Easily add Shadcn UI components with telescope.
 ellisonleao/glow.nvim - https://github.com/ellisonleao/glow.nvim - Markdown preview using glow.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
@@ -668,6 +669,7 @@ redoxahmii/json-to-types.nvim - https://github.com/redoxahmii/json-to-types.nvim
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 ovk/endec.nvim - https://github.com/ovk/endec.nvim - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
 kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+BibekBhusal0/bufstack.nvim - https://github.com/BibekBhusal0/bufstack.nvim - Track recently visited buffers and reopen recently closed buffers.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
