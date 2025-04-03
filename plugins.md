@@ -996,6 +996,7 @@ Mr-LLLLL/cool-chunk.nvim - https://github.com/Mr-LLLLL/cool-chunk.nvim - Simpler
 gh-liu/fold_line.nvim - https://github.com/gh-liu/fold_line.nvim - Lines for indicating code folding, which could achieve an effect similar to indentline by `:set fdm=indent`.
 notomo/cmdbuf.nvim - https://github.com/notomo/cmdbuf.nvim - Alternative command-line-window plugin.
 gelguy/wilder.nvim - https://github.com/gelguy/wilder.nvim - A plugin for fuzzy command line autocompletion.
+vzze/cmdline.nvim - https://github.com/vzze/cmdline.nvim - Helix-like command line with fuzzy autocompletion.
 rmagatti/auto-session - https://github.com/rmagatti/auto-session - A small automated session manager.
 echasnovski/mini.nvim#mini.sessions - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md - Module of `mini.nvim` for session management (read, write, delete).
 gennaro-tedesco/nvim-possession - https://github.com/gennaro-tedesco/nvim-possession - The no-nonsense session manager.
