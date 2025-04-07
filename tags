@@ -10036,7 +10036,7 @@ vim.lsp.buf_is_attached()	lsp.txt	/*vim.lsp.buf_is_attached()*
 vim.lsp.buf_notify()	lsp.txt	/*vim.lsp.buf_notify()*
 vim.lsp.buf_request_all()	lsp.txt	/*vim.lsp.buf_request_all()*
 vim.lsp.buf_request_sync()	lsp.txt	/*vim.lsp.buf_request_sync()*
-vim.lsp.client_is_stopped()	lsp.txt	/*vim.lsp.client_is_stopped()*
+vim.lsp.client_is_stopped()	deprecated.txt	/*vim.lsp.client_is_stopped()*
 vim.lsp.codelens.clear()	lsp.txt	/*vim.lsp.codelens.clear()*
 vim.lsp.codelens.display()	lsp.txt	/*vim.lsp.codelens.display()*
 vim.lsp.codelens.get()	lsp.txt	/*vim.lsp.codelens.get()*
@@ -10152,7 +10152,7 @@ vim.lsp.util.set_lines()	deprecated.txt	/*vim.lsp.util.set_lines()*
 vim.lsp.util.set_loclist()	deprecated.txt	/*vim.lsp.util.set_loclist()*
 vim.lsp.util.set_qflist()	deprecated.txt	/*vim.lsp.util.set_qflist()*
 vim.lsp.util.show_document()	lsp.txt	/*vim.lsp.util.show_document()*
-vim.lsp.util.stylize_markdown()	lsp.txt	/*vim.lsp.util.stylize_markdown()*
+vim.lsp.util.stylize_markdown()	deprecated.txt	/*vim.lsp.util.stylize_markdown()*
 vim.lsp.util.symbols_to_items()	lsp.txt	/*vim.lsp.util.symbols_to_items()*
 vim.lsp.util.text_document_completion_list_to_complete_items()	deprecated.txt	/*vim.lsp.util.text_document_completion_list_to_complete_items()*
 vim.lsp.util.trim_empty_lines()	deprecated.txt	/*vim.lsp.util.trim_empty_lines()*
