@@ -67,6 +67,7 @@ rachartier/tiny-code-action.nvim - https://github.com/rachartier/tiny-code-actio
 mawkler/refjump.nvim - https://github.com/mawkler/refjump.nvim - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
 alexpasmantier/pymple.nvim - https://github.com/alexpasmantier/pymple.nvim - Refactor Python imports on file move/rename.
 esmuellert/nvim-eslint - https://github.com/esmuellert/nvim-eslint - Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
+Fildo7525/pretty_hover - https://github.com/Fildo7525/pretty_hover - Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers.
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -110,6 +111,7 @@ milanglacier/yarepl.nvim#aider-extensions - https://github.com/milanglacier/yare
 Davidyz/VectorCode - https://github.com/davidyz/vectorcode - Supercharge your LLM experience with repository-level RAG.
 dlants/magenta.nvim - https://github.com/dlants/magenta.nvim - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 claudius.nvim - https://github.com/StanAngeloff/claudius.nvim - Text-based interface for chatting with Claude AI directly in your buffer.
+heilgar/nochat.nvim - https://github.com/heilgar/nochat.nvim - Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -147,6 +149,7 @@ cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YA
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTTP client written in Lua.
 lima1909/resty.nvim - https://github.com/lima1909/resty.nvim - Fast and easy-to-use HTTP-Rest-Client.
 mistweaverco/kulala.nvim - https://github.com/mistweaverco/kulala.nvim - A minimal HTTP-client interface.
+heilgar/nvim-http-client - https://github.com/heilgar/nvim-http-client - Easy to use HTTP client with IntelliJ (JetBrains) HTTP client syntax compatibility.
 ray-x/web-tools.nvim - https://github.com/ray-x/web-tools.nvim - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
 roobert/tailwindcss-colorizer-cmp.nvim - https://github.com/roobert/tailwindcss-colorizer-cmp.nvim - Add vscode-style TailwindCSS completion to nvim-cmp.
 luckasRanarison/tailwind-tools.nvim - https://github.com/luckasRanarison/tailwind-tools.nvim - Unofficial TailwindCSS tooling.
@@ -225,6 +228,7 @@ ofirgall/open.nvim - https://github.com/ofirgall/open.nvim - Open the current wo
 LeonHeidelbach/trailblazer.nvim - https://github.com/LeonHeidelbach/trailblazer.nvim - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
 tomasky/bookmarks.nvim - https://github.com/tomasky/bookmarks.nvim - Bookmarks with global file storage, written in Lua.
 LintaoAmons/bookmarks.nvim - https://github.com/LintaoAmons/bookmarks.nvim - Your new bookmarks option: simple yet powerful.
+heilgar/bookmarks.nvim - https://github.com/heilgar/bookmarks.nvim - Manage line bookmarks with Telescope integration and SQLite storage.
 desdic/marlin.nvim - https://github.com/desdic/marlin.nvim - Like harpoon, but with key differences like project path, split support, no UI.
 fnune/recall.nvim - https://github.com/fnune/recall.nvim - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 niuiic/track.nvim - https://github.com/niuiic/track.nvim - Enhanced mark with description. Track the thought process of reading source code.
@@ -559,7 +563,7 @@ jbyuki/venn.nvim - https://github.com/jbyuki/venn.nvim - Draw ASCII diagrams.
 nvim-telekasten/telekasten.nvim - https://github.com/nvim-telekasten/telekasten.nvim - Work with a text-based, markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
 zk-org/zk-nvim - https://github.com/zk-org/zk-nvim - Neovim extension for zk, a plain text note-taking assistant.
 chrsm/impulse.nvim - https://github.com/chrsm/impulse.nvim - Read Notion.so notes.
-epwalsh/obsidian.nvim - https://github.com/epwalsh/obsidian.nvim - Plugin for Obsidian, written in Lua.
+obsidian-nvim/obsidian.nvim - https://github.com/obsidian-nvim/obsidian.nvim - Plugin for Obsidian, written in Lua.
 IlyasYOY/obs.nvim - https://github.com/IlyasYOY/obs.nvim - Your Obsidian notes at the speed of thought.
 jghauser/papis.nvim - https://github.com/jghauser/papis.nvim - Manage your bibliography from within your favourite editor.
 Ostralyan/scribe.nvim - https://github.com/Ostralyan/scribe.nvim - Take notes, easily.
@@ -753,6 +757,7 @@ speelbarrow/spLauncher.nvim - https://github.com/speelbarrow/spLauncher.nvim - F
 al1-ce/just.nvim - https://github.com/al1-ce/just.nvim - Task runner for justfiles.
 niuiic/task.nvim - https://github.com/niuiic/task.nvim - Another highly configurable task manager that enables seamless interaction with tasks.
 chrisgrieser/nvim-justice - https://github.com/chrisgrieser/nvim-justice - Lightweight integration of the `just` task runner.
+pewpewnor/pilot.nvim - https://github.com/pewpewnor/pilot.nvim - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 nvim-neorocks/luarocks-tag-release - https://github.com/nvim-neorocks/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
 svermeulen/vimpeccable - https://github.com/svermeulen/vimpeccable - Commands to help write your .vimrc in Lua or any Lua based language.
