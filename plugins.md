@@ -99,6 +99,7 @@ kiddos/gemini.nvim - https://github.com/kiddos/gemini.nvim - Bindings to Google 
 olimorris/codecompanion.nvim - https://github.com/olimorris/codecompanion.nvim - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
 simplegpt.nvim - https://github.com/you-n-g/simplegpt.nvim - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 Exafunction/codeium.nvim - https://github.com/Exafunction/codeium.nvim - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
+GeorgesAlkhouri/nvim-aider - https://github.com/GeorgesAlkhouri/nvim-aider - Seamlessly integrate Aider for an AI-assisted coding experience.
 CopilotC-Nvim/CopilotChat.nvim - https://github.com/CopilotC-Nvim/CopilotChat.nvim - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 tzachar/cmp-ai - https://github.com/tzachar/cmp-ai - This is a general purpose AI source for nvim-cmp, easily adapted to any REST API supporting remote code completion.
 milanglacier/minuet-ai.nvim - https://github.com/milanglacier/minuet-ai.nvim - Minuet offers code completion from LLM providers including OpenAI (compatible), Gemini, Claude, Ollama, Deepseek and more providers, with support for nvim-cmp, blink.cmp and virtual-text frontend.
@@ -131,7 +132,7 @@ jim-at-jibba/micropython.nvim - https://github.com/jim-at-jibba/micropython.nvim
 neolooong/whichpy.nvim - https://github.com/neolooong/whichpy.nvim - Switch Python interpreter without restarting LSP.
 nvim-java/nvim-java - https://github.com/nvim-java/nvim-java - Everything you need for a painless Java experience.
 kiyoon/python-import.nvim - https://github.com/kiyoon/python-import.nvim - Add Python import statements with Tree-sitter, LSP, and more.
-kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford. 
+kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
 crispgm/nvim-go - https://github.com/crispgm/nvim-go - A minimal implementation of Golang development plugin.
@@ -144,6 +145,7 @@ maxandron/goplements.nvim - https://github.com/maxandron/goplements.nvim - Visua
 Snikimonkd/cmp-go-pkgs - https://github.com/Snikimonkd/cmp-go-pkgs - Cmp source for Go packages names.
 Yu-Leo/gosigns.nvim - https://github.com/Yu-Leo/gosigns.nvim - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 Yu-Leo/cmp-go-pkgs - https://github.com/Yu-Leo/cmp-go-pkgs - Cmp source providing the names of Go packages to import.
+fredrikaverpil/godoc.nvim - https://github.com/fredrikaverpil/godoc.nvim - Fuzzy search Go packages/symbols and view docs.
 someone-stole-my-name/yaml-companion.nvim - https://github.com/someone-stole-my-name/yaml-companion.nvim - Get, set and autodetect YAML schemas in your buffers.
 cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YAML files.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTTP client written in Lua.
@@ -192,6 +194,7 @@ potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate y
 niuiic/translate.nvim - https://github.com/niuiic/translate.nvim - Invoke any translation engine via shell command.
 tanloong/interlaced.nvim - https://github.com/tanloong/interlaced.nvim - Help align bilingual parallel texts.
 kiyoon/Korean-IME.nvim - https://github.com/kiyoon/Korean-IME.nvim - OS-independent Korean input method that converts English inputs to Korean in-place.
+doodleEsc/translator.nvim - https://github.com/doodleEsc/translator.nvim - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Neovim Tree-sitter configurations and abstraction layer.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
@@ -271,6 +274,7 @@ echasnovski/mini.nvim#mini.pick - https://github.com/echasnovski/mini.nvim/blob/
 echasnovski/mini.nvim#mini.extra - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 fdschmidt93/telescope-egrepify.nvim - https://github.com/fdschmidt93/telescope-egrepify.nvim - Telescope plugin for better `rg` flags in `live_grep`.
 crispgm/telescope-heading.nvim - https://github.com/crispgm/telescope-heading.nvim - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
+bassamsdata/namu.nvim - https://github.com/bassamsdata/namu.nvim - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed. 
 nvim-tree/nvim-tree.lua - https://github.com/nvim-tree/nvim-tree.lua - A simple and fast file explorer tree.
 luukvbaal/nnn.nvim - https://github.com/luukvbaal/nnn.nvim - File explorer powered by [nnn](https://github.com/jarun/nnn) and Lua.
 tamago324/lir.nvim - https://github.com/tamago324/lir.nvim - Simple file explorer.
@@ -453,6 +457,7 @@ bartekjaszczak/luma-nvim - https://gitlab.com/bartekjaszczak/luma-nvim - A color
 bartekjaszczak/finale-nvim - https://gitlab.com/bartekjaszczak/finale-nvim - A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 m15a/nvim-srcerite - https://github.com/m15a/nvim-srcerite - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 neko-night/nvim - https://github.com/neko-night/nvim - A buffet of colorschemes for every taste and mood.
+ptdewey/monalisa-nvim - https://github.com/ptdewey/monalisa-nvim - A dark and colorful Mona Lisa inspired colorscheme.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
@@ -574,6 +579,7 @@ gsuuon/note.nvim - https://github.com/gsuuon/note.nvim - Daily tasks with deep-l
 backdround/global-note.nvim - https://github.com/backdround/global-note.nvim - One global note in a floating window.
 2KAbhishek/tdo.nvim - https://github.com/2KAbhishek/tdo.nvim - Fast and simple note taking.
 slugbyte/whip.nvim - http://github.com/slugbyte/whip.nvim - A super fast minimal scratchpad management plugin, biew biew biew.
+y3owk1n/dotmd.nvim - https://github.com/y3owk1n/dotmd.nvim - Managing notes, todos, journal entries and inbox all with markdown.
 athar-qadri/scratchpad.nvim - https://github.com/athar-qadri/scratchpad.nvim - Effortlessly manage scratchpads within your favorite editor.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
