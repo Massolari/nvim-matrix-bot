@@ -113,6 +113,7 @@ Davidyz/VectorCode - https://github.com/davidyz/vectorcode - Supercharge your LL
 dlants/magenta.nvim - https://github.com/dlants/magenta.nvim - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 claudius.nvim - https://github.com/StanAngeloff/claudius.nvim - Text-based interface for chatting with Claude AI directly in your buffer.
 heilgar/nochat.nvim - https://github.com/heilgar/nochat.nvim - Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
+julwrites/llm-nvim - https://github.com/julwrites/llm-nvim - Comprehensive integration with the [llm](https://github.com/simonw/llm) tool.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -680,7 +681,9 @@ redoxahmii/json-to-types.nvim - https://github.com/redoxahmii/json-to-types.nvim
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 ovk/endec.nvim - https://github.com/ovk/endec.nvim - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
 kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+y3owk1n/time-machine.nvim - https://github.com/y3owk1n/time-machine.nvim - Take control of your edit history with an interactive timeline, diff previews, taggings, live reloading trees and cleanup functions.
 BibekBhusal0/bufstack.nvim - https://github.com/BibekBhusal0/bufstack.nvim - Track recently visited buffers and reopen recently closed buffers.
+OXY2DEV/ui.nvim - https://github.com/OXY2DEV/ui.nvim - A blueprint/template/guide for customizing the UI.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -858,11 +861,13 @@ Mr-LLLLL/treesitter-outer - https://github.com/Mr-LLLLL/treesitter-outer - Jump 
 DanilaMihailov/beacon.nvim - https://github.com/DanilaMihailov/beacon.nvim - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
 Aaronik/Treewalker.nvim - https://github.com/aaronik/Treewalker.nvim - Move seamlessly around the abstract syntax tree.
 sphamba/smear-cursor.nvim - https://github.com/sphamba/smear-cursor.nvim - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
+timseriakov/spamguard.nvim - https://github.com/timseriakov/spamguard.nvim - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.
 mfussenegger/nvim-treehopper - https://github.com/mfussenegger/nvim-treehopper - Region selection with hints on the AST nodes of a document powered by Tree-sitter.
 ziontee113/syntax-tree-surfer - https://github.com/ziontee113/syntax-tree-surfer - Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
 drybalka/tree-climber.nvim - https://github.com/drybalka/tree-climber.nvim - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
 atusy/treemonkey.nvim - https://github.com/atusy/treemonkey.nvim - Region selection with Tree-sitter nodes.
 kiyoon/treesitter-indent-object.nvim - https://github.com/kiyoon/treesitter-indent-object.nvim - Context-aware indent textobject powered by Tree-sitter.
+TheLazyCat00/racer-nvim - https://github.com/TheLazyCat00/racer-nvim - Overload ; and , with custom keymaps.
 folke/which-key.nvim - https://github.com/folke/which-key.nvim - Neovim plugin that shows a popup with possible keybindings of the command you started typing.
 echasnovski/mini.nvim#mini.clue - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-clue.md - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 mrjones2014/legendary.nvim - https://github.com/mrjones2014/legendary.nvim - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VS Code's Command Palette), integrates with `which-key.nvim`.
@@ -891,6 +896,7 @@ petertriho/nvim-scrollbar - https://github.com/petertriho/nvim-scrollbar - Exten
 echasnovski/mini.nvim#mini.map - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 gorbit99/codewindow.nvim - https://github.com/gorbit99/codewindow.nvim - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
 lewis6991/satellite.nvim - https://github.com/lewis6991/satellite.nvim - Decorate scrollbar.
+TheLazyCat00/replace-nvim - https://github.com/TheLazyCat00/replace-nvim - Replace part of your code with the contents of the `+` register using textobjects.
 wurli/split.nvim - https://github.com/wurli/split.nvim - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 csessh/stopinsert.nvim - https://github.com/csessh/stopinsert.nvim - Automatically exit Insert mode after inactivity.
 windwp/nvim-ts-autotag - https://github.com/windwp/nvim-ts-autotag - Use Tree-sitter to autoclose and autorename XML, HTML, JSX tag.
@@ -977,6 +983,7 @@ LudoPinelli/comment-box.nvim - https://github.com/LudoPinelli/comment-box.nvim -
 JoosepAlviste/nvim-ts-context-commentstring - https://github.com/JoosepAlviste/nvim-ts-context-commentstring - Sets the `commentstring` option based on the cursor location in the file. The location is checked via Tree-sitter queries.
 LucasTavaresA/SingleComment.nvim - https://github.com/LucasTavaresA/SingleComment.nvim - Always single line, comment sensitive, indentation preserving commenting.
 Zeioth/dooku.nvim - https://github.com/Zeioth/dooku.nvim - Generate and open your HTML code documentation.
+soemre/commentless.nvim - https://github.com/soemre/commentless.nvim - Fold all comments to better visualize your code logic, and unfold them whenever needed.
 gpanders/editorconfig.nvim - https://github.com/gpanders/editorconfig.nvim - An EditorConfig plugin written in Fennel.
 mhartington/formatter.nvim - https://github.com/mhartington/formatter.nvim - A format runner written in Lua.
 lukas-reineke/lsp-format.nvim - https://github.com/lukas-reineke/lsp-format.nvim - A wrapper around Neovims native LSP formatting.
