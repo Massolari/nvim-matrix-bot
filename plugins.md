@@ -461,6 +461,7 @@ bartekjaszczak/finale-nvim - https://gitlab.com/bartekjaszczak/finale-nvim - A b
 m15a/nvim-srcerite - https://github.com/m15a/nvim-srcerite - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 neko-night/nvim - https://github.com/neko-night/nvim - A buffet of colorschemes for every taste and mood.
 ptdewey/monalisa-nvim - https://github.com/ptdewey/monalisa-nvim - A dark and colorful Mona Lisa inspired colorscheme.
+ntk148v/slack.nvim - https://github.com/ntk148v/slack.nvim - A ported Slack colorscheme.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
