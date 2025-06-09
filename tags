@@ -2501,6 +2501,7 @@ $quote	vimeval.txt	/*$quote*
 :registers	change.txt	/*:registers*
 :res	windows.txt	/*:res*
 :resize	windows.txt	/*:resize*
+:restart	gui.txt	/*:restart*
 :ret	change.txt	/*:ret*
 :retab	change.txt	/*:retab*
 :retab!	change.txt	/*:retab!*
@@ -9886,6 +9887,7 @@ vim-tutor-mode	pi_tutor.txt	/*vim-tutor-mode*
 vim-tutor-usage	pi_tutor.txt	/*vim-tutor-usage*
 vim-variable	vimeval.txt	/*vim-variable*
 vim.Diagnostic	diagnostic.txt	/*vim.Diagnostic*
+vim.Diagnostic.Set	diagnostic.txt	/*vim.Diagnostic.Set*
 vim.NIL	lua.txt	/*vim.NIL*
 vim.Ringbuf	lua.txt	/*vim.Ringbuf*
 vim._extui	lua.txt	/*vim._extui*
