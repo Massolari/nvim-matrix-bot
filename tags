@@ -4778,6 +4778,7 @@ aff-dic-format	spell.txt	/*aff-dic-format*
 after-directory	options.txt	/*after-directory*
 alternate-file	editing.txt	/*alternate-file*
 altfont	syntax.txt	/*altfont*
+an	lsp.txt	/*an*
 and()	vimfn.txt	/*and()*
 anonymous-function	vimeval.txt	/*anonymous-function*
 ansi-colorize	api.txt	/*ansi-colorize*
@@ -5541,6 +5542,7 @@ dh	change.txt	/*dh*
 diB	motion.txt	/*diB*
 diW	motion.txt	/*diW*
 diagnostic-api	diagnostic.txt	/*diagnostic-api*
+diagnostic-defaults	diagnostic.txt	/*diagnostic-defaults*
 diagnostic-events	diagnostic.txt	/*diagnostic-events*
 diagnostic-handlers	diagnostic.txt	/*diagnostic-handlers*
 diagnostic-handlers-example	diagnostic.txt	/*diagnostic-handlers-example*
@@ -6964,6 +6966,7 @@ if_ruby.txt	if_ruby.txt	/*if_ruby.txt*
 if_tcl	vim_diff.txt	/*if_tcl*
 ignore-errors	vimeval.txt	/*ignore-errors*
 ignore-timestamp	editing.txt	/*ignore-timestamp*
+in	lsp.txt	/*in*
 inactive-buffer	windows.txt	/*inactive-buffer*
 include-search	tagsrch.txt	/*include-search*
 inclusive	motion.txt	/*inclusive*
@@ -10065,11 +10068,13 @@ vim.lsp.buf.range_formatting()	deprecated.txt	/*vim.lsp.buf.range_formatting()*
 vim.lsp.buf.references()	lsp.txt	/*vim.lsp.buf.references()*
 vim.lsp.buf.remove_workspace_folder()	lsp.txt	/*vim.lsp.buf.remove_workspace_folder()*
 vim.lsp.buf.rename()	lsp.txt	/*vim.lsp.buf.rename()*
+vim.lsp.buf.selection_range()	lsp.txt	/*vim.lsp.buf.selection_range()*
 vim.lsp.buf.server_ready()	deprecated.txt	/*vim.lsp.buf.server_ready()*
 vim.lsp.buf.signature_help()	lsp.txt	/*vim.lsp.buf.signature_help()*
 vim.lsp.buf.signature_help.Opts	lsp.txt	/*vim.lsp.buf.signature_help.Opts*
 vim.lsp.buf.type_definition()	lsp.txt	/*vim.lsp.buf.type_definition()*
 vim.lsp.buf.typehierarchy()	lsp.txt	/*vim.lsp.buf.typehierarchy()*
+vim.lsp.buf.workspace_diagnostics()	lsp.txt	/*vim.lsp.buf.workspace_diagnostics()*
 vim.lsp.buf.workspace_symbol()	lsp.txt	/*vim.lsp.buf.workspace_symbol()*
 vim.lsp.buf_attach_client()	lsp.txt	/*vim.lsp.buf_attach_client()*
 vim.lsp.buf_detach_client()	lsp.txt	/*vim.lsp.buf_detach_client()*
