@@ -851,6 +851,7 @@ SuperBo/fugit2.nvim - https://github.com/SuperBo/fugit2.nvim - Git GUI powered b
 Yu-Leo/blame-column.nvim - https://github.com/Yu-Leo/blame-column.nvim - Show Git blame info.
 yutkat/git-rebase-auto-diff.nvim - https://github.com/yutkat/git-rebase-auto-diff.nvim - Show diff automatically when Git rebase.
 Kohei-Wada/yadm-git.nvim - https://github.com/Kohei-Wada/yadm-git.nvim - Seamless Git plugin support for yadm dotfiles.
+axkirillov/unified.nvim - https://github.com/axkirillov/unified.nvim - Displaying inline unified diffs directly in your buffer.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin to help writing and testing CodeQL queries.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
