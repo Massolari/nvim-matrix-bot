@@ -309,6 +309,7 @@ echasnovski/mini.nvim#mini.files - https://github.com/echasnovski/mini.nvim/blob
 prichrd/netrw.nvim - https://github.com/prichrd/netrw.nvim - Add icons and custom keybindings to netrw.
 neotree-file-nesting-config - https://github.com/saifulapm/neotree-file-nesting-config - Pre-defined file nesting rules for `neo-tree.nvim`.
 Enigama/miss.nvim - https://github.com/Enigama/miss.nvim - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
+vodchella/hodur.nvim - https://github.com/vodchella/hodur.nvim - Allows you to quickly open a file or copy URL located under cursor.
 sukineco/neoproj - https://github.com/sukineco/neoproj - Small yet powerful project (and session) manager.
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Load Neovim config depend on project directory.
