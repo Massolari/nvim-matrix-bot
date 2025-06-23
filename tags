@@ -43,6 +43,7 @@ $quote	vimeval.txt	/*$quote*
 ')	motion.txt	/*')*
 '.	motion.txt	/*'.*
 '0	motion.txt	/*'0*
+':	motion.txt	/*':*
 '<	motion.txt	/*'<*
 '>	motion.txt	/*'>*
 'A	motion.txt	/*'A*
@@ -1535,7 +1536,6 @@ $quote	vimeval.txt	/*$quote*
 :<cfile>	cmdline.txt	/*:<cfile>*
 :<cword>	cmdline.txt	/*:<cword>*
 :<script>	cmdline.txt	/*:<script>*
-:<sfile>	cmdline.txt	/*:<sfile>*
 :<sflnum>	cmdline.txt	/*:<sflnum>*
 :<slnum>	cmdline.txt	/*:<slnum>*
 :<stack>	cmdline.txt	/*:<stack>*
@@ -3133,7 +3133,7 @@ $quote	vimeval.txt	/*$quote*
 <reg>	map.txt	/*<reg>*
 <register>	map.txt	/*<register>*
 <script>	cmdline.txt	/*<script>*
-<sfile>	cmdline.txt	/*<sfile>*
+<sfile>	deprecated.txt	/*<sfile>*
 <sflnum>	cmdline.txt	/*<sflnum>*
 <slnum>	cmdline.txt	/*<slnum>*
 <stack>	cmdline.txt	/*<stack>*
@@ -4720,6 +4720,7 @@ __unm()	luaref.txt	/*__unm()*
 `-expansion	editing.txt	/*`-expansion*
 `.	motion.txt	/*`.*
 `0	motion.txt	/*`0*
+`:	motion.txt	/*`:*
 `<	motion.txt	/*`<*
 `=	editing.txt	/*`=*
 `>	motion.txt	/*`>*
@@ -8228,6 +8229,7 @@ plugin-filetype	usr_41.txt	/*plugin-filetype*
 plugin-special	usr_41.txt	/*plugin-special*
 plugin_exec	filetype.txt	/*plugin_exec*
 popup-menu	gui.txt	/*popup-menu*
+popup-window	vim_diff.txt	/*popup-window*
 popupmenu-completion	insert.txt	/*popupmenu-completion*
 popupmenu-keys	insert.txt	/*popupmenu-keys*
 portable-config	nvim.txt	/*portable-config*
@@ -9158,6 +9160,7 @@ tex.vim	syntax.txt	/*tex.vim*
 text-functions	usr_41.txt	/*text-functions*
 text-objects	motion.txt	/*text-objects*
 textlock	vimeval.txt	/*textlock*
+textprop	vim_diff.txt	/*textprop*
 tf.vim	syntax.txt	/*tf.vim*
 third-party-guis	gui.txt	/*third-party-guis*
 this_session-variable	vvars.txt	/*this_session-variable*
@@ -10386,6 +10389,7 @@ vimtutor	usr_01.txt	/*vimtutor*
 virtcol()	vimfn.txt	/*virtcol()*
 virtcol2col()	vimfn.txt	/*virtcol2col()*
 virtnum-variable	vvars.txt	/*virtnum-variable*
+virtual-text	api.txt	/*virtual-text*
 visual-block	visual.txt	/*visual-block*
 visual-change	visual.txt	/*visual-change*
 visual-examples	visual.txt	/*visual-examples*
