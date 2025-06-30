@@ -6509,6 +6509,7 @@ groff.vim	syntax.txt	/*groff.vim*
 gross-national-happiness	credits.txt	/*gross-national-happiness*
 group-name	syntax.txt	/*group-name*
 grr	lsp.txt	/*grr*
+grt	lsp.txt	/*grt*
 gs	various.txt	/*gs*
 gsp.vim	syntax.txt	/*gsp.vim*
 gstar	pattern.txt	/*gstar*
@@ -8269,6 +8270,7 @@ progpath-variable	vvars.txt	/*progpath-variable*
 progress.vim	syntax.txt	/*progress.vim*
 project-config	options.txt	/*project-config*
 prompt-buffer	channel.txt	/*prompt-buffer*
+prompt_getinput()	vimfn.txt	/*prompt_getinput()*
 prompt_getprompt()	vimfn.txt	/*prompt_getprompt()*
 prompt_setcallback()	vimfn.txt	/*prompt_setcallback()*
 prompt_setinterrupt()	vimfn.txt	/*prompt_setinterrupt()*
