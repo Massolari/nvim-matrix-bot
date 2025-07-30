@@ -1113,6 +1113,7 @@ karshPrime/tmux-compile.nvim - https://github.com/karshPrime/tmux-compile.nvim -
 EvWilson/slimux.nvim - https://github.com/EvWilson/slimux.nvim - Send content from the current buffer to a configurable tmux pane.
 juselara1/tmutils.nvim - https://github.com/juselara1/tmutils.nvim - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
 kiyoon/tmux-send.nvim - https://github.com/kiyoon/tmux-send.nvim - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
+jkeresman01/tmux-switch.nvim - https://github.com/jkeresman01/tmux-switch.nvim - Provides fuzzy session switching for Tmux.
 ThePrimeagen/vim-be-good - https://github.com/ThePrimeagen/vim-be-good - Vim-be-good is a Neovim plugin designed to make you better at Vim Movements.
 alec-gibson/nvim-tetris - https://github.com/alec-gibson/nvim-tetris - Bringing emacs' greatest feature to Neovim - Tetris!.
 seandewar/nvimesweeper - https://github.com/seandewar/nvimesweeper - Play Minesweeper in your favourite text editor.
