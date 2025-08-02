@@ -203,6 +203,7 @@ Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A markdown 
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
+Who5673/who5673-nasm - https://github.com/Who5673/who5673-nasm - Helps people program Netwide Assembler language faster and more convenient using snippets.
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
 niuiic/translate.nvim - https://github.com/niuiic/translate.nvim - Invoke any translation engine via shell command.
 tanloong/interlaced.nvim - https://github.com/tanloong/interlaced.nvim - Help align bilingual parallel texts.
@@ -231,7 +232,6 @@ rafamadriz/friendly-snippets - https://github.com/rafamadriz/friendly-snippets -
 cvigilv/esqueleto.nvim - https://github.com/cvigilv/esqueleto.nvim - Simple templates to use when creating new files.
 chrisgrieser/nvim-scissors - https://github.com/chrisgrieser/nvim-scissors - Automagical editing and creation of snippets.
 guilherme-puida/tesoura.nvim - https://github.com/guilherme-puida/tesoura.nvim - A flexible snippet system using Neovim's new snippet API.
-Who5673/who5673-nasm - https://github.com/Who5673/who5673-nasm - Helps people program Netwide Assembler language faster and more convenient using snippets.
 gennaro-tedesco/nvim-peekup - https://github.com/gennaro-tedesco/nvim-peekup - Dynamically interact with Vim registers.
 tversteeg/registers.nvim - https://github.com/tversteeg/registers.nvim - Non-obtrusive minimal preview of Vim registers.
 acksld/nvim-neoclip.lua - https://github.com/AckslD/nvim-neoclip.lua - Clipboard manager Neovim plugin with telescope integration.
@@ -314,6 +314,7 @@ mikavilpas/yazi.nvim - https://github.com/mikavilpas/yazi.nvim - Integration wit
 simonmclean/triptych.nvim - https://github.com/simonmclean/triptych.nvim - A directory browser inspired by Ranger.
 echasnovski/mini.nvim#mini.files - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 prichrd/netrw.nvim - https://github.com/prichrd/netrw.nvim - Add icons and custom keybindings to netrw.
+X3eRo0/dired.nvim - https://github.com/X3eRo0/dired.nvim - A file browser inspired by Emacs Dired.
 neotree-file-nesting-config - https://github.com/saifulapm/neotree-file-nesting-config - Pre-defined file nesting rules for `neo-tree.nvim`.
 Enigama/miss.nvim - https://github.com/Enigama/miss.nvim - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
 vodchella/hodur.nvim - https://github.com/vodchella/hodur.nvim - Allows you to quickly open a file or copy URL located under cursor.
@@ -610,6 +611,7 @@ slugbyte/whip.nvim - http://github.com/slugbyte/whip.nvim - A super fast minimal
 y3owk1n/dotmd.nvim - https://github.com/y3owk1n/dotmd.nvim - Managing notes, todos, journal entries and inbox all with markdown.
 athar-qadri/scratchpad.nvim - https://github.com/athar-qadri/scratchpad.nvim - Effortlessly manage scratchpads within your favorite editor.
 echaya/neowiki.nvim - https://github.com/echaya/neowiki.nvim - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
+phrmendes/todotxt.nvim - https://github.com/phrmendes/todotxt.nvim -  A minimal `todo.txt` implementation in Lua.
 Silletr/LazyDevHelper - https://github.com/Silletr/LazyDevHelper - Python dependencies manager, with auto-adding to your requirements.txt.
 Cih2001/pikchr.nvim - https://github.com/Cih2001/pikchr.nvim - Render [Pikchr](https://pikchr.org/) diagrams live in Neovim.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
@@ -902,6 +904,7 @@ chrisgrieser/nvim-spider - https://github.com/chrisgrieser/nvim-spider - Use the
 gsuuon/tshjkl.nvim - https://github.com/gsuuon/tshjkl.nvim - Toggle to navigate and select Tree-sitter nodes with hjkl.
 backdround/neowords.nvim - https://github.com/backdround/neowords.nvim - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 backdround/improved-ft.nvim - https://github.com/backdround/improved-ft.nvim - Improve default `f`/`t` abilities.
+jinh0/eyeliner.nvim - https://github.com/jinh0/eyeliner.nvim - Highlight jump destinations for `f`/`t` motions.
 Mr-LLLLL/treesitter-outer - https://github.com/Mr-LLLLL/treesitter-outer - Jump to outer node with smart.
 DanilaMihailov/beacon.nvim - https://github.com/DanilaMihailov/beacon.nvim - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
 Aaronik/Treewalker.nvim - https://github.com/aaronik/Treewalker.nvim - Move seamlessly around the abstract syntax tree.
@@ -1080,6 +1083,7 @@ niuiic/multiple-session.nvim - https://github.com/niuiic/multiple-session.nvim -
 RutaTang/spectacle.nvim - https://github.com/RutaTang/spectacle.nvim - Easily manage multiple sessions with telescope integration.
 coffebar/neovim-project - https://github.com/coffebar/neovim-project - Declarative project management, automatic saving of sessions, uses Telescope.
 njayman/season.nvim - https://github.com/njayman/season.nvim - A lightweight plugin to manage session based on current working directory.
+inhesrom/remote-ssh.nvim - https://github.com/inhesrom/remote-ssh.nvim - Duplicates the basic ground level functionality of VSCode's Remote-SSH plugin, with a focus on a local editing experience to avoid remote "lag". Browse remote files, edit "remote buffers" with a full local editing experience (LSP, Tree-sitter, Telescope integration, and a file watcher).
 chipsenkbeil/distant.nvim - https://github.com/chipsenkbeil/distant.nvim - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
 jamestthompson3/nvim-remote-containers - https://github.com/jamestthompson3/nvim-remote-containers - Develop inside docker containers, just like VSCode.
 esensar/nvim-dev-container - https://github.com/esensar/nvim-dev-container - Neovim devcontainer.json and general development container support.
