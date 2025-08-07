@@ -221,6 +221,7 @@ m-demare/hlargs.nvim - https://github.com/m-demare/hlargs.nvim - Highlight argum
 LhKipp/nvim-nu - https://github.com/LhKipp/nvim-nu - Basic editor support for the nushell language.
 desdic/agrolens.nvim - https://github.com/desdic/agrolens.nvim - Navigate via Tree-sitter nodes using Telescope or FZF.
 IndianBoy42/tree-sitter-just - https://github.com/IndianBoy42/tree-sitter-just - Tree-sitter grammar for [Justfiles](https://github.com/casey/just).
+fei6409/log-highlight.nvim - https://github.com/fei6409/log-highlight.nvim - Generic log syntax highlighting and log filetype management support.
 norcalli/snippets.nvim - https://github.com/norcalli/snippets.nvim - Snippets in Lua.
 L3MON4D3/LuaSnip - https://github.com/L3MON4D3/LuaSnip - A snippet engine written in Lua.
 echasnovski/mini.nvim#mini.snippets - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-snippets.md - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
@@ -721,7 +722,9 @@ athar-qadri/weather.nvim - https://github.com/athar-qadri/weather.nvim - Realtim
 penaz91/MiniDYM - https://github.com/Penaz91/MiniDYM - A very small "Did you mean" plugin, suggesting files the user might have wanted to open instead of creating a new one.
 attilarepka/header.nvim - https://github.com/attilarepka/header.nvim - Add or update copyright and license headers in any source file.
 Owen-Dechow/nvim_json_graph_view - https://github.com/Owen-Dechow/nvim_json_graph_view - Explore a JSON file as a nested unit/node-based graphical representation.
+mahyarmirrashed/famous-quotes.nvim - https://github.com/mahyarmirrashed/famous-quotes.nvim - Get famous quotes from history to display on startup.
 toggleword.nvim - https://github.com/iquzart/toggleword.nvim - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
+johannww/tts.nvim - https://github.com/johannww/tts.nvim - Text to speech tool based on the Microsoft Edge online services.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
