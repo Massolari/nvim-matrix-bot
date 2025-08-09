@@ -657,7 +657,6 @@ zbirenbaum/neodim - https://github.com/zbirenbaum/neodim - Dimming the highlight
 bfredl/nvim-miniyank - https://github.com/bfredl/nvim-miniyank - The killring-alike plugin with no default mappings.
 chrisgrieser/nvim-genghis - https://github.com/chrisgrieser/nvim-genghis - Convenience file operations, written in Lua.
 chrisgrieser/nvim-recorder - https://github.com/chrisgrieser/nvim-recorder - Simplifying and improving how you interact with macros.
-echasnovski/mini.nvim#mini.animate - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 figsoda/nix-develop.nvim - https://github.com/figsoda/nix-develop.nvim - Run `nix develop` without restarting Neovim.
 yaocccc/nvim-foldsign - https://github.com/yaocccc/nvim-foldsign - Display folds on sign column.
 tenxsoydev/nx.nvim - https://github.com/tenxsoydev/nx.nvim - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
@@ -708,11 +707,9 @@ dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-b
 MisanthropicBit/decipher.nvim - https://github.com/MisanthropicBit/decipher.nvim - Encode and decode text using various codecs such as base64.
 philosofonusus/ecolog.nvim - https://github.com/philosofonusus/ecolog.nvim - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 theKnightsOfRohan/hexer.nvim - https://github.com/theKnightsOfRohan/hexer.nvim - Easily convert between binary representations without a conversion table.
-rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.
 neanvo/buben.nvim - https://github.com/neanvo/buben.nvim - Human-readable names to blockchain(eth) addresses.
 josephburgess/nvumi - https://github.com/josephburgess/nvumi - Natural language calculator in a scratch buffer.
 redoxahmii/json-to-types.nvim - https://github.com/redoxahmii/json-to-types.nvim - Convert JSON objects to type definitions for multiple languages.
-y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 ovk/endec.nvim - https://github.com/ovk/endec.nvim - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
 kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 y3owk1n/time-machine.nvim - https://github.com/y3owk1n/time-machine.nvim - Take control of your edit history with an interactive timeline, diff previews, taggings, live reloading trees and cleanup functions.
@@ -729,6 +726,12 @@ VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
 hat0uma/csvview.nvim - https://github.com/hat0uma/csvview.nvim - An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes.
+sphamba/smear-cursor.nvim - https://github.com/sphamba/smear-cursor.nvim - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
+echasnovski/mini.nvim#mini.animate - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.
+y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
+gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
+cxwx/specs.nvim - https://github.com/cxwx/specs.nvim - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 waiting-for-dev/ergoterm.nvim - https://github.com/waiting-for-dev/ergoterm.nvim - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 Dan7h3x/neaterm.nvim - https://github.com/Dan7h3x/neaterm.nvim - A little smart terminal/REPL manager with awesome features.
 LoricAndre/OneTerm.nvim - https://github.com/LoricAndre/OneTerm.nvim - Plugin framework for running commands in the terminal.
@@ -895,8 +898,6 @@ echasnovski/mini.nvim#mini.jump - https://github.com/echasnovski/mini.nvim/blob/
 echasnovski/mini.nvim#mini.jump2d - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump2d.md - Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more.
 rlane/pounce.nvim - https://github.com/rlane/pounce.nvim - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 xiaoshihou514/squirrel.nvim - https://github.com/xiaoshihou514/squirrel.nvim - Quickly jump between Tree-sitter nodes.
-gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
-cxwx/specs.nvim - https://github.com/cxwx/specs.nvim - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 abecodes/tabout.nvim - https://github.com/abecodes/tabout.nvim - Jump out of brackets, quotes, objects, etc.
 roobert/tabtree.nvim - https://github.com/roobert/tabtree.nvim - Jump between significant code elements, such as brackets, quotes, etc.
 woosaaahh/sj.nvim - https://github.com/woosaaahh/sj.nvim - Search based navigation combined with quick jump features.
@@ -912,7 +913,6 @@ jinh0/eyeliner.nvim - https://github.com/jinh0/eyeliner.nvim - Highlight jump de
 Mr-LLLLL/treesitter-outer - https://github.com/Mr-LLLLL/treesitter-outer - Jump to outer node with smart.
 DanilaMihailov/beacon.nvim - https://github.com/DanilaMihailov/beacon.nvim - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
 Aaronik/Treewalker.nvim - https://github.com/aaronik/Treewalker.nvim - Move seamlessly around the abstract syntax tree.
-sphamba/smear-cursor.nvim - https://github.com/sphamba/smear-cursor.nvim - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 timseriakov/spamguard.nvim - https://github.com/timseriakov/spamguard.nvim - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.
 millerjason/neovimacs.nvim - https://github.com/millerjason/neovimacs.nvim - Provides emacs movement and buffer keybindings while in insert mode.
 mfussenegger/nvim-treehopper - https://github.com/mfussenegger/nvim-treehopper - Region selection with hints on the AST nodes of a document powered by Tree-sitter.
@@ -1093,6 +1093,7 @@ jamestthompson3/nvim-remote-containers - https://github.com/jamestthompson3/nvim
 esensar/nvim-dev-container - https://github.com/esensar/nvim-dev-container - Neovim devcontainer.json and general development container support.
 miversen33/netman.nvim - https://github.com/miversen33/netman.nvim - Lua powered Network Resource Manager.
 niuiic/remote.nvim - https://github.com/niuiic/remote.nvim - Edit remote files with local configuration.
+uhs-robert/sshfs.nvim - https://github.com/uhs-robert/sshfs.nvim - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
 nosduco/remote-sshfs.nvim - https://github.com/nosduco/remote-sshfs.nvim - Explore, edit, and develop on a remote machine via SSHFS.
 live-share.nvim - https://github.com/azratul/live-share.nvim - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
 ~henriquehbr/ataraxis.lua - https://sr.ht/~henriquehbr/ataraxis.lua - A zen mode for improving code readability on Neovim.
