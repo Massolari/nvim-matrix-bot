@@ -726,6 +726,7 @@ VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
 hat0uma/csvview.nvim - https://github.com/hat0uma/csvview.nvim - An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes.
+LuxVim/nvim-luxmotion - https://github.com/LuxVim/nvim-luxmotion - Smooth, high‑performance motion & scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
 sphamba/smear-cursor.nvim - https://github.com/sphamba/smear-cursor.nvim - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 echasnovski/mini.nvim#mini.animate - https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.
