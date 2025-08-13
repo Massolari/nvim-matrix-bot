@@ -734,6 +734,7 @@ y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated g
 gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 cxwx/specs.nvim - https://github.com/cxwx/specs.nvim - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 waiting-for-dev/ergoterm.nvim - https://github.com/waiting-for-dev/ergoterm.nvim - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
+ingur/floatty.nvim - https://github.com/ingur/floatty.nvim - A tiny (<200 LOC) but highly customizable floating terminal manager.
 Dan7h3x/neaterm.nvim - https://github.com/Dan7h3x/neaterm.nvim - A little smart terminal/REPL manager with awesome features.
 LoricAndre/OneTerm.nvim - https://github.com/LoricAndre/OneTerm.nvim - Plugin framework for running commands in the terminal.
 nikvdp/neomux - https://github.com/nikvdp/neomux - Control Neovim from shells running inside Neovim.
@@ -791,6 +792,8 @@ nvim-neotest/neotest - https://github.com/nvim-neotest/neotest - An extensible f
 andythigpen/nvim-coverage - https://github.com/andythigpen/nvim-coverage - Displays coverage information in the sign column.
 quolpr/quicktest.nvim - https://github.com/quolpr/quicktest.nvim - Run your tests in split window or popup with live feedback.
 tdd.nvim - https://github.com/zkucekovic/tdd.nvim - Opens or creates the matching PHPUnit test file for a given class, based on PSR-4 namespace mappings.
+neotest-jest - https://github.com/nvim-neotest/neotest-jest - Neotest adapter for running jest tests.
+neotest-busted - https://github.com/MisanthropicBit/neotest-busted - Neotest adapter for running busted tests using Neovim as a Lua interpreter.
 michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of any language directly from Neovim.
 CRAG666/code_runner.nvim - https://github.com/CRAG666/code_runner.nvim - The best code runner you could have, with super powers.
 is0n/jaq-nvim - https://github.com/is0n/jaq-nvim - Just Another Quickrun Plugin in Lua.
@@ -885,6 +888,7 @@ topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispat
 rawnly/gist.nvim - https://github.com/rawnly/gist.nvim - Create a GitHub Gist from the current file (powered by gh).
 2KAbhishek/octohub.nvim - https://github.com/2KAbhishek/octohub.nvim - Access all your gihub repos, stats and more in simple keystrokes.
 claydugo/browsher.nvim - https://github.com/claydugo/browsher.nvim - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
+comatory/gh-co.nvim - https://github.com/comatory/gh-co.nvim - Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification.
 harrisoncramer/GitLab.nvim - https://github.com/harrisoncramer/GitLab.nvim - Review pull requests and manage other GitLab resources.
 HawkinsT/pathfinder.nvim - https://github.com/HawkinsT/pathfinder.nvim - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
 tris203/precognition.nvim - https://github.com/tris203/precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
