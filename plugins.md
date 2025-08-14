@@ -295,6 +295,7 @@ fdschmidt93/telescope-egrepify.nvim - https://github.com/fdschmidt93/telescope-e
 crispgm/telescope-heading.nvim - https://github.com/crispgm/telescope-heading.nvim - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
 bassamsdata/namu.nvim - https://github.com/bassamsdata/namu.nvim - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed.
 folke/snacks.nvim#picker - https://github.com/folke/snacks.nvim/blob/main/docs/picker.md - Modern fuzzy-finder to navigate the Neovim universe.
+fff.nvim - https://github.com/dmtrKovalenko/fff.nvim - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more.
 nvim-tree/nvim-tree.lua - https://github.com/nvim-tree/nvim-tree.lua - A simple and fast file explorer tree.
 luukvbaal/nnn.nvim - https://github.com/luukvbaal/nnn.nvim - File explorer powered by [nnn](https://github.com/jarun/nnn) and Lua.
 tamago324/lir.nvim - https://github.com/tamago324/lir.nvim - Simple file explorer.
