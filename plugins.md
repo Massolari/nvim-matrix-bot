@@ -727,6 +727,7 @@ Owen-Dechow/videre.nvim - https://github.com/Owen-Dechow/videre.nvim - Explore J
 mahyarmirrashed/famous-quotes.nvim - https://github.com/mahyarmirrashed/famous-quotes.nvim - Get famous quotes from history to display on startup.
 toggleword.nvim - https://github.com/iquzart/toggleword.nvim - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 johannww/tts.nvim - https://github.com/johannww/tts.nvim - Text to speech tool based on the Microsoft Edge online services.
+piersolenski/brewfile.nvim - https://github.com/piersolenski/brewfile.nvim - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
