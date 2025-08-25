@@ -591,6 +591,7 @@ AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-con
 Rits1272/riff.nvim - https://github.com/Rits1272/riff.nvim - Search and stream songs right inside your editor — discoverable with Telescope, played through mpv, and managed with simple commands. Fast, minimal, and theme-agnostic.
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, atom, json feed).
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
+iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
 jameswolensky/marker-groups.nvim - https://github.com/jameswolensky/marker-groups.nvim - Take persistent code notes without modifying code.
 bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A beautified Markdown to-do list companion.
 lfilho/note2cal.nvim - https://github.com/lfilho/note2cal.nvim - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
