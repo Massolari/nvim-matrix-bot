@@ -263,6 +263,7 @@ francescarpi/buffon.nvim - https://github.com/francescarpi/buffon.nvim - Buffers
 Beargruug/skipper.nvim - https://github.com/Beargruug/skipper.nvim/ - Jump between functions in a file with ease.
 mohseenrm/marko.nvim - https://github.com/mohseenrm/marko.nvim - Behind the scenes, global marks management for different projects.
 y3owk1n/warp.nvim - https://github.com/y3owk1n/warp.nvim - Simple harpoon alternative that focuses on marking & navigating between files.
+walkersumida/fusen.nvim - https://github.com/walkersumida/fusen.nvim - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
 wurli/visimatch.nvim - https://github.com/wurli/visimatch.nvim - Adds highlights to any text matching the current selection in visual mode.
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
 rktjmp/highlight-current-n.nvim - https://github.com/rktjmp/highlight-current-n.nvim - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
@@ -621,7 +622,6 @@ y3owk1n/dotmd.nvim - https://github.com/y3owk1n/dotmd.nvim - Managing notes, tod
 athar-qadri/scratchpad.nvim - https://github.com/athar-qadri/scratchpad.nvim - Effortlessly manage scratchpads within your favorite editor.
 echaya/neowiki.nvim - https://github.com/echaya/neowiki.nvim - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
 phrmendes/todotxt.nvim - https://github.com/phrmendes/todotxt.nvim -  A minimal `todo.txt` implementation in Lua.
-Silletr/LazyDevHelper - https://github.com/Silletr/LazyDevHelper - Python dependencies manager, with auto-adding to your requirements.txt.
 Cih2001/pikchr.nvim - https://github.com/Cih2001/pikchr.nvim - Render [Pikchr](https://pikchr.org/) diagrams live in Neovim.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
@@ -864,6 +864,7 @@ udayvir-singh/hibiscus.nvim - https://github.com/udayvir-singh/hibiscus.nvim - H
 vuki656/package-info.nvim - https://github.com/vuki656/package-info.nvim - Display latest package version as virtual text in package.json.
 Saecki/crates.nvim - https://github.com/Saecki/crates.nvim - Rust dependency management for `Cargo.toml`.
 piersolenski/import.nvim - https://github.com/piersolenski/import.nvim - Import modules faster based on what you've already imported in your project.
+Silletr/LazyDevHelper - https://github.com/Silletr/LazyDevHelper - Python dependencies manager, with auto-adding to your requirements.txt.
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show Git blame info.
 trevorhauter/gitportal.nvim - https://github.com/trevorhauter/gitportal.nvim - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
