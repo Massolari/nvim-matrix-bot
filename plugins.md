@@ -328,6 +328,7 @@ sukineco/neoproj - https://github.com/sukineco/neoproj - Small yet powerful proj
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Load Neovim config depend on project directory.
 ahmedkhalf/project.nvim - https://github.com/ahmedkhalf/project.nvim - An all in one Neovim plugin that provides superior project management.
+DrKJeff16/project.nvim - https://github.com/DrKJeff16/project.nvim - An actively maintained fork of `ahmedkhalf/project.nvim` with documented code, `fzf-lua` support and new features.
 klen/nvim-config-local - https://github.com/klen/nvim-config-local - Secure load local config files from working directories.
 cljoly/telescope-repo.nvim - https://cj.rs/telescope-repo-nvim/ - Telescope picker to jump to any repository (Git or other) on the file system.
 otavioschwanck/telescope-alternate.nvim - https://github.com/otavioschwanck/telescope-alternate.nvim - Alternate between common files using telescope.
@@ -491,6 +492,7 @@ ptdewey/monalisa-nvim - https://github.com/ptdewey/monalisa-nvim - A dark and co
 ntk148v/slack.nvim - https://github.com/ntk148v/slack.nvim - A ported Slack colorscheme.
 motaz-shokry/gruvbox.nvim - https://gitlab.com/motaz-shokry/gruvbox.nvim - A new gruvbox that the hard variant bg is "#1b1b1b", and it comes with 4 variants.
 mcauley-penney/techbase.nvim - https://github.com/mcauley-penney/techbase.nvim - Dark, cold color scheme inspired by sci-fi horror and retro technology.
+y3owk1n/base16-pro-max.nvim - https://github.com/y3owk1n/base16-pro-max.nvim - Base16 for modern Neovim — not just colors.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
@@ -595,7 +597,7 @@ neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
 jameswolensky/marker-groups.nvim - https://github.com/jameswolensky/marker-groups.nvim - Take persistent code notes without modifying code.
-bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A beautified Markdown to-do list companion.
+bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A full-featured Markdown-based todo plugin.
 lfilho/note2cal.nvim - https://github.com/lfilho/note2cal.nvim - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 0styx0/abbreinder.nvim - https://github.com/0styx0/abbreinder.nvim - Abbreviation reminders (Neovim >= 0.5).
 jakewvincent/mkdnflow.nvim - https://github.com/jakewvincent/mkdnflow.nvim - Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
