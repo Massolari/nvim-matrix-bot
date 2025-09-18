@@ -733,6 +733,7 @@ mahyarmirrashed/famous-quotes.nvim - https://github.com/mahyarmirrashed/famous-q
 toggleword.nvim - https://github.com/iquzart/toggleword.nvim - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 johannww/tts.nvim - https://github.com/johannww/tts.nvim - Text to speech tool based on the Microsoft Edge online services.
 piersolenski/brewfile.nvim - https://github.com/piersolenski/brewfile.nvim - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
+ravsii/timers.nvim - https://github.com/ravsii/timers.nvim - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -858,6 +859,7 @@ OXY2DEV/helpview.nvim - https://github.com/OXY2DEV/helpview.nvim - A hackable & 
 niuiic/omega.nvim - https://github.com/niuiic/omega.nvim - Missing functions for Lua plugin development.
 2KAbhishek/utils.nvim - https://github.com/2KAbhishek/utils.nvim - Powerful utilities to speed up plugin development.
 YaroSpace/lua-console.nvim - https://github.com/YaroSpace/lua-console.nvim - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
+DrKJeff16/wezterm-types - https://github.com/DrKJeff16/wezterm-types - WezTerm config type annotations for Lua Language Server.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel (Lisp to Lua).
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 Olical/conjure - https://github.com/Olical/conjure - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
@@ -895,6 +897,7 @@ Yu-Leo/blame-column.nvim - https://github.com/Yu-Leo/blame-column.nvim - Show Gi
 yutkat/git-rebase-auto-diff.nvim - https://github.com/yutkat/git-rebase-auto-diff.nvim - Show diff automatically when Git rebase.
 Kohei-Wada/yadm-git.nvim - https://github.com/Kohei-Wada/yadm-git.nvim - Seamless Git plugin support for yadm dotfiles.
 axkirillov/unified.nvim - https://github.com/axkirillov/unified.nvim - Displaying inline unified diffs directly in your buffer.
+StackInTheWild/headhunter.nvim - https://github.com/StackInTheWild/headhunter.nvim - Hunt and resolve merge conflicts directly in Neovim — fast and simple.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin to help writing and testing CodeQL queries.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
