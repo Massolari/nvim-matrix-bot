@@ -362,6 +362,7 @@ rachartier/tiny-devicons-auto-colors.nvim - https://github.com/rachartier/tiny-d
 TaDaa/vimade - https://github.com/TaDaa/vimade - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 xzbdmw/colorful-menu.nvim - https://github.com/xzbdmw/colorful-menu.nvim - Colorize your auto completion menu using Tree-sitter.
 nvzone/minty - https://github.com/nvzone/minty - Beautifully crafted color tools.
+3ZsForInsomnia/pacer.nvim - https://github.com/3ZsForInsomnia/pacer.nvim - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
 datsfilipe/min-theme.nvim - https://github.com/datsfilipe/min-theme.nvim - It's a port of Min, a minimal theme for VSCode, written in Lua.
 github-main-user/lytmode.nvim - https://github.com/github-main-user/lytmode.nvim - A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 datsfilipe/vesper.nvim - https://github.com/datsfilipe/vesper.nvim - It's a port of the popular VS Code theme Vesper, written in Lua.
@@ -377,6 +378,7 @@ bluz71/vim-moonfly-colors - https://github.com/bluz71/vim-moonfly-colors - A dar
 ChristianChiarulli/nvcode-color-schemes.vim - https://github.com/ChristianChiarulli/nvcode-color-schemes.vim - Nvcode, onedark, nord colorschemes with Tree-sitter support.
 folke/tokyonight.nvim - https://github.com/folke/tokyonight.nvim - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
 comfysage/evergarden - https://github.com/comfysage/evergarden - A comfy Neovim colorscheme for cozy morning coding.
+uhs-robert/oasis.nvim - https://github.com/uhs-robert/oasis.nvim - Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
 sainnhe/sonokai - https://github.com/sainnhe/sonokai - High Contrast & Vivid Color Scheme based on Monokai Pro.
 nyoom-engineering/oxocarbon.nvim - https://github.com/nyoom-engineering/oxocarbon.nvim - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 kyazdani42/blue-moon - https://github.com/kyazdani42/blue-moon - A dark color scheme derived from palenight and carbonight.
