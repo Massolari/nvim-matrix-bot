@@ -639,6 +639,7 @@ j-morano/buffer_manager.nvim - https://github.com/j-morano/buffer_manager.nvim -
 clojure-vim/jazz.nvim - https://github.com/clojure-vim/jazz.nvim - Acid + Impromptu = Jazz.
 doctorfree/cheatsheet.nvim - https://github.com/doctorfree/cheatsheet.nvim - Searchable cheatsheet.
 hat0uma/prelive.nvim - https://github.com/hat0uma/prelive.nvim - A simple luv-based development server with live reloading.
+hat0uma/doxygen-previewer.nvim - https://github.com/hat0uma/doxygen-previewer.nvim - Live previewing of Doxygen documentation.
 code-biscuits/nvim-biscuits - https://github.com/code-biscuits/nvim-biscuits - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
 kazhala/close-buffers.nvim - https://github.com/kazhala/close-buffers.nvim - Delete multiple Vim buffers based on different conditions.
 rktjmp/paperplanes.nvim - https://github.com/rktjmp/paperplanes.nvim - Post selections or buffers to online paste bins.
@@ -1090,6 +1091,7 @@ elentok/format-on-save.nvim - https://github.com/elentok/format-on-save.nvim - A
 stevearc/conform.nvim - https://github.com/stevearc/conform.nvim - A lightweight formatting engine that plays nice with LSP.
 nvimdev/guard.nvim - https://github.com/nvimdev/guard.nvim - Minimalist async formatting and linting plugin.
 paul-louyot/toggle-quotes.nvim - https://github.com/paul-louyot/toggle-quotes.nvim - Toggle between quotes.
+wsdjeg/format.nvim - https://github.com/wsdjeg/format.nvim - An asynchronous code formatting plugin.
 nvimdev/indentmini.nvim - https://github.com/nvimdev/indentmini.nvim - A minimal and blazing fast indentline plugin by using nvim_set_decoration_provide API.
 lukas-reineke/indent-blankline.nvim - https://github.com/lukas-reineke/indent-blankline.nvim - IndentLine replacement in Lua with more features and Tree-sitter support.
 LucasTavaresA/simpleIndentGuides.nvim - https://github.com/LucasTavaresA/simpleIndentGuides.nvim - Indentation guides using the builtin variables.
