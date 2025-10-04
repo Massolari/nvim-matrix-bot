@@ -325,6 +325,7 @@ X3eRo0/dired.nvim - https://github.com/X3eRo0/dired.nvim - A file browser inspir
 neotree-file-nesting-config - https://github.com/saifulapm/neotree-file-nesting-config - Pre-defined file nesting rules for `neo-tree.nvim`.
 Enigama/miss.nvim - https://github.com/Enigama/miss.nvim - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
 vodchella/hodur.nvim - https://github.com/vodchella/hodur.nvim - Allows you to quickly open a file or copy URL located under cursor.
+A7Lavinraj/fyler.nvim - https://github.com/A7Lavinraj/fyler.nvim - File manager which can edit file system like a buffer with tree view.
 sukineco/neoproj - https://github.com/sukineco/neoproj - Small yet powerful project (and session) manager.
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Load Neovim config depend on project directory.
@@ -980,6 +981,7 @@ petertriho/nvim-scrollbar - https://github.com/petertriho/nvim-scrollbar - Exten
 nvim-mini/mini.nvim#mini.map - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-map.md - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 gorbit99/codewindow.nvim - https://github.com/gorbit99/codewindow.nvim - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
 lewis6991/satellite.nvim - https://github.com/lewis6991/satellite.nvim - Decorate scrollbar.
+wsdjeg/scrollbar.nvim - https://github.com/wsdjeg/satellite.nvim - Floating scrollbar.
 TheLazyCat00/replace-nvim - https://github.com/TheLazyCat00/replace-nvim - Replace part of your code with the contents of the `+` register using textobjects.
 wurli/split.nvim - https://github.com/wurli/split.nvim - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 csessh/stopinsert.nvim - https://github.com/csessh/stopinsert.nvim - Automatically exit Insert mode after inactivity.
