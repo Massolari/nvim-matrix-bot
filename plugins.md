@@ -534,6 +534,7 @@ OXY2DEV/bars.nvim - https://github.com/OXY2DEV/bars.nvim - A starting point/guid
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - Galaxyline componentizes Vim's statusline by having a provider for each text area. This means you can use the API provided by galaxyline to create the statusline that you want, easily.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
 sontungexpt/sttusline - https://github.com/sontungexpt/sttusline - Very lightweight, super fast and lazyloading statusline.
+sontungexpt/witch-line - https://github.com/sontungexpt/witch-line - A blazing fast, lazy loading and easy to configure Neovim statusline.
 nvim-lualine/lualine.nvim - https://github.com/nvim-lualine/lualine.nvim - A blazing fast and easy to configure Neovim statusline.
 adelarsq/neoline.vim - https://github.com/adelarsq/neoline.vim - A light statusline/tabline plugin using Lua.
 ojroques/nvim-hardline - https://github.com/ojroques/nvim-hardline - A statusline / bufferline. It is inspired by [vim-airline](https://github.com/vim-airline/vim-airline) but aims to be as light and simple as possible.
@@ -914,6 +915,7 @@ rawnly/gist.nvim - https://github.com/rawnly/gist.nvim - Create a GitHub Gist fr
 2KAbhishek/octohub.nvim - https://github.com/2KAbhishek/octohub.nvim - Access all your gihub repos, stats and more in simple keystrokes.
 claydugo/browsher.nvim - https://github.com/claydugo/browsher.nvim - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 comatory/gh-co.nvim - https://github.com/comatory/gh-co.nvim - Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification.
+3ZsForInsomnia/revman.nvim - https://github.com/3ZsForInsomnia/revman.nvim - Track PRs that need review automatically and open them in Octo.nvim.
 harrisoncramer/GitLab.nvim - https://github.com/harrisoncramer/GitLab.nvim - Review pull requests and manage other GitLab resources.
 HawkinsT/pathfinder.nvim - https://github.com/HawkinsT/pathfinder.nvim - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
 tris203/precognition.nvim - https://github.com/tris203/precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
