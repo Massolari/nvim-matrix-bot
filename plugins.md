@@ -2,11 +2,12 @@ lewis6991/pckr.nvim - https://github.com/lewis6991/pckr.nvim - Spiritual success
 savq/paq-nvim - https://github.com/savq/paq-nvim - Neovim package manager written in Lua.
 NTBBloodbath/cheovim - https://github.com/NTBBloodbath/cheovim - Neovim configuration switcher written in Lua. Inspired by chemacs.
 folke/lazy.nvim - https://github.com/folke/lazy.nvim - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
-alex-popov-tech/store.nvim - https://github.com/alex-popov-tech/store.nvim - A modern plugin discovery and management tool with a database of ~5000 plugins and easy installation via `lazy.nvim`.
+alex-popov-tech/store.nvim - https://github.com/alex-popov-tech/store.nvim - Plugins discovery tool with hourly updated database, and one-key installation for `lazy.nvim` and `vim.pack`.
 roobert/activate.nvim - https://github.com/roobert/activate.nvim - A plugin installation system designed to complement `folke/lazy.nvim`.
 nvim-neorocks/rocks.nvim - https://github.com/nvim-neorocks/rocks.nvim - A modern approach to plugin management using Luarocks, inspired by Cargo.
 nvim-mini/mini.nvim#mini.deps - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous Neovim plugin manager written in Lua.
+alyxshang/nuwa.nvim - https://github.com/alyxshang/nuwa.nvim - A light Neovim package manager.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
 neovim/nvim-lspconfig - https://github.com/neovim/nvim-lspconfig - Quickstart configurations for the LSP client.
@@ -123,6 +124,9 @@ julwrites/llm-nvim - https://github.com/julwrites/llm-nvim - Comprehensive integ
 azorng/goose.nvim - https://github.com/azorng/goose.nvim - Seamless Neovim integration with [goose](https://block.github.io/goose) - work with a powerful AI agent without leaving your editor.
 mozanunal/sllm.nvim - https://github.com/mozanunal/sllm.nvim - In-editor chat powered by Simon Willison's llm CLI: stream replies in a markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats.
 chatvim/chatvim.nvim - https://github.com/chatvim/chatvim.nvim - Chat with Markdown files using AI models from xAI, OpenAI and Anthropic.
+3ZsForInsomnia/code-companion-picker - https://github.com/3ZsForInsomnia/code-companion-picker - Telescope and Snacks picker integrations for previewing CodeCompanion prompts.
+3ZsForInsomnia/vs-code-companion - https://github.com/3ZsForInsomnia/vs-code-companion - Tool for importing VS Code's markdown prompts into CodeCompanion.
+3ZsForInsomnia/token-count.nvim - https://github.com/3ZsForInsomnia/token-count.nvim - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -146,6 +150,7 @@ kiyoon/python-import.nvim - https://github.com/kiyoon/python-import.nvim - Add P
 kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 apyra/nvim-unity.nvim - https://github.com/apyra/nvim-unity - Use Neovim as your default Unity editor with full LSP support via OmniSharp.
 atomicptr/defold.nvim - https://github.com/atomicptr/defold.nvim - Batteries-included development environment for the Defold game engine.
+onlyati/quadlet-lsp.nvim - https://github.com/onlyati/quadlet-lsp.nvim - Provides completion, hover and other language server features for Podman Quadlet files.
 romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightweight plugin to manage struct field tags in Go files.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
@@ -364,6 +369,7 @@ TaDaa/vimade - https://github.com/TaDaa/vimade - Dim, fade, tint, animate, and c
 xzbdmw/colorful-menu.nvim - https://github.com/xzbdmw/colorful-menu.nvim - Colorize your auto completion menu using Tree-sitter.
 nvzone/minty - https://github.com/nvzone/minty - Beautifully crafted color tools.
 3ZsForInsomnia/pacer.nvim - https://github.com/3ZsForInsomnia/pacer.nvim - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
+wurli/cobalt.nvim - https://github.com/wurli/cobalt.nvim - A (mostly) faithful port of the classic blue theme from TextMate.
 datsfilipe/min-theme.nvim - https://github.com/datsfilipe/min-theme.nvim - It's a port of Min, a minimal theme for VSCode, written in Lua.
 github-main-user/lytmode.nvim - https://github.com/github-main-user/lytmode.nvim - A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 datsfilipe/vesper.nvim - https://github.com/datsfilipe/vesper.nvim - It's a port of the popular VS Code theme Vesper, written in Lua.
