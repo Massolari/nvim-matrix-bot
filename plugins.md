@@ -177,6 +177,7 @@ luckasRanarison/tailwind-tools.nvim - https://github.com/luckasRanarison/tailwin
 cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - A tool for CSS unit conversions.
 farias-hecdin/CSSVarViewer - https://github.com/farias-hecdin/CSSVarViewer - Easily visualize the content of your CSS variables in a virtual text.
 farias-hecdin/CSSVarHighlight - https://github.com/farias-hecdin/CSSVarHighlight - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
+mawkler/jsx-element.nvim - https://github.com/mawkler/jsx-element.nvim - JSX/TSX text-objects and motions.
 BibekBhusal0/nvim-shadcn - https://github.com/BibekBhusal0/nvim-shadcn - Easily add Shadcn UI components with telescope.
 azratul/expose-localhost.nvim - https://github.com/azratul/expose-localhost.nvim - Expose your local server to the internet with cloudflared or ngrok.
 yelog/i18n.nvim - https://github.com/yelog/i18n.nvim - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
@@ -302,10 +303,12 @@ linrongbin16/fzfx.nvim - https://github.com/linrongbin16/fzfx.nvim - A fuzzy fin
 nvim-mini/mini.nvim#mini.pick - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 nvim-mini/mini.nvim#mini.extra - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 fdschmidt93/telescope-egrepify.nvim - https://github.com/fdschmidt93/telescope-egrepify.nvim - Telescope plugin for better `rg` flags in `live_grep`.
+nvim-telescope/telescope-media-files.nvim - https://github.com/nvim-telescope/telescope-media-files.nvim - Preview images, pdf, epub, video, and fonts using Telescope.
 crispgm/telescope-heading.nvim - https://github.com/crispgm/telescope-heading.nvim - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
 bassamsdata/namu.nvim - https://github.com/bassamsdata/namu.nvim - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed.
 folke/snacks.nvim#picker - https://github.com/folke/snacks.nvim/blob/main/docs/picker.md - Modern fuzzy-finder to navigate the Neovim universe.
 fff.nvim - https://github.com/dmtrKovalenko/fff.nvim - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more.
+wsdjeg/picker.nvim - https://github.com/wsdjeg/picker.nvim - Simple fuzzy finder, including files, ctags outline, and more.
 nvim-tree/nvim-tree.lua - https://github.com/nvim-tree/nvim-tree.lua - A simple and fast file explorer tree.
 luukvbaal/nnn.nvim - https://github.com/luukvbaal/nnn.nvim - File explorer powered by [nnn](https://github.com/jarun/nnn) and Lua.
 tamago324/lir.nvim - https://github.com/tamago324/lir.nvim - Simple file explorer.
@@ -591,6 +594,7 @@ nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/mai
 ya2s/nvim-nonicons - https://github.com/ya2s/nvim-nonicons - Collection of configurations for nvim-web-devicons.
 ziontee113/icon-picker.nvim - https://github.com/ziontee113/icon-picker.nvim - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
+`stephansama/fzf-nerdfont.nvim` - https://github.com/stephansama/fzf-nerdfont.nvim - A picker for selecting Nerd Font icons using `fzf-lua`.
 pandasoli/nekovim - https://github.com/pandasoli/nekovim - Flexible Discord rich presence.
 edluffy/hologram.nvim - https://github.com/edluffy/hologram.nvim - A cross platform terminal image viewer. Works on macOS and Linux.
 HakonHarnes/img-clip.nvim - https://github.com/HakonHarnes/img-clip.nvim - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
@@ -915,6 +919,8 @@ yutkat/git-rebase-auto-diff.nvim - https://github.com/yutkat/git-rebase-auto-dif
 Kohei-Wada/yadm-git.nvim - https://github.com/Kohei-Wada/yadm-git.nvim - Seamless Git plugin support for yadm dotfiles.
 axkirillov/unified.nvim - https://github.com/axkirillov/unified.nvim - Displaying inline unified diffs directly in your buffer.
 StackInTheWild/headhunter.nvim - https://github.com/StackInTheWild/headhunter.nvim - Hunt and resolve merge conflicts directly in Neovim — fast and simple.
+yus-works/csc.nvim - https://github.com/yus-works/csc.nvim - Conventional commit scope completion that learns from git history.
+404pilo/aicommits.nvim - https://github.com/404pilo/aicommits.nvim - Generate conventional commit messages using AI.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 pwntester/codeql.nvim - https://github.com/pwntester/codeql.nvim - Neovim plugin to help writing and testing CodeQL queries.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
@@ -1182,6 +1188,7 @@ kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode pr
 m4xshen/hardtime.nvim - https://github.com/m4xshen/hardtime.nvim - Helping you establish good command workflow and habit.
 antonk52/bad-practices.nvim - https://github.com/antonk52/bad-practices.nvim - Helping you give up bad practices in Vim.
 saxon1964/neovim-tips - https://github.com/saxon1964/neovim-tips - Provides hundreds of built-in Neovim tips, tricks, and shortcuts, with a custom picker interface and the ability to add your own tips.
+zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly in Neovim with JSON results.
 Cris-lml007/NeoPlus - https://github.com/Cris-lml007/NeoPlus - NeoPlus is a free, open source IDE with tools that works on Neovim.
 pgosar/CyberNvim - https://github.com/pgosar/CyberNvim - The world's simplest and most extensible Neovim distribution.
 sontungexpt/stinvim - https://github.com/sontungexpt/stinvim - Ready Neovim's configuration for fullstack developers.
