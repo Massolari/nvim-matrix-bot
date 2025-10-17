@@ -614,6 +614,7 @@ Rits1272/riff.nvim - https://github.com/Rits1272/riff.nvim - Search and stream s
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, atom, json feed).
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
+apdot/doodle - https://github.com/apdot/doodle - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
 jameswolensky/marker-groups.nvim - https://github.com/jameswolensky/marker-groups.nvim - Take persistent code notes without modifying code.
 bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A full-featured Markdown-based todo plugin.
 lfilho/note2cal.nvim - https://github.com/lfilho/note2cal.nvim - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
@@ -1189,6 +1190,9 @@ m4xshen/hardtime.nvim - https://github.com/m4xshen/hardtime.nvim - Helping you e
 antonk52/bad-practices.nvim - https://github.com/antonk52/bad-practices.nvim - Helping you give up bad practices in Vim.
 saxon1964/neovim-tips - https://github.com/saxon1964/neovim-tips - Provides hundreds of built-in Neovim tips, tricks, and shortcuts, with a custom picker interface and the ability to add your own tips.
 zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly in Neovim with JSON results.
+Kurren123/mssql.nvim - https://github.com/Kurren123/mssql.nvim - A Microsoft SQL Server plugin.
+kndndrj/nvim-dbee - https://github.com/kndndrj/nvim-dbee - Interactive database client.
+tashikomaaa/neomongo.nvim - https://github.com/tashikomaaa/neomongo.nvim - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 Cris-lml007/NeoPlus - https://github.com/Cris-lml007/NeoPlus - NeoPlus is a free, open source IDE with tools that works on Neovim.
 pgosar/CyberNvim - https://github.com/pgosar/CyberNvim - The world's simplest and most extensible Neovim distribution.
 sontungexpt/stinvim - https://github.com/sontungexpt/stinvim - Ready Neovim's configuration for fullstack developers.
