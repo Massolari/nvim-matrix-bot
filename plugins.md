@@ -252,7 +252,7 @@ desdic/macrothis.nvim - https://github.com/desdic/macrothis.nvim - Save and load
 kr40/nvim-macros - https://github.com/kr40/nvim-macros - Easy way to save and load Macros, with backup and formatting options.
 cbochs/grapple.nvim - https://github.com/cbochs/grapple.nvim - Provides tagging, cursor tracking, and immediate navigation to important project files.
 chentoast/marks.nvim - https://github.com/chentoast/marks.nvim - A better user experience for viewing and interacting with Vim marks.
-ThePrimeagen/harpoon - https://github.com/ThePrimeagen/harpoon - A per project, auto updating and editable marks utility for fast file navigation.
+ThePrimeagen/harpoon - https://github.com/ThePrimeagen/harpoon/tree/harpoon2 - A per project, auto updating and editable marks utility for fast file navigation.
 otavioschwanck/arrow.nvim - https://github.com/otavioschwanck/arrow.nvim - Like harpoon, but with a different UX, single keybinding needed and statusline support.
 ofirgall/open.nvim - https://github.com/ofirgall/open.nvim - Open the current word with custom openers, GitHub shorthand for example.
 LeonHeidelbach/trailblazer.nvim - https://github.com/LeonHeidelbach/trailblazer.nvim - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
@@ -883,6 +883,7 @@ niuiic/omega.nvim - https://github.com/niuiic/omega.nvim - Missing functions for
 2KAbhishek/utils.nvim - https://github.com/2KAbhishek/utils.nvim - Powerful utilities to speed up plugin development.
 YaroSpace/lua-console.nvim - https://github.com/YaroSpace/lua-console.nvim - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
 DrKJeff16/wezterm-types - https://github.com/DrKJeff16/wezterm-types - WezTerm config type annotations for Lua Language Server.
+aileot/nvim-thyme - https://github.com/aileot/nvim-thyme - Zero-overhead Fennel JIT compiler with safety rollbacks and [parinfer-rust](https://github.com/eraserhd/parinfer-rust) integration.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel (Lisp to Lua).
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 Olical/conjure - https://github.com/Olical/conjure - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
