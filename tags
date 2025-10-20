@@ -5476,6 +5476,7 @@ cursor_right	intro.txt	/*cursor_right*
 cursor_up	intro.txt	/*cursor_up*
 cw	change.txt	/*cw*
 d	change.txt	/*d*
+d-special	change.txt	/*d-special*
 daB	motion.txt	/*daB*
 daW	motion.txt	/*daW*
 dab	motion.txt	/*dab*
