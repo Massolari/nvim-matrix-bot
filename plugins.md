@@ -213,6 +213,7 @@ timantipov/md-table-tidy.nvim - https://github.com/timantipov/md-table-tidy.nvim
 nvim-telescope/telescope-bibtex.nvim - https://github.com/nvim-telescope/telescope-bibtex.nvim - Telescope extension to search and paste BibTeX entries into your TeX files.
 Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A markdown equation previewer, using Kitty Graphics Protocol.
 OXY2DEV/markdoc.nvim - https://github.com/OXY2DEV/markdoc.nvim - Tree-sitter based `markdown -> vimdoc` converter.
+YousefHadder/markdown-plus.nvim - https://github.com/YousefHadder/markdown-plus.nvim - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
@@ -269,7 +270,6 @@ EvWilson/spelunk.nvim - https://github.com/EvWilson/spelunk.nvim - Create and ma
 2KAbhishek/markit.nvim - https://github.com/2KAbhishek/markit.nvim - Improved global marks and project wide bookmarks, to quickly navigate files.
 you-n-g/navigate-note.nvim - https://github.com/you-n-g/navigate-note.nvim - Integrating note-taking capabilities with navigation/marking.
 zongben/navimark.nvim - https://github.com/zongben/navimark.nvim - An easy and powerful bookmark manager with telescope.
-francescarpi/buffon.nvim - https://github.com/francescarpi/buffon.nvim - Buffers navigation, reorganize and close.
 Beargruug/skipper.nvim - https://github.com/Beargruug/skipper.nvim/ - Jump between functions in a file with ease.
 mohseenrm/marko.nvim - https://github.com/mohseenrm/marko.nvim - Behind the scenes, global marks management for different projects.
 y3owk1n/warp.nvim - https://github.com/y3owk1n/warp.nvim - Simple harpoon alternative that focuses on marking & navigating between files.
@@ -754,6 +754,8 @@ iquzart/toggleword.nvim - https://github.com/iquzart/toggleword.nvim - Toggle be
 johannww/tts.nvim - https://github.com/johannww/tts.nvim - Text to speech tool based on the Microsoft Edge online services.
 piersolenski/brewfile.nvim - https://github.com/piersolenski/brewfile.nvim - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 ravsii/timers.nvim - https://github.com/ravsii/timers.nvim - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
+francescarpi/buffon.nvim - https://github.com/francescarpi/buffon.nvim - Buffers navigation, reorganize and close.
+ahkohd/buffer-sticks.nvim - https://github.com/ahkohd/buffer-sticks.nvim - Cosmetic buffers indicator & picker.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
