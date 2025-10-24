@@ -182,6 +182,7 @@ mawkler/jsx-element.nvim - https://github.com/mawkler/jsx-element.nvim - JSX/TSX
 BibekBhusal0/nvim-shadcn - https://github.com/BibekBhusal0/nvim-shadcn - Easily add Shadcn UI components with telescope.
 azratul/expose-localhost.nvim - https://github.com/azratul/expose-localhost.nvim - Expose your local server to the internet with cloudflared or ngrok.
 yelog/i18n.nvim - https://github.com/yelog/i18n.nvim - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
+Kenzo-Wada/boundary.nvim - https://github.com/Kenzo-Wada/boundary.nvim - Display `'use client'` markers inline in your JSX code to visualize client component boundaries.
 ellisonleao/glow.nvim - https://github.com/ellisonleao/glow.nvim - Markdown preview using glow.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
