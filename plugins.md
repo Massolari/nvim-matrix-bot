@@ -275,6 +275,7 @@ Beargruug/skipper.nvim - https://github.com/Beargruug/skipper.nvim/ - Jump betwe
 mohseenrm/marko.nvim - https://github.com/mohseenrm/marko.nvim - Behind the scenes, global marks management for different projects.
 y3owk1n/warp.nvim - https://github.com/y3owk1n/warp.nvim - Simple harpoon alternative that focuses on marking & navigating between files.
 walkersumida/fusen.nvim - https://github.com/walkersumida/fusen.nvim - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
+markgandolfo/dartboard.nvim - https://github.com/markgandolfo/dartboard.nvim - Mark files and quickly access them, inspired by Harpoon and Lasso.
 wurli/visimatch.nvim - https://github.com/wurli/visimatch.nvim - Adds highlights to any text matching the current selection in visual mode.
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
 rktjmp/highlight-current-n.nvim - https://github.com/rktjmp/highlight-current-n.nvim - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
@@ -511,6 +512,7 @@ motaz-shokry/gruvbox.nvim - https://gitlab.com/motaz-shokry/gruvbox.nvim - A new
 mcauley-penney/techbase.nvim - https://github.com/mcauley-penney/techbase.nvim - Dark, cold color scheme inspired by sci-fi horror and retro technology.
 y3owk1n/base16-pro-max.nvim - https://github.com/y3owk1n/base16-pro-max.nvim - Base16 for modern Neovim — not just colors.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
+pmouraguedes/neodarcula.nvim - https://github.com/pmouraguedes/neodarcula.nvim - A dark theme with support for transparency, dimming, LSP semantic tokens and more.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
 calind/selenized.nvim - https://github.com/calind/selenized.nvim - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
@@ -590,10 +592,9 @@ mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file
 Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - Your personal homepage.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
-ya2s/nvim-nonicons - https://github.com/ya2s/nvim-nonicons - Collection of configurations for nvim-web-devicons.
 ziontee113/icon-picker.nvim - https://github.com/ziontee113/icon-picker.nvim - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
-`stephansama/fzf-nerdfont.nvim` - https://github.com/stephansama/fzf-nerdfont.nvim - A picker for selecting Nerd Font icons using `fzf-lua`.
+stephansama/fzf-nerdfont.nvim - https://github.com/stephansama/fzf-nerdfont.nvim - A picker for selecting Nerd Font icons using `fzf-lua`.
 pandasoli/nekovim - https://github.com/pandasoli/nekovim - Flexible Discord rich presence.
 edluffy/hologram.nvim - https://github.com/edluffy/hologram.nvim - A cross platform terminal image viewer. Works on macOS and Linux.
 HakonHarnes/img-clip.nvim - https://github.com/HakonHarnes/img-clip.nvim - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
@@ -757,6 +758,8 @@ piersolenski/brewfile.nvim - https://github.com/piersolenski/brewfile.nvim - Man
 ravsii/timers.nvim - https://github.com/ravsii/timers.nvim - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 francescarpi/buffon.nvim - https://github.com/francescarpi/buffon.nvim - Buffers navigation, reorganize and close.
 ahkohd/buffer-sticks.nvim - https://github.com/ahkohd/buffer-sticks.nvim - Cosmetic buffers indicator & picker.
+gpanders/nvim-moonwalk - https://github.com/gpanders/nvim-moonwalk - Use any language that compiles to Lua anywhere in your Neovim configuration.
+markgandolfo/lightswitch.nvim - https://github.com/markgandolfo/lightswitch.nvim - Toggle various options using the `nui.nvim` library.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -885,6 +888,9 @@ niuiic/omega.nvim - https://github.com/niuiic/omega.nvim - Missing functions for
 2KAbhishek/utils.nvim - https://github.com/2KAbhishek/utils.nvim - Powerful utilities to speed up plugin development.
 YaroSpace/lua-console.nvim - https://github.com/YaroSpace/lua-console.nvim - A handy scratch pad / REPL / debug console for Lua development and Neovim exploration and configuration.
 DrKJeff16/wezterm-types - https://github.com/DrKJeff16/wezterm-types - WezTerm config type annotations for Lua Language Server.
+chrisgve/databox.nvim - https://github.com/chrisgve/databox.nvim - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+BirdeeHub/lze - https://github.com/BirdeeHub/lze - A lazy-loading library for Neovim plugins.
+lumen-oss/lz.n - https://github.com/lumen-oss/lz.n - A simple lazy loading library for Neovim plugins.
 aileot/nvim-thyme - https://github.com/aileot/nvim-thyme - Zero-overhead Fennel JIT compiler with safety rollbacks and [parinfer-rust](https://github.com/eraserhd/parinfer-rust) integration.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel (Lisp to Lua).
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
@@ -935,6 +941,7 @@ rawnly/gist.nvim - https://github.com/rawnly/gist.nvim - Create a GitHub Gist fr
 claydugo/browsher.nvim - https://github.com/claydugo/browsher.nvim - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 comatory/gh-co.nvim - https://github.com/comatory/gh-co.nvim - Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification.
 3ZsForInsomnia/revman.nvim - https://github.com/3ZsForInsomnia/revman.nvim - Track PRs that need review automatically and open them in Octo.nvim.
+cd-4/git-needy.nvim - https://github.com/cd-4/git-needy.nvim - Keeps a tally of workflows that need to be reviewed in your statusbar.
 harrisoncramer/GitLab.nvim - https://github.com/harrisoncramer/GitLab.nvim - Review pull requests and manage other GitLab resources.
 HawkinsT/pathfinder.nvim - https://github.com/HawkinsT/pathfinder.nvim - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
 tris203/precognition.nvim - https://github.com/tris203/precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
