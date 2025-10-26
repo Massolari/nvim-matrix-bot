@@ -818,6 +818,7 @@ chrisgrieser/nvim-chainsaw - https://github.com/chrisgrieser/nvim-chainsaw - Spe
 Willem-J-an/visidata.nvim - https://github.com/Willem-J-an/visidata.nvim - Render pandas dataframes in nvim-dap using the power of visidata.
 igorlfs/nvim-dap-view - https://github.com/igorlfs/nvim-dap-view - A modern, minimalistic UI for nvim-dap.
 Carcuis/dap-breakpoints.nvim - https://github.com/Carcuis/dap-breakpoints.nvim - Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap.
+ravsii/nvim-dap-envfile - https://github.com/ravsii/nvim-dap-envfile - Automatic `envFile` support for nvim-dap.
 kevinhwang91/nvim-bqf - https://github.com/kevinhwang91/nvim-bqf - The goal of nvim-bqf is to make Neovim's quickfix window better.
 yorickpeterse/nvim-pqf - https://github.com/yorickpeterse/nvim-pqf - Prettier quickfix/location list windows.
 nyngwang/NeoWell.lua - https://github.com/nyngwang/NeoWell.lua - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
@@ -998,6 +999,7 @@ mawkler/demicolon.nvim - https://github.com/mawkler/demicolon.nvim - Use `;` and
 debugloop/layers.nvim - https://github.com/debugloop/layers.nvim - Craft temporary keymap overlays and layered modes with ease.
 nvim-mini/mini.nvim#mini.keymap - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-keymap.md - Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for "smart" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of "better escape" like behavior).
 notomo/gesture.nvim - https://github.com/notomo/gesture.nvim - Mouse gesture plugin.
+Saghen/filler-begone.nvim - https://github.com/Saghen/filler-begone.nvim - Prevents scrolling past the bottom of the buffer and showing unnecessary filler lines.
 karb94/neoscroll.nvim - https://github.com/karb94/neoscroll.nvim - Smooth scrolling.
 declancm/cinnamon.nvim - https://github.com/declancm/cinnamon.nvim - Smooth scrolling for any movement command.
 nkakouros-original/scrollofffraction.nvim - https://github.com/nkakouros-original/scrollofffraction.nvim - Scrolloff as a fraction of the window height.
@@ -1009,7 +1011,7 @@ petertriho/nvim-scrollbar - https://github.com/petertriho/nvim-scrollbar - Exten
 nvim-mini/mini.nvim#mini.map - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-map.md - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 gorbit99/codewindow.nvim - https://github.com/gorbit99/codewindow.nvim - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
 lewis6991/satellite.nvim - https://github.com/lewis6991/satellite.nvim - Decorate scrollbar.
-wsdjeg/scrollbar.nvim - https://github.com/wsdjeg/satellite.nvim - Floating scrollbar.
+wsdjeg/scrollbar.nvim - https://github.com/wsdjeg/scrollbar.nvim - Floating scrollbar.
 TheLazyCat00/replace-nvim - https://github.com/TheLazyCat00/replace-nvim - Replace part of your code with the contents of the `+` register using textobjects.
 wurli/split.nvim - https://github.com/wurli/split.nvim - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 csessh/stopinsert.nvim - https://github.com/csessh/stopinsert.nvim - Automatically exit Insert mode after inactivity.
