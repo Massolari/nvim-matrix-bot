@@ -601,16 +601,13 @@ HakonHarnes/img-clip.nvim - https://github.com/HakonHarnes/img-clip.nvim - Effor
 ekickx/clipboard-image.nvim - https://github.com/ekickx/clipboard-image.nvim - Neovim Lua plugin to paste image from clipboard.
 niuiic/cp-image.nvim - https://github.com/niuiic/cp-image.nvim - Paste image from clipboard and insert the reference code.
 askfiy/nvim-picgo - https://github.com/askfiy/nvim-picgo - A picgo-core-based Neovim plugin, written in Lua, that allows you to upload images to the image bed, which means you can view your images from anywhere on the internet.
-madskjeldgaard/reaper-nvim - https://github.com/madskjeldgaard/reaper-nvim - Remote control Reaper DAW from Neovim.
 davidgranstrom/scnvim - https://github.com/davidgranstrom/scnvim - Neovim frontend for SuperCollider.
-andweeb/presence.nvim - https://github.com/andweeb/presence.nvim - Fast and lite Discord Rich Presence plugin written in Lua.
 Chaitanyabsrip/present.nvim - https://github.com/Chaitanyabsprip/present.nvim - A Presentation plugin written in Lua.
 krady21/compiler-explorer.nvim - https://github.com/krady21/compiler-explorer.nvim - Async Lua plugin for interacting with [compiler-explorer](https://godbolt.org/).
 3rd/image.nvim - https://github.com/3rd/image.nvim - Add image support through Kitty's graphics protocol or ueberzugpp.
 adelarsq/image_preview.nvim - https://github.com/adelarsq/image_preview.nvim - Image preview based on terminal's Image Protocol support.
 niuiic/code-shot.nvim - https://github.com/niuiic/code-shot.nvim - Take a picture of the code.
 AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-controls.nvim - Quickly control your favorite music player (Spotify, VLC, and more).
-Rits1272/riff.nvim - https://github.com/Rits1272/riff.nvim - Search and stream songs right inside your editor — discoverable with Telescope, played through mpv, and managed with simple commands. Fast, minimal, and theme-agnostic.
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, atom, json feed).
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
@@ -618,7 +615,6 @@ flashcodes-themayankjha/Fknotes.nvim - https://github.com/flashcodes-themayankjh
 apdot/doodle - https://github.com/apdot/doodle - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
 jameswolensky/marker-groups.nvim - https://github.com/jameswolensky/marker-groups.nvim - Take persistent code notes without modifying code.
 bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A full-featured Markdown-based todo plugin.
-lfilho/note2cal.nvim - https://github.com/lfilho/note2cal.nvim - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 0styx0/abbreinder.nvim - https://github.com/0styx0/abbreinder.nvim - Abbreviation reminders (Neovim >= 0.5).
 jakewvincent/mkdnflow.nvim - https://github.com/jakewvincent/mkdnflow.nvim - Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
 jbyuki/nabla.nvim - https://github.com/jbyuki/nabla.nvim - Take your scientific notes.
@@ -840,7 +836,6 @@ michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of an
 CRAG666/code_runner.nvim - https://github.com/CRAG666/code_runner.nvim - The best code runner you could have, with super powers.
 is0n/jaq-nvim - https://github.com/is0n/jaq-nvim - Just Another Quickrun Plugin in Lua.
 jedrzejboczar/toggletasks.nvim - https://github.com/jedrzejboczar/toggletasks.nvim - Task runner with JSON/YAML configs, using toggleterm.nvim and telescope.nvim.
-EthanJWright/vs-tasks.nvim - https://github.com/EthanJWright/vs-tasks.nvim - UI for launching and managing jobs (unit tests, deploys, etc.) following VS Code tasks structure.
 stevearc/overseer.nvim - https://github.com/stevearc/overseer.nvim - A task runner and job management plugin.
 smzm/hydrovim - https://github.com/smzm/hydrovim - Run Python code inside Neovim.
 desdic/greyjoy.nvim - https://github.com/desdic/greyjoy.nvim - A modular task runner for Makefiles, vscode tasks, kitchen etc.
