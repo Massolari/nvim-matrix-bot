@@ -74,6 +74,7 @@ esmuellert/nvim-eslint - https://github.com/esmuellert/nvim-eslint - Bundle VSCo
 Fildo7525/pretty_hover - https://github.com/Fildo7525/pretty_hover - Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers.
 yarospace/dev-tools.nvim - https://github.com/yarospace/dev-tools.nvim - In-process LSP server of custom code actions, enhanced actions picker, community actions library and a convenient interface for customization and enhancement of your code actions.
 SunnyTamang/neodoc.nvim - https://github.com/SunnyTamang/neodoc.nvim - DocString generator that helps writing function/classes docstrings in formats like `google`, `numpy`, `sphinx` with live preview.
+barreiroleo/ltex_extra.nvim - https://github.com/barreiroleo/ltex_extra.nvim - LTeX LSP extension providing external file handling (rules and dictionaries). 
 anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
 alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
@@ -836,6 +837,7 @@ michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of an
 CRAG666/code_runner.nvim - https://github.com/CRAG666/code_runner.nvim - The best code runner you could have, with super powers.
 is0n/jaq-nvim - https://github.com/is0n/jaq-nvim - Just Another Quickrun Plugin in Lua.
 jedrzejboczar/toggletasks.nvim - https://github.com/jedrzejboczar/toggletasks.nvim - Task runner with JSON/YAML configs, using toggleterm.nvim and telescope.nvim.
+EthanJWright/vs-tasks.nvim - https://github.com/EthanJWright/vs-tasks.nvim - Run and manage project jobs, supporting VSCode's `tasks.json` spec.
 stevearc/overseer.nvim - https://github.com/stevearc/overseer.nvim - A task runner and job management plugin.
 smzm/hydrovim - https://github.com/smzm/hydrovim - Run Python code inside Neovim.
 desdic/greyjoy.nvim - https://github.com/desdic/greyjoy.nvim - A modular task runner for Makefiles, vscode tasks, kitchen etc.
