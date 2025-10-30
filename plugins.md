@@ -87,11 +87,22 @@ chrisgrieser/nvim-rulebook - https://github.com/chrisgrieser/nvim-rulebook - Add
 artemave/workspace-diagnostics.nvim - https://github.com/artemave/workspace-diagnostics.nvim - Populate diagnostics for all projects files, not just the opened ones.
 ms-jpq/coq_nvim - https://github.com/ms-jpq/coq_nvim - Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 hrsh7th/nvim-cmp - https://github.com/hrsh7th/nvim-cmp - A completion plugin written in Lua. New version of nvim-compe.
+  hrsh7th/cmp-cmdline - https://github.com/hrsh7th/cmp-cmdline - `nvim-cmp` source for cmdline completion.
+  saadparwaiz1/cmp_luasnip - https://github.com/saadparwaiz1/cmp_luasnip - `nvim-cmp` completion source for `LuaSnip`.
+  hrsh7th/cmp-buffer - https://github.com/hrsh7th/cmp-buffer - `nvim-cmp` source for buffer words.
+  hrsh7th/cmp-path - https://github.com/hrsh7th/cmp-path - `nvim-cmp` source for filesystem paths.
+  hrsh7th/cmp-nvim-lsp - https://github.com/hrsh7th/cmp-nvim-lsp - `nvim-cmp` source for the Neovim builtin LSP client.
+  petertriho/cmp-git - https://github.com/petertriho/cmp-git - `nvim-cmp` source for `git`.
   lukas-reineke/cmp-under-comparator - https://github.com/lukas-reineke/cmp-under-comparator - A nvim-cmp function for better sorting.
   SergioRibera/cmp-dotenv - https://github.com/SergioRibera/cmp-dotenv - Load environment variables from the shell or from your `.env` files.
 nvim-mini/mini.nvim#mini.completion - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 deathbeam/autocomplete.nvim - https://github.com/deathbeam/autocomplete.nvim - Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help.
 Saghen/blink.cmp - https://github.com/Saghen/blink.cmp - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
+  Saghen/blink.compat - https://github.com/Saghen/blink.compat - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
+  Kaiser-Yang/blink-cmp-git - https://github.com/Kaiser-Yang/blink-cmp-git - Git source for `blink.cmp`.
+  bydlw98/blink-cmp-env - https://github.com/bydlw98/blink-cmp-env - Environment variables source for `blink.cmp`.
+  bydlw98/blink-cmp-sshconfig - https://github.com/bydlw98/blink-cmp-sshconfig - `blink.cmp` source for `sshconfig` files.
+  mgalliou/blink-cmp-tmux - https://github.com/mgalliou/blink-cmp-tmux - `blink.cmp` completion source for [tmux](https://github.com/tmux/tmux).
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 blob42/codegpt-ng.nvim - https://github.com/blob42/codegpt-ng.nvim - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
@@ -593,7 +604,6 @@ mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file
 Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - Your personal homepage.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
-ziontee113/icon-picker.nvim - https://github.com/ziontee113/icon-picker.nvim - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
 stephansama/fzf-nerdfont.nvim - https://github.com/stephansama/fzf-nerdfont.nvim - A picker for selecting Nerd Font icons using `fzf-lua`.
 pandasoli/nekovim - https://github.com/pandasoli/nekovim - Flexible Discord rich presence.
