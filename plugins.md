@@ -103,6 +103,7 @@ Saghen/blink.cmp - https://github.com/Saghen/blink.cmp - Really fast completion 
   bydlw98/blink-cmp-env - https://github.com/bydlw98/blink-cmp-env - Environment variables source for `blink.cmp`.
   bydlw98/blink-cmp-sshconfig - https://github.com/bydlw98/blink-cmp-sshconfig - `blink.cmp` source for `sshconfig` files.
   mgalliou/blink-cmp-tmux - https://github.com/mgalliou/blink-cmp-tmux - `blink.cmp` completion source for [tmux](https://github.com/tmux/tmux).
+  moyiz/blink-emoji.nvim - https://github.com/moyiz/blink-emoji.nvim - `blink.cmp` completion source for GitHub Markdown emojis.
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 blob42/codegpt-ng.nvim - https://github.com/blob42/codegpt-ng.nvim - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
@@ -560,7 +561,6 @@ neur1n/noline.nvim - https://github.com/neur1n/noline.nvim - Fully customizable 
 OXY2DEV/bars.nvim - https://github.com/OXY2DEV/bars.nvim - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - A light-weight and super fast statusline plugin written in Lua.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
-sontungexpt/sttusline - https://github.com/sontungexpt/sttusline - Very lightweight, super fast and lazyloading statusline.
 sontungexpt/witch-line - https://github.com/sontungexpt/witch-line - A blazing fast, lazy loading and easy to configure Neovim statusline.
 nvim-lualine/lualine.nvim - https://github.com/nvim-lualine/lualine.nvim - A blazing fast and easy to configure Neovim statusline.
 adelarsq/neoline.vim - https://github.com/adelarsq/neoline.vim - A light statusline/tabline plugin using Lua.
@@ -640,26 +640,19 @@ obsidian-nvim/obsidian.nvim - https://github.com/obsidian-nvim/obsidian.nvim - P
 IlyasYOY/obs.nvim - https://github.com/IlyasYOY/obs.nvim - Your Obsidian notes at the speed of thought.
 jghauser/papis.nvim - https://github.com/jghauser/papis.nvim - Manage your bibliography from within your favourite editor.
 Ostralyan/scribe.nvim - https://github.com/Ostralyan/scribe.nvim - Take notes, easily.
-RutaTang/quicknote.nvim - https://github.com/RutaTang/quicknote.nvim - Quickly take notes, in-place.
 serenevoid/kiwi.nvim - https://github.com/serenevoid/kiwi.nvim - A stripped down VimWiki with necessary features.
-ada0l/obsidian/ - https://github.com/ada0l/obsidian - Base Obsidian functionality.
-gsuuon/note.nvim - https://github.com/gsuuon/note.nvim - Daily tasks with deep-linking and project spaces.
 backdround/global-note.nvim - https://github.com/backdround/global-note.nvim - One global note in a floating window.
 2KAbhishek/tdo.nvim - https://github.com/2KAbhishek/tdo.nvim - Fast and simple note taking.
 slugbyte/whip.nvim - http://github.com/slugbyte/whip.nvim - A super fast minimal scratchpad management plugin, biew biew biew.
 y3owk1n/dotmd.nvim - https://github.com/y3owk1n/dotmd.nvim - Managing notes, TODO's, journal entries, and your inbox, all with Markdown.
 athar-qadri/scratchpad.nvim - https://github.com/athar-qadri/scratchpad.nvim - Effortlessly manage scratchpads within your favorite editor.
 echaya/neowiki.nvim - https://github.com/echaya/neowiki.nvim - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
-phrmendes/todotxt.nvim - https://github.com/phrmendes/todotxt.nvim - A minimal `todo.txt` implementation in Lua.
 happyeric77/joplin.nvim - https://github.com/happyeric77/joplin.nvim - Joplin notes utilities: tree browser, search, open, and Telescope integration.
-Cih2001/pikchr.nvim - https://github.com/Cih2001/pikchr.nvim - Render [Pikchr](https://pikchr.org/) diagrams live in Neovim.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
 jghauser/mkdir.nvim - https://github.com/jghauser/mkdir.nvim - Automatically create missing directories when saving files.
 matbme/JABS.nvim - https://github.com/matbme/JABS.nvim - Pretty and minimal buffer switcher window.
 j-morano/buffer_manager.nvim - https://github.com/j-morano/buffer_manager.nvim - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
-clojure-vim/jazz.nvim - https://github.com/clojure-vim/jazz.nvim - Acid + Impromptu = Jazz.
-doctorfree/cheatsheet.nvim - https://github.com/doctorfree/cheatsheet.nvim - Searchable cheatsheet.
 hat0uma/prelive.nvim - https://github.com/hat0uma/prelive.nvim - A simple luv-based development server with live reloading.
 hat0uma/doxygen-previewer.nvim - https://github.com/hat0uma/doxygen-previewer.nvim - Live previewing of Doxygen documentation.
 code-biscuits/nvim-biscuits - https://github.com/code-biscuits/nvim-biscuits - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
@@ -671,7 +664,6 @@ folke/noice.nvim - https://github.com/folke/noice.nvim - Highly experimental plu
 sQVe/bufignore.nvim - https://github.com/sQVe/bufignore.nvim - Unlist hidden buffers matching specified ignore sources.
 saifulapm/commasemi.nvim - https://github.com/saifulapm/commasemi.nvim - Toggle comma and semicolon.
 stevearc/dressing.nvim - https://github.com/stevearc/dressing.nvim - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
-gaborvecsei/cryptoprice.nvim - https://github.com/gaborvecsei/cryptoprice.nvim - Check the price of the defined cryptocurrencies.
 jghauser/fold-cycle.nvim - https://github.com/jghauser/fold-cycle.nvim - Cycle folds open or closed.
 rgroli/other.nvim - https://github.com/rgroli/other.nvim - Open alternative files for the current buffer.
 toppair/reach.nvim - https://github.com/toppair/reach.nvim - Buffer, mark, tabpage switcher.
@@ -681,17 +673,12 @@ nkakouros-original/numbers.nvim - https://github.com/nkakouros-original/numbers.
 ghillb/cybu.nvim - https://github.com/ghillb/cybu.nvim - Displays a notification window with context when cycling buffers.
 sontungexpt/url-open - https://github.com/sontungexpt/url-open - Open URLs under the cursor and create highlight effects for them.
 crusj/bookmarks.nvim - https://github.com/crusj/bookmarks.nvim - Remember file locations and sort by time and frequency.
-xiyaowong/virtcolumn.nvim - https://github.com/xiyaowong/virtcolumn.nvim - Display a line as colorcolumn.
 m-demare/attempt.nvim - https://github.com/m-demare/attempt.nvim - Manage and run temporary buffers.
 kevinhwang91/nvim-ufo - https://github.com/kevinhwang91/nvim-ufo - Ultra fold with modern looking and performance boosting.
-xiyaowong/link-visitor.nvim - https://github.com/xiyaowong/link-visitor.nvim - Let me help you open the links.
 sitiom/nvim-numbertoggle - https://github.com/sitiom/nvim-numbertoggle - Neovim plugin to automatically toggle between relative and absolute line numbers.
-anuvyklack/fold-preview - https://github.com/anuvyklack/fold-preview.nvim - Preview closed fold without opening it.
 nguyenvukhang/nvim-toggler - https://github.com/nguyenvukhang/nvim-toggler - Invert text, such as toggling between `true` and `false`.
 CosmicNvim/cosmic-ui - https://github.com/CosmicNvim/cosmic-ui - Cosmic-UI is a simple wrapper around specific Vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
-AckslD/messages.nvim - https://github.com/AckslD/messages.nvim - Capture and show any messages in a customisable (floating) buffer.
 jbyuki/instant.nvim - https://github.com/jbyuki/instant.nvim - A collaborative editing plugin written in Lua with no dependencies.
-numToStr/BufOnly.nvim - https://github.com/numToStr/BufOnly.nvim - Lua/Neovim port of BufOnly.vim with some changes.
 zbirenbaum/neodim - https://github.com/zbirenbaum/neodim - Dimming the highlights of unused functions, variables, parameters, and more.
 bfredl/nvim-miniyank - https://github.com/bfredl/nvim-miniyank - The killring-alike plugin with no default mappings.
 chrisgrieser/nvim-genghis - https://github.com/chrisgrieser/nvim-genghis - Convenience file operations, written in Lua.
@@ -713,18 +700,13 @@ aPeoplesCalendar/apc.nvim - https://github.com/aPeoplesCalendar/apc.nvim - "On t
 subnut/nvim-ghost.nvim - https://github.com/subnut/nvim-ghost.nvim - GhostText support with zero dependencies.
 malbertzard/inline-fold.nvim - https://github.com/malbertzard/inline-fold.nvim - Hide certain elements inline like long CSS classes or `href` content.
 chrisgrieser/nvim-origami - https://github.com/chrisgrieser/nvim-origami - Fold with relentless elegance.
-GCBallesteros/NotebookNavigator.nvim - https://github.com/GCBallesteros/NotebookNavigator.nvim - Navigate and execute code cells.
 LintaoAmons/scratch.nvim - https://github.com/LintaoAmons/scratch.nvim - Create and manage scratch files.
 0xJohnnyboy/scretch.nvim - https://github.com/0xJohnnyboy/scretch.nvim - Create and manage scratch files, scratch templates, with picker integrations.
-JMarkin/gentags.lua - https://github.com/JMarkin/gentags.lua - Auto generate tag files by ctags.
 yutkat/confirm-quit.nvim - https://github.com/yutkat/confirm-quit.nvim - Confirm before quitting Neovim.
 bgaillard/readonly.nvim - https://github.com/bgaillard/readonly.nvim - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
-GCBallesteros/jupytext.nvim - https://github.com/GCBallesteros/jupytext.nvim - Edit jupyter notebooks without leaving Neovim.
 ariel-frischer/bmessages.nvim - https://github.com/ariel-frischer/bmessages.nvim - Replace the default :messages window with a configurable, auto-updating buffer.
 backdround/tabscope.nvim - https://github.com/backdround/tabscope.nvim - Make tab-local buffers.
 linrongbin16/gentags.nvim - https://github.com/linrongbin16/gentags.nvim - The tags generator/management for old school vimers.
-Mr-LLLLL/utilities.nvim - https://github.com/Mr-LLLLL/utilities.nvim - A repository to collect some little utility functions.
-mcauley-penney/visual-whitespace.nvim - https://github.com/mcauley-penney/visual-whitespace.nvim - See whitespace characters in Visual selections, like VSCode.
 Zeioth/distroupdate.nvim - https://github.com/Zeioth/distroupdate.nvim - Distro agnostic updater to get the latest changes from the Git repository of your config.
 SUSTech-data/neopyter - https://github.com/SUSTech-data/neopyter - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
 terje/simctl.nvim - https://github.com/terje/simctl.nvim - Interact with iOS Simulators.
@@ -735,12 +717,9 @@ ysmb-wtsg/in-and-out.nvim - https://github.com/ysmb-wtsg/in-and-out.nvim - Quick
 ChuufMaster/buffer-vacuum - https://github.com/ChuufMaster/buffer-vacuum - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
 mong8se/buffish.nvim - https://github.com/mong8se/buffish.nvim - A buffer switcher in the spirit of dirvish or vinegar.
 niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful todo manager based on text.
-QuentinGruber/timespent.nvim - https://github.com/QuentinGruber/timespent.nvim - Display time spent on projects / files.
 SunnyTamang/pendulum.nvim - https://github.com/SunnyTamang/pendulum.nvim - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 ptdewey/pendulum-nvim - https://github.com/ptdewey/pendulum-nvim - Track time spent coding and glean insights through on-demand time reports.
-QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 rlychrisg/truncateline.nvim - https://github.com/rlychrisg/truncateline.nvim - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
-EL-MASTOR/bufferlist.nvim - https://github.com/EL-MASTOR/bufferlist.nvim - A super fast, lightweight, minimal and super easy buffer manager.
 ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist .env support.
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 MisanthropicBit/decipher.nvim - https://github.com/MisanthropicBit/decipher.nvim - Encode and decode text using various codecs such as base64.
