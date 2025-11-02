@@ -11,10 +11,8 @@ romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightwe
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
 neovim/nvim-lspconfig - https://github.com/neovim/nvim-lspconfig - Quickstart configurations for the LSP client.
 nvim-lua/lsp-status.nvim - https://github.com/nvim-lua/lsp-status.nvim - This is a plugin/library for generating statusline components from the built-in LSP client.
-RishabhRD/nvim-lsputils - https://github.com/RishabhRD/nvim-lsputils - Better defaults for nvim-lsp actions.
 nvimdev/lspsaga.nvim - https://github.com/nvimdev/lspsaga.nvim - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
 kosayoda/nvim-lightbulb - https://github.com/kosayoda/nvim-lightbulb - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
-roobert/action-hints.nvim - https://github.com/roobert/action-hints.nvim - Show information about the word under the cursor in the statusline or as virtual text.
 onsails/lspkind.nvim - https://github.com/onsails/lspkind.nvim - The plugin adds vscode-like icons to Neovim LSP completions.
 ojroques/nvim-lspfuzzy - https://github.com/ojroques/nvim-lspfuzzy - A small plugin to make the LSP client use FZF.
 gfanto/fzf-lsp.nvim - https://github.com/gfanto/fzf-lsp.nvim - Enable the power of FZF fuzzy search for the Neovim built in LSP.
@@ -32,12 +30,10 @@ jakewvincent/texmagic.nvim - https://github.com/jakewvincent/texmagic.nvim - Enh
 aznhe21/actions-preview.nvim - https://github.com/aznhe21/actions-preview.nvim - Fully customizable previewer for LSP code actions.
 mfussenegger/nvim-lint - https://github.com/mfussenegger/nvim-lint - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
 b0o/SchemaStore.nvim - https://github.com/b0o/SchemaStore.nvim - Provide access to the [SchemaStore](https://github.com/SchemaStore/schemastore) catalog.
-ldelossa/litee.nvim - https://github.com/ldelossa/litee.nvim - Neovim's missing IDE features.
 j-hui/fidget.nvim - https://github.com/j-hui/fidget.nvim - Standalone UI for LSP progress.
 scalameta/nvim-metals - https://github.com/scalameta/nvim-metals - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
 junnplus/lsp-setup.nvim - https://github.com/junnplus/lsp-setup.nvim - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 amrbashir/nvim-docs-view - https://github.com/amrbashir/nvim-docs-view - Display LSP hover documentation in a side panel.
-roobert/hoversplit.nvim - https://github.com/roobert/hoversplit.nvim - Automatically updated documentation and information about code symbols in a split window.
 mfussenegger/nvim-jdtls - https://github.com/mfussenegger/nvim-jdtls - Extensions for the built-in LSP support for eclipse.jdt.ls.
 Kasama/nvim-custom-diagnostic-highlight - https://github.com/Kasama/nvim-custom-diagnostic-highlight - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
 mrcjkb/haskell-tools.nvim - https://github.com/mrcjkb/haskell-tools.nvim - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
@@ -70,17 +66,12 @@ mawkler/refjump.nvim - https://github.com/mawkler/refjump.nvim - Jump to next/pr
 alexpasmantier/pymple.nvim - https://github.com/alexpasmantier/pymple.nvim - Refactor Python imports on file move/rename.
 esmuellert/nvim-eslint - https://github.com/esmuellert/nvim-eslint - Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
 Fildo7525/pretty_hover - https://github.com/Fildo7525/pretty_hover - Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers.
-yarospace/dev-tools.nvim - https://github.com/yarospace/dev-tools.nvim - In-process LSP server of custom code actions, enhanced actions picker, community actions library and a convenient interface for customization and enhancement of your code actions.
 SunnyTamang/neodoc.nvim - https://github.com/SunnyTamang/neodoc.nvim - DocString generator that helps writing function/classes docstrings in formats like `google`, `numpy`, `sphinx` with live preview.
 barreiroleo/ltex_extra.nvim - https://github.com/barreiroleo/ltex_extra.nvim - LTeX LSP extension providing external file handling (rules and dictionaries). 
-anott03/nvim-lspinstall - https://github.com/anott03/nvim-lspinstall - Easy to install language servers.
-alexaandru/nvim-lspupdate - https://github.com/alexaandru/nvim-lspupdate - Updates installed (or auto installs if missing) LSP servers.
 williamboman/mason.nvim - https://github.com/williamboman/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 sontungexpt/better-diagnostic-virtual-text - https://github.com/sontungexpt/better-diagnostic-virtual-text - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 ~whynothugo/lsp_lines.nvim - https://git.sr.ht/~whynothugo/lsp_lines.nvim - Render diagnostics using virtual lines on top of the real line of code.
-onsails/diaglist.nvim - https://github.com/onsails/diaglist.nvim - Live render workspace diagnostics in quickfix, buffer diagnostics in loclist.
 folke/trouble.nvim - https://github.com/folke/trouble.nvim - A pretty diagnostics list to help you solve all the trouble your code is causing.
-piersolenski/wtf.nvim - https://github.com/piersolenski/wtf.nvim - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
 chrisgrieser/nvim-rulebook - https://github.com/chrisgrieser/nvim-rulebook - Add inline-comments to ignore rules, or lookup rule documentation online.
 artemave/workspace-diagnostics.nvim - https://github.com/artemave/workspace-diagnostics.nvim - Populate diagnostics for all projects files, not just the opened ones.
 ms-jpq/coq_nvim - https://github.com/ms-jpq/coq_nvim - Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
@@ -141,20 +132,17 @@ Julian/lean.nvim - https://github.com/Julian/lean.nvim - Neovim support for the 
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
 AckslD/swenv.nvim - https://github.com/AckslD/swenv.nvim - Tiny plugin to quickly switch Python virtual environments without restarting.
-roobert/f-string-toggle.nvim - https://github.com/roobert/f-string-toggle.nvim - Toggle Python f-strings.
 gennaro-tedesco/nvim-jqx - https://github.com/gennaro-tedesco/nvim-jqx - Interactive interface for JSON files.
 nanotee/sqls.nvim - https://github.com/nanotee/sqls.nvim - SQL database connection plugin + LSP client.
 dmmulroy/tsc.nvim - https://github.com/dmmulroy/tsc.nvim - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (`tsc`) with results loaded into a quickfix list.
 dmmulroy/ts-error-translator.nvim - https://github.com/dmmulroy/ts-error-translator.nvim - A port of Matt Pocock's `ts-error-translator` for VSCode for turning messy and confusing TypeScript errors into plain English.
 chuwy/ucm.nvim - https://github.com/chuwy/ucm.nvim - Navigating [Unison](https://unison-lang.org/) projects.
 niuiic/typst-preview.nvim - https://github.com/niuiic/typst-preview.nvim - Preview Typst documents, respond to file changes.
-simaxme/java.nvim - https://github.com/simaxme/java.nvim - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in `nvim-tree`).
 chomosuke/typst-preview.nvim - https://github.com/chomosuke/typst-preview.nvim - Preview Typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
 quarto-dev/quarto-nvim - https://github.com/quarto-dev/quarto-nvim - Tools for working with [Quarto](https://quarto.org/) documents.
 iabdelkareem/csharp.nvim - https://github.com/iabdelkareem/csharp.nvim - Enhances the development experience for .NET developers.
 neolooong/whichpy.nvim - https://github.com/neolooong/whichpy.nvim - Switch Python interpreter without restarting LSP.
 nvim-java/nvim-java - https://github.com/nvim-java/nvim-java - Everything you need for a painless Java experience.
-jinzhogjia/zig-lamp - https://github.com/jinzhongjia/zig-lamp - Improve the Zig experience.
 kiyoon/python-import.nvim - https://github.com/kiyoon/python-import.nvim - Add Python import statements with Tree-sitter, LSP, and more.
 kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 apyra/nvim-unity.nvim - https://github.com/apyra/nvim-unity - Use Neovim as your default Unity editor with full LSP support via OmniSharp.
@@ -165,7 +153,6 @@ romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightwe
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
 crispgm/nvim-go - https://github.com/crispgm/nvim-go - A minimal implementation of Golang development plugin.
-edolphin-ydf/goimpl.nvim - https://github.com/edolphin-ydf/goimpl.nvim - Generate interface stubs for a type.
 olexsmir/gopher.nvim - https://github.com/olexsmir/gopher.nvim/ - Plugin for making Golang development easiest.
 rafaelsq/nvim-goc.lua - https://github.com/rafaelsq/nvim-goc.lua - Highlight your buffer with Golang Code Coverage.
 crusj/hierarchy-tree-go.nvim - https://github.com/crusj/hierarchy-tree-go.nvim - Neovim plugin for Golang, callHierarchy UI tree.
@@ -181,10 +168,7 @@ rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast Neovim HTT
 lima1909/resty.nvim - https://github.com/lima1909/resty.nvim - Fast and easy-to-use HTTP-Rest-Client.
 mistweaverco/kulala.nvim - https://github.com/mistweaverco/kulala.nvim - A minimal HTTP-client interface.
 heilgar/nvim-http-client - https://github.com/heilgar/nvim-http-client - Easy to use HTTP client with IntelliJ (JetBrains) HTTP client syntax compatibility.
-ray-x/web-tools.nvim - https://github.com/ray-x/web-tools.nvim - Launch a local development server with live reload feature for static & dynamic pages, HTML & CSS tag rename with LSP.
-roobert/tailwindcss-colorizer-cmp.nvim - https://github.com/roobert/tailwindcss-colorizer-cmp.nvim - Add vscode-style TailwindCSS completion to nvim-cmp.
 luckasRanarison/tailwind-tools.nvim - https://github.com/luckasRanarison/tailwind-tools.nvim - Unofficial TailwindCSS tooling.
-cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - A tool for CSS unit conversions.
 farias-hecdin/CSSVarViewer - https://github.com/farias-hecdin/CSSVarViewer - Easily visualize the content of your CSS variables in a virtual text.
 farias-hecdin/CSSVarHighlight - https://github.com/farias-hecdin/CSSVarHighlight - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 mawkler/jsx-element.nvim - https://github.com/mawkler/jsx-element.nvim - JSX/TSX text-objects and motions.
@@ -200,19 +184,15 @@ jubnzv/mdeval.nvim - https://github.com/jubnzv/mdeval.nvim - Evaluate code block
 kdheepak/panvimdoc - https://github.com/kdheepak/panvimdoc - A pandoc to vimdoc GitHub action.
 frabjous/knap - https://github.com/frabjous/knap - Plugin for creating automatic updating-as-you-type previews for Markdown, LaTeX and other documents.
 jbyuki/carrot.nvim - https://github.com/jbyuki/carrot.nvim - Markdown evaluator Lua code blocks.
-AckslD/nvim-FeMaco.lua - https://github.com/AckslD/nvim-FeMaco.lua - Catalyze your Fenced Markdown Code-block editing.
 Nedra1998/nvim-mdlink - https://github.com/Nedra1998/nvim-mdlink - Simplify creating and following Markdown links.
 nfrid/markdown-togglecheck - https://github.com/nfrid/markdown-togglecheck - Simple Neovim plugin for toggling check boxes using Tree-sitter.
 toppair/peek.nvim - https://github.com/toppair/peek.nvim - Preview Markdown in a webview window.
 yaocccc/nvim-hl-mdcodeblock.lua - https://github.com/yaocccc/nvim-hl-mdcodeblock.lua - Highlight Markdown codeblock using Tree-sitter.
 kiran94/edit-markdown-table.nvim - https://github.com/kiran94/edit-markdown-table.nvim - Edit Markdown Tables using Tree-sitter.
 richardbizik/nvim-toc - https://github.com/richardbizik/nvim-toc - Easily generate table of contents for Markdown files.
-Zeioth/markmap.nvim - https://github.com/Zeioth/markmap.nvim - Visualize your Markdown as mindmaps.
 tadmccorkle/markdown.nvim - https://github.com/tadmccorkle/markdown.nvim - Configurable tools for Markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 mpas/marp-nvim - https://github.com/mpas/marp-nvim - Present using Markdown with [Marp](https://marp.app/).
-Myzel394/easytables.nvim - https://github.com/Myzel394/easytables.nvim - Easily insert and edit Markdown tables with a live preview and useful helpers.
 MeanderingProgrammer/render-markdown.nvim - https://github.com/MeanderingProgrammer/render-markdown.nvim - Improve viewing Markdown files directly.
-arminveres/md-pdf.nvim - https://github.com/arminveres/md-pdf.nvim - Preview Markdown files and convert to PDF.
 ChuufMaster/markdown-toc - https://github.com/ChuufMaster/markdown-toc - Generate TOC in any Markdown file from any other Markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 OXY2DEV/markview.nvim - https://github.com/OXY2DEV/markview.nvim - A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer.
 Kicamon/markdown-table-mode.nvim - https://github.com/Kicamon/markdown-table-mode.nvim - Markdown format plugin like vim-table-mode but write in Lua.
@@ -223,7 +203,6 @@ nvim-telescope/telescope-bibtex.nvim - https://github.com/nvim-telescope/telesco
 Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A Markdown equation previewer, using Kitty Graphics Protocol.
 OXY2DEV/markdoc.nvim - https://github.com/OXY2DEV/markdoc.nvim - Tree-sitter based `markdown -> vimdoc` converter.
 YousefHadder/markdown-plus.nvim - https://github.com/YousefHadder/markdown-plus.nvim - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
-gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
 Who5673/who5673-nasm - https://github.com/Who5673/who5673-nasm - Helps people program Netwide Assembler language faster and more convenient using snippets.
@@ -231,13 +210,11 @@ potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate y
 niuiic/translate.nvim - https://github.com/niuiic/translate.nvim - Invoke any translation engine via shell command.
 tanloong/interlaced.nvim - https://github.com/tanloong/interlaced.nvim - Help align bilingual parallel texts.
 sontungexpt/vietnamese.nvim - https://github.com/sontungexpt/vietnamese.nvim - A Vietnamese input method engine with native support to type Vietnamese in insert mode.
-kiyoon/Korean-IME.nvim - https://github.com/kiyoon/Korean-IME.nvim - OS-independent Korean input method that converts English inputs to Korean in-place.
 doodleEsc/translator.nvim - https://github.com/doodleEsc/translator.nvim - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Neovim Tree-sitter configurations and abstraction layer.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
 kylechui/nvim-surround - https://github.com/kylechui/nvim-surround - A plugin for adding/changing/deleting surrounding delimiter pairs.
-roobert/surround-ui.nvim - https://github.com/roobert/surround-ui.nvim - Helper or training aid for kylechui/nvim-surround.
 nvim-mini/mini.nvim#mini.surround - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-surround.md - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, Tree-sitter integration, and more.
 m-demare/hlargs.nvim - https://github.com/m-demare/hlargs.nvim - Highlight arguments' definitions and usages, using Tree-sitter.
 LhKipp/nvim-nu - https://github.com/LhKipp/nvim-nu - Basic editor support for the nushell language.
