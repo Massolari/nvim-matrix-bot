@@ -115,7 +115,6 @@ yetone/avante.nvim - https://github.com/yetone/avante.nvim - Chat with your code
 Kurama622/llm.nvim - https://github.com/Kurama622/llm.nvim - Free large language model (LLM) support, provides commands to interact with LLM.
 3v0k4/exit.nvim - https://github.com/3v0k4/exit.nvim - Prompt LLMs (large language models) to write Vim commands.
 k2589/LLuMinate.nvim - https://github.com/k2589/lluminate.nvim - Enrich context for LLM with LSP hover added to clipboard.
-supermaven-inc/supermaven-nvim - https://github.com/supermaven-inc/supermaven-nvim - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 milanglacier/yarepl.nvim#aider-extensions - https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 Davidyz/VectorCode - https://github.com/davidyz/vectorcode - Supercharge your LLM experience with repository-level RAG.
 dlants/magenta.nvim - https://github.com/dlants/magenta.nvim - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
@@ -138,6 +137,7 @@ dmmulroy/tsc.nvim - https://github.com/dmmulroy/tsc.nvim - Asynchronous project-
 dmmulroy/ts-error-translator.nvim - https://github.com/dmmulroy/ts-error-translator.nvim - A port of Matt Pocock's `ts-error-translator` for VSCode for turning messy and confusing TypeScript errors into plain English.
 chuwy/ucm.nvim - https://github.com/chuwy/ucm.nvim - Navigating [Unison](https://unison-lang.org/) projects.
 niuiic/typst-preview.nvim - https://github.com/niuiic/typst-preview.nvim - Preview Typst documents, respond to file changes.
+simaxme/java.nvim - https://github.com/simaxme/java.nvim - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in `nvim-tree`).
 chomosuke/typst-preview.nvim - https://github.com/chomosuke/typst-preview.nvim - Preview Typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
 quarto-dev/quarto-nvim - https://github.com/quarto-dev/quarto-nvim - Tools for working with [Quarto](https://quarto.org/) documents.
 iabdelkareem/csharp.nvim - https://github.com/iabdelkareem/csharp.nvim - Enhances the development experience for .NET developers.
@@ -203,6 +203,7 @@ nvim-telescope/telescope-bibtex.nvim - https://github.com/nvim-telescope/telesco
 Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A Markdown equation previewer, using Kitty Graphics Protocol.
 OXY2DEV/markdoc.nvim - https://github.com/OXY2DEV/markdoc.nvim - Tree-sitter based `markdown -> vimdoc` converter.
 YousefHadder/markdown-plus.nvim - https://github.com/YousefHadder/markdown-plus.nvim - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
+Myzel394/easytables.nvim - https://github.com/Myzel394/easytables.nvim - Easily insert and edit Markdown tables with a live preview and useful helpers.
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
 Who5673/who5673-nasm - https://github.com/Who5673/who5673-nasm - Helps people program Netwide Assembler language faster and more convenient using snippets.
@@ -1138,6 +1139,7 @@ EvWilson/slimux.nvim - https://github.com/EvWilson/slimux.nvim - Send content fr
 juselara1/tmutils.nvim - https://github.com/juselara1/tmutils.nvim - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
 kiyoon/tmux-send.nvim - https://github.com/kiyoon/tmux-send.nvim - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
 jkeresman01/tmux-switch.nvim - https://github.com/jkeresman01/tmux-switch.nvim - Provides fuzzy session switching for Tmux.
+salorak/libtmux.nvim - https://github.com/salorak/libtmux.nvim - Thin wrapper for using the `tmux` API.
 ThePrimeagen/vim-be-good - https://github.com/ThePrimeagen/vim-be-good - Vim-be-good is a Neovim plugin designed to make you better at Vim Movements.
 alec-gibson/nvim-tetris - https://github.com/alec-gibson/nvim-tetris - Bringing emacs' greatest feature to Neovim - Tetris!.
 seandewar/nvimesweeper - https://github.com/seandewar/nvimesweeper - Play Minesweeper in your favourite text editor.
