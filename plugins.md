@@ -299,6 +299,7 @@ nvim-mini/mini.nvim#mini.extra - https://github.com/nvim-mini/mini.nvim/blob/mai
 fdschmidt93/telescope-egrepify.nvim - https://github.com/fdschmidt93/telescope-egrepify.nvim - Telescope plugin for better `rg` flags in `live_grep`.
 nvim-telescope/telescope-media-files.nvim - https://github.com/nvim-telescope/telescope-media-files.nvim - Preview images, pdf, epub, video, and fonts using Telescope.
 crispgm/telescope-heading.nvim - https://github.com/crispgm/telescope-heading.nvim - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
+bassamsdata/namu.nvim - https://github.com/bassamsdata/namu.nvim - Flexible and sleek fuzzy picker, LSP symbol navigator, and more.
 folke/snacks.nvim#picker - https://github.com/folke/snacks.nvim/blob/main/docs/picker.md - Modern fuzzy-finder to navigate the Neovim universe.
 dmtrKovalenko/fff.nvim - https://github.com/dmtrKovalenko/fff.nvim - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more.
 wsdjeg/picker.nvim - https://github.com/wsdjeg/picker.nvim - Simple fuzzy finder, including files, ctags outline, and more.
@@ -309,10 +310,8 @@ TimUntersberger/neofs - https://github.com/TimUntersberger/neofs - A file manage
 kevinhwang91/rnvimr - https://github.com/kevinhwang91/rnvimr - A simple yet amazing file explorer.
 Xuyuanp/yanil - https://github.com/Xuyuanp/yanil - Yet Another Nerdtree In Lua.
 ms-jpq/chadtree - https://github.com/ms-jpq/chadtree - File manager. Better than NERDTree.
-is0n/fm-nvim - https://github.com/is0n/fm-nvim - Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders).
 rolv-apneseth/tfm.nvim - https://github.com/Rolv-Apneseth/tfm.nvim - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi](https://github.com/sxyazi/yazi)).
 nvim-neo-tree/neo-tree.nvim - https://github.com/nvim-neo-tree/neo-tree.nvim - Neo-tree is a Neovim plugin to browse the file system and other tree like structures in whatever style suits you, including sidebars, floating windows, netrw split style, or all of them at once.
-elihunter173/dirbuf.nvim - https://github.com/elihunter173/dirbuf.nvim - A file manager which lets you edit your filesystem like you edit text.
 theblob42/drex.nvim - https://github.com/TheBlob42/drex.nvim - A simple and configurable file explorer written in Lua.
 SidOfc/carbon.nvim - https://github.com/SidOfc/carbon.nvim - The simple directory tree viewer written in Lua.
 kiran94/s3edit.nvim - https://github.com/kiran94/s3edit.nvim - Edit files from Amazon S3 directly from Neovim.
@@ -345,13 +344,9 @@ zongben/proot.nvim - https://github.com/zongben/proot.nvim - Lightweight project
 wsdjeg/rooter.nvim - https://github.com/wsdjeg/rooter.nvim - Change working directory to project root.
 catgoose/nvim-colorizer.lua - https://github.com/catgoose/nvim-colorizer.lua - A high-performance color highlighter which has no external dependencies.
 winston0410/range-highlight.nvim - https://github.com/winston0410/range-highlight.nvim - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
-xiyaowong/transparent.nvim - https://github.com/xiyaowong/transparent.nvim - Make your Neovim transparent.
 folke/twilight.nvim - https://github.com/folke/twilight.nvim - Dim inactive portions of the code you're editing using Tree-sitter.
-koenverburg/peepsight.nvim - https://github.com/koenverburg/peepsight.nvim - Focus only the function your cursor is in.
 uga-rosa/ccc.nvim - https://github.com/uga-rosa/ccc.nvim - Super powerful color picker / colorizer plugin.
-ziontee113/color-picker.nvim - https://github.com/ziontee113/color-picker.nvim - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 lcheylus/overlength.nvim - https://github.com/lcheylus/overlength.nvim - A small plugin to highlight too long lines.
-brenoprata10/nvim-highlight-colors - https://github.com/brenoprata10/nvim-highlight-colors - A plugin to highlight colors with Neovim.
 max397574/colortils.nvim - https://github.com/max397574/colortils.nvim - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 Mr-LLLLL/interestingwords.nvim - https://github.com/Mr-LLLLL/interestingwords.nvim - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 nvim-mini/mini.nvim#mini.hipatterns - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hipatterns.md - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
@@ -500,6 +495,7 @@ mcauley-penney/techbase.nvim - https://github.com/mcauley-penney/techbase.nvim -
 y3owk1n/base16-pro-max.nvim - https://github.com/y3owk1n/base16-pro-max.nvim - Base16 for modern Neovim — not just colors.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox community colorscheme Lua port.
 pmouraguedes/neodarcula.nvim - https://github.com/pmouraguedes/neodarcula.nvim - A dark theme with support for transparency, dimming, LSP semantic tokens and more.
+jpwol/thorn.nvim - https://github.com/jpwol/thorn.nvim - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
 calind/selenized.nvim - https://github.com/calind/selenized.nvim - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
@@ -622,6 +618,7 @@ y3owk1n/dotmd.nvim - https://github.com/y3owk1n/dotmd.nvim - Managing notes, TOD
 athar-qadri/scratchpad.nvim - https://github.com/athar-qadri/scratchpad.nvim - Effortlessly manage scratchpads within your favorite editor.
 echaya/neowiki.nvim - https://github.com/echaya/neowiki.nvim - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
 happyeric77/joplin.nvim - https://github.com/happyeric77/joplin.nvim - Joplin notes utilities: tree browser, search, open, and Telescope integration.
+ymich9963/mdnotes.nvim - https://github.com/ymich9963/mdnotes.nvim - Simple and improved Markdown note taking.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
 jghauser/mkdir.nvim - https://github.com/jghauser/mkdir.nvim - Automatically create missing directories when saving files.
@@ -731,7 +728,6 @@ nvim-mini/mini.nvim#mini.animate - https://github.com/nvim-mini/mini.nvim/blob/m
 rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
-cxwx/specs.nvim - https://github.com/cxwx/specs.nvim - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 LuxVim/nvim-luxterm - https://github.com/LuxVim/nvim-luxterm - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 waiting-for-dev/ergoterm.nvim - https://github.com/waiting-for-dev/ergoterm.nvim - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 ingur/floatty.nvim - https://github.com/ingur/floatty.nvim - A tiny (<200 LOC) but highly customizable floating terminal manager.
@@ -762,7 +758,6 @@ Axot017/multiterm.nvim - https://github.com/Axot017/multiterm.nvim - A lightweig
 da-moon/telescope-toggleterm.nvim - https://github.com/da-moon/telescope-toggleterm.nvim - Telescope picker for terminal buffers.
 benoror/gpg.nvim - https://github.com/benoror/gpg.nvim - Edit GPG encrypted files symmetrically.
 mfussenegger/nvim-dap - https://github.com/mfussenegger/nvim-dap - Debug Adapter Protocol client implementation.
-sakhnik/nvim-gdb - https://github.com/sakhnik/nvim-gdb - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
 rcarriga/nvim-dap-ui - https://github.com/rcarriga/nvim-dap-ui - A UI for nvim-dap.
 pocco81/dap-buddy.nvim - https://github.com/pocco81/dap-buddy.nvim - Manage several debuggers for nvim-dap.
 Weissle/persistent-breakpoints.nvim - https://github.com/Weissle/persistent-breakpoints.nvim - Persistent breakpoints for nvim-dap.
@@ -778,11 +773,9 @@ Carcuis/dap-breakpoints.nvim - https://github.com/Carcuis/dap-breakpoints.nvim -
 ravsii/nvim-dap-envfile - https://github.com/ravsii/nvim-dap-envfile - Automatic `envFile` support for nvim-dap.
 kevinhwang91/nvim-bqf - https://github.com/kevinhwang91/nvim-bqf - The goal of nvim-bqf is to make Neovim's quickfix window better.
 yorickpeterse/nvim-pqf - https://github.com/yorickpeterse/nvim-pqf - Prettier quickfix/location list windows.
-nyngwang/NeoWell.lua - https://github.com/nyngwang/NeoWell.lua - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 ashfinal/qfview.nvim - https://github.com/ashfinal/qfview.nvim - Pretty quickfix/location view with consistent path-shorten and folding.
 niuiic/quickfix.nvim - https://github.com/niuiic/quickfix.nvim - Extended functionality for quickfix, including store, restore, make, remove, etc.
 stevearc/quicker.nvim - https://github.com/stevearc/quicker.nvim - Improved quickfix UI and editable quickfix buffer.
-coffebar/transfer.nvim - https://github.com/coffebar/transfer.nvim - Sync and diff with remote server using rsync and OpenSSH.
 OscarCreator/rsync.nvim - https://github.com/OscarCreator/rsync.nvim - Automatically sync up/down project to a remote with rsync.
 sachinsenal0x64/hot.nvim - https://github.com/sachinsenal0x64/hot.nvim - A hot reloader that works with any programming language.
 David-Kunz/jester - https://github.com/David-Kunz/jester - Easily run and debug Jest tests.
@@ -825,7 +818,6 @@ ok97465/ipybridge.nvim - https://github.com/ok97465/ipybridge.nvim - Run Python 
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 nvim-neorocks/luarocks-tag-release - https://github.com/nvim-neorocks/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
 svermeulen/vimpeccable - https://github.com/svermeulen/vimpeccable - Commands to help write your .vimrc in Lua or any Lua based language.
-rafcamlet/nvim-luapad - https://github.com/rafcamlet/nvim-luapad - Interactive real time Neovim scratchpad for embedded Lua engine - Type and watch!.
 nvim-lua/plenary.nvim - https://github.com/nvim-lua/plenary.nvim - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
 tjdevries/vlog.nvim - https://github.com/tjdevries/vlog.nvim - Single file, no dependency, easy copy & paste log file to add to your Neovim Lua plugins.
 bfredl/nvim-luadev - https://github.com/bfredl/nvim-luadev - REPL/debug console Lua plugins. The `:Luadev` command will open an scratch window which will show output from executing Lua code.
@@ -874,7 +866,6 @@ tanvirtin/vgit.nvim - https://github.com/tanvirtin/vgit.nvim - Visual Git Plugin
 sindrets/diffview.nvim - https://github.com/sindrets/diffview.nvim - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev.
 kdheepak/lazygit.nvim - https://github.com/kdheepak/lazygit.nvim - Plugin for calling lazygit.
 AckslD/nvim-gfold.lua - https://github.com/AckslD/nvim-gfold.lua - Plugin using [gfold](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
-akinsho/git-conflict.nvim - https://github.com/akinsho/git-conflict.nvim - A plugin to visualise and resolve merge conflicts.
 aaronhallaert/advanced-git-search.nvim - https://github.com/aaronhallaert/advanced-git-search.nvim - Search your Git history by commit content, message and author with Telescope.
 9seconds/repolink.nvim - https://github.com/9seconds/repolink.nvim - Generate shareable HTTP permalinks for various Git web frontends.
 chrisgrieser/nvim-tinygit - https://github.com/chrisgrieser/nvim-tinygit - Lightweight and nimble Git client.
