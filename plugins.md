@@ -182,6 +182,7 @@ BibekBhusal0/nvim-shadcn - https://github.com/BibekBhusal0/nvim-shadcn - Easily 
 azratul/expose-localhost.nvim - https://github.com/azratul/expose-localhost.nvim - Expose your local server to the internet with cloudflared or ngrok.
 yelog/i18n.nvim - https://github.com/yelog/i18n.nvim - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
 Kenzo-Wada/boundary.nvim - https://github.com/Kenzo-Wada/boundary.nvim - Display `'use client'` markers inline in your JSX code to visualize client component boundaries.
+abidibo/nvim-httpyac - https://github.com/abidibo/nvim-httpyac - Provides integration with `httpYac`.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
@@ -210,6 +211,7 @@ Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A Markdown 
 OXY2DEV/markdoc.nvim - https://github.com/OXY2DEV/markdoc.nvim - Tree-sitter based `markdown -> vimdoc` converter.
 YousefHadder/markdown-plus.nvim - https://github.com/YousefHadder/markdown-plus.nvim - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 Myzel394/easytables.nvim - https://github.com/Myzel394/easytables.nvim - Easily insert and edit Markdown tables with a live preview and useful helpers.
+gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of [phpactor](https://github.com/phpactor/phpactor).
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
 Who5673/who5673-nasm - https://github.com/Who5673/who5673-nasm - Helps people program Netwide Assembler language faster and more convenient using snippets.
@@ -927,20 +929,17 @@ LionC/nest.nvim - https://github.com/LionC/nest.nvim - Lua utility to map keys c
 slugbyte/unruly-worker.nvim - https://github.com/slugbyte/unruly-worker.nvim - A ridiculously fun alternative keymap for the workman keyboard layout, with lots of powerful features for working with yank, marks, macros, LSP, and more. Built and configured with Lua.
 FeiyouG/commander.nvim - https://github.com/FeiyouG/commander.nvim - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
 nvimtools/hydra.nvim - https://github.com/nvimtools/hydra.nvim - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
-anuvyklack/keymap-amend.nvim - https://github.com/anuvyklack/keymap-amend.nvim - Amend the existing keymap.
 max397574/better-escape.nvim - https://github.com/max397574/better-escape.nvim - Create shortcuts to escape insert mode without getting delay.
 TheBlob42/houdini.nvim - https://github.com/TheBlob42/houdini.nvim - Create shortcut to escape modes without delay.
 Nexmean/caskey.nvim - https://github.com/Nexmean/caskey.nvim - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
 Wansmer/langmapper.nvim - https://github.com/Wansmer/langmapper.nvim - Auto translating your mappings for non-English input methods.
 tris203/hawtkeys.nvim - https://github.com/tris203/hawtkeys.nvim - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 mawkler/demicolon.nvim - https://github.com/mawkler/demicolon.nvim - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
-debugloop/layers.nvim - https://github.com/debugloop/layers.nvim - Craft temporary keymap overlays and layered modes with ease.
 nvim-mini/mini.nvim#mini.keymap - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-keymap.md - Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for "smart" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of "better escape" like behavior).
 notomo/gesture.nvim - https://github.com/notomo/gesture.nvim - Mouse gesture plugin.
 Saghen/filler-begone.nvim - https://github.com/Saghen/filler-begone.nvim - Prevents scrolling past the bottom of the buffer and showing unnecessary filler lines.
 karb94/neoscroll.nvim - https://github.com/karb94/neoscroll.nvim - Smooth scrolling.
 declancm/cinnamon.nvim - https://github.com/declancm/cinnamon.nvim - Smooth scrolling for any movement command.
-nkakouros-original/scrollofffraction.nvim - https://github.com/nkakouros-original/scrollofffraction.nvim - Scrolloff as a fraction of the window height.
 niuiic/scroll.nvim - https://github.com/niuiic/scroll.nvim - Smooth scrolling, custom smooth strategy.
 rlychrisg/keepcursor.nvim - https://github.com/rlychrisg/keepcursor.nvim - A collection of functions to control how the screen is positioned around the cursor.
 Xuyuanp/scrollbar.nvim - https://github.com/Xuyuanp/scrollbar.nvim - Scrollbar.
@@ -959,13 +958,9 @@ ZhiyuanLck/smart-pairs - https://github.com/ZhiyuanLck/smart-pairs - Ultimate sm
 nvim-mini/mini.nvim#mini.pairs - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pairs.md - Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping.
 m4xshen/autoclose.nvim - https://github.com/m4xshen/autoclose.nvim - A minimalist autoclose plugin written in Lua.
 altermo/ultimate-autopair.nvim - https://github.com/altermo/ultimate-autopair.nvim - Autopair with extensions.
-utilyre/sentiment.nvim - https://github.com/utilyre/sentiment.nvim - Enhanced matchparen.
 monaqa/dial.nvim - https://github.com/monaqa/dial.nvim - Extended increment/decrement.
 HiPhish/rainbow-delimiters.nvim - https://github.com/HiPhish/rainbow-delimiters.nvim - Rainbow delimiters with Tree-sitter.
 AckslD/nvim-trevJ.lua - https://github.com/AckslD/nvim-trevJ.lua - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
-pocco81/true-zen.nvim - https://github.com/pocco81/true-zen.nvim - Clean and elegant distraction-free writing.
-pocco81/high-str.nvim - https://github.com/pocco81/high-str.nvim - Highlight visual selections like in a normal document editor!
-pocco81/auto-save.nvim - https://github.com/pocco81/auto-save.nvim - Save your work before the world collapses or you type :qa!
 okuuva/auto-save.nvim - https://github.com/okuuva/auto-save.nvim - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
 tmillr/sos.nvim - https://github.com/tmillr/sos.nvim - Automatically save all your modified buffers according to a predefined timeout value.
 folke/zen-mode.nvim - https://github.com/folke/zen-mode.nvim - Distraction-free coding.
@@ -984,7 +979,6 @@ filipdutescu/renamer.nvim - https://github.com/filipdutescu/renamer.nvim - VS Co
 gbprod/cutlass.nvim - https://github.com/gbprod/cutlass.nvim - Plugin that adds a 'cut' operation separate from 'delete'.
 gbprod/substitute.nvim - https://github.com/gbprod/substitute.nvim - Neovim plugin introducing a new operator motions to quickly replace and exchange text.
 gregorias/coerce.nvim - https://github.com/gregorias/coerce.nvim - Change keyword case.
-johmsalas/text-case.nvim - https://github.com/johmsalas/text-case.nvim - Text case changes via keybindings and custom substitute command with Telescope and LSP support.
 nvim-mini/mini.nvim#mini.operators - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 gbprod/yanky.nvim - https://github.com/gbprod/yanky.nvim - Improved Yank and Put functionalities.
 sQVe/sort.nvim - https://github.com/sQVe/sort.nvim - Sorting plugin that intelligently supports line-wise and delimiter sorting.
@@ -993,8 +987,6 @@ hinell/duplicate.nvim - https://github.com/hinell/duplicate.nvim - Duplicate lin
 hinell/move.nvim - https://github.com/hinell/move.nvim - Move chunks of text around; fork of [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim).
 willothy/moveline.nvim - https://github.com/willothy/moveline.nvim - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 nvim-mini/mini.nvim#mini.move - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-move.md - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
-anuvyklack/pretty-fold.nvim - https://github.com/anuvyklack/pretty-fold.nvim - Foldtext customization.
-bennypowers/nvim-regexplainer - https://github.com/bennypowers/nvim-regexplainer - Explain the regular expression under the cursor.
 gbprod/stay-in-place.nvim - https://github.com/gbprod/stay-in-place.nvim - Neovim plugin that prevent cursor from moving when using shift and filter actions.
 nvim-mini/mini.nvim#mini.ai - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-ai.md - Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some builtin textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more.
 Wansmer/treesj - https://github.com/Wansmer/treesj - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-sitter. Inspired by greatest splitjoin.vim.
@@ -1008,7 +1000,6 @@ XXiaoA/ns-textobject.nvim - https://github.com/XXiaoA/ns-textobject.nvim - Aweso
 nvim-mini/mini.nvim#mini.basics - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-basics.md - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
 niuiic/part-edit.nvim - https://github.com/niuiic/part-edit.nvim - Edit a part of a file individually.
 niuiic/divider.nvim - https://github.com/niuiic/divider.nvim - Custom code divider line.
-CKolkey/ts-node-action - https://github.com/CKolkey/ts-node-action - A framework for executing functional transformations on Tree-sitter nodes - Has a lot of built-in actions for transforming text.
 tomiis4/hypersonic.nvim - https://github.com/tomiis4/hypersonic.nvim - Provides explanation for RegExp.
 chrisgrieser/nvim-puppeteer - https://github.com/chrisgrieser/nvim-puppeteer - Automatically convert strings to f-strings or template strings and back.
 nat-418/boole.nvim - https://github.com/nat-418/boole.nvim - Toggle booleans and common string values.
