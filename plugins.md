@@ -88,8 +88,8 @@ hrsh7th/nvim-cmp - https://github.com/hrsh7th/nvim-cmp - Completion engine writt
   lukas-reineke/cmp-under-comparator - https://github.com/lukas-reineke/cmp-under-comparator - `nvim-cmp` function for better sorting.
   SergioRibera/cmp-dotenv - https://github.com/SergioRibera/cmp-dotenv - `nvim-cmp` source for environment variables (from system and `.env` files).
 nvim-mini/mini.nvim#mini.completion - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
-Saghen/blink.cmp - https://github.com/Saghen/blink.cmp - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
-  Saghen/blink.compat - https://github.com/Saghen/blink.compat - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
+saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
+  saghen/blink.compat - https://github.com/saghen/blink.compat - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
   Kaiser-Yang/blink-cmp-git - https://github.com/Kaiser-Yang/blink-cmp-git - `blink.cmp` source for Git.
   disrupted/blink-cmp-conventional-commits - https://github.com/disrupted/blink-cmp-conventional-commits - `blink.cmp` source for [Conventional Commits](https://www.conventionalcommits.org/).
   mikavilpas/blink-ripgrep.nvim - https://github.com/mikavilpas/blink-ripgrep.nvim - `blink.cmp` source for `ripgrep` / `git grep`.
@@ -619,6 +619,7 @@ athar-qadri/scratchpad.nvim - https://github.com/athar-qadri/scratchpad.nvim - E
 echaya/neowiki.nvim - https://github.com/echaya/neowiki.nvim - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
 happyeric77/joplin.nvim - https://github.com/happyeric77/joplin.nvim - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 ymich9963/mdnotes.nvim - https://github.com/ymich9963/mdnotes.nvim - Simple and improved Markdown note taking.
+gisketch/triforce.nvim - https://github.com/gisketch/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
 jghauser/mkdir.nvim - https://github.com/jghauser/mkdir.nvim - Automatically create missing directories when saving files.
@@ -937,7 +938,7 @@ tris203/hawtkeys.nvim - https://github.com/tris203/hawtkeys.nvim - Suggest new e
 mawkler/demicolon.nvim - https://github.com/mawkler/demicolon.nvim - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 nvim-mini/mini.nvim#mini.keymap - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-keymap.md - Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for "smart" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of "better escape" like behavior).
 notomo/gesture.nvim - https://github.com/notomo/gesture.nvim - Mouse gesture plugin.
-Saghen/filler-begone.nvim - https://github.com/Saghen/filler-begone.nvim - Prevents scrolling past the bottom of the buffer and showing unnecessary filler lines.
+saghen/filler-begone.nvim - https://github.com/saghen/filler-begone.nvim - Prevents scrolling past the bottom of the buffer and showing unnecessary filler lines.
 karb94/neoscroll.nvim - https://github.com/karb94/neoscroll.nvim - Smooth scrolling.
 declancm/cinnamon.nvim - https://github.com/declancm/cinnamon.nvim - Smooth scrolling for any movement command.
 niuiic/scroll.nvim - https://github.com/niuiic/scroll.nvim - Smooth scrolling, custom smooth strategy.
@@ -1051,6 +1052,7 @@ stevearc/conform.nvim - https://github.com/stevearc/conform.nvim - A lightweight
 nvimdev/guard.nvim - https://github.com/nvimdev/guard.nvim - Minimalist async formatting and linting plugin.
 paul-louyot/toggle-quotes.nvim - https://github.com/paul-louyot/toggle-quotes.nvim - Toggle between quotes.
 wsdjeg/format.nvim - https://github.com/wsdjeg/format.nvim - An asynchronous code formatting plugin.
+saghen/blink.indent - https://github.com/saghen/blink.indent - Performant indent guides with scope on every keystroke.
 nvimdev/indentmini.nvim - https://github.com/nvimdev/indentmini.nvim - A minimal and blazing fast indentline plugin by using the `nvim_set_decoration_provide` API function.
 lukas-reineke/indent-blankline.nvim - https://github.com/lukas-reineke/indent-blankline.nvim - IndentLine replacement in Lua with more features and Tree-sitter support.
 LucasTavaresA/simpleIndentGuides.nvim - https://github.com/LucasTavaresA/simpleIndentGuides.nvim - Indentation guides using the builtin variables.
