@@ -211,6 +211,7 @@ Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A Markdown 
 OXY2DEV/markdoc.nvim - https://github.com/OXY2DEV/markdoc.nvim - Tree-sitter based `markdown -> vimdoc` converter.
 YousefHadder/markdown-plus.nvim - https://github.com/YousefHadder/markdown-plus.nvim - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 Myzel394/easytables.nvim - https://github.com/Myzel394/easytables.nvim - Easily insert and edit Markdown tables with a live preview and useful helpers.
+tttol/md-outline.nvim - https://github.com/tttol/md-outline.nvim - Automatically displays an outline for Markdown files.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of [phpactor](https://github.com/phpactor/phpactor).
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
@@ -221,6 +222,7 @@ tanloong/interlaced.nvim - https://github.com/tanloong/interlaced.nvim - Help al
 sontungexpt/vietnamese.nvim - https://github.com/sontungexpt/vietnamese.nvim - A Vietnamese input method engine with native support to type Vietnamese in insert mode.
 doodleEsc/translator.nvim - https://github.com/doodleEsc/translator.nvim - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 kiyoon/Korean-IME.nvim - https://github.com/kiyoon/Korean-IME.nvim - OS-independent Korean input method that converts English inputs to Korean in-place.
+bennorichters/taal.nvim - https://github.com/bennorichters/taal.nvim - Improve grammar and spelling errors in multiple languages using LLMs.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Neovim Tree-sitter configurations and abstraction layer.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
