@@ -234,6 +234,7 @@ LhKipp/nvim-nu - https://github.com/LhKipp/nvim-nu - Basic editor support for th
 desdic/agrolens.nvim - https://github.com/desdic/agrolens.nvim - Navigate via Tree-sitter nodes using Telescope or FZF.
 IndianBoy42/tree-sitter-just - https://github.com/IndianBoy42/tree-sitter-just - Tree-sitter grammar for [Justfiles](https://github.com/casey/just).
 fei6409/log-highlight.nvim - https://github.com/fei6409/log-highlight.nvim - Generic log syntax highlighting and log filetype management support.
+MeanderingProgrammer/treesitter-modules.nvim - https://github.com/MeanderingProgrammer/treesitter-modules.nvim - Original modules from nvim-treesitter master branch.
 L3MON4D3/LuaSnip - https://github.com/L3MON4D3/LuaSnip - A snippet engine written in Lua.
 nvim-mini/mini.nvim#mini.snippets - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-snippets.md - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
 smjonas/snippet-converter.nvim - https://github.com/smjonas/snippet-converter.nvim - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
@@ -492,14 +493,12 @@ lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cob
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
-roobert/palette.nvim - https://github.com/roobert/palette.nvim - A beautiful, versatile, systematic, theme system.
 Iron-E/nvim-highlite - https://github.com/Iron-E/nvim-highlite - A colorscheme generator that is "lite" on logic for the developer.
 nvim-mini/mini.nvim#mini.base16 - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-base16.md - Module of `mini.nvim` with fast implementation of base16 theme for manually supplied palette.
 ThemerCorp/themer.lua - https://github.com/ThemerCorp/themer.lua - A simple highlighter plugin for Neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty).
 nvim-mini/mini.nvim#mini.colors - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 nvim-mini/mini.nvim#mini.hues - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
 loganswartz/polychrome.nvim - https://github.com/loganswartz/polychrome.nvim - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
-flashcodes-themayankjha/fkthemes.nvim - https://github.com/flashcodes-themayankjha/fkthemes.nvim - A fast,lightweight and powerful theme switcher written in Lua. Easily switch between your favorite colorschemes, add transparency, preview them live, and persist your choice across sessions.
 4e554c4c/darkman.nvim - https://github.com/4e554c4c/darkman.nvim - Follow the system dark-mode setting on Linux.
 f-person/auto-dark-mode.nvim - https://github.com/f-person/auto-dark-mode.nvim - Follow the system appearance on macOS.
 zaldih/themery.nvim - https://github.com/zaldih/themery.nvim - A new way to change the colorscheme on the fly like in vscode.
@@ -561,7 +560,6 @@ max397574/startup.nvim - https://github.com/max397574/startup.nvim - The fully c
 TobinPalmer/Tip.nvim - https://github.com/TobinPalmer/Tip.nvim - Get a simple tip when you launch Neovim.
 CWood-sdf/spaceport.nvim - https://github.com/CWood-sdf/spaceport.nvim - The start screen that gets you to your projects blazingly fast.
 mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file you actually meant to load.
-Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - Your personal homepage.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
@@ -710,6 +708,7 @@ doctorfree/cheatsheet.nvim - https://github.com/doctorfree/cheatsheet.nvim - Sea
 gaborvecsei/cryptoprice.nvim - https://github.com/gaborvecsei/cryptoprice.nvim - Check the price of the defined cryptocurrencies.
 nxhung2304/lastplace.nvim - https://github.com/nxhung2304/lastplace.nvim - Intelligently restore your cursor position when reopening files.
 wsdjeg/mru.nvim - https://github.com/wsdjeg/mru.nvim - Manage and display your Most Recently Used (MRU) files.
+gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding controller for [strudel](https://strudel.cc).
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -1098,15 +1097,12 @@ danielpieper/telescope-tmuxinator.nvim - https://github.com/danielpieper/telesco
 hkupty/nvimux - https://github.com/hkupty/nvimux - Neovim as tmux replacement.
 numToStr/Navigator.nvim - https://github.com/numToStr/Navigator.nvim - Smoothly navigate between Neovim splits and Tmux panes.
 declancm/windex.nvim - https://github.com/declancm/windex.nvim - Collection of window functions which includes moving between, closing and maximizing Neovim splits and Tmux panes.
-otavioschwanck/tmux-awesome-manager.nvim - https://github.com/otavioschwanck/tmux-awesome-manager.nvim - Run your workflow commands like yarn install, rails console, yarn add, bundle install, etc.
 karshPrime/only-tmux.nvim - https://github.com/karshPrime/only-tmux.nvim - Expand the functionality of `:only` with tmux panes in the same window, with either moving them to a new window or closing them.
 karshPrime/tmux-compile.nvim - https://github.com/karshPrime/tmux-compile.nvim - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
-EvWilson/slimux.nvim - https://github.com/EvWilson/slimux.nvim - Send content from the current buffer to a configurable tmux pane.
 juselara1/tmutils.nvim - https://github.com/juselara1/tmutils.nvim - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
 kiyoon/tmux-send.nvim - https://github.com/kiyoon/tmux-send.nvim - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
 jkeresman01/tmux-switch.nvim - https://github.com/jkeresman01/tmux-switch.nvim - Provides fuzzy session switching for Tmux.
 salorak/libtmux.nvim - https://github.com/salorak/libtmux.nvim - Thin wrapper for using the `tmux` API.
-ThePrimeagen/vim-be-good - https://github.com/ThePrimeagen/vim-be-good - Vim-be-good is a Neovim plugin designed to make you better at Vim Movements.
 alec-gibson/nvim-tetris - https://github.com/alec-gibson/nvim-tetris - Bringing emacs' greatest feature to Neovim - Tetris!.
 seandewar/nvimesweeper - https://github.com/seandewar/nvimesweeper - Play Minesweeper in your favourite text editor.
 seandewar/killersheep.nvim - https://github.com/seandewar/killersheep.nvim - Neovim port of killersheep.
@@ -1121,12 +1117,10 @@ xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugi
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
 2KAbhishek/exercism.nvim - https://github.com/2KAbhishek/exercism.nvim - Browse and solve Exercism problems.
 m4xshen/hardtime.nvim - https://github.com/m4xshen/hardtime.nvim - Helping you establish good command workflow and habit.
-antonk52/bad-practices.nvim - https://github.com/antonk52/bad-practices.nvim - Helping you give up bad practices in Vim.
 saxon1964/neovim-tips - https://github.com/saxon1964/neovim-tips - Provides hundreds of built-in Neovim tips, tricks, and shortcuts, with a custom picker interface and the ability to add your own tips.
 zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly in Neovim with JSON results.
 kndndrj/nvim-dbee - https://github.com/kndndrj/nvim-dbee - Interactive database client.
 tashikomaaa/neomongo.nvim - https://github.com/tashikomaaa/neomongo.nvim - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
-Cris-lml007/NeoPlus - https://github.com/Cris-lml007/NeoPlus - NeoPlus is a free, open source IDE with tools that works on Neovim.
 pgosar/CyberNvim - https://github.com/pgosar/CyberNvim - The world's simplest and most extensible Neovim distribution.
 sontungexpt/stinvim - https://github.com/sontungexpt/stinvim - Ready Neovim's configuration for fullstack developers.
 Abstract-IDE/Abstract - https://github.com/Abstract-IDE/Abstract - Abstract, The Neovim configuration to achieve the power of Modern IDE.
@@ -1136,11 +1130,9 @@ artart222/CodeArt - https://github.com/artart222/CodeArt - A fast general-purpos
 LazyVim/LazyVim - https://github.com/LazyVim/LazyVim - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.
 legobeat/l7-devenv - https://github.com/legobeat/l7-devenv - Security-focused IDE with a hackable (in the right way) framework based on Neovim and shell.
 crispybaccoon/chaivim - https://github.com/crispybaccoon/chaivim - Easily configurable distro with solid defaults and a cozy editor experience.
-crivotz/nv-ide - https://github.com/crivotz/nv-ide - Neovim custom configuration, oriented for full stack developers (Rails, Ruby, PHP, HTML, CSS, SCSS, JavaScript).
 LunarVim/LunarVim - https://github.com/LunarVim/LunarVim - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 hackorum/VapourNvim - https://github.com/hackorum/VapourNvim - A Neovim config for THE ULTIMATE Vim IDE-like experience.
 siduck76/NvChad - https://github.com/siduck76/NvChad - An attempt to make Neovim cli as functional as an IDE while being very beautiful and less bloated.
-nvoid-lua/nvoid - https://github.com/nvoid-lua/nvoid - Simple Neovim config written in Lua with all the modern features available in any **IDE**
 cstsunfu/.sea.nvim - https://github.com/cstsunfu/.sea.nvim - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 shaeinst/roshnivim - https://github.com/shaeinst/roshnivim - Roshnivim, can be called Neovim's distro, is a predefined configs so that you don't need 1000hr to setup Neovim as an IDE.
 AstroNvim/AstroNvim - https://github.com/AstroNvim/AstroNvim - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
@@ -1150,9 +1142,7 @@ imbacraft/dusk.nvim - https://github.com/imbacraft/dusk.nvim - Dusk is a lightwe
 nvim-lua/kickstart.nvim - https://github.com/nvim-lua/kickstart.nvim - A launch point for your personal Neovim configuration.
 dam9000/kickstart-modular.nvim - https://github.com/dam9000/kickstart-modular.nvim - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
 cunderw/nvim - https://github.com/cunderw/nvim - Neovim custom configuration, focused on JS/TS, Go, and Java development. Very IDE like.
-otavioschwanck/mood-nvim - https://github.com/otavioschwanck/mood-nvim - Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
 ldelossa/nvim-ide - https://github.com/ldelossa/nvim-ide - A full featured IDE layer heavily inspired by VSCode.
-jonathandion/web-dev.nvim - https://github.com/jonathandion/web-dev.nvim - Small, simple and flexible configuration for web development.
 linrongbin16/lin.nvim - https://github.com/linrongbin16/lin.nvim - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by spf13-vim.
 doctorfree/nvim-lazyman - https://github.com/doctorfree/nvim-lazyman - Neovim configuration manager and modular configuration, supports over 40 preconfigured configurations.
 NormalNvim/NormalNvim - https://github.com/NormalNvim/NormalNvim - Focused on stability for your daily work. From the creator of Compiler.nvim.
