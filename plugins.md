@@ -490,6 +490,7 @@ ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - Gruvbox
 pmouraguedes/neodarcula.nvim - https://github.com/pmouraguedes/neodarcula.nvim - A dark theme with support for transparency, dimming, LSP semantic tokens and more.
 jpwol/thorn.nvim - https://github.com/jpwol/thorn.nvim - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 calind/selenized.nvim - https://github.com/calind/selenized.nvim - Lua port of [selenized](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+motaz-shokry/gruvbox.nvim - https://gitlab.com/motaz-shokry/gruvbox.nvim - A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes.
@@ -711,6 +712,7 @@ gaborvecsei/cryptoprice.nvim - https://github.com/gaborvecsei/cryptoprice.nvim -
 nxhung2304/lastplace.nvim - https://github.com/nxhung2304/lastplace.nvim - Intelligently restore your cursor position when reopening files.
 wsdjeg/mru.nvim - https://github.com/wsdjeg/mru.nvim - Manage and display your Most Recently Used (MRU) files.
 gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding controller for [strudel](https://strudel.cc).
+wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files and update tags option automatically.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
