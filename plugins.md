@@ -502,6 +502,7 @@ ThemerCorp/themer.lua - https://github.com/ThemerCorp/themer.lua - A simple high
 nvim-mini/mini.nvim#mini.colors - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 nvim-mini/mini.nvim#mini.hues - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
 loganswartz/polychrome.nvim - https://github.com/loganswartz/polychrome.nvim - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
+flashcodes-themayankjha/fkthemes.nvim - https://github.com/flashcodes-themayankjha/fkthemes.nvim - A fast, lightweight and powerful theme switcher written in Lua.
 4e554c4c/darkman.nvim - https://github.com/4e554c4c/darkman.nvim - Follow the system dark-mode setting on Linux.
 f-person/auto-dark-mode.nvim - https://github.com/f-person/auto-dark-mode.nvim - Follow the system appearance on macOS.
 zaldih/themery.nvim - https://github.com/zaldih/themery.nvim - A new way to change the colorscheme on the fly like in vscode.
