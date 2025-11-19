@@ -152,7 +152,7 @@ iabdelkareem/csharp.nvim - https://github.com/iabdelkareem/csharp.nvim - Enhance
 neolooong/whichpy.nvim - https://github.com/neolooong/whichpy.nvim - Switch Python interpreter without restarting LSP.
 nvim-java/nvim-java - https://github.com/nvim-java/nvim-java - Everything you need for a painless Java experience.
 kiyoon/python-import.nvim - https://github.com/kiyoon/python-import.nvim - Add Python import statements with Tree-sitter, LSP, and more.
-kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
+kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting which considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 apyra/nvim-unity.nvim - https://github.com/apyra/nvim-unity - Use Neovim as your default Unity editor with full LSP support via OmniSharp.
 atomicptr/defold.nvim - https://github.com/atomicptr/defold.nvim - Batteries-included development environment for the Defold game engine.
 onlyati/quadlet-lsp.nvim - https://github.com/onlyati/quadlet-lsp.nvim - Provides completion, hover and other language server features for Podman Quadlet files.
@@ -611,6 +611,7 @@ athar-qadri/scratchpad.nvim - https://github.com/athar-qadri/scratchpad.nvim - E
 echaya/neowiki.nvim - https://github.com/echaya/neowiki.nvim - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
 happyeric77/joplin.nvim - https://github.com/happyeric77/joplin.nvim - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 ymich9963/mdnotes.nvim - https://github.com/ymich9963/mdnotes.nvim - Simple and improved Markdown note taking.
+necrom4/convy.nvim - https://github.com/necrom4/convy.nvim - Easily convert strings between various formats.
 gisketch/triforce.nvim - https://github.com/gisketch/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
