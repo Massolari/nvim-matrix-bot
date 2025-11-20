@@ -232,6 +232,7 @@ RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-
 kylechui/nvim-surround - https://github.com/kylechui/nvim-surround - A plugin for adding/changing/deleting surrounding delimiter pairs.
 nvim-mini/mini.nvim#mini.surround - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-surround.md - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, Tree-sitter integration, and more.
 m-demare/hlargs.nvim - https://github.com/m-demare/hlargs.nvim - Highlight arguments' definitions and usages, using Tree-sitter.
+calops/hmts.nvim - https://github.com/calops/hmts.nvim - Tree-sitter queries for Home Manager Nix files.
 LhKipp/nvim-nu - https://github.com/LhKipp/nvim-nu - Basic editor support for the nushell language.
 desdic/agrolens.nvim - https://github.com/desdic/agrolens.nvim - Navigate via Tree-sitter nodes using Telescope or FZF.
 IndianBoy42/tree-sitter-just - https://github.com/IndianBoy42/tree-sitter-just - Tree-sitter grammar for [Justfiles](https://github.com/casey/just).
@@ -524,7 +525,7 @@ neur1n/noline.nvim - https://github.com/neur1n/noline.nvim - Fully customizable 
 OXY2DEV/bars.nvim - https://github.com/OXY2DEV/bars.nvim - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - A light-weight and super fast statusline plugin written in Lua.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
-sontungexpt/witch-line - https://github.com/sontungexpt/witch-line - A blazing fast, lazy loading and easy to configure Neovim statusline.
+sontungexpt/witch-line - https://github.com/sontungexpt/witch-line - A blazing fast statusline based on reference concept.
 nvim-lualine/lualine.nvim - https://github.com/nvim-lualine/lualine.nvim - A blazing fast and easy to configure Neovim statusline.
 adelarsq/neoline.vim - https://github.com/adelarsq/neoline.vim - A light statusline/tabline plugin using Lua.
 ojroques/nvim-hardline - https://github.com/ojroques/nvim-hardline - A statusline / bufferline inspired by [vim-airline](https://github.com/vim-airline/vim-airline) that aims to be as light and simple as possible.
@@ -1024,6 +1025,7 @@ numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and pow
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
 gennaro-tedesco/nvim-commaround - https://github.com/gennaro-tedesco/nvim-commaround - Fast and light commenting plugin written in Lua.
 folke/todo-comments.nvim - https://github.com/folke/todo-comments.nvim - Highlight, list and search todo comments in your projects.
+alexmozaidze/tree-comment.nvim - https://github.com/alexmozaidze/tree-comment.nvim - Highlight and configure TODO comments for [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment).
 terrortylor/nvim-comment - https://github.com/terrortylor/nvim-comment - Toggle comments using the built-in commentstring option.
 winston0410/commented.nvim - https://github.com/winston0410/commented.nvim - A commenting plugin which supports counts and multiple comment patterns and much more.
 s1n7ax/nvim-comment-frame - https://github.com/s1n7ax/nvim-comment-frame - Adds a comment frame based on the source file.
@@ -1163,6 +1165,7 @@ Shaobin-Jiang/IceNvim - https://github.com/Shaobin-Jiang/IceNvim - A beautiful, 
 ayamir/nvimdots - https://github.com/ayamir/nvimdots - A well-configured and structured configuration with NixOS support.
 adoyle-h/one.nvim - https://github.com/adoyle-h/one.nvim - All-in-one config framework in Lua.
 nvim-mini/MiniMax - https://github.com/nvim-mini/MiniMax - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
+TheItcor/MoaiVim - https://github.com/TheItcor/MoaiVim - A minimalist config that emulates a lightweight IDE.
 MordechaiHadad/bob - https://github.com/MordechaiHadad/bob - A cross platform and easy to use Neovim version manager.
 NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and blazing fast Neovim version manager.
 y3owk1n/nvs - https://github.com/y3owk1n/nvs - Another Neovim version manager with config switcher.
