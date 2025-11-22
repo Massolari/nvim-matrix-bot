@@ -850,6 +850,7 @@ vuki656/package-info.nvim - https://github.com/vuki656/package-info.nvim - Displ
 Saecki/crates.nvim - https://github.com/Saecki/crates.nvim - Rust dependency management for `Cargo.toml`.
 piersolenski/import.nvim - https://github.com/piersolenski/import.nvim - Import modules faster based on what you've already imported in your project.
 Silletr/LazyDeveloperHelper - https://github.com/Silletr/LazyDeveloperHelper - Python dependencies manager, with auto-adding to your `requirements.txt` file.
+JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgunnar - C# dependency manager with support for handling references between projects and solution files.
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show Git blame info.
 trevorhauter/gitportal.nvim - https://github.com/trevorhauter/gitportal.nvim - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
