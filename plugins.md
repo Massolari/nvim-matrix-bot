@@ -366,6 +366,7 @@ TaDaa/vimade - https://github.com/TaDaa/vimade - Dim, fade, tint, animate, and c
 xzbdmw/colorful-menu.nvim - https://github.com/xzbdmw/colorful-menu.nvim - Colorize your auto completion menu using Tree-sitter.
 nvzone/minty - https://github.com/nvzone/minty - Beautifully crafted color tools.
 3ZsForInsomnia/pacer.nvim - https://github.com/3ZsForInsomnia/pacer.nvim - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
+wsdjeg/cpicker.nvim - https://github.com/wsdjeg/cpicker.nvim - A lightweight color palette plugin that supports a wide range of color models.
 kuri-sun/yoda.nvim - https://github.com/kuri-sun/yoda.nvim - Muted green palette for focused, balanced editing.
 wurli/cobalt.nvim - https://github.com/wurli/cobalt.nvim - A (mostly) faithful port of the classic blue theme from TextMate.
 datsfilipe/min-theme.nvim - https://github.com/datsfilipe/min-theme.nvim - It's a port of Min, a minimal theme for VSCode, written in Lua.
@@ -883,6 +884,7 @@ yus-works/csc.nvim - https://github.com/yus-works/csc.nvim - Conventional commit
 404pilo/aicommits.nvim - https://github.com/404pilo/aicommits.nvim - Generate conventional commit messages using AI.
 wsdjeg/git.nvim - https://github.com/wsdjeg/git.nvim - An asynchronous git command wrapper plugin, using `:Git` command instead of `:!git`.
 Mauritz8/gitstatus.nvim - https://github.com/Mauritz8/gitstatus.nvim - Interactive Git status window with support for staging, unstaging, and committing files.
+esmuellert/vscode-diff.nvim - https://github.com/esmuellert/vscode-diff.nvim - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs from Neovim. Just edit the issue description.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
