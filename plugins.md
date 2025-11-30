@@ -8,6 +8,7 @@ nvim-mini/mini.nvim#mini.deps - https://github.com/nvim-mini/mini.nvim/blob/main
 wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous Neovim plugin manager written in Lua.
 alyxshang/nuwa.nvim - https://github.com/alyxshang/nuwa.nvim - A light Neovim package manager.
 piersolenski/plugin-addict.nvim - https://github.com/piersolenski/plugin-addict.nvim - A stupidly simple way to quickly install plugins.
+synapse.nvim - https://github.com/OriginCoderPulse/synapse.nvim - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
 neovim/nvim-lspconfig - https://github.com/neovim/nvim-lspconfig - Quickstart configurations for the LSP client.
@@ -226,6 +227,7 @@ sontungexpt/vietnamese.nvim - https://github.com/sontungexpt/vietnamese.nvim - A
 doodleEsc/translator.nvim - https://github.com/doodleEsc/translator.nvim - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 kiyoon/Korean-IME.nvim - https://github.com/kiyoon/Korean-IME.nvim - OS-independent Korean input method that converts English inputs to Korean in-place.
 bennorichters/taal.nvim - https://github.com/bennorichters/taal.nvim - Improve grammar and spelling errors in multiple languages using LLMs.
+walkersumida/deepl.nvim - https://github.com/walkersumida/deepl.nvim - Translates text using the DeepL API with multiple output modes (float, replace, append).
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Neovim Tree-sitter configurations and abstraction layer.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
