@@ -496,6 +496,7 @@ pmouraguedes/neodarcula.nvim - https://github.com/pmouraguedes/neodarcula.nvim -
 jpwol/thorn.nvim - https://github.com/jpwol/thorn.nvim - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 calind/selenized.nvim - https://github.com/calind/selenized.nvim - Lua port of [selenized](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 motaz-shokry/gruvbox.nvim - https://gitlab.com/motaz-shokry/gruvbox.nvim - A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
+pebeto/dookie.nvim - https://github.com/pebeto/dookie.nvim - A color scheme inspired by Plan9's acme editor.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - A port of cobalt2 colorscheme using colorbuddy.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes.
