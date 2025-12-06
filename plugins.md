@@ -187,6 +187,7 @@ azratul/expose-localhost.nvim - https://github.com/azratul/expose-localhost.nvim
 yelog/i18n.nvim - https://github.com/yelog/i18n.nvim - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
 Kenzo-Wada/boundary.nvim - https://github.com/Kenzo-Wada/boundary.nvim - Display `'use client'` markers inline in your JSX code to visualize client component boundaries.
 abidibo/nvim-httpyac - https://github.com/abidibo/nvim-httpyac - Provides integration with `httpYac`.
+rodrigoscc/nurl.nvim - https://github.com/rodrigoscc/nurl.nvim - HTTP client with requests defined in pure Lua.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
