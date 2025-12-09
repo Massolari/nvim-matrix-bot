@@ -1082,6 +1082,7 @@ gh-liu/fold_line.nvim - https://github.com/gh-liu/fold_line.nvim - Lines for ind
 notomo/cmdbuf.nvim - https://github.com/notomo/cmdbuf.nvim - Alternative command-line-window plugin.
 gelguy/wilder.nvim - https://github.com/gelguy/wilder.nvim - A plugin for fuzzy command line autocompletion.
 vzze/cmdline.nvim - https://github.com/vzze/cmdline.nvim - Helix-like command line with fuzzy autocompletion.
+nvim-mini/mini.nvim#mini.cmdline - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
 rmagatti/auto-session - https://github.com/rmagatti/auto-session - A small automated session manager.
 nvim-mini/mini.nvim#mini.sessions - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md - Module of `mini.nvim` for session management (read, write, delete).
 gennaro-tedesco/nvim-possession - https://github.com/gennaro-tedesco/nvim-possession - The no-nonsense session manager.
