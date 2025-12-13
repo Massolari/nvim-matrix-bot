@@ -580,7 +580,7 @@ nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/mai
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
 stephansama/fzf-nerdfont.nvim - https://github.com/stephansama/fzf-nerdfont.nvim - A picker for selecting Nerd Font icons using `fzf-lua`.
 melMass/echo.nvim - https://github.com/melMass/echo.nvim - Seamless sound integration for your editing workflow.
-pandasoli/nekovim - https://github.com/pandasoli/nekovim - Flexible Discord rich presence.
+~elisoli/nekovim - https://git.sr.ht/~elisoli/nekovim - Flexible Discord rich presence.
 edluffy/hologram.nvim - https://github.com/edluffy/hologram.nvim - A cross platform terminal image viewer. Works on macOS and Linux.
 HakonHarnes/img-clip.nvim - https://github.com/HakonHarnes/img-clip.nvim - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
 ekickx/clipboard-image.nvim - https://github.com/ekickx/clipboard-image.nvim - Neovim Lua plugin to paste image from clipboard.
