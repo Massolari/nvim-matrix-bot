@@ -687,7 +687,6 @@ mcauley-penney/visual-whitespace.nvim - https://github.com/mcauley-penney/visual
 Zeioth/distroupdate.nvim - https://github.com/Zeioth/distroupdate.nvim - Distro agnostic updater to get the latest changes from the Git repository of your config.
 SUSTech-data/neopyter - https://github.com/SUSTech-data/neopyter - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
 terje/simctl.nvim - https://github.com/terje/simctl.nvim - Interact with iOS Simulators.
-pluffie/md-babel.nvim - https://codeberg.org/pluffie/md-babel.nvim - Run code chunks from Markdown files, like `org-babel`.
 mistricky/codesnap.nvim - https://github.com/mistricky/codesnap.nvim - Snapshot plugin with rich features that can make pretty code snapshots.
 AlejandroSuero/freeze-code.nvim - https://github.com/AlejandroSuero/freeze-code.nvim - Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
 ysmb-wtsg/in-and-out.nvim - https://github.com/ysmb-wtsg/in-and-out.nvim - Quick navigation in and out of surrounding characters.
@@ -729,6 +728,7 @@ wsdjeg/mru.nvim - https://github.com/wsdjeg/mru.nvim - Manage and display your M
 gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding controller for [strudel](https://strudel.cc).
 wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files and update tags option automatically.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
+leo-alvarenga/quoth.nvim - https://github.com/leo-alvarenga/quoth.nvim - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -783,6 +783,7 @@ Willem-J-an/visidata.nvim - https://github.com/Willem-J-an/visidata.nvim - Rende
 igorlfs/nvim-dap-view - https://github.com/igorlfs/nvim-dap-view - A modern, minimalistic UI for nvim-dap.
 Carcuis/dap-breakpoints.nvim - https://github.com/Carcuis/dap-breakpoints.nvim - Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap.
 ravsii/nvim-dap-envfile - https://github.com/ravsii/nvim-dap-envfile - Automatic `envFile` support for nvim-dap.
+fschaal/azfunc.nvim - https://github.com/fschaal/azfunc.nvim - Seamlessly debug Azure Functions with automatic DAP integration.
 kevinhwang91/nvim-bqf - https://github.com/kevinhwang91/nvim-bqf - The goal of nvim-bqf is to make Neovim's quickfix window better.
 yorickpeterse/nvim-pqf - https://github.com/yorickpeterse/nvim-pqf - Prettier quickfix/location list windows.
 ashfinal/qfview.nvim - https://github.com/ashfinal/qfview.nvim - Pretty quickfix/location view with consistent path-shorten and folding.
@@ -862,7 +863,7 @@ vuki656/package-info.nvim - https://github.com/vuki656/package-info.nvim - Displ
 Saecki/crates.nvim - https://github.com/Saecki/crates.nvim - Rust dependency management for `Cargo.toml`.
 piersolenski/import.nvim - https://github.com/piersolenski/import.nvim - Import modules faster based on what you've already imported in your project.
 Silletr/LazyDeveloperHelper - https://github.com/Silletr/LazyDeveloperHelper - Python dependencies manager, with auto-adding to your `requirements.txt` file.
-JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgunnar - C# dependency manager with support for handling references between projects and solution files.
+JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgunnar.nvim - C# dependency manager with support for handling references between projects and solution files.
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show Git blame info.
 trevorhauter/gitportal.nvim - https://github.com/trevorhauter/gitportal.nvim - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
