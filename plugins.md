@@ -399,7 +399,6 @@ jim-at-jibba/ariake.nvim - https://github.com/jim-at-jibba/ariake.nvim - A port 
 Th3Whit3Wolf/onebuddy - https://github.com/Th3Whit3Wolf/onebuddy - Light and dark atom one theme.
 ishan9299/modus-theme-vim - https://github.com/ishan9299/modus-theme-vim - This is a color scheme developed by Protesilaos Stavrou for emacs.
 sainnhe/edge - https://github.com/sainnhe/edge - Clean & Elegant Color Scheme inspired by Atom One and Material.
-theniceboy/nvim-deus - https://github.com/theniceboy/nvim-deus - Vim-deus with Tree-sitter support.
 bkegley/gloombuddy - https://github.com/bkegley/gloombuddy - Gloom inspired theme.
 Th3Whit3Wolf/one-nvim - https://github.com/Th3Whit3Wolf/one-nvim - An Atom One inspired dark and light colorscheme.
 Th3Whit3Wolf/space-nvim - https://github.com/Th3Whit3Wolf/space-nvim - A spacemacs inspired dark and light colorscheme.
