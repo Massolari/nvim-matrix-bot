@@ -105,6 +105,7 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
   erooke/blink-cmp-latex - https://github.com/erooke/blink-cmp-latex - `blink.cmp` source for LaTeX.
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+carlos-algms/agentic.nvim - https://github.com/carlos-algms/agentic.nvim - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
 blob42/codegpt-ng.nvim - https://github.com/blob42/codegpt-ng.nvim - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
 Aaronik/GPTModels.nvim - https://github.com/Aaronik/GPTModels.nvim - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 Robitx/gp.nvim - https://github.com/Robitx/gp.nvim - ChatGPT like sessions and instructable text/code operations in your favorite editor.
