@@ -9,6 +9,7 @@ wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous Neovim plu
 alyxshang/nuwa.nvim - https://github.com/alyxshang/nuwa.nvim - A light Neovim package manager.
 piersolenski/plugin-addict.nvim - https://github.com/piersolenski/plugin-addict.nvim - A stupidly simple way to quickly install plugins.
 synapse.nvim - https://github.com/OriginCoderPulse/synapse.nvim - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
+zuqini/zpack.nvim - https://github.com/zuqini/zpack.nvim - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
 neovim/nvim-lspconfig - https://github.com/neovim/nvim-lspconfig - Quickstart configurations for the LSP client.
