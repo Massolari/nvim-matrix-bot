@@ -1129,6 +1129,7 @@ altermo/nwm - https://github.com/altermo/nwm - X11 window manager.
 MisanthropicBit/winmove.nvim - https://github.com/MisanthropicBit/winmove.nvim - Easily move, swap, and resize windows.
 ycdzj/win-mover.nvim - https://github.com/ycdzj/win-mover.nvim - Window mover that avoids moving side windows.
 mkajsjo/windowcolumns.nvim - https://github.com/mkajsjo/windowcolumns.nvim - Column-first window management.
+wsdjeg/bufdel.nvim - https://github.com/wsdjeg/bufdel.nvim - Delete buffers without changing windows layout.
 aserowy/tmux.nvim - https://github.com/aserowy/tmux.nvim - Tmux integration features pane movement and resizing.
 danielpieper/telescope-tmuxinator.nvim - https://github.com/danielpieper/telescope-tmuxinator.nvim - Integration for tmuxinator with telescope.nvim.
 hkupty/nvimux - https://github.com/hkupty/nvimux - Neovim as tmux replacement.
