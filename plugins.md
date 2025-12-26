@@ -631,6 +631,7 @@ echaya/neowiki.nvim - https://github.com/echaya/neowiki.nvim - The modern vimwik
 happyeric77/joplin.nvim - https://github.com/happyeric77/joplin.nvim - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 ymich9963/mdnotes.nvim - https://github.com/ymich9963/mdnotes.nvim - Simple and improved Markdown note taking.
 nbeversl/urtext_neovim - https://github.com/nbeversl/urtext_neovim - An implementation of Urtext.
+losch/ztl - https://codeberg.org/losch/ztl - A fast static note generator in a single binary with everything built-in.
 necrom4/calcium.nvim - https://github.com/necrom4/calcium.nvim - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
 necrom4/convy.nvim - https://github.com/necrom4/convy.nvim - Easily convert strings between various formats.
 gisketch/triforce.nvim - https://github.com/gisketch/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
@@ -1156,6 +1157,8 @@ p00f/cphelper.nvim - https://github.com/p00f/cphelper.nvim - Neovim helper for c
 xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugin to automate testcases management and checking for Competitive Programming contests.
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
 2KAbhishek/exercism.nvim - https://github.com/2KAbhishek/exercism.nvim - Browse and solve Exercism problems.
+kuri-sun/comment-graph.nvim - https://github.com/kuri-sun/comment-graph.nvim - Integration with [comment-graph](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
+letieu/jira.nvim - https://github.com/letieu/jira.nvim - Manage Jira tasks with a beautiful UI.
 m4xshen/hardtime.nvim - https://github.com/m4xshen/hardtime.nvim - Helping you establish good command workflow and habit.
 saxon1964/neovim-tips - https://github.com/saxon1964/neovim-tips - Provides hundreds of built-in Neovim tips, tricks, and shortcuts, with a custom picker interface and the ability to add your own tips.
 zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly in Neovim with JSON results.
