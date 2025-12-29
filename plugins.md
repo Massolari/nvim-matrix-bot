@@ -737,6 +737,7 @@ gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding control
 wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files and update tags option automatically.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 leo-alvarenga/quoth.nvim - https://github.com/leo-alvarenga/quoth.nvim - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
+stikypiston/cheaty.nvim - https://github.com/stikypiston/cheaty.nvim - A simple, configurable cheatsheet.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
