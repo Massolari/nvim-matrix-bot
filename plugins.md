@@ -7,7 +7,7 @@ lumen-oss/rocks.nvim - https://github.com/lumen-oss/rocks.nvim - A modern approa
 nvim-mini/mini.nvim#mini.deps - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous plugin manager written in Lua.
 piersolenski/plugin-addict.nvim - https://github.com/piersolenski/plugin-addict.nvim - A stupidly simple way to quickly install plugins.
-synapse.nvim - https://github.com/OriginCoderPulse/synapse.nvim - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
+OriginCoderPulse/synapse.nvim - https://github.com/OriginCoderPulse/synapse.nvim - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 zuqini/zpack.nvim - https://github.com/zuqini/zpack.nvim - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
