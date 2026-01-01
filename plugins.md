@@ -506,6 +506,7 @@ motaz-shokry/gruvbox.nvim - https://gitlab.com/motaz-shokry/gruvbox.nvim - **_`[
 pebeto/dookie.nvim - https://github.com/pebeto/dookie.nvim - **_`[TS][Lua]`_** A color scheme inspired by Plan9's acme editor.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - **_`[TS][Lua]`_** A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - **_`[Lua]`_** A port of cobalt2 colorscheme using colorbuddy.
+dybdeskarphet/gruvbox-minimal.nvim - https://github.com/dybdeskarphet/gruvbox-minimal.nvim - **_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick & Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
