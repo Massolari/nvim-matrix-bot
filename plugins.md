@@ -913,6 +913,7 @@ mfussenegger/nvim-treehopper - https://github.com/mfussenegger/nvim-treehopper -
 drybalka/tree-climber.nvim - https://github.com/drybalka/tree-climber.nvim - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
 atusy/treemonkey.nvim - https://github.com/atusy/treemonkey.nvim - Region selection with Tree-sitter nodes.
 kiyoon/treesitter-indent-object.nvim - https://github.com/kiyoon/treesitter-indent-object.nvim - Context-aware indent textobject powered by Tree-sitter.
+subev/sibling-jump.nvim - https://github.com/subev/sibling-jump.nvim - Context-aware navigation between sibling Tree-sitter nodes.
 RutaTang/compter.nvim - https://github.com/RutaTang/compter.nvim - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 zdcthomas/yop.nvim - https://github.com/zdcthomas/yop.nvim - Easily create your own operators (like `d` and `y`).
 chrisgrieser/nvim-recorder - https://github.com/chrisgrieser/nvim-recorder - Simplifying and improving how you interact with macros.
