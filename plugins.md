@@ -174,7 +174,7 @@ Snikimonkd/cmp-go-pkgs - https://github.com/Snikimonkd/cmp-go-pkgs - Cmp source 
 Yu-Leo/gosigns.nvim - https://github.com/Yu-Leo/gosigns.nvim - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 Yu-Leo/cmp-go-pkgs - https://github.com/Yu-Leo/cmp-go-pkgs - Cmp source providing the names of Go packages to import.
 fredrikaverpil/godoc.nvim - https://github.com/fredrikaverpil/godoc.nvim - Fuzzy search Go packages/symbols and view docs.
-cuducos/yaml.nvim - https://github.com/cuducos/yaml.nvim - Utils to work with YAML files.
+cuducos.me/yaml.nvim - https://tangled.org/cuducos.me/yaml.nvim - Utils to work with YAML files.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast HTTP client written in Lua.
 lima1909/resty.nvim - https://github.com/lima1909/resty.nvim - Fast and easy-to-use HTTP-Rest-Client.
 mistweaverco/kulala.nvim - https://github.com/mistweaverco/kulala.nvim - A minimal HTTP-client interface.
