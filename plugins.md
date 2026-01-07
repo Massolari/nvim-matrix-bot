@@ -602,6 +602,7 @@ nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A
 nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
 stephansama/fzf-nerdfont.nvim - https://github.com/stephansama/fzf-nerdfont.nvim - A picker for selecting Nerd Font icons using `fzf-lua`.
+ricmonmol/nvim-music-player - https://github.com/ricmonmol/nvim-music-player - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
 melMass/echo.nvim - https://github.com/melMass/echo.nvim - Seamless sound integration for your editing workflow.
 ~elisoli/nekovim - https://git.sr.ht/~elisoli/nekovim - Flexible Discord rich presence.
 edluffy/hologram.nvim - https://github.com/edluffy/hologram.nvim - A cross platform terminal image viewer. Works on macOS and Linux.
@@ -905,6 +906,7 @@ liangxianzhe/nap.nvim - https://github.com/liangxianzhe/nap.nvim - Jump between 
 chrisgrieser/nvim-spider - https://github.com/chrisgrieser/nvim-spider - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 backdround/neowords.nvim - https://github.com/backdround/neowords.nvim - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 backdround/improved-ft.nvim - https://github.com/backdround/improved-ft.nvim - Improve default `f`/`t` abilities.
+cosmicbuffalo/eyeliner.nvim - https://github.com/cosmicbuffalo/eyeliner.nvim - Highlight jump destinations for `f`/`t` motions.
 Mr-LLLLL/treesitter-outer - https://github.com/Mr-LLLLL/treesitter-outer - Jump to outer node with smart.
 Aaronik/Treewalker.nvim - https://github.com/aaronik/Treewalker.nvim - Move seamlessly around the abstract syntax tree.
 timseriakov/spamguard.nvim - https://github.com/timseriakov/spamguard.nvim - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.
