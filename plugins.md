@@ -190,6 +190,7 @@ yelog/i18n.nvim - https://github.com/yelog/i18n.nvim - Internationalization (i18
 Kenzo-Wada/boundary.nvim - https://github.com/Kenzo-Wada/boundary.nvim - Display `'use client'` markers inline in your JSX code to visualize client component boundaries.
 abidibo/nvim-httpyac - https://github.com/abidibo/nvim-httpyac - Provides integration with `httpYac`.
 rodrigoscc/nurl.nvim - https://github.com/rodrigoscc/nurl.nvim - HTTP client with requests defined in pure Lua.
+cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - Helps with CSS unit conversions.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through the job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
@@ -257,6 +258,7 @@ rafamadriz/friendly-snippets - https://github.com/rafamadriz/friendly-snippets -
 cvigilv/esqueleto.nvim - https://github.com/cvigilv/esqueleto.nvim - Simple templates to use when creating new files.
 chrisgrieser/nvim-scissors - https://github.com/chrisgrieser/nvim-scissors - Automagical editing and creation of snippets.
 guilherme-puida/tesoura.nvim - https://github.com/guilherme-puida/tesoura.nvim - A flexible snippet system using the native snippet API.
+bfredl/nvim-miniyank - https://github.com/bfredl/nvim-miniyank - The killring-alike plugin with no default mappings.
 gennaro-tedesco/nvim-peekup - https://github.com/gennaro-tedesco/nvim-peekup - Dynamically interact with Vim registers.
 tversteeg/registers.nvim - https://github.com/tversteeg/registers.nvim - Non-obtrusive minimal preview of Vim registers.
 acksld/nvim-neoclip.lua - https://github.com/AckslD/nvim-neoclip.lua - Clipboard manager with telescope integration.
@@ -358,6 +360,7 @@ LintaoAmons/cd-project.nvim - https://github.com/LintaoAmons/cd-project.nvim - A
 LucasTavaresA/headers.nvim - https://github.com/LucasTavaresA/headers.nvim - Zero-config header/footer warnings.
 zongben/proot.nvim - https://github.com/zongben/proot.nvim - Lightweight project navigator with telescope.
 wsdjeg/rooter.nvim - https://github.com/wsdjeg/rooter.nvim - Change working directory to project root.
+cosmicbuffalo/root_swapper.nvim - https://github.com/cosmicbuffalo/root_swapper.nvim - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
 mrjones2014/codesettings.nvim - https://github.com/mrjones2014/codesettings.nvim - Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings.
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 backdround/tabscope.nvim - https://github.com/backdround/tabscope.nvim - Make tab-local buffers.
@@ -397,6 +400,7 @@ wsdjeg/cpicker.nvim - https://github.com/wsdjeg/cpicker.nvim - A lightweight col
 - **_`[L/D]`_** - Has both "light" and "dark" variants.
 - **_`[Lua]`_** - Is written in Lua.
 - **_`[Fnl]`_** - Is written in Fennel.
+serhez/teide.nvim - https://github.com/serhez/teide.nvim - **_`[TS][LSP][L/D][Lua]`_** A fork of folke's `tokyonight.nvim` with a different color palette.
 kuri-sun/yoda.nvim - https://github.com/kuri-sun/yoda.nvim - **_`[TS][LSP][L/D][Lua]`_** Muted green palette for focused, balanced editing.
 wurli/cobalt.nvim - https://github.com/wurli/cobalt.nvim - **_`[TS][LSP][Lua]`_** A (mostly) faithful port of the classic blue theme from TextMate.
 datsfilipe/min-theme.nvim - https://github.com/datsfilipe/min-theme.nvim - **_`[TS][LSP][Lua]`_** It's a port of Min, a minimal theme for VSCode, written in Lua.
@@ -620,6 +624,7 @@ AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-con
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, Atom, JSON feed).
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
+niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful todo manager based on text.
 flashcodes-themayankjha/Fknotes.nvim - https://github.com/flashcodes-themayankjha/Fknotes.nvim - Take notes, TODOS from anywhere inside your project, search all todos, get reminders and more.
 apdot/doodle - https://github.com/apdot/doodle - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
 jameswolensky/marker-groups.nvim - https://github.com/jameswolensky/marker-groups.nvim - Take persistent code notes without modifying code.
@@ -652,8 +657,6 @@ nbeversl/urtext_neovim - https://github.com/nbeversl/urtext_neovim - An implemen
 losch/ztl - https://codeberg.org/losch/ztl - A fast static note generator in a single binary with everything built-in.
 stikypiston/studytools.nvim - https://github.com/stikypiston/studytools.nvim - Various utilities to enhance the studying and note-taking experience.
 necrom4/calcium.nvim - https://github.com/necrom4/calcium.nvim - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
-hat0uma/prelive.nvim - https://github.com/hat0uma/prelive.nvim - A simple luv-based development server with live reloading.
-hat0uma/doxygen-previewer.nvim - https://github.com/hat0uma/doxygen-previewer.nvim - Live previewing of Doxygen documentation.
 code-biscuits/nvim-biscuits - https://github.com/code-biscuits/nvim-biscuits - A port of Assorted Biscuits. Ends up with more supported languages too.
 rktjmp/paperplanes.nvim - https://github.com/rktjmp/paperplanes.nvim - Post selections or buffers to online paste bins.
 axieax/urlview.nvim - https://github.com/axieax/urlview.nvim - Browse all URLs in the current buffer.
@@ -661,28 +664,23 @@ cxwx/lazyUrlUpdate.nvim - https://github.com/cxwx/lazyUrlUpdate.nvim - Update pl
 sontungexpt/url-open - https://github.com/sontungexpt/url-open - Open URLs under the cursor and create highlight effects for them.
 crusj/bookmarks.nvim - https://github.com/crusj/bookmarks.nvim - Remember file locations and sort by time and frequency.
 jbyuki/instant.nvim - https://github.com/jbyuki/instant.nvim - A collaborative editing plugin written in Lua with no dependencies.
-bfredl/nvim-miniyank - https://github.com/bfredl/nvim-miniyank - The killring-alike plugin with no default mappings.
 chrisgrieser/nvim-genghis - https://github.com/chrisgrieser/nvim-genghis - Convenience file operations, written in Lua.
 figsoda/nix-develop.nvim - https://github.com/figsoda/nix-develop.nvim - Run `nix develop` without restarting Neovim.
 tenxsoydev/nx.nvim - https://github.com/tenxsoydev/nx.nvim - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 mluders/comfy-line-numbers.nvim - https://github.com/mluders/comfy-line-numbers.nvim - Limits relative numbers to only show left-hand digits on the keyboard.
 ragnarok22/whereami.nvim - https://github.com/ragnarok22/whereami.nvim - Test your VPN by getting you current location.
-LukasPietzschmann/telescope-tabs - https://github.com/LukasPietzschmann/telescope-tabs - Quickly navigate between tabs using telescope.
 aPeoplesCalendar/apc.nvim - https://github.com/aPeoplesCalendar/apc.nvim - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 subnut/nvim-ghost.nvim - https://github.com/subnut/nvim-ghost.nvim - GhostText support with zero dependencies.
 LintaoAmons/scratch.nvim - https://github.com/LintaoAmons/scratch.nvim - Create and manage scratch files.
 0xJohnnyboy/scretch.nvim - https://github.com/0xJohnnyboy/scretch.nvim - Create and manage scratch files, scratch templates, with picker integrations.
 yutkat/confirm-quit.nvim - https://github.com/yutkat/confirm-quit.nvim - Confirm before quitting.
 bgaillard/readonly.nvim - https://github.com/bgaillard/readonly.nvim - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
-ariel-frischer/bmessages.nvim - https://github.com/ariel-frischer/bmessages.nvim - Replace the default `:messages` window with a configurable, auto-updating buffer.
 linrongbin16/gentags.nvim - https://github.com/linrongbin16/gentags.nvim - The tags generator/management for old school vimers.
 Zeioth/distroupdate.nvim - https://github.com/Zeioth/distroupdate.nvim - Distro agnostic updater to get the latest changes from the Git repository of your config.
-SUSTech-data/neopyter - https://github.com/SUSTech-data/neopyter - Edit in Neovim and preview/run in Jupyter Lab.
 terje/simctl.nvim - https://github.com/terje/simctl.nvim - Interact with iOS Simulators.
 mistricky/codesnap.nvim - https://github.com/mistricky/codesnap.nvim - Snapshot plugin with rich features that can make pretty code snapshots.
 AlejandroSuero/freeze-code.nvim - https://github.com/AlejandroSuero/freeze-code.nvim - Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) inside the editor.
 ysmb-wtsg/in-and-out.nvim - https://github.com/ysmb-wtsg/in-and-out.nvim - Quick navigation in and out of surrounding characters.
-niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful todo manager based on text.
 ellisonleao/dotenv.nvim - https://github.com/ellisonleao/dotenv.nvim - Minimalist `.env` support.
 MisanthropicBit/decipher.nvim - https://github.com/MisanthropicBit/decipher.nvim - Encode and decode text using various codecs such as base64.
 philosofonusus/ecolog.nvim - https://github.com/philosofonusus/ecolog.nvim - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
@@ -690,7 +688,6 @@ theKnightsOfRohan/hexer.nvim - https://github.com/theKnightsOfRohan/hexer.nvim -
 josephburgess/nvumi - https://github.com/josephburgess/nvumi - Natural language calculator in a scratch buffer.
 redoxahmii/json-to-types.nvim - https://github.com/redoxahmii/json-to-types.nvim - Convert JSON objects to type definitions for multiple languages.
 ovk/endec.nvim - https://github.com/ovk/endec.nvim - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
-kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 y3owk1n/time-machine.nvim - https://github.com/y3owk1n/time-machine.nvim - Take control of your edit history with an interactive timeline, diff previews, taggings, live reloading trees and cleanup functions.
 athar-qadri/weather.nvim - https://github.com/athar-qadri/weather.nvim - Realtime weather and earthquake alerts with support for lualine integration (no API key required).
 penaz91/MiniDYM - https://github.com/Penaz91/MiniDYM - A very small "Did you mean" plugin, suggesting files the user might have wanted to open instead of creating a new one.
@@ -699,12 +696,10 @@ mahyarmirrashed/famous-quotes.nvim - https://github.com/mahyarmirrashed/famous-q
 iquzart/toggleword.nvim - https://github.com/iquzart/toggleword.nvim - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 piersolenski/brewfile.nvim - https://github.com/piersolenski/brewfile.nvim - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 gpanders/nvim-moonwalk - https://github.com/gpanders/nvim-moonwalk - Use any language that compiles to Lua anywhere in your Neovim configuration.
-markgandolfo/lightswitch.nvim - https://github.com/markgandolfo/lightswitch.nvim - Toggle various options using the `nui.nvim` library.
 johannww/tts.nvim - https://github.com/johannww/tts.nvim - Text to speech tool based on the Microsoft Edge online services.
 doctorfree/cheatsheet.nvim - https://github.com/doctorfree/cheatsheet.nvim - Searchable cheatsheet.
 gaborvecsei/cryptoprice.nvim - https://github.com/gaborvecsei/cryptoprice.nvim - Check the price of the defined cryptocurrencies.
 wsdjeg/mru.nvim - https://github.com/wsdjeg/mru.nvim - Manage and display your Most Recently Used (MRU) files.
-gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding controller for [strudel](https://strudel.cc).
 wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files and update tags option automatically.
 leo-alvarenga/quoth.nvim - https://github.com/leo-alvarenga/quoth.nvim - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 stikypiston/cheaty.nvim - https://github.com/stikypiston/cheaty.nvim - A simple, configurable cheatsheet.
@@ -844,6 +839,7 @@ Saecki/crates.nvim - https://github.com/Saecki/crates.nvim - Rust dependency man
 piersolenski/import.nvim - https://github.com/piersolenski/import.nvim - Import modules faster based on what you've already imported in your project.
 Silletr/LazyDeveloperHelper - https://github.com/Silletr/LazyDeveloperHelper - Python dependencies manager, with auto-adding to your `requirements.txt` file.
 JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgunnar.nvim - C# dependency manager with support for handling references between projects and solution files.
+cosmicbuffalo/gem_install.nvim - https://github.com/cosmicbuffalo/gem_install.nvim - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show Git blame info.
 trevorhauter/gitportal.nvim - https://github.com/trevorhauter/gitportal.nvim - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
@@ -876,6 +872,8 @@ wsdjeg/git.nvim - https://github.com/wsdjeg/git.nvim - An asynchronous Git comma
 Mauritz8/gitstatus.nvim - https://github.com/Mauritz8/gitstatus.nvim - Interactive Git status window with support for staging, unstaging, and committing files.
 esmuellert/vscode-diff.nvim - https://github.com/esmuellert/vscode-diff.nvim - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 ajatdarojat45/commitmate.nvim - https://github.com/ajatdarojat45/commitmate.nvim - An AI-assisted commit message generator following common commit conventions.
+Enigama/remarks.nvim - https://github.com/Enigama/remarks.nvim - Personal developer notes attached to Git commits.
+Salanoid/gitlogdiff.nvim - https://github.com/Salanoid/gitlogdiff.nvim - Diff between multiple git commits, similar to JetBrains's git log.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
@@ -1101,6 +1099,11 @@ niuiic/remote.nvim - https://github.com/niuiic/remote.nvim - Edit remote files w
 uhs-robert/sshfs.nvim - https://github.com/uhs-robert/sshfs.nvim - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
 nosduco/remote-sshfs.nvim - https://github.com/nosduco/remote-sshfs.nvim - Explore, edit, and develop on a remote machine via SSHFS.
 azratul/live-share.nvim - https://github.com/azratul/live-share.nvim - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+hat0uma/prelive.nvim - https://github.com/hat0uma/prelive.nvim - A simple luv-based development server with live reloading.
+hat0uma/doxygen-previewer.nvim - https://github.com/hat0uma/doxygen-previewer.nvim - Live previewing of Doxygen documentation.
+SUSTech-data/neopyter - https://github.com/SUSTech-data/neopyter - Edit in Neovim and preview/run in Jupyter Lab.
+kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding controller for [strudel](https://strudel.cc).
 ~henriquehbr/ataraxis.lua - https://sr.ht/~henriquehbr/ataraxis.lua - A zen mode for improving code readability.
 yorickpeterse/nvim-window - https://github.com/yorickpeterse/nvim-window - Easily jump between windows.
 sindrets/winshift.nvim - https://github.com/sindrets/winshift.nvim - Rearrange your windows with ease.
@@ -1215,11 +1218,13 @@ CosmicNvim/cosmic-ui - https://github.com/CosmicNvim/cosmic-ui - Cosmic-UI is a 
 sitiom/nvim-numbertoggle - https://github.com/sitiom/nvim-numbertoggle - Automatically toggle between relative and absolute line numbers.
 nkakouros-original/numbers.nvim - https://github.com/nkakouros-original/numbers.nvim - Toggle relativenumber whenever it makes sense.
 cpea2506/relative-toggle.nvim - https://github.com/cpea2506/relative-toggle.nvim - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
+LukasPietzschmann/telescope-tabs - https://github.com/LukasPietzschmann/telescope-tabs - Quickly navigate between tabs using telescope.
+ariel-frischer/bmessages.nvim - https://github.com/ariel-frischer/bmessages.nvim - Replace the default `:messages` window with a configurable, auto-updating buffer.
+markgandolfo/lightswitch.nvim - https://github.com/markgandolfo/lightswitch.nvim - Toggle various options using the `nui.nvim` library.
 tokiory/neovim-boilerplate - https://github.com/tokiory/neovim-boilerplate - Starter boilerplate for making new configurations.
 frans-johansson/lazy-nvim-starter - https://github.com/frans-johansson/lazy-nvim-starter - Starter boilerplate with lazy plugin manager.
 Vimawesome - https://vimawesome.com/ - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
 akrawchyk/awesome-vim#tools - https://github.com/akrawchyk/awesome-vim#tools - A short list of Vim plugins and helpful guides.
-altermo/vim-plugin-list - https://github.com/altermo/vim-plugin-list - List of Vim and Neovim plugins.
 Neovimcraft - https://neovimcraft.com - A site dedicated to searching specific plugins and guides for building plugins in Lua.
 Dotfyle - https://dotfyle.com - A site for sharing and discovering Neovim configs and plugins.
 NeoLand - https://neoland.dev - A beautifully crafted website for Neovim resources.
