@@ -1160,6 +1160,7 @@ jghauser/mkdir.nvim - https://github.com/jghauser/mkdir.nvim - Automatically cre
 zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly with JSON results.
 kndndrj/nvim-dbee - https://github.com/kndndrj/nvim-dbee - Interactive database client.
 tashikomaaa/neomongo.nvim - https://github.com/tashikomaaa/neomongo.nvim - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
+abdellatif-temsamani/adev.nvim - https://github.com/abdellatif-temsamani/adev.nvim - The over-engineered Neovim distribution for developers who want everything.
 pgosar/CyberNvim - https://github.com/pgosar/CyberNvim - The world's simplest and most extensible Neovim distribution.
 sontungexpt/stinvim - https://github.com/sontungexpt/stinvim - Configuration for Full-Stack developers.
 Abstract-IDE/Abstract - https://github.com/Abstract-IDE/Abstract - Configuration to achieve the power of Modern IDE.
