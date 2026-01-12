@@ -176,6 +176,7 @@ Yu-Leo/gosigns.nvim - https://github.com/Yu-Leo/gosigns.nvim - Visualize some Go
 Yu-Leo/cmp-go-pkgs - https://github.com/Yu-Leo/cmp-go-pkgs - Cmp source providing the names of Go packages to import.
 fredrikaverpil/godoc.nvim - https://github.com/fredrikaverpil/godoc.nvim - Fuzzy search Go packages/symbols and view docs.
 cuducos.me/yaml.nvim - https://tangled.org/cuducos.me/yaml.nvim - Utils to work with YAML files.
+mosheavni/yaml-companion.nvim - https://github.com/mosheavni/yaml-companion.nvim - Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast HTTP client written in Lua.
 lima1909/resty.nvim - https://github.com/lima1909/resty.nvim - Fast and easy-to-use HTTP-Rest-Client.
 mistweaverco/kulala.nvim - https://github.com/mistweaverco/kulala.nvim - A minimal HTTP-client interface.
@@ -1222,6 +1223,7 @@ cpea2506/relative-toggle.nvim - https://github.com/cpea2506/relative-toggle.nvim
 LukasPietzschmann/telescope-tabs - https://github.com/LukasPietzschmann/telescope-tabs - Quickly navigate between tabs using telescope.
 ariel-frischer/bmessages.nvim - https://github.com/ariel-frischer/bmessages.nvim - Replace the default `:messages` window with a configurable, auto-updating buffer.
 markgandolfo/lightswitch.nvim - https://github.com/markgandolfo/lightswitch.nvim - Toggle various options using the `nui.nvim` library.
+wsdjeg/calendar.nvim - https://github.com/wsdjeg/calendar.nvim - A simple floating calendar with extensions support.
 tokiory/neovim-boilerplate - https://github.com/tokiory/neovim-boilerplate - Starter boilerplate for making new configurations.
 frans-johansson/lazy-nvim-starter - https://github.com/frans-johansson/lazy-nvim-starter - Starter boilerplate with lazy plugin manager.
 Vimawesome - https://vimawesome.com/ - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
