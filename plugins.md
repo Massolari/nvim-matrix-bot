@@ -213,7 +213,6 @@ ChuufMaster/markdown-toc - https://github.com/ChuufMaster/markdown-toc - Generat
 OXY2DEV/markview.nvim - https://github.com/OXY2DEV/markview.nvim - A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer.
 Kicamon/markdown-table-mode.nvim - https://github.com/Kicamon/markdown-table-mode.nvim - Markdown format plugin like vim-table-mode but write in Lua.
 SCJangra/table-nvim - https://github.com/SCJangra/table-nvim - A Markdown table editor that formats the table as you type.
-brianhuster/live-preview.nvim - https://github.com/brianhuster/live-preview.nvim - Live preview HTML, Markdown and Asciidoc in the browser.
 timantipov/md-table-tidy.nvim - https://github.com/timantipov/md-table-tidy.nvim - Simple Markdown tables formatting.
 nvim-telescope/telescope-bibtex.nvim - https://github.com/nvim-telescope/telescope-bibtex.nvim - Telescope extension to search and paste BibTeX entries into your TeX files.
 Thiago4532/mdmath.nvim - https://github.com/Thiago4532/mdmath.nvim - A Markdown equation previewer, using Kitty Graphics Protocol.
@@ -713,6 +712,7 @@ nvim-mini/mini.nvim#mini.animate - https://github.com/nvim-mini/mini.nvim/blob/m
 rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
+stikypiston/smudge.nvim - https://github.com/stikypiston/smudge.nvim - Performant cursor animations.
 LuxVim/nvim-luxterm - https://github.com/LuxVim/nvim-luxterm - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 waiting-for-dev/ergoterm.nvim - https://github.com/waiting-for-dev/ergoterm.nvim - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 ingur/floatty.nvim - https://github.com/ingur/floatty.nvim - A tiny (<200 LOC) but highly customizable floating terminal manager.
@@ -773,6 +773,7 @@ quolpr/quicktest.nvim - https://github.com/quolpr/quicktest.nvim - Run your test
 zkucekovic/tdd.nvim - https://github.com/zkucekovic/tdd.nvim - Opens or creates the matching PHPUnit test file for a given class, based on PSR-4 namespace mappings.
 nvim-neotest/neotest-jest - https://github.com/nvim-neotest/neotest-jest - Neotest adapter for running Jest tests.
 MisanthropicBit/neotest-busted - https://github.com/MisanthropicBit/neotest-busted - Neotest adapter for running busted tests using Neovim as a Lua interpreter.
+mr-u0b0dy/crazy-coverage.nvim - https://github.com/mr-u0b0dy/crazy-coverage.nvim - Display code coverage.
 michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of any language directly from Neovim.
 CRAG666/code_runner.nvim - https://github.com/CRAG666/code_runner.nvim - The best code runner you could have, with super powers.
 is0n/jaq-nvim - https://github.com/is0n/jaq-nvim - Just Another Quickrun Plugin in Lua.
@@ -1101,6 +1102,7 @@ nosduco/remote-sshfs.nvim - https://github.com/nosduco/remote-sshfs.nvim - Explo
 azratul/live-share.nvim - https://github.com/azratul/live-share.nvim - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
 hat0uma/prelive.nvim - https://github.com/hat0uma/prelive.nvim - A simple luv-based development server with live reloading.
 hat0uma/doxygen-previewer.nvim - https://github.com/hat0uma/doxygen-previewer.nvim - Live previewing of Doxygen documentation.
+brianhuster/live-preview.nvim - https://github.com/brianhuster/live-preview.nvim - Live preview HTML, Markdown and Asciidoc in the browser.
 SUSTech-data/neopyter - https://github.com/SUSTech-data/neopyter - Edit in Neovim and preview/run in Jupyter Lab.
 kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding controller for [strudel](https://strudel.cc).
