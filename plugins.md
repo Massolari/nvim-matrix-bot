@@ -831,6 +831,7 @@ DrKJeff16/wezterm-types - https://github.com/DrKJeff16/wezterm-types - WezTerm c
 chrisgve/databox.nvim - https://github.com/chrisgve/databox.nvim - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 BirdeeHub/lze - https://github.com/BirdeeHub/lze - A lazy-loading library for Neovim plugins.
 lumen-oss/lz.n - https://github.com/lumen-oss/lz.n - A simple lazy loading library for Neovim plugins.
+jrop/morph.nvim - https://github.com/jrop/morph.nvim - A React-like renderer for building interactive buffers/TUIs.
 aileot/nvim-thyme - https://github.com/aileot/nvim-thyme - Zero-overhead Fennel JIT compiler with safety rollbacks and [parinfer-rust](https://github.com/eraserhd/parinfer-rust) integration.
 Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim with Fennel.
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
@@ -1095,6 +1096,7 @@ jedrzejboczar/possession.nvim - https://github.com/jedrzejboczar/possession.nvim
 niuiic/multiple-session.nvim - https://github.com/niuiic/multiple-session.nvim - Provides multi-session management capabilities.
 coffebar/neovim-project - https://github.com/coffebar/neovim-project - Declarative project management, automatic saving of sessions, uses Telescope.
 njayman/season.nvim - https://github.com/njayman/season.nvim - A lightweight plugin to manage session based on current working directory.
+Akmadan23/local-session.nvim - https://github.com/Akmadan23/local-session.nvim - A fast, minimal and implicit current-working-directory-based session manager with easy to configure session files in Lua.
 inhesrom/remote-ssh.nvim - https://github.com/inhesrom/remote-ssh.nvim - Duplicates the basic ground level functionality of VSCode's Remote-SSH plugin, with a focus on a local editing experience to avoid remote "lag". Browse remote files, edit "remote buffers" with a full local editing experience (LSP, Tree-sitter, Telescope integration, and a file watcher).
 chipsenkbeil/distant.nvim - https://github.com/chipsenkbeil/distant.nvim - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
 jamestthompson3/nvim-remote-containers - https://github.com/jamestthompson3/nvim-remote-containers - Develop inside Docker containers, just like VSCode.
@@ -1216,6 +1218,7 @@ massix/termux.nvim - https://github.com/massix/termux.nvim - Interact with Termu
 m15a/flake-awesome-neovim-plugins - https://github.com/m15a/flake-awesome-neovim-plugins - Nix flake that provides a collection of `awesome-neovim` plugins as Nix packages.
 OXY2DEV/ui.nvim - https://github.com/OXY2DEV/ui.nvim - A blueprint/template/guide for customizing the UI.
 mcauley-penney/visual-whitespace.nvim - https://github.com/mcauley-penney/visual-whitespace.nvim - See whitespace characters in Visual selections, like VSCode.
+jrop/tuis.nvim - https://github.com/jrop/tuis.nvim - A collection of interactive TUIs which provides rich, interactive UIs to various CLIs.
 matbme/JABS.nvim - https://github.com/matbme/JABS.nvim - Pretty and minimal buffer switcher window.
 rcarriga/nvim-notify - https://github.com/rcarriga/nvim-notify - A fancy, configurable, notification manager.
 nvim-mini/mini.nvim#mini.notify - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-notify.md - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
