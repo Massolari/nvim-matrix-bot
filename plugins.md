@@ -459,6 +459,7 @@ kdheepak/monochrome.nvim - https://github.com/kdheepak/monochrome.nvim - **_`[TS
 rose-pine/neovim - https://github.com/rose-pine/neovim - **_`[TS][LSP][L/D][Lua]`_** All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 zenbones-theme/zenbones.nvim - https://github.com/zenbones-theme/zenbones.nvim - **_`[TS][LSP][L/D][Lua]`_** A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
 catppuccin/nvim - https://github.com/catppuccin/nvim - **_`[TS][LSP][L/D][Lua]`_** Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
+samesense/savitsky.nvim - https://github.com/samesense/savitsky.nvim - **_`[TS][LSP][L/D][Lua]`_** Curated color palettes inspired by paintings from the Savitsky Museum, built on top of `catppuccin`.
 FrenzyExists/aquarium-vim - https://github.com/FrenzyExists/aquarium-vim - **_`[TS][L/D]`_** A dark, yet vibrant colorscheme.
 EdenEast/nightfox.nvim - https://github.com/EdenEast/nightfox.nvim - **_`[TS][LSP][L/D][Lua]`_** A soft dark, fully customizable colorscheme with support for LSP, Tree-sitter and a variety of plugins.
 ldelossa/vimdark - https://github.com/ldelossa/vimdark - **_`[TS][L/D]`_** A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
@@ -879,6 +880,7 @@ esmuellert/vscode-diff.nvim - https://github.com/esmuellert/vscode-diff.nvim - V
 ajatdarojat45/commitmate.nvim - https://github.com/ajatdarojat45/commitmate.nvim - An AI-assisted commit message generator following common commit conventions.
 Enigama/remarks.nvim - https://github.com/Enigama/remarks.nvim - Personal developer notes attached to Git commits.
 Salanoid/gitlogdiff.nvim - https://github.com/Salanoid/gitlogdiff.nvim - Diff between multiple git commits, similar to JetBrains's git log.
+Sengoku11/commitpad.nvim - https://github.com/Sengoku11/commitpad.nvim - Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
