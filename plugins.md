@@ -1056,6 +1056,7 @@ jghauser/fold-cycle.nvim - https://github.com/jghauser/fold-cycle.nvim - Cycle f
 kevinhwang91/nvim-ufo - https://github.com/kevinhwang91/nvim-ufo - Ultra fold with modern looking and performance boosting.
 chrisgrieser/nvim-origami - https://github.com/chrisgrieser/nvim-origami - Fold with relentless elegance.
 malbertzard/inline-fold.nvim - https://github.com/malbertzard/inline-fold.nvim - Hide certain elements inline like long CSS classes or `href` content.
+netmute/foldsigns.nvim - https://github.com/netmute/foldsigns.nvim - Adds fold markers to sign column to make folds more visible while editing.
 TheLazyCat00/simple-format - https://github.com/TheLazyCat00/simple-format - Replace text using custom regex and highlight group rules.
 mhartington/formatter.nvim - https://github.com/mhartington/formatter.nvim - A format runner written in Lua.
 sbdchd/neoformat - https://github.com/sbdchd/neoformat - A code formatting runner.
