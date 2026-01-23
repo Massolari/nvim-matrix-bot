@@ -659,6 +659,7 @@ nbeversl/urtext_neovim - https://github.com/nbeversl/urtext_neovim - An implemen
 losch/ztl - https://codeberg.org/losch/ztl - A fast static note generator in a single binary with everything built-in.
 stikypiston/studytools.nvim - https://github.com/stikypiston/studytools.nvim - Various utilities to enhance the studying and note-taking experience.
 iwe-org/iwe.nvim - https://github.com/iwe-org/iwe.nvim - Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows.
+StefanBartl/color_my_ascii.nvim - https://github.com/StefanBartl/color_my_ascii.nvim - Colorful highlighting of ASCII art in Markdown code blocks.
 necrom4/calcium.nvim - https://github.com/necrom4/calcium.nvim - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
 code-biscuits/nvim-biscuits - https://github.com/code-biscuits/nvim-biscuits - A port of Assorted Biscuits. Ends up with more supported languages too.
 rktjmp/paperplanes.nvim - https://github.com/rktjmp/paperplanes.nvim - Post selections or buffers to online paste bins.
