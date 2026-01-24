@@ -191,6 +191,7 @@ Kenzo-Wada/boundary.nvim - https://github.com/Kenzo-Wada/boundary.nvim - Display
 abidibo/nvim-httpyac - https://github.com/abidibo/nvim-httpyac - Provides integration with `httpYac`.
 rodrigoscc/nurl.nvim - https://github.com/rodrigoscc/nurl.nvim - HTTP client with requests defined in pure Lua.
 cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - Helps with CSS unit conversions.
+tednguyendev/recent_rails.nvim - https://github.com/tednguyendev/recent_rails.nvim - Telescope picker for recent Rails actions, views, and errors.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through the job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
@@ -420,7 +421,7 @@ folke/tokyonight.nvim - https://github.com/folke/tokyonight.nvim - **_`[TS][LSP]
 everviolet/nvim - https://github.com/everviolet/nvim - **_`[TS][LSP][L/D][Lua]`_** A comfy colorscheme for cozy morning coding.
 uhs-robert/oasis.nvim - https://github.com/uhs-robert/oasis.nvim - **_`[TS][LSP][L/D][Lua]`_** Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
 sainnhe/sonokai - https://github.com/sainnhe/sonokai - **_`[TS][LSP]`_** High Contrast & Vivid Color Scheme based on Monokai Pro.
-nyoom-engineering/oxocarbon.nvim - https://github.com/nyoom-engineering/oxocarbon.nvim - **_`[TS][LSP][L/D][Lua]`_** A dark and light theme written in fennel, inspired by IBM Carbon.
+nyoom-engineering/oxocarbon.nvim - https://github.com/nyoom-engineering/oxocarbon.nvim - **_`[TS][LSP][L/D][Lua]`_** A dark and light theme written in Fennel, inspired by IBM Carbon.
 mhartington/oceanic-next - https://github.com/mhartington/oceanic-next - **_`[TS][L/D]`_** Oceanic Next theme.
 nvimdev/zephyr-nvim - https://github.com/nvimdev/zephyr-nvim - **_`[TS][Lua]`_** A dark colorscheme with Tree-sitter support.
 rockerBOO/boo-colorscheme-nvim - https://github.com/rockerBOO/boo-colorscheme-nvim - **_`[TS][Lua]`_** A colorscheme with handcrafted support for LSP, Tree-sitter.
@@ -839,7 +840,7 @@ Olical/aniseed - https://github.com/Olical/aniseed - Configure and extend Neovim
 Olical/nfnl - https://github.com/Olical/nfnl - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 Olical/conjure - https://github.com/Olical/conjure - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 rktjmp/hotpot.nvim - https://github.com/rktjmp/hotpot.nvim - Seamless, transparent Fennel inside Neovim.
-udayvir-singh/tangerine.nvim - https://github.com/udayvir-singh/tangerine.nvim - Tangerine provides a painless way to add fennel to your config.
+udayvir-singh/tangerine.nvim - https://github.com/udayvir-singh/tangerine.nvim - Tangerine provides a painless way to add Fennel to your config.
 udayvir-singh/hibiscus.nvim - https://github.com/udayvir-singh/hibiscus.nvim - Highly opinionated macros to elegantly write your config.
 vuki656/package-info.nvim - https://github.com/vuki656/package-info.nvim - Display latest package version as virtual text in package.json.
 Saecki/crates.nvim - https://github.com/Saecki/crates.nvim - Rust dependency management for `Cargo.toml`.
@@ -1167,6 +1168,7 @@ gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nv
 SunnyTamang/pendulum.nvim - https://github.com/SunnyTamang/pendulum.nvim - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 ptdewey/pendulum-nvim - https://github.com/ptdewey/pendulum-nvim - Track time spent coding and glean insights through on-demand time reports.
 ravsii/timers.nvim - https://github.com/ravsii/timers.nvim - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
+Rtarun3606k/takatime - https://github.com/Rtarun3606k/takatime - Privacy-first WakaTime alternative using Go and MongoDB.
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
 jghauser/mkdir.nvim - https://github.com/jghauser/mkdir.nvim - Automatically create missing directories when saving files.
 zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly with JSON results.
