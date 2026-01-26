@@ -288,6 +288,7 @@ y3owk1n/warp.nvim - https://github.com/y3owk1n/warp.nvim - Simple harpoon altern
 walkersumida/fusen.nvim - https://github.com/walkersumida/fusen.nvim - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
 markgandolfo/dartboard.nvim - https://github.com/markgandolfo/dartboard.nvim - Mark files and quickly access them, inspired by Harpoon and Lasso.
 dimtion/guttermarks.nvim - https://github.com/dimtion/guttermarks.nvim - Display marks in the buffer gutter.
+2KAbhishek/seeker.nvim - https://github.com/2KAbhishek/seeker.nvim - Progressive file seeker built on top of `snacks.nvim`.
 wurli/visimatch.nvim - https://github.com/wurli/visimatch.nvim - Adds highlights to any text matching the current selection in visual mode.
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
 rktjmp/highlight-current-n.nvim - https://github.com/rktjmp/highlight-current-n.nvim - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
@@ -627,11 +628,11 @@ AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-con
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, Atom, JSON feed).
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
-niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful todo manager based on text.
-flashcodes-themayankjha/Fknotes.nvim - https://github.com/flashcodes-themayankjha/Fknotes.nvim - Take notes, TODOS from anywhere inside your project, search all todos, get reminders and more.
+niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful TODO manager based on text.
+flashcodes-themayankjha/Fknotes.nvim - https://github.com/flashcodes-themayankjha/Fknotes.nvim - Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more.
 apdot/doodle - https://github.com/apdot/doodle - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
 jameswolensky/marker-groups.nvim - https://github.com/jameswolensky/marker-groups.nvim - Take persistent code notes without modifying code.
-bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A full-featured Markdown-based todo plugin.
+bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A full-featured Markdown-based TODO plugin.
 lfilho/note2cal.nvim - https://github.com/lfilho/note2cal.nvim - Create calendar events from Markdown notes (macOS only).
 0styx0/abbreinder.nvim - https://github.com/0styx0/abbreinder.nvim - Abbreviation reminders.
 jakewvincent/mkdnflow.nvim - https://github.com/jakewvincent/mkdnflow.nvim - Fluent Markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
@@ -883,6 +884,7 @@ ajatdarojat45/commitmate.nvim - https://github.com/ajatdarojat45/commitmate.nvim
 Enigama/remarks.nvim - https://github.com/Enigama/remarks.nvim - Personal developer notes attached to Git commits.
 Salanoid/gitlogdiff.nvim - https://github.com/Salanoid/gitlogdiff.nvim - Diff between multiple Git commits, similar to JetBrains's Git log.
 Sengoku11/commitpad.nvim - https://github.com/Sengoku11/commitpad.nvim - Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer.
+BibekBhusal0/nvim-git-utils - https://github.com/BibekBhusal0/nvim-git-utils - Simple commands to make life easier while working with Git.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
@@ -1040,7 +1042,7 @@ XXiaoA/atone.nvim - https://github.com/XXiaoA/atone.nvim - Undo tree for visuali
 numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
 gennaro-tedesco/nvim-commaround - https://github.com/gennaro-tedesco/nvim-commaround - Fast and light commenting plugin written in Lua.
-folke/todo-comments.nvim - https://github.com/folke/todo-comments.nvim - Highlight, list and search todo comments in your projects.
+folke/todo-comments.nvim - https://github.com/folke/todo-comments.nvim - Highlight, list and search TODO comments in your projects.
 alexmozaidze/tree-comment.nvim - https://github.com/alexmozaidze/tree-comment.nvim - Highlight and configure TODO comments for [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment).
 terrortylor/nvim-comment - https://github.com/terrortylor/nvim-comment - Toggle comments using the built-in commentstring option.
 winston0410/commented.nvim - https://github.com/winston0410/commented.nvim - A commenting plugin which supports counts and multiple comment patterns and much more.
@@ -1065,7 +1067,7 @@ sbdchd/neoformat - https://github.com/sbdchd/neoformat - A code formatting runne
 cappyzawa/trim.nvim - https://github.com/cappyzawa/trim.nvim - Trims trailing whitespace and lines.
 MunifTanjim/prettier.nvim - https://github.com/MunifTanjim/prettier.nvim - Prettier integration.
 nvim-mini/mini.nvim#mini.align - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-align.md - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
-emileferreira/nvim-strict - https://github.com/emileferreira/nvim-strict - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
+emileferreira/nvim-strict - https://github.com/emileferreira/nvim-strict - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, TODOs and inconsistent indentation.
 ~nedia/auto-format.nvim - https://git.sr.ht/~nedia/auto-format.nvim - Sets up an autocommand to format on save, preferring `null-ls` over native LSP client formatting.
 tenxsoydev/tabs-vs-spaces.nvim - https://github.com/tenxsoydev/tabs-vs-spaces.nvim - Hint and fix deviating indentation.
 bennypowers/svgo.nvim - https://github.com/bennypowers/svgo.nvim - Optimize SVG files.
