@@ -709,6 +709,7 @@ wsdjeg/mru.nvim - https://github.com/wsdjeg/mru.nvim - Manage and display your M
 wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files and update tags option automatically.
 leo-alvarenga/quoth.nvim - https://github.com/leo-alvarenga/quoth.nvim - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 stikypiston/cheaty.nvim - https://github.com/stikypiston/cheaty.nvim - A simple, configurable cheatsheet.
+stikypiston/unobtrusive-relnums.nvim - https://github.com/stikypiston/unobtrusive-relnums - Unobtrusive relative line numbers in the sign column.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -749,6 +750,7 @@ laktak/tome - https://github.com/laktak/tome - Interactive Script playbooks for 
 Axot017/multiterm.nvim - https://github.com/Axot017/multiterm.nvim - A lightweight manager of multiple terminal instances with key bindings.
 da-moon/telescope-toggleterm.nvim - https://github.com/da-moon/telescope-toggleterm.nvim - Telescope picker for terminal buffers.
 benoror/gpg.nvim - https://github.com/benoror/gpg.nvim - Edit GPG encrypted files symmetrically.
+gh-liu/nvim-winterm - https://github.com/gh-liu/nvim-winterm - Multi-terminal window manager.
 mfussenegger/nvim-dap - https://github.com/mfussenegger/nvim-dap - Debug Adapter Protocol client implementation.
 sakhnik/nvim-gdb - https://github.com/sakhnik/nvim-gdb - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
 rcarriga/nvim-dap-ui - https://github.com/rcarriga/nvim-dap-ui - A UI for nvim-dap.
@@ -1060,6 +1062,7 @@ jghauser/fold-cycle.nvim - https://github.com/jghauser/fold-cycle.nvim - Cycle f
 kevinhwang91/nvim-ufo - https://github.com/kevinhwang91/nvim-ufo - Ultra fold with modern looking and performance boosting.
 chrisgrieser/nvim-origami - https://github.com/chrisgrieser/nvim-origami - Fold with relentless elegance.
 malbertzard/inline-fold.nvim - https://github.com/malbertzard/inline-fold.nvim - Hide certain elements inline like long CSS classes or `href` content.
+netmute/foldchanged.nvim - https://github.com/netmute/foldchanged.nvim - Adds a `FoldChanged` User event.
 netmute/foldsigns.nvim - https://github.com/netmute/foldsigns.nvim - Adds fold markers to sign column to make folds more visible while editing.
 TheLazyCat00/simple-format - https://github.com/TheLazyCat00/simple-format - Replace text using custom regex and highlight group rules.
 mhartington/formatter.nvim - https://github.com/mhartington/formatter.nvim - A format runner written in Lua.
