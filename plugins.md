@@ -303,10 +303,11 @@ FabianWirth/search.nvim - https://github.com/FabianWirth/search.nvim - Tabs for 
 backdround/improved-search.nvim - https://github.com/backdround/improved-search.nvim - Add search abilities.
 polirritmico/telescope-lazy-plugins.nvim - https://github.com/polirritmico/telescope-lazy-plugins.nvim - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 MagicDuck/grug-far.nvim - https://github.com/MagicDuck/grug-far.nvim - Buffer-based live search and replace with full power of `rg` flags. Grug like!
-chrisgrieser/nvim-rip-substitute - https://github.com/chrisgrieser/nvim-rip-substitute - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
+chrisgrieser/nvim-rip-substitute - https://github.com/chrisgrieser/nvim-rip-substitute - Search and replace in the current buffer or workspace with incremental preview, a convenient UI, and modern regex syntax.
 wsdjeg/flygrep.nvim - https://github.com/wsdjeg/flygrep.nvim - Search text in a floating window asynchronously.
 prochri/telescope-all-recent.nvim - https://github.com/prochri/telescope-all-recent.nvim - Frequency and recency sorter for any Telescope picker.
 mahyarmirrashed/search-and-replace.nvim - https://github.com/mahyarmirrashed/search-and-replace.nvim - Simple, effective, search and replace functionality for the pragmatic engineer.
+bravoecho/brook.nvim - https://github.com/bravoecho/brook.nvim - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation. 
 nvim-telescope/telescope.nvim - https://github.com/nvim-telescope/telescope.nvim - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) A highly extensible fuzzy finder over lists.
 vijaymarupudi/nvim-fzf - https://github.com/vijaymarupudi/nvim-fzf - A Lua API for using FZF. Allows for full asynchronicity for UI speed and usability.
 camspiers/snap - https://github.com/camspiers/snap - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
@@ -888,6 +889,7 @@ Enigama/remarks.nvim - https://github.com/Enigama/remarks.nvim - Personal develo
 Salanoid/gitlogdiff.nvim - https://github.com/Salanoid/gitlogdiff.nvim - Diff between multiple Git commits, similar to JetBrains's Git log.
 Sengoku11/commitpad.nvim - https://github.com/Sengoku11/commitpad.nvim - Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer.
 BibekBhusal0/nvim-git-utils - https://github.com/BibekBhusal0/nvim-git-utils - Simple commands to make life easier while working with Git.
+spacedentist/resolve.nvim - https://github.com/spacedentist/resolve.nvim - Resolve merge conflicts with ease.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
