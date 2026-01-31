@@ -141,6 +141,7 @@ chatvim/chatvim.nvim - https://github.com/chatvim/chatvim.nvim - Chat with Markd
 3ZsForInsomnia/vs-code-companion - https://github.com/3ZsForInsomnia/vs-code-companion - Tool for importing VSCode's Markdown prompts into CodeCompanion.
 3ZsForInsomnia/token-count.nvim - https://github.com/3ZsForInsomnia/token-count.nvim - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 nishu-murmu/cursor-inline - https://github.com/nishu-murmu/cursor-inline - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
+codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration inside Neovim (no API key required).
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -403,6 +404,7 @@ wsdjeg/cpicker.nvim - https://github.com/wsdjeg/cpicker.nvim - A lightweight col
 - **_`[L/D]`_** - Has both "light" and "dark" variants.
 - **_`[Lua]`_** - Is written in Lua.
 - **_`[Fnl]`_** - Is written in Fennel.
+silentium-theme/silentium.nvim - https://github.com/silentium-theme/silentium.nvim - **_`[TS][Luа]`_** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
 serhez/teide.nvim - https://github.com/serhez/teide.nvim - **_`[TS][LSP][L/D][Lua]`_** A fork of folke's `tokyonight.nvim` with a different color palette.
 kuri-sun/yoda.nvim - https://github.com/kuri-sun/yoda.nvim - **_`[TS][LSP][L/D][Lua]`_** Muted green palette for focused, balanced editing.
 wurli/cobalt.nvim - https://github.com/wurli/cobalt.nvim - **_`[TS][LSP][Lua]`_** A (mostly) faithful port of the classic blue theme from TextMate.
