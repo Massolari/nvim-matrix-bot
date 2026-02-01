@@ -104,6 +104,7 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
   mgalliou/blink-cmp-tmux - https://github.com/mgalliou/blink-cmp-tmux - `blink.cmp` source for [tmux](https://github.com/tmux/tmux).
   moyiz/blink-emoji.nvim - https://github.com/moyiz/blink-emoji.nvim - `blink.cmp` source for GitHub Markdown emojis.
   erooke/blink-cmp-latex - https://github.com/erooke/blink-cmp-latex - `blink.cmp` source for LaTeX.
+  xieyonn/blink-cmp-dat-word - https://github.com/xieyonn/blink-cmp-dat-word - `blink.cmp` source for dictionary.
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 carlos-algms/agentic.nvim - https://github.com/carlos-algms/agentic.nvim - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
