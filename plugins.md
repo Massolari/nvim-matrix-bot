@@ -367,6 +367,7 @@ zongben/proot.nvim - https://github.com/zongben/proot.nvim - Lightweight project
 wsdjeg/rooter.nvim - https://github.com/wsdjeg/rooter.nvim - Change working directory to project root.
 cosmicbuffalo/root_swapper.nvim - https://github.com/cosmicbuffalo/root_swapper.nvim - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
 mrjones2014/codesettings.nvim - https://github.com/mrjones2014/codesettings.nvim - Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings.
+josephschmitt/pj.nvim - https://github.com/josephschmitt/pj.nvim - Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua).
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 backdround/tabscope.nvim - https://github.com/backdround/tabscope.nvim - Make tab-local buffers.
 j-morano/buffer_manager.nvim - https://github.com/j-morano/buffer_manager.nvim - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
@@ -893,6 +894,7 @@ Salanoid/gitlogdiff.nvim - https://github.com/Salanoid/gitlogdiff.nvim - Diff be
 Sengoku11/commitpad.nvim - https://github.com/Sengoku11/commitpad.nvim - Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer.
 BibekBhusal0/nvim-git-utils - https://github.com/BibekBhusal0/nvim-git-utils - Simple commands to make life easier while working with Git.
 spacedentist/resolve.nvim - https://github.com/spacedentist/resolve.nvim - Resolve merge conflicts with ease.
+jceb/jiejie.nvim - https://github.com/jceb/jiejie.nvim - Frontend for Jujutsu in the style of `fugitive`.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
