@@ -143,7 +143,7 @@ chatvim/chatvim.nvim - https://github.com/chatvim/chatvim.nvim - Chat with Markd
 3ZsForInsomnia/vs-code-companion - https://github.com/3ZsForInsomnia/vs-code-companion - Tool for importing VSCode's Markdown prompts into CodeCompanion.
 3ZsForInsomnia/token-count.nvim - https://github.com/3ZsForInsomnia/token-count.nvim - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 nishu-murmu/cursor-inline - https://github.com/nishu-murmu/cursor-inline - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
-codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration inside Neovim (no API key required).
+ishiooon/codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration, no API key required.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -792,6 +792,7 @@ zkucekovic/tdd.nvim - https://github.com/zkucekovic/tdd.nvim - Opens or creates 
 nvim-neotest/neotest-jest - https://github.com/nvim-neotest/neotest-jest - Neotest adapter for running Jest tests.
 MisanthropicBit/neotest-busted - https://github.com/MisanthropicBit/neotest-busted - Neotest adapter for running busted tests using Neovim as a Lua interpreter.
 mr-u0b0dy/crazy-coverage.nvim - https://github.com/mr-u0b0dy/crazy-coverage.nvim - Display code coverage.
+rafcamlet/nvim-luapad - https://github.com/rafcamlet/nvim-luapad - Interactive scratchpad for running Lua code.
 michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of any language directly from Neovim.
 CRAG666/code_runner.nvim - https://github.com/CRAG666/code_runner.nvim - The best code runner you could have, with super powers.
 is0n/jaq-nvim - https://github.com/is0n/jaq-nvim - Just Another Quickrun Plugin in Lua.
