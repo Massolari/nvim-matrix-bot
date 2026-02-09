@@ -73,6 +73,7 @@ yarospace/dev-tools.nvim - https://github.com/yarospace/dev-tools.nvim - In-proc
 SunnyTamang/neodoc.nvim - https://github.com/SunnyTamang/neodoc.nvim - DocString generator that helps writing function/classes docstrings in formats like `google`, `numpy`, `sphinx` with live preview.
 barreiroleo/ltex_extra.nvim - https://github.com/barreiroleo/ltex_extra.nvim - LTeX LSP extension providing external file handling (rules and dictionaries).
 chojs23/ts-bridge - https://github.com/chojs23/ts-bridge - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
+akioweh/lsp-document-highlight.nvim - https://github.com/akioweh/lsp-document-highlight.nvim - Instantaneous LSP symbol reference highlighting under the cursor.
 mason-org/mason.nvim - https://github.com/mason-org/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 sontungexpt/better-diagnostic-virtual-text - https://github.com/sontungexpt/better-diagnostic-virtual-text - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 ~whynothugo/lsp_lines.nvim - https://git.sr.ht/~whynothugo/lsp_lines.nvim - Render diagnostics using virtual lines on top of the real line of code.
@@ -144,6 +145,7 @@ chatvim/chatvim.nvim - https://github.com/chatvim/chatvim.nvim - Chat with Markd
 3ZsForInsomnia/token-count.nvim - https://github.com/3ZsForInsomnia/token-count.nvim - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 nishu-murmu/cursor-inline - https://github.com/nishu-murmu/cursor-inline - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 ishiooon/codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration, no API key required.
+alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
 brendalf/mix.nvim - https://github.com/brendalf/mix.nvim - Mix (from Elixir) wrapper plugin.
@@ -311,7 +313,7 @@ chrisgrieser/nvim-rip-substitute - https://github.com/chrisgrieser/nvim-rip-subs
 wsdjeg/flygrep.nvim - https://github.com/wsdjeg/flygrep.nvim - Search text in a floating window asynchronously.
 prochri/telescope-all-recent.nvim - https://github.com/prochri/telescope-all-recent.nvim - Frequency and recency sorter for any Telescope picker.
 mahyarmirrashed/search-and-replace.nvim - https://github.com/mahyarmirrashed/search-and-replace.nvim - Simple, effective, search and replace functionality for the pragmatic engineer.
-bravoecho/brook.nvim - https://github.com/bravoecho/brook.nvim - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation. 
+bravoecho/brook.nvim - https://github.com/bravoecho/brook.nvim - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
 nvim-telescope/telescope.nvim - https://github.com/nvim-telescope/telescope.nvim - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) A highly extensible fuzzy finder over lists.
 vijaymarupudi/nvim-fzf - https://github.com/vijaymarupudi/nvim-fzf - A Lua API for using FZF. Allows for full asynchronicity for UI speed and usability.
 camspiers/snap - https://github.com/camspiers/snap - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
@@ -1264,6 +1266,7 @@ LukasPietzschmann/telescope-tabs - https://github.com/LukasPietzschmann/telescop
 ariel-frischer/bmessages.nvim - https://github.com/ariel-frischer/bmessages.nvim - Replace the default `:messages` window with a configurable, auto-updating buffer.
 markgandolfo/lightswitch.nvim - https://github.com/markgandolfo/lightswitch.nvim - Toggle various options using the `nui.nvim` library.
 wsdjeg/calendar.nvim - https://github.com/wsdjeg/calendar.nvim - A simple floating calendar with extensions support.
+xieyonn/spinner.nvim - https://github.com/xieyonn/spinner.nvim - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
 tokiory/neovim-boilerplate - https://github.com/tokiory/neovim-boilerplate - Starter boilerplate for making new configurations.
 frans-johansson/lazy-nvim-starter - https://github.com/frans-johansson/lazy-nvim-starter - Starter boilerplate with lazy plugin manager.
 Vimawesome - https://vimawesome.com/ - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
