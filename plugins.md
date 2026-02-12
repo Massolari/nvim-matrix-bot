@@ -355,7 +355,7 @@ vodchella/hodur.nvim - https://github.com/vodchella/hodur.nvim - Allows you to q
 A7Lavinraj/fyler.nvim - https://github.com/A7Lavinraj/fyler.nvim - File manager which can edit file system like a buffer with tree view.
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Loads Neovim config depending on the project directory.
-DrKJeff16/project.nvim - https://github.com/DrKJeff16/project.nvim - An actively maintained fork of [`ahmedkhalf/project.nvim`](https://github.com/ahmedkhalf/project.nvim) with documented code, `fzf-lua` support and new features.
+DrKJeff16/project.nvim - https://github.com/DrKJeff16/project.nvim - Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support.
 klen/nvim-config-local - https://github.com/klen/nvim-config-local - Secure load local config files from working directories.
 cljoly/telescope-repo.nvim - https://github.com/cljoly/telescope-repo.nvim - Telescope picker to jump to any repository (Git or other) on the file system.
 otavioschwanck/telescope-alternate.nvim - https://github.com/otavioschwanck/telescope-alternate.nvim - Alternate between common files using telescope.
@@ -903,6 +903,7 @@ Sengoku11/commitpad.nvim - https://github.com/Sengoku11/commitpad.nvim - Write i
 BibekBhusal0/nvim-git-utils - https://github.com/BibekBhusal0/nvim-git-utils - Simple commands to make life easier while working with Git.
 spacedentist/resolve.nvim - https://github.com/spacedentist/resolve.nvim - Resolve merge conflicts with ease.
 jceb/jiejie.nvim - https://github.com/jceb/jiejie.nvim - Frontend for Jujutsu in the style of `fugitive`.
+chojs23/ec - https://github.com/chojs23/ec - A TUI native Git mergetool with 3 panes.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
