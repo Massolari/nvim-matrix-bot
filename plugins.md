@@ -857,7 +857,7 @@ Olical/conjure - https://github.com/Olical/conjure - Interactive evaluation (Clo
 rktjmp/hotpot.nvim - https://github.com/rktjmp/hotpot.nvim - Seamless, transparent Fennel inside Neovim.
 udayvir-singh/tangerine.nvim - https://github.com/udayvir-singh/tangerine.nvim - Tangerine provides a painless way to add Fennel to your config.
 udayvir-singh/hibiscus.nvim - https://github.com/udayvir-singh/hibiscus.nvim - Highly opinionated macros to elegantly write your config.
-DrKJeff16/pipenv.nvim - https://github.com/DrKJeff16/pipenv.nvim - Manage your [Pipenv](https://pypi.org/project/pipenv/) virtual environment while editing.
+DrKJeff16/pipenv.nvim - https://github.com/DrKJeff16/pipenv.nvim - Asynchronous `Pipenv` manager with `spinner.nvim` integration.
 vuki656/package-info.nvim - https://github.com/vuki656/package-info.nvim - Display latest package version as virtual text in package.json.
 Saecki/crates.nvim - https://github.com/Saecki/crates.nvim - Rust dependency management for `Cargo.toml`.
 piersolenski/import.nvim - https://github.com/piersolenski/import.nvim - Import modules faster based on what you've already imported in your project.
@@ -1060,6 +1060,7 @@ brenton-leighton/multiple-cursors.nvim - https://github.com/brenton-leighton/mul
 smoka7/multicursors.nvim - https://github.com/smoka7/multicursors.nvim - Provides a more intuitive way to edit repetitive text with multiple selections.
 tigion/swap.nvim - https://github.com/tigion/swap.nvim - Quickly switch a word under the cursor or a pattern in the current line.
 XXiaoA/atone.nvim - https://github.com/XXiaoA/atone.nvim - Undo tree for visualizing and managing undo history.
+nemanjamalesija/smart-paste.nvim - https://github.com/nemanjamalesija/smart-paste.nvim - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
 gennaro-tedesco/nvim-commaround - https://github.com/gennaro-tedesco/nvim-commaround - Fast and light commenting plugin written in Lua.
