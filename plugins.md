@@ -145,6 +145,7 @@ chatvim/chatvim.nvim - https://github.com/chatvim/chatvim.nvim - Chat with Markd
 3ZsForInsomnia/token-count.nvim - https://github.com/3ZsForInsomnia/token-count.nvim - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 nishu-murmu/cursor-inline - https://github.com/nishu-murmu/cursor-inline - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 ishiooon/codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration, no API key required.
+nickjvandyke/opencode.nvim - https://github.com/nickjvandyke/opencode.nvim - OpenCode AI assistant integration.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
@@ -227,6 +228,7 @@ YousefHadder/markdown-plus.nvim - https://github.com/YousefHadder/markdown-plus.
 Myzel394/easytables.nvim - https://github.com/Myzel394/easytables.nvim - Easily insert and edit Markdown tables with a live preview and useful helpers.
 tttol/md-outline.nvim - https://github.com/tttol/md-outline.nvim - Automatically displays an outline for Markdown files.
 rogue-87/inlyne.nvim - https://github.com/rogue-87/inlyne.nvim - Wrapper for [inlyne](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
+Prgebish/sigil.nvim - https://github.com/Prgebish/sigil.nvim - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of [phpactor](https://github.com/phpactor/phpactor).
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
@@ -372,6 +374,7 @@ wsdjeg/rooter.nvim - https://github.com/wsdjeg/rooter.nvim - Change working dire
 cosmicbuffalo/root_swapper.nvim - https://github.com/cosmicbuffalo/root_swapper.nvim - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
 mrjones2014/codesettings.nvim - https://github.com/mrjones2014/codesettings.nvim - Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings.
 josephschmitt/pj.nvim - https://github.com/josephschmitt/pj.nvim - Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua).
+TheLazyCat00/workspaces-nvim - https://github.com/TheLazyCat00/workspaces-nvim - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 backdround/tabscope.nvim - https://github.com/backdround/tabscope.nvim - Make tab-local buffers.
 j-morano/buffer_manager.nvim - https://github.com/j-morano/buffer_manager.nvim - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
@@ -732,6 +735,7 @@ rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ 
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 stikypiston/smudge.nvim - https://github.com/stikypiston/smudge.nvim - Performant cursor animations.
+TheLazyCat00/runner-nvim - https://github.com/TheLazyCat00/runner-nvim - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 LuxVim/nvim-luxterm - https://github.com/LuxVim/nvim-luxterm - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 waiting-for-dev/ergoterm.nvim - https://github.com/waiting-for-dev/ergoterm.nvim - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 ingur/floatty.nvim - https://github.com/ingur/floatty.nvim - A tiny (<200 LOC) but highly customizable floating terminal manager.
@@ -864,6 +868,7 @@ piersolenski/import.nvim - https://github.com/piersolenski/import.nvim - Import 
 Silletr/LazyDeveloperHelper - https://github.com/Silletr/LazyDeveloperHelper - Python dependencies manager, with auto-adding to your `requirements.txt` file.
 JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgunnar.nvim - C# dependency manager with support for handling references between projects and solution files.
 cosmicbuffalo/gem_install.nvim - https://github.com/cosmicbuffalo/gem_install.nvim - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
+YouSame2/inlinediff-nvim - https://github.com/YouSame2/inlinediff-nvim - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show Git blame info.
 trevorhauter/gitportal.nvim - https://github.com/trevorhauter/gitportal.nvim - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
