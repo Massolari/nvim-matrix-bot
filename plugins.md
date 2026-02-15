@@ -695,6 +695,7 @@ LintaoAmons/scratch.nvim - https://github.com/LintaoAmons/scratch.nvim - Create 
 0xJohnnyboy/scretch.nvim - https://github.com/0xJohnnyboy/scretch.nvim - Create and manage scratch files, scratch templates, with picker integrations.
 yutkat/confirm-quit.nvim - https://github.com/yutkat/confirm-quit.nvim - Confirm before quitting.
 bgaillard/readonly.nvim - https://github.com/bgaillard/readonly.nvim - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+zeybek/camouflage.nvim - https://github.com/zeybek/camouflage.nvim - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
 linrongbin16/gentags.nvim - https://github.com/linrongbin16/gentags.nvim - The tags generator/management for old school vimers.
 Zeioth/distroupdate.nvim - https://github.com/Zeioth/distroupdate.nvim - Distro agnostic updater to get the latest changes from the Git repository of your config.
 terje/simctl.nvim - https://github.com/terje/simctl.nvim - Interact with iOS Simulators.
@@ -724,6 +725,7 @@ wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files a
 leo-alvarenga/quoth.nvim - https://github.com/leo-alvarenga/quoth.nvim - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 stikypiston/cheaty.nvim - https://github.com/stikypiston/cheaty.nvim - A simple, configurable cheatsheet.
 stikypiston/unobtrusive-relnums.nvim - https://github.com/stikypiston/unobtrusive-relnums - Unobtrusive relative line numbers in the sign column.
+glyccogen/imprint.nvim - https://github.com/glyccogen/imprint.nvim - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
