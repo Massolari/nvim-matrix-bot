@@ -1199,6 +1199,7 @@ m4xshen/hardtime.nvim - https://github.com/m4xshen/hardtime.nvim - Helping you e
 saxon1964/neovim-tips - https://github.com/saxon1964/neovim-tips - Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips.
 ecthelionvi/NeoComposer.nvim - https://github.com/ecthelionvi/NeoComposer.nvim - Simplify macro management, enhance productivity, and create harmonious workflows.
 yagiziskirik/AirSupport.nvim - https://github.com/yagiziskirik/AirSupport.nvim - Searchable reminder window for your custom shortcuts and commands.
+aikhe/wrapped.nvim - https://github.com/aikhe/wrapped.nvim - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
 gisketch/triforce.nvim - https://github.com/gisketch/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your Neovim usage and visualize statistics easily.
