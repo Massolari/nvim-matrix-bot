@@ -114,6 +114,7 @@ blob42/codegpt-ng.nvim - https://github.com/blob42/codegpt-ng.nvim - Minimalist 
 Aaronik/GPTModels.nvim - https://github.com/Aaronik/GPTModels.nvim - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 Robitx/gp.nvim - https://github.com/Robitx/gp.nvim - ChatGPT like sessions and instructable text/code operations in your favorite editor.
 jackMort/ChatGPT.nvim - https://github.com/jackMort/ChatGPT.nvim - Effortless Natural Language Generation with OpenAI's ChatGPT API.
+wsdjeg/chat.nvim - https://github.com/wsdjeg/chat.nvim - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools. 
 CamdenClark/flyboy - https://github.com/CamdenClark/flyboy - Simple interaction with ChatGPT in a Markdown buffer. Supports GPT-4 and Azure OpenAI.
 gsuuon/model.nvim - https://github.com/gsuuon/model.nvim - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), `PaLM`, `Hugging Face`, and local engines like `llamacpp`.
 dense-analysis/neural - https://github.com/dense-analysis/neural - Integrate LLMs for generating code, interacting with chat bots, and more.
@@ -415,6 +416,7 @@ wsdjeg/cpicker.nvim - https://github.com/wsdjeg/cpicker.nvim - A lightweight col
 - **_`[L/D]`_** - Has both "light" and "dark" variants.
 - **_`[Lua]`_** - Is written in Lua.
 - **_`[Fnl]`_** - Is written in Fennel.
+oskarnurm/koda.nvim - https://github.com/oskarnurm/koda.nvim - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
 yonatan-perel/lake-dweller.nvim - https://github.com/yonatan-perel/lake-dweller.nvim - **_`[TS][LSP][Lua]`_** Dark and opinionated with selective highlighting aiming to be readable at a glance.
 silentium-theme/silentium.nvim - https://github.com/silentium-theme/silentium.nvim - **_`[TS][Luа]`_** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
 serhez/teide.nvim - https://github.com/serhez/teide.nvim - **_`[TS][LSP][L/D][Lua]`_** A fork of folke's `tokyonight.nvim` with a different color palette.
