@@ -74,6 +74,7 @@ SunnyTamang/neodoc.nvim - https://github.com/SunnyTamang/neodoc.nvim - DocString
 barreiroleo/ltex_extra.nvim - https://github.com/barreiroleo/ltex_extra.nvim - LTeX LSP extension providing external file handling (rules and dictionaries).
 chojs23/ts-bridge - https://github.com/chojs23/ts-bridge - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
 akioweh/lsp-document-highlight.nvim - https://github.com/akioweh/lsp-document-highlight.nvim - Instantaneous LSP symbol reference highlighting under the cursor.
+nemanjamalesija/ts-expand-hover.nvim - https://github.com/nemanjamalesija/ts-expand-hover.nvim - Progressively expand and collapse TypeScript type aliases inside the hover float.
 mason-org/mason.nvim - https://github.com/mason-org/mason.nvim - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 sontungexpt/better-diagnostic-virtual-text - https://github.com/sontungexpt/better-diagnostic-virtual-text - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 ~whynothugo/lsp_lines.nvim - https://git.sr.ht/~whynothugo/lsp_lines.nvim - Render diagnostics using virtual lines on top of the real line of code.
@@ -114,7 +115,7 @@ blob42/codegpt-ng.nvim - https://github.com/blob42/codegpt-ng.nvim - Minimalist 
 Aaronik/GPTModels.nvim - https://github.com/Aaronik/GPTModels.nvim - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 Robitx/gp.nvim - https://github.com/Robitx/gp.nvim - ChatGPT like sessions and instructable text/code operations in your favorite editor.
 jackMort/ChatGPT.nvim - https://github.com/jackMort/ChatGPT.nvim - Effortless Natural Language Generation with OpenAI's ChatGPT API.
-wsdjeg/chat.nvim - https://github.com/wsdjeg/chat.nvim - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools. 
+wsdjeg/chat.nvim - https://github.com/wsdjeg/chat.nvim - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools.
 CamdenClark/flyboy - https://github.com/CamdenClark/flyboy - Simple interaction with ChatGPT in a Markdown buffer. Supports GPT-4 and Azure OpenAI.
 gsuuon/model.nvim - https://github.com/gsuuon/model.nvim - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), `PaLM`, `Hugging Face`, and local engines like `llamacpp`.
 dense-analysis/neural - https://github.com/dense-analysis/neural - Integrate LLMs for generating code, interacting with chat bots, and more.
@@ -337,6 +338,7 @@ folke/snacks.nvim#picker - https://github.com/folke/snacks.nvim/blob/main/docs/p
 dmtrKovalenko/fff.nvim - https://github.com/dmtrKovalenko/fff.nvim - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, Git status bonuses and much more.
 wsdjeg/picker.nvim - https://github.com/wsdjeg/picker.nvim - Simple fuzzy finder, including files, ctags outline, and more.
 juniorsundar/refer.nvim - https://github.com/juniorsundar/refer.nvim - A minimalist picker that doesn't get in your way.
+dtormoen/neural-open.nvim - https://github.com/dtormoen/neural-open.nvim - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 nvim-tree/nvim-tree.lua - https://github.com/nvim-tree/nvim-tree.lua - A simple and fast file explorer tree.
 luukvbaal/nnn.nvim - https://github.com/luukvbaal/nnn.nvim - File explorer powered by [nnn](https://github.com/jarun/nnn) and Lua.
 tamago324/lir.nvim - https://github.com/tamago324/lir.nvim - Simple file explorer.
@@ -550,6 +552,7 @@ pebeto/dookie.nvim - https://github.com/pebeto/dookie.nvim - **_`[TS][Lua]`_** A
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - **_`[TS][Lua]`_** A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - **_`[Lua]`_** A port of cobalt2 colorscheme using colorbuddy.
 dybdeskarphet/gruvbox-minimal.nvim - https://github.com/dybdeskarphet/gruvbox-minimal.nvim - **_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster.
+taigrr/cyberpunk.nvim - https://github.com/taigrr/cyberpunk.nvim - **_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
@@ -646,6 +649,7 @@ AntonVanAssche/music-controls.nvim - https://github.com/AntonVanAssche/music-con
 neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written in Lua (RSS, Atom, JSON feed).
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
+sanjay-np/nvim-yt-player - https://github.com/sanjay-np/nvim-yt-player - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful TODO manager based on text.
 flashcodes-themayankjha/Fknotes.nvim - https://github.com/flashcodes-themayankjha/Fknotes.nvim - Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more.
 apdot/doodle - https://github.com/apdot/doodle - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
