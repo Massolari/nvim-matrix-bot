@@ -628,6 +628,7 @@ max397574/startup.nvim - https://github.com/max397574/startup.nvim - The fully c
 TobinPalmer/Tip.nvim - https://github.com/TobinPalmer/Tip.nvim - Get a simple tip on startup.
 CWood-sdf/spaceport.nvim - https://github.com/CWood-sdf/spaceport.nvim - The start screen that gets you to your projects blazingly fast.
 mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file you actually meant to load.
+Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - A dashboard, similar to GitHub homepage.
 leo-alvarenga/homecoming.nvim - https://github.com/leo-alvarenga/homecoming.nvim - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
