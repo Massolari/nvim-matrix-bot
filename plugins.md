@@ -82,6 +82,7 @@ folke/trouble.nvim - https://github.com/folke/trouble.nvim - A pretty diagnostic
 piersolenski/wtf.nvim - https://github.com/piersolenski/wtf.nvim - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
 chrisgrieser/nvim-rulebook - https://github.com/chrisgrieser/nvim-rulebook - Add inline-comments to ignore rules, or lookup rule documentation online.
 artemave/workspace-diagnostics.nvim - https://github.com/artemave/workspace-diagnostics.nvim - Populate diagnostics for all projects files, not just the opened ones.
+Kurama622/clean-diagnostic - https://github.com/Kurama622/clean-diagnostic - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
 ms-jpq/coq_nvim - https://github.com/ms-jpq/coq_nvim - Fast as FUCK completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 hrsh7th/nvim-cmp - https://github.com/hrsh7th/nvim-cmp - Completion engine written in Lua, successor of `nvim-compe`.
   hrsh7th/cmp-cmdline - https://github.com/hrsh7th/cmp-cmdline - `nvim-cmp` source for cmdline completion.
