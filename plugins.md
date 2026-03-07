@@ -796,6 +796,7 @@ igorlfs/nvim-dap-view - https://github.com/igorlfs/nvim-dap-view - A modern, min
 Carcuis/dap-breakpoints.nvim - https://github.com/Carcuis/dap-breakpoints.nvim - Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap.
 ravsii/nvim-dap-envfile - https://github.com/ravsii/nvim-dap-envfile - Automatic `envFile` support for nvim-dap.
 fschaal/azfunc.nvim - https://github.com/fschaal/azfunc.nvim - Seamlessly debug Azure Functions with automatic DAP integration.
+evanmcpheron/rocketlog.nvim - https://github.com/evanmcpheron/rocketlog.nvim - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
 kevinhwang91/nvim-bqf - https://github.com/kevinhwang91/nvim-bqf - Makes the quickfix window better.
 yorickpeterse/nvim-pqf - https://github.com/yorickpeterse/nvim-pqf - Prettier quickfix/location list windows.
 ashfinal/qfview.nvim - https://github.com/ashfinal/qfview.nvim - Pretty quickfix/location view with consistent path-shorten and folding.
@@ -842,6 +843,7 @@ chrisgrieser/nvim-justice - https://github.com/chrisgrieser/nvim-justice - Light
 pewpewnor/pilot.nvim - https://github.com/pewpewnor/pilot.nvim - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 ok97465/ipybridge.nvim - https://github.com/ok97465/ipybridge.nvim - Run Python code, execute Jupyter cells, debug, and explore variables.
 wsdjeg/code-runner.nvim - https://github.com/wsdjeg/code-runner.nvim - Async code runner with range support.
+mikeboiko/nvim-flow - https://github.com/mikeboiko/nvim-flow - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
 svermeulen/vimpeccable - https://github.com/svermeulen/vimpeccable - Commands to help write your .vimrc in Lua or any Lua based language.
@@ -1226,6 +1228,7 @@ zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database con
 kndndrj/nvim-dbee - https://github.com/kndndrj/nvim-dbee - Interactive database client.
 tashikomaaa/neomongo.nvim - https://github.com/tashikomaaa/neomongo.nvim - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 zerochae/dbab.nvim - https://github.com/zerochae/dbab.nvim - Lightweight database client with a modern UI and async execution.
+joryeugene/dadbod-grip.nvim - https://github.com/joryeugene/dadbod-grip.nvim - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 abdellatif-temsamani/adev.nvim - https://github.com/abdellatif-temsamani/adev.nvim - The over-engineered Neovim distribution for developers who want everything.
 pgosar/CyberNvim - https://github.com/pgosar/CyberNvim - The world's simplest and most extensible Neovim distribution.
 sontungexpt/stinvim - https://github.com/sontungexpt/stinvim - Configuration for Full-Stack developers.
