@@ -112,6 +112,7 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 carlos-algms/agentic.nvim - https://github.com/carlos-algms/agentic.nvim - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
+0xble/dotagent.nvim - https://github.com/0xble/dotagent.nvim - Command and skill completion for Claude Code and Codex-style prompt editors, configurable from local agent command and skill directories.
 blob42/codegpt-ng.nvim - https://github.com/blob42/codegpt-ng.nvim - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
 Aaronik/GPTModels.nvim - https://github.com/Aaronik/GPTModels.nvim - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 Robitx/gp.nvim - https://github.com/Robitx/gp.nvim - ChatGPT like sessions and instructable text/code operations in your favorite editor.
@@ -685,7 +686,7 @@ happyeric77/joplin.nvim - https://github.com/happyeric77/joplin.nvim - Joplin no
 ymich9963/mdnotes.nvim - https://github.com/ymich9963/mdnotes.nvim - Simple and improved Markdown note taking.
 nbeversl/urtext_neovim - https://github.com/nbeversl/urtext_neovim - An implementation of Urtext.
 losch/ztl - https://codeberg.org/losch/ztl - A fast static note generator in a single binary with everything built-in.
-stikypiston/studytools.nvim - https://github.com/stikypiston/studytools.nvim - Various utilities to enhance the studying and note-taking experience.
+indium114/studytools.nvim - https://github.com/indium114/studytools.nvim - Various utilities to enhance the studying and note-taking experience.
 iwe-org/iwe.nvim - https://github.com/iwe-org/iwe.nvim - Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows.
 carloscalla/notepad.nvim - https://github.com/carloscalla/notepad.nvim - Quick note-taking in Markdown with both repo-specific and global notepad support.
 StefanBartl/color_my_ascii.nvim - https://github.com/StefanBartl/color_my_ascii.nvim - Colorful highlighting of ASCII art in Markdown code blocks.
@@ -736,8 +737,8 @@ gaborvecsei/cryptoprice.nvim - https://github.com/gaborvecsei/cryptoprice.nvim -
 wsdjeg/mru.nvim - https://github.com/wsdjeg/mru.nvim - Manage and display your Most Recently Used (MRU) files.
 wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files and update tags option automatically.
 leo-alvarenga/quoth.nvim - https://github.com/leo-alvarenga/quoth.nvim - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
-stikypiston/cheaty.nvim - https://github.com/stikypiston/cheaty.nvim - A simple, configurable cheatsheet.
-stikypiston/unobtrusive-relnums.nvim - https://github.com/stikypiston/unobtrusive-relnums - Unobtrusive relative line numbers in the sign column.
+indium114/cheaty.nvim - https://github.com/indium114/cheaty.nvim - A simple, configurable cheatsheet.
+indium114/unobtrusive-relnums.nvim - https://github.com/indium114/unobtrusive-relnums - Unobtrusive relative line numbers in the sign column.
 glyccogen/imprint.nvim - https://github.com/glyccogen/imprint.nvim - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
@@ -749,7 +750,7 @@ nvim-mini/mini.nvim#mini.animate - https://github.com/nvim-mini/mini.nvim/blob/m
 rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
-stikypiston/smudge.nvim - https://github.com/stikypiston/smudge.nvim - Performant cursor animations.
+indium114/smudge.nvim - https://github.com/indium114/smudge.nvim - Performant cursor animations.
 TheLazyCat00/runner-nvim - https://github.com/TheLazyCat00/runner-nvim - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 LuxVim/nvim-luxterm - https://github.com/LuxVim/nvim-luxterm - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 waiting-for-dev/ergoterm.nvim - https://github.com/waiting-for-dev/ergoterm.nvim - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
