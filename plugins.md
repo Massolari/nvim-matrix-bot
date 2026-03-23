@@ -173,6 +173,7 @@ apyra/nvim-unity.nvim - https://github.com/apyra/nvim-unity - Use Neovim as your
 atomicptr/defold.nvim - https://github.com/atomicptr/defold.nvim - Batteries-included development environment for the Defold game engine.
 onlyati/quadlet-lsp.nvim - https://github.com/onlyati/quadlet-lsp.nvim - Provides completion, hover and other language server features for Podman Quadlet files.
 leblocks/hopcsharp.nvim - https://github.com/leblocks/hopcsharp.nvim - Provides LSP-less navigation and type-hierarchy information in C# repositories.
+AnsonH/copy-python-path.nvim - https://github.com/AnsonH/copy-python-path.nvim - Copy the reference or import path of a Python symbol.
 romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightweight plugin to manage struct field tags in Go files.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
