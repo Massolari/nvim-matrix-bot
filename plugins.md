@@ -263,6 +263,7 @@ IndianBoy42/tree-sitter-just - https://github.com/IndianBoy42/tree-sitter-just -
 fei6409/log-highlight.nvim - https://github.com/fei6409/log-highlight.nvim - Generic log syntax highlighting and log filetype management support.
 MeanderingProgrammer/treesitter-modules.nvim - https://github.com/MeanderingProgrammer/treesitter-modules.nvim - Original modules from nvim-treesitter master branch.
 BibekBhusal0/tree-hierarchy.nvim - https://github.com/BibekBhusal0/tree-hierarchy.nvim - Edit text and nevigate based on Tree-sitter.
+Sang-it/fluoride - https://github.com/Sang-it/fluoride - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 L3MON4D3/LuaSnip - https://github.com/L3MON4D3/LuaSnip - A snippet engine written in Lua.
 nvim-mini/mini.nvim#mini.snippets - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-snippets.md - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
 smjonas/snippet-converter.nvim - https://github.com/smjonas/snippet-converter.nvim - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
