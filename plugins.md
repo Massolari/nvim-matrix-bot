@@ -204,6 +204,7 @@ abidibo/nvim-httpyac - https://github.com/abidibo/nvim-httpyac - Provides integr
 rodrigoscc/nurl.nvim - https://github.com/rodrigoscc/nurl.nvim - HTTP client with requests defined in pure Lua.
 cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - Helps with CSS unit conversions.
 tednguyendev/recent_rails.nvim - https://github.com/tednguyendev/recent_rails.nvim - Telescope picker for recent Rails actions, views, and errors.
+ankushbhagats/liveserver.nvim - https://github.com/ankushbhagats/liveserver.nvim - Live-server integration with smart commands and a clickable lualine toggle.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through the job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
@@ -235,6 +236,7 @@ Myzel394/easytables.nvim - https://github.com/Myzel394/easytables.nvim - Easily 
 tttol/md-outline.nvim - https://github.com/tttol/md-outline.nvim - Automatically displays an outline for Markdown files.
 rogue-87/inlyne.nvim - https://github.com/rogue-87/inlyne.nvim - Wrapper for [inlyne](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
 Prgebish/sigil.nvim - https://github.com/Prgebish/sigil.nvim - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+satozawa/graft.nvim - https://github.com/satozawa/graft.nvim - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 gbprod/phpactor.nvim - https://github.com/gbprod/phpactor.nvim - Lua version of [phpactor](https://github.com/phpactor/phpactor).
 ta-tikoma/php.easy.nvim - https://github.com/ta-tikoma/php.easy.nvim - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
 TheLeoP/powershell.nvim - https://github.com/TheLeoP/powershell.nvim - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
@@ -557,6 +559,7 @@ metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - **_`[
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - **_`[Lua]`_** A port of cobalt2 colorscheme using colorbuddy.
 dybdeskarphet/gruvbox-minimal.nvim - https://github.com/dybdeskarphet/gruvbox-minimal.nvim - **_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster.
 taigrr/cyberpunk.nvim - https://github.com/taigrr/cyberpunk.nvim - **_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
+ankushbhagats/pastel.nvim - https://github.com/ankushbhagats/pastel.nvim - **_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
@@ -941,6 +944,7 @@ comatory/gh-co.nvim - https://github.com/comatory/gh-co.nvim - Show the code own
 3ZsForInsomnia/revman.nvim - https://github.com/3ZsForInsomnia/revman.nvim - Track PRs that need review automatically and open them in Octo.nvim.
 cd-4/git-needy.nvim - https://github.com/cd-4/git-needy.nvim - Keeps a tally of workflows that need to be reviewed in your statusbar.
 claydugo/browsher.nvim - https://github.com/claydugo/browsher.nvim - Create commit pinned links to GitHub hosted files/lines.
+gh-tui-tools/gh-review.nvim - https://github.com/gh-tui-tools/gh-review.nvim - Review GitHub PRs.
 harrisoncramer/GitLab.nvim - https://github.com/harrisoncramer/GitLab.nvim - Review pull requests and manage other GitLab resources.
 HawkinsT/pathfinder.nvim - https://github.com/HawkinsT/pathfinder.nvim - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
 nolleh/warp.nvim - https://github.com/nolleh/warp.nvim - Jump based on labels to file paths, URLs, and Markdown links from any buffer.
