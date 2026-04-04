@@ -112,6 +112,7 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
   yaocccc/blink-cmp-cmdlinehistory - https://github.com/yaocccc/blink-cmp-cmdlinehistory - `blink.cmp` source for cmdline and search history.
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+cursortab/cursortab.nvim - https://github.com/cursortab/cursortab.nvim - Edit completions and cursor predictions with multiple AI providers.
 carlos-algms/agentic.nvim - https://github.com/carlos-algms/agentic.nvim - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
 0xble/dotagent.nvim - https://github.com/0xble/dotagent.nvim - Command and skill completion for Claude Code and Codex-style prompt editors, configurable from local agent command and skill directories.
 blob42/codegpt-ng.nvim - https://github.com/blob42/codegpt-ng.nvim - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
