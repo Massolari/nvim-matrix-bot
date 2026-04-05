@@ -40,7 +40,7 @@ amrbashir/nvim-docs-view - https://github.com/amrbashir/nvim-docs-view - Display
 mfussenegger/nvim-jdtls - https://github.com/mfussenegger/nvim-jdtls - Extensions for the built-in LSP support for the Eclipse JDT Language Server.
 Kasama/nvim-custom-diagnostic-highlight - https://github.com/Kasama/nvim-custom-diagnostic-highlight - Inline diagnostics popup-highlight much like `coc-nvim` but based on `vim.diagnostic`.
 mrcjkb/haskell-tools.nvim - https://github.com/mrcjkb/haskell-tools.nvim - Seamless integration for Haskell development tools like `haskell-language-server` and Hoogle.
-p00f/clangd_extensions.nvim - https://github.com/p00f/clangd_extensions.nvim - Off-spec `clangd` features for the built-in LSP client.
+dchinmay2/clangd_extensions.nvim - https://github.com/dchinmay2/clangd_extensions.nvim - Off-spec `clangd` features for the built-in LSP client.
 ranjithshegde/ccls.nvim - https://github.com/ranjithshegde/ccls.nvim - Use off-spec extensions of ccls LSP and browse AST.
 idanarye/nvim-buffls - https://github.com/idanarye/nvim-buffls - Add LSP functionality to specific buffers.
 DNLHC/glance.nvim - https://github.com/DNLHC/glance.nvim - A pretty window for previewing, navigating and editing your LSP locations.
@@ -1216,7 +1216,7 @@ jim-fx/sudoku.nvim - https://github.com/jim-fx/sudoku.nvim - Classic sudoku puzz
 csessh/aoc.vim - https://github.com/csessh/aoc.nvim - Simple little elf who fetches Advent of Code puzzle input for you.
 seandewar/actually-doom.nvim - https://github.com/seandewar/actually-doom.nvim - Editing text is boring; play DOOM instead!.
 piersolenski/skifree.nvim - https://github.com/piersolenski/skifree.nvim - Play the Windows 3.1 SkiFree game.
-p00f/cphelper.nvim - https://github.com/p00f/cphelper.nvim - Helper for competitive programming written in Lua.
+dchinmay2/cphelper.nvim - https://github.com/dchinmay2/cphelper.nvim - Helper for competitive programming written in Lua.
 xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugin to automate testcases management and checking for Competitive Programming contests.
 barrettruth/cp.nvim - https://github.com/barrettruth/cp.nvim - Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel.
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
