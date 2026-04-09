@@ -254,6 +254,7 @@ walkersumida/deepl.nvim - https://github.com/walkersumida/deepl.nvim - Translate
 acidsugarx/babel.nvim - https://github.com/acidsugarx/babel.nvim - Translate text using Google Translate with async support, float display, and multi-picker integration.
 noir4y/comment-translate.nvim - https://github.com/noir4y/comment-translate.nvim - Translate code comments and strings using online as well as local LLMs or external translators.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Tree-sitter configurations and abstraction layer.
+romus204/tree-sitter-manager.nvim - https://github.com/romus204/tree-sitter-manager.nvim - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter` plugin.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
 kylechui/nvim-surround - https://github.com/kylechui/nvim-surround - A plugin for adding/changing/deleting surrounding delimiter pairs.
@@ -328,6 +329,7 @@ wsdjeg/flygrep.nvim - https://github.com/wsdjeg/flygrep.nvim - Search text in a 
 prochri/telescope-all-recent.nvim - https://github.com/prochri/telescope-all-recent.nvim - Frequency and recency sorter for any Telescope picker.
 mahyarmirrashed/search-and-replace.nvim - https://github.com/mahyarmirrashed/search-and-replace.nvim - Simple, effective, search and replace functionality for the pragmatic engineer.
 bravoecho/brook.nvim - https://github.com/bravoecho/brook.nvim - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
+KieranCanter/candela.nvim - https://github.com/KieranCanter/candela.nvim - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
 nvim-telescope/telescope.nvim - https://github.com/nvim-telescope/telescope.nvim - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) A highly extensible fuzzy finder over lists.
 vijaymarupudi/nvim-fzf - https://github.com/vijaymarupudi/nvim-fzf - A Lua API for using FZF. Allows for full asynchronicity for UI speed and usability.
 camspiers/snap - https://github.com/camspiers/snap - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
@@ -747,7 +749,7 @@ wsdjeg/mru.nvim - https://github.com/wsdjeg/mru.nvim - Manage and display your M
 wsdjeg/ctags.nvim - https://github.com/wsdjeg/ctags.nvim - Generate tags files and update tags option automatically.
 leo-alvarenga/quoth.nvim - https://github.com/leo-alvarenga/quoth.nvim - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 indium114/cheaty.nvim - https://github.com/indium114/cheaty.nvim - A simple, configurable cheatsheet.
-indium114/unobtrusive-relnums.nvim - https://github.com/indium114/unobtrusive-relnums - Unobtrusive relative line numbers in the sign column.
+indium114/unobtrusive-relnums.nvim - https://github.com/indium114/unobtrusive-relnums.nvim - Unobtrusive relative line numbers in the sign column.
 glyccogen/imprint.nvim - https://github.com/glyccogen/imprint.nvim - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 emrearmagan/dockyard.nvim - https://github.com/emrearmagan/dockyard.nvim - Docker dashboard for managing containers, images, networks, and logs.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
