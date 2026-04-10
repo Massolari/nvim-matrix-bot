@@ -189,6 +189,7 @@ Snikimonkd/cmp-go-pkgs - https://github.com/Snikimonkd/cmp-go-pkgs - Cmp source 
 Yu-Leo/gosigns.nvim - https://github.com/Yu-Leo/gosigns.nvim - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 Yu-Leo/cmp-go-pkgs - https://github.com/Yu-Leo/cmp-go-pkgs - Cmp source providing the names of Go packages to import.
 fredrikaverpil/godoc.nvim - https://github.com/fredrikaverpil/godoc.nvim - Fuzzy search Go packages/symbols and view docs.
+sjclayton/goplexity.nvim - https://github.com/sjclayton/goplexity.nvim - Time/space (Big-O) complexity analyzer for Golang.
 cuducos.me/yaml.nvim - https://tangled.org/cuducos.me/yaml.nvim - Utils to work with YAML files.
 mosheavni/yaml-companion.nvim - https://github.com/mosheavni/yaml-companion.nvim - Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support.
 rest-nvim/rest.nvim - https://github.com/rest-nvim/rest.nvim - A fast HTTP client written in Lua.
@@ -430,6 +431,7 @@ wsdjeg/cpicker.nvim - https://github.com/wsdjeg/cpicker.nvim - A lightweight col
 - **_`[L/D]`_** - Has both "light" and "dark" variants.
 - **_`[Lua]`_** - Is written in Lua.
 - **_`[Fnl]`_** - Is written in Fennel.
+ThorstenRhau/token - https://github.com/ThorstenRhau/token - **_`[TS][LSP][L/D][Lua]`_** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 oskarnurm/koda.nvim - https://github.com/oskarnurm/koda.nvim - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
 yonatan-perel/lake-dweller.nvim - https://github.com/yonatan-perel/lake-dweller.nvim - **_`[TS][LSP][Lua]`_** Dark and opinionated with selective highlighting aiming to be readable at a glance.
 silentium-theme/silentium.nvim - https://github.com/silentium-theme/silentium.nvim - **_`[TS][Luа]`_** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
