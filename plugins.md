@@ -568,6 +568,7 @@ dybdeskarphet/gruvbox-minimal.nvim - https://github.com/dybdeskarphet/gruvbox-mi
 taigrr/cyberpunk.nvim - https://github.com/taigrr/cyberpunk.nvim - **_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 ankushbhagats/pastel.nvim - https://github.com/ankushbhagats/pastel.nvim - **_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 0x-ximon/acario.nvim - https://github.com/0x-ximon/acario.nvim - **_`[TS][LSP][L/D][Lua]`_** A port of the clean, high-contrast Doom Emacs Acario theme.
+hyperb1iss/silkcircuit - https://github.com/hyperb1iss/silkcircuit - **_`[TS][LSP][L/D][Lua]`_** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
