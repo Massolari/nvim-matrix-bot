@@ -392,6 +392,7 @@ wsdjeg/rooter.nvim - https://github.com/wsdjeg/rooter.nvim - Change working dire
 cosmicbuffalo/root_swapper.nvim - https://github.com/cosmicbuffalo/root_swapper.nvim - Lightweight root swapper that uses `lcd` to swap to the appropriate root directory based on the current buffer.
 mrjones2014/codesettings.nvim - https://github.com/mrjones2014/codesettings.nvim - Easily load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings.
 josephschmitt/pj.nvim - https://github.com/josephschmitt/pj.nvim - Automatic project discovery with configurable depth with multiple pickers supported (Snacks, Telescope, fzf-lua).
+martuscellifaria/ahoicpp.nvim - https://github.com/martuscellifaria/ahoicpp.nvim - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
 TheLazyCat00/workspaces-nvim - https://github.com/TheLazyCat00/workspaces-nvim - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 backdround/tabscope.nvim - https://github.com/backdround/tabscope.nvim - Make tab-local buffers.
