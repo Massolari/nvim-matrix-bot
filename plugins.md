@@ -63,6 +63,7 @@ jmbuhr/otter.nvim - https://github.com/jmbuhr/otter.nvim - Provides LSP features
 lopi-py/luau-lsp.nvim - https://github.com/lopi-py/luau-lsp.nvim - A luau-lsp extension to improve your experience.
 LukasPietzschmann/boo.nvim - https://github.com/LukasPietzschmann/boo.nvim - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 zeioth/garbage-day.nvim - https://github.com/Zeioth/garbage-day.nvim - Garbage collector that stops inactive LSP clients to free RAM.
+ryan-WORK/ohm - https://github.com/ryan-WORK/ohm - A persistent LSP process manager daemon for Neovim. Fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
 rachartier/tiny-inline-diagnostic.nvim - https://github.com/rachartier/tiny-inline-diagnostic.nvim - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 chrisgrieser/nvim-lsp-endhints - https://github.com/chrisgrieser/nvim-lsp-endhints - Display LSP inlay hints at the end of the line, rather than within the line.
 rachartier/tiny-code-action.nvim - https://github.com/rachartier/tiny-code-action.nvim - Provides a simple way to run and visualize code actions with Telescope.
@@ -572,6 +573,7 @@ taigrr/cyberpunk.nvim - https://github.com/taigrr/cyberpunk.nvim - **_`[TS][LSP]
 ankushbhagats/pastel.nvim - https://github.com/ankushbhagats/pastel.nvim - **_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 0x-ximon/acario.nvim - https://github.com/0x-ximon/acario.nvim - **_`[TS][LSP][L/D][Lua]`_** A port of the clean, high-contrast Doom Emacs Acario theme.
 hyperb1iss/silkcircuit - https://github.com/hyperb1iss/silkcircuit - **_`[TS][LSP][L/D][Lua]`_** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
+T-b-t-nchos/Aquavium.nvim - https://github.com/T-b-t-nchos/Aquavium.nvim - **_`[TS][Lua]`_** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
