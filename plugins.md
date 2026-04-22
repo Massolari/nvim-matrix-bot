@@ -178,6 +178,7 @@ atomicptr/defold.nvim - https://github.com/atomicptr/defold.nvim - Batteries-inc
 onlyati/quadlet-lsp.nvim - https://github.com/onlyati/quadlet-lsp.nvim - Provides completion, hover and other language server features for Podman Quadlet files.
 leblocks/hopcsharp.nvim - https://github.com/leblocks/hopcsharp.nvim - Provides LSP-less navigation and type-hierarchy information in C# repositories.
 AnsonH/copy-python-path.nvim - https://github.com/AnsonH/copy-python-path.nvim - Copy the reference or import path of a Python symbol.
+J-Cowsert/classlayout.nvim - https://github.com/J-Cowsert/classlayout.nvim - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
 romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightweight plugin to manage struct field tags in Go files.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
@@ -1292,6 +1293,7 @@ ayamir/nvimdots - https://github.com/ayamir/nvimdots - A well-configured and str
 adoyle-h/one.nvim - https://github.com/adoyle-h/one.nvim - All-in-one config framework in Lua.
 nvim-mini/MiniMax - https://github.com/nvim-mini/MiniMax - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 TheItcor/MoaiVim - https://github.com/TheItcor/MoaiVim - A minimalist config that emulates a lightweight IDE.
+plutowang/nvim.pack - https://github.com/plutowang/nvim.pack - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 MordechaiHadad/bob - https://github.com/MordechaiHadad/bob - A cross-platform, easy to use Neovim version manager.
 NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and blazingly fast Neovim version manager.
 y3owk1n/nvs - https://github.com/y3owk1n/nvs - Another Neovim version manager with config switcher.
