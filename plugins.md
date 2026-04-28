@@ -652,6 +652,7 @@ CWood-sdf/spaceport.nvim - https://github.com/CWood-sdf/spaceport.nvim - The sta
 mong8se/actually.nvim - https://github.com/mong8se/actually.nvim - Load the file you actually meant to load.
 Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - A dashboard, similar to GitHub homepage.
 leo-alvarenga/homecoming.nvim - https://github.com/leo-alvarenga/homecoming.nvim - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
+Amansingh-afk/milli.nvim - https://github.com/Amansingh-afk/milli.nvim - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
