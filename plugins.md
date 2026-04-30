@@ -314,6 +314,7 @@ y3owk1n/warp.nvim - https://github.com/y3owk1n/warp.nvim - Simple harpoon altern
 walkersumida/fusen.nvim - https://github.com/walkersumida/fusen.nvim - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
 markgandolfo/dartboard.nvim - https://github.com/markgandolfo/dartboard.nvim - Mark files and quickly access them, inspired by Harpoon and Lasso.
 dimtion/guttermarks.nvim - https://github.com/dimtion/guttermarks.nvim - Display marks in the buffer gutter.
+adithyasource/spearmint.nvim - https://github.com/adithyasource/spearmint.nvim - Lightweight harpoon-style marks with terminal support.
 2KAbhishek/seeker.nvim - https://github.com/2KAbhishek/seeker.nvim - Progressive file seeker built on top of `snacks.nvim`.
 wurli/visimatch.nvim - https://github.com/wurli/visimatch.nvim - Adds highlights to any text matching the current selection in visual mode.
 kevinhwang91/nvim-hlslens - https://github.com/kevinhwang91/nvim-hlslens - Helps you better glance searched information, seamlessly jump matched instances.
@@ -711,6 +712,7 @@ losch/ztl - https://codeberg.org/losch/ztl - A fast static note generator in a s
 indium114/studytools.nvim - https://github.com/indium114/studytools.nvim - Various utilities to enhance the studying and note-taking experience.
 iwe-org/iwe.nvim - https://github.com/iwe-org/iwe.nvim - Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows.
 carloscalla/notepad.nvim - https://github.com/carloscalla/notepad.nvim - Quick note-taking in Markdown with both repo-specific and global notepad support.
+MattHandzel/taskwarrior.nvim - https://github.com/MattHandzel/taskwarrior.nvim - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 StefanBartl/color_my_ascii.nvim - https://github.com/StefanBartl/color_my_ascii.nvim - Colorful highlighting of ASCII art in Markdown code blocks.
 necrom4/calcium.nvim - https://github.com/necrom4/calcium.nvim - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
 code-biscuits/nvim-biscuits - https://github.com/code-biscuits/nvim-biscuits - A port of Assorted Biscuits. Ends up with more supported languages too.
