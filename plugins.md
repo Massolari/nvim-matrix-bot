@@ -337,6 +337,7 @@ prochri/telescope-all-recent.nvim - https://github.com/prochri/telescope-all-rec
 mahyarmirrashed/search-and-replace.nvim - https://github.com/mahyarmirrashed/search-and-replace.nvim - Simple, effective, search and replace functionality for the pragmatic engineer.
 bravoecho/brook.nvim - https://github.com/bravoecho/brook.nvim - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
 KieranCanter/candela.nvim - https://github.com/KieranCanter/candela.nvim - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
+ankushbhagats/match.nvim - https://github.com/ankushbhagats/match.nvim - Minimal floating search-and-replace with live match tracking, navigation, and quick replacements.
 nvim-telescope/telescope.nvim - https://github.com/nvim-telescope/telescope.nvim - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) A highly extensible fuzzy finder over lists.
 vijaymarupudi/nvim-fzf - https://github.com/vijaymarupudi/nvim-fzf - A Lua API for using FZF. Allows for full asynchronicity for UI speed and usability.
 camspiers/snap - https://github.com/camspiers/snap - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
@@ -678,6 +679,7 @@ neo451/feed.nvim - https://github.com/neo451/feed.nvim - Web feed reader written
 vyfor/cord.nvim - https://github.com/vyfor/cord.nvim - Highly extensible Rich Presence for Discord.
 iamt4nk/smm.nvim - https://github.com/iamt4nk/smm.nvim - Small TUI that allows for controlling Spotify playback.
 sanjay-np/nvim-yt-player - https://github.com/sanjay-np/nvim-yt-player - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+DaFi-1/tasknvim - https://github.com/DaFi-1/tasknvim - A simple tool for life and personal development that helps organize goals, track habits, and improve productivity.
 niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful TODO manager based on text.
 flashcodes-themayankjha/Fknotes.nvim - https://github.com/flashcodes-themayankjha/Fknotes.nvim - Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more.
 apdot/doodle - https://github.com/apdot/doodle - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
