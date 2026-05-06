@@ -1,3 +1,4 @@
+alyxshang/nuwa.nvim - https://source.alyxshang.boo/alyxshang/nuwa.nvim - A light package manager.
 lewis6991/pckr.nvim - https://github.com/lewis6991/pckr.nvim - Spiritual successor of `wbthomason/packer.nvim`.
 savq/paq-nvim - https://github.com/savq/paq-nvim - Package manager written in Lua.
 NTBBloodbath/cheovim - https://github.com/NTBBloodbath/cheovim - A configuration switcher written in Lua. Inspired by [chemacs](https://github.com/plexus/chemacs).
@@ -613,6 +614,7 @@ luukvbaal/statuscol.nvim - https://github.com/luukvbaal/statuscol.nvim - Configu
 mawkler/hml.nvim - https://github.com/mawkler/hml.nvim - Adds `H`/`M`/`L` indicators to your line numbers.
 neur1n/noline.nvim - https://github.com/neur1n/noline.nvim - Fully customizable bars and lines components with no presets nor constraints.
 OXY2DEV/bars.nvim - https://github.com/OXY2DEV/bars.nvim - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
+zaakiy/line-justice.nvim - https://github.com/zaakiy/line-justice.nvim - Shows both absolute and relative line numbers simultaneously.
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - A light-weight and super fast statusline plugin written in Lua.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
 sontungexpt/witch-line - https://github.com/sontungexpt/witch-line - A blazing fast statusline based on reference concept.
