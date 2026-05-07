@@ -634,6 +634,7 @@ MunifTanjim/nougat.nvim - https://github.com/MunifTanjim/nougat.nvim - Hyperexte
 Mr-LLLLL/lualine-ext.nvim - https://github.com/Mr-LLLLL/lualine-ext.nvim - Show more information on lualine.
 mikesmithgh/git-prompt-string-lualine.nvim - https://github.com/mikesmithgh/git-prompt-string-lualine.nvim - Add git-prompt-string to your statusline.
 sschleemilch/slimline.nvim - https://github.com/sschleemilch/slimline.nvim - A slim, minimal and opinionated Lua statusline.
+tajirhas9/muslim.nvim - https://github.com/tajirhas9/muslim.nvim - Get prayer times and useful islamic essentials in your statusline.
 romgrk/barbar.nvim - https://github.com/romgrk/barbar.nvim - A tabline with re-orderable, auto-sizing, clickable tabs, icons, nice highlighting, sort-by commands and a magic jump-to-buffer mode.
 akinsho/bufferline.nvim - https://github.com/akinsho/bufferline.nvim - A snazzy bufferline built using Lua.
 crispgm/nvim-tabline - https://github.com/crispgm/nvim-tabline - A port of `tabline.vim` written in Lua.
