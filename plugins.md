@@ -582,6 +582,7 @@ ankushbhagats/pastel.nvim - https://github.com/ankushbhagats/pastel.nvim - **_`[
 0x-ximon/acario.nvim - https://github.com/0x-ximon/acario.nvim - **_`[TS][LSP][L/D][Lua]`_** A port of the clean, high-contrast Doom Emacs Acario theme.
 hyperb1iss/silkcircuit - https://github.com/hyperb1iss/silkcircuit - **_`[TS][LSP][L/D][Lua]`_** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 T-b-t-nchos/Aquavium.nvim - https://github.com/T-b-t-nchos/Aquavium.nvim - **_`[TS][Lua]`_** Aquarium-themed color scheme, designed for use with a transparent terminal background.
+54L1M/Oshen.nvim - https://github.com/54L1M/Oshen.nvim - **_`[TS][LSP][Lua]`_** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
@@ -834,6 +835,7 @@ Carcuis/dap-breakpoints.nvim - https://github.com/Carcuis/dap-breakpoints.nvim -
 ravsii/nvim-dap-envfile - https://github.com/ravsii/nvim-dap-envfile - Automatic `envFile` support for nvim-dap.
 fschaal/azfunc.nvim - https://github.com/fschaal/azfunc.nvim - Seamlessly debug Azure Functions with automatic DAP integration.
 evanmcpheron/rocketlog.nvim - https://github.com/evanmcpheron/rocketlog.nvim - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
+NickTsaizer/splitasm.nvim - https://github.com/NickTsaizer/splitasm.nvim - View compiled assembly output side by side with source code, with synchronized cursor movement.
 kevinhwang91/nvim-bqf - https://github.com/kevinhwang91/nvim-bqf - Makes the quickfix window better.
 yorickpeterse/nvim-pqf - https://github.com/yorickpeterse/nvim-pqf - Prettier quickfix/location list windows.
 ashfinal/qfview.nvim - https://github.com/ashfinal/qfview.nvim - Pretty quickfix/location view with consistent path-shorten and folding.
@@ -1252,6 +1254,10 @@ xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugi
 barrettruth/cp.nvim - https://github.com/barrettruth/cp.nvim - Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel.
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
 2KAbhishek/exercism.nvim - https://github.com/2KAbhishek/exercism.nvim - Browse and solve Exercism problems.
+folke/drop.nvim - https://github.com/folke/drop.nvim - Screensavers with support for dashboards.
+axsaucedo/neovim-power-mode - https://github.com/axsaucedo/neovim-power-mode - Combo counter, particle effects and explosions for your editor.
+jerrywang1981/keystroke.nvim - https://github.com/jerrywang1981/keystroke.nvim - Play sounds and do other things as you type.
+cxwx/keywound.nvim - https://github.com/cxwx/keysound.nvim - Play a sound on each keystroke, supports customizable sounds.
 letieu/jira.nvim - https://github.com/letieu/jira.nvim - Manage Jira tasks with a beautiful UI.
 m4xshen/hardtime.nvim - https://github.com/m4xshen/hardtime.nvim - Helping you establish good command workflow and habit.
 saxon1964/neovim-tips - https://github.com/saxon1964/neovim-tips - Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips.
