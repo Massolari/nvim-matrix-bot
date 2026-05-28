@@ -384,6 +384,7 @@ saifulapm/neotree-file-nesting-config - https://github.com/saifulapm/neotree-fil
 Enigama/miss.nvim - https://github.com/Enigama/miss.nvim - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
 vodchella/hodur.nvim - https://github.com/vodchella/hodur.nvim - Allows you to quickly open a file or copy URL located under cursor.
 A7Lavinraj/fyler.nvim - https://github.com/A7Lavinraj/fyler.nvim - File manager which can edit file system like a buffer with tree view.
+adriancmiranda/glimpse.nvim - https://github.com/adriancmiranda/glimpse.nvim - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Loads Neovim config depending on the project directory.
 DrKJeff16/project.nvim - https://github.com/DrKJeff16/project.nvim - Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support.
@@ -1137,6 +1138,7 @@ numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and pow
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
 gennaro-tedesco/nvim-commaround - https://github.com/gennaro-tedesco/nvim-commaround - Fast and light commenting plugin written in Lua.
 folke/todo-comments.nvim - https://github.com/folke/todo-comments.nvim - Highlight, list and search TODO comments in your projects.
+kuri-sun/todoage.nvim - https://github.com/kuri-sun/todoage.nvim - Show how old your TODOs are.
 alexmozaidze/tree-comment.nvim - https://github.com/alexmozaidze/tree-comment.nvim - Highlight and configure TODO comments for [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment).
 terrortylor/nvim-comment - https://github.com/terrortylor/nvim-comment - Toggle comments using the built-in commentstring option.
 winston0410/commented.nvim - https://github.com/winston0410/commented.nvim - A commenting plugin which supports counts and multiple comment patterns and much more.
