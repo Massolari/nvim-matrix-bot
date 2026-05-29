@@ -385,6 +385,7 @@ Enigama/miss.nvim - https://github.com/Enigama/miss.nvim - Simple popup with cha
 vodchella/hodur.nvim - https://github.com/vodchella/hodur.nvim - Allows you to quickly open a file or copy URL located under cursor.
 A7Lavinraj/fyler.nvim - https://github.com/A7Lavinraj/fyler.nvim - File manager which can edit file system like a buffer with tree view.
 adriancmiranda/glimpse.nvim - https://github.com/adriancmiranda/glimpse.nvim - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
+karshPrime/switchboard.nvim - https://github.com/karshPrime/switchboard.nvim - Define "run", "build", or any custom command/bind per language or project, then use the same keybinds everywhere.
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Loads Neovim config depending on the project directory.
 DrKJeff16/project.nvim - https://github.com/DrKJeff16/project.nvim - Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support.
