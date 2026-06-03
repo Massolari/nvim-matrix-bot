@@ -589,6 +589,7 @@ ankushbhagats/pastel.nvim - https://github.com/ankushbhagats/pastel.nvim - **_`[
 hyperb1iss/silkcircuit - https://github.com/hyperb1iss/silkcircuit - **_`[TS][LSP][L/D][Lua]`_** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 T-b-t-nchos/Aquavium.nvim - https://github.com/T-b-t-nchos/Aquavium.nvim - **_`[TS][Lua]`_** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 54L1M/Oshen.nvim - https://github.com/54L1M/Oshen.nvim - **_`[TS][LSP][Lua]`_** Dark colorscheme inspired by deep ocean water at night, derived entirely from five source colors.
+marekh19/meowsoot.nvim - https://github.com/marekh19/meowsoot.nvim - **_`[TS][LSP][L/D][Lua]`_** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define Neovim themes as a DSL in Lua, with real-time feedback.
