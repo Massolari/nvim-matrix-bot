@@ -782,6 +782,7 @@ indium114/cheaty.nvim - https://github.com/indium114/cheaty.nvim - A simple, con
 indium114/unobtrusive-relnums.nvim - https://github.com/indium114/unobtrusive-relnums.nvim - Unobtrusive relative line numbers in the sign column.
 glyccogen/imprint.nvim - https://github.com/glyccogen/imprint.nvim - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 emrearmagan/dockyard.nvim - https://github.com/emrearmagan/dockyard.nvim - Docker dashboard for managing containers, images, networks, and logs.
+ChuYanLon/telegram.nvim - https://github.com/ChuYanLon/telegram.nvim - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
