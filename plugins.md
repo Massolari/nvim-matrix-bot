@@ -157,6 +157,7 @@ chatvim/chatvim.nvim - https://github.com/chatvim/chatvim.nvim - Chat with Markd
 3ZsForInsomnia/vs-code-companion - https://github.com/3ZsForInsomnia/vs-code-companion - Tool for importing VSCode's Markdown prompts into CodeCompanion.
 3ZsForInsomnia/token-count.nvim - https://github.com/3ZsForInsomnia/token-count.nvim - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 nishu-murmu/cursor-inline - https://github.com/nishu-murmu/cursor-inline - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
+alsi-lawr/agent-term.nvim - https://github.com/alsi-lawr/agent-term.nvim - Terminal-agent UI with persistent views, lightweight hook-based editor context, and extensible presets for any native AI TUI.
 ishiooon/codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration, no API key required.
 nickjvandyke/opencode.nvim - https://github.com/nickjvandyke/opencode.nvim - OpenCode AI assistant integration.
 taigrr/neocrush.nvim - https://github.com/taigrr/neocrush.nvim - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
