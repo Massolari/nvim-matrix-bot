@@ -1017,6 +1017,7 @@ Aaronik/Treewalker.nvim - https://github.com/aaronik/Treewalker.nvim - Move seam
 timseriakov/spamguard.nvim - https://github.com/timseriakov/spamguard.nvim - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.
 millerjason/neovimacs.nvim - https://github.com/millerjason/neovimacs.nvim - Provides Emacs movement and buffer keybindings while in insert mode.
 kiyoon/repeatable-move.nvim - https://github.com/kiyoon/repeatable-move.nvim - Make any motion repeatable with `;` and `,` keys.
+kkew3/jieba.vim - https://github.com/kkew3/jieba.vim - Word motions and word text objects for Chinese.
 mfussenegger/nvim-treehopper - https://github.com/mfussenegger/nvim-treehopper - Region selection with hints on the AST nodes of a document powered by Tree-sitter.
 drybalka/tree-climber.nvim - https://github.com/drybalka/tree-climber.nvim - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
 atusy/treemonkey.nvim - https://github.com/atusy/treemonkey.nvim - Region selection with Tree-sitter nodes.
