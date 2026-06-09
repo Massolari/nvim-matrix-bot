@@ -893,6 +893,7 @@ pewpewnor/pilot.nvim - https://github.com/pewpewnor/pilot.nvim - Run your projec
 ok97465/ipybridge.nvim - https://github.com/ok97465/ipybridge.nvim - Run Python code, execute Jupyter cells, debug, and explore variables.
 wsdjeg/code-runner.nvim - https://github.com/wsdjeg/code-runner.nvim - Async code runner with range support.
 mikeboiko/nvim-flow - https://github.com/mikeboiko/nvim-flow - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+negativo/nx-nvim - https://github.com/negativo/nx-nvim - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 saghen/blink.lib - https://github.com/saghen/blink.lib - Generic utilities for all other `blink.*` plugins.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your Neovim plugins to LuaRocks.
@@ -1365,6 +1366,7 @@ wsdjeg/calendar.nvim - https://github.com/wsdjeg/calendar.nvim - A simple floati
 xieyonn/spinner.nvim - https://github.com/xieyonn/spinner.nvim - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
 quickui.nvim - https://github.com/mjmjm0101/quickui.nvim - Structured, keyboard-driven menus and context menus with nested navigation.
 ln.nvim - https://github.com/markosnarinian/ln.nvim - Relative numbers on the active window, absolute everywhere else.
+nvim-mini/mini.nvim#mini.input - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
 tokiory/neovim-boilerplate - https://github.com/tokiory/neovim-boilerplate - Starter boilerplate for making new configurations.
 frans-johansson/lazy-nvim-starter - https://github.com/frans-johansson/lazy-nvim-starter - Starter boilerplate with lazy plugin manager.
 Vimawesome - https://vimawesome.com/ - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
