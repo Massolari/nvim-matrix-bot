@@ -79,6 +79,7 @@ chojs23/ts-bridge - https://github.com/chojs23/ts-bridge - TypeScript language s
 akioweh/lsp-document-highlight.nvim - https://github.com/akioweh/lsp-document-highlight.nvim - Instantaneous LSP symbol reference highlighting under the cursor.
 nemanjamalesija/ts-expand-hover.nvim - https://github.com/nemanjamalesija/ts-expand-hover.nvim - Progressively expand and collapse TypeScript type aliases inside the hover float.
 mason-org/mason.nvim - https://github.com/mason-org/mason.nvim - Easily install and manage LSP servers, DAP servers, linters, and formatters.
+Crysthamus/nvim-file-operations - https://github.com/Crysthamus/nvim-file-operations - Add support for workspace file operations using built-in LSPs.
 sontungexpt/better-diagnostic-virtual-text - https://github.com/sontungexpt/better-diagnostic-virtual-text - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 ~whynothugo/lsp_lines.nvim - https://git.sr.ht/~whynothugo/lsp_lines.nvim - Render diagnostics using virtual lines on top of the real line of code.
 folke/trouble.nvim - https://github.com/folke/trouble.nvim - A pretty diagnostics list to help you solve all the trouble your code is causing.
