@@ -11,6 +11,7 @@ wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous plugin man
 piersolenski/plugin-addict.nvim - https://github.com/piersolenski/plugin-addict.nvim - A stupidly simple way to quickly install plugins.
 OriginCoderPulse/synapse.nvim - https://github.com/OriginCoderPulse/synapse.nvim - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 zuqini/zpack.nvim - https://github.com/zuqini/zpack.nvim - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
+nvim-pio - https://github.com/batoaqaa/nvim-pio - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
 neovim/nvim-lspconfig - https://github.com/neovim/nvim-lspconfig - Quickstart configurations for the LSP client.
@@ -271,7 +272,7 @@ walkersumida/deepl.nvim - https://github.com/walkersumida/deepl.nvim - Translate
 acidsugarx/babel.nvim - https://github.com/acidsugarx/babel.nvim - Translate text using Google Translate with async support, float display, and multi-picker integration.
 noir4y/comment-translate.nvim - https://github.com/noir4y/comment-translate.nvim - Translate code comments and strings using online as well as local LLMs or external translators.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Tree-sitter configurations and abstraction layer.
-romus204/tree-sitter-manager.nvim - https://github.com/romus204/tree-sitter-manager.nvim - A lightweight Tree-sitter parser manager to replace the archived `nvim-treesitter` plugin.
+romus204/tree-sitter-manager.nvim - https://github.com/romus204/tree-sitter-manager.nvim - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter`.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
 kylechui/nvim-surround - https://github.com/kylechui/nvim-surround - A plugin for adding/changing/deleting surrounding delimiter pairs.
@@ -581,7 +582,7 @@ m15a/nvim-srcerite - https://codeberg.org/m15a/nvim-srcerite - **_`[TS][Lua]`_**
 neko-night/nvim - https://github.com/neko-night/nvim - **_`[TS][LSP][L/D][Lua]`_** A buffet of colorschemes for every taste and mood.
 ptdewey/monalisa-nvim - https://github.com/ptdewey/monalisa-nvim - **_`[TS][LSP][Lua]`_** A dark and colorful Mona Lisa inspired colorscheme.
 ntk148v/slack.nvim - https://github.com/ntk148v/slack.nvim - **_`[TS][L/D][Lua]`_** A ported Slack colorscheme.
-y3owk1n/base16-pro-max.nvim - https://github.com/y3owk1n/base16-pro-max.nvim - **_`[TS][LSP][Lua]`_** Base16 for modern editing — not just colors.
+y3owk1n/base16-pro-max.nvim - https://github.com/y3owk1n/base16-pro-max.nvim - **_`[TS][LSP][Lua]`_** Base16 with 16 colors + syntax, transparency, dimmed inactive panes, semantic aliases, live blends, overrides, and first-class plugin integrations.
 ellisonleao/gruvbox.nvim - https://github.com/ellisonleao/gruvbox.nvim - **_`[TS][LSP][L/D][Lua]`_** Gruvbox community colorscheme Lua port.
 pmouraguedes/neodarcula.nvim - https://github.com/pmouraguedes/neodarcula.nvim - **_`[TS][LSP][Lua]`_** A dark theme with support for transparency, dimming, LSP semantic tokens and more.
 jpwol/thorn.nvim - https://github.com/jpwol/thorn.nvim - **_`[TS][LSP][L/D][Lua]`_** A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
@@ -603,7 +604,7 @@ norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Program
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define colorschemes as a DSL in Lua, with real-time feedback.
 Iron-E/nvim-highlite - https://github.com/Iron-E/nvim-highlite - A colorscheme generator that is "lite" on logic for the developer.
 nvim-mini/mini.nvim#mini.base16 - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-base16.md - Module of `mini.nvim` with fast implementation of base16 theme for manually supplied palette.
-ThemerCorp/themer.lua - https://github.com/ThemerCorp/themer.lua - A simple highlighter with a huge collection of colorschemes. It also has ability to create colorschemes for your editor and other supported apps (such as `kitty` and `alacritty`).
+ThemerCorp/themer.lua - https://github.com/ThemerCorp/themer.lua - Create colorschemes for your editor and supported apps (such as `kitty` and `alacritty`).
 nvim-mini/mini.nvim#mini.colors - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 nvim-mini/mini.nvim#mini.hues - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
 loganswartz/polychrome.nvim - https://github.com/loganswartz/polychrome.nvim - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
@@ -1099,7 +1100,7 @@ Wansmer/binary-swap.nvim - https://github.com/Wansmer/binary-swap.nvim - Swappin
 nacro90/numb.nvim - https://github.com/nacro90/numb.nvim - Peek lines in a non-obtrusive way.
 Allendang/nvim-expand-expr - https://github.com/AllenDang/nvim-expand-expr - Expand and repeat expression to multiple lines.
 h-hg/fcitx.nvim - https://github.com/h-hg/fcitx.nvim - Switching and restoring fcitx state for each buffer separately.
-keaising/im-select.nvim - https://github.com/keaising/im-select.nvim - Switching and restoring input method automatically depends on your editor's edit mode.
+keaising/im-select.nvim - https://github.com/keaising/im-select.nvim - Switching and restoring input method automatically depending on the edit mode.
 nvim-mini/mini.nvim#mini.trailspace - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-trailspace.md - Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it.
 smjonas/live-command.nvim - https://github.com/smjonas/live-command.nvim - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
 filipdutescu/renamer.nvim - https://github.com/filipdutescu/renamer.nvim - VSCode-like renaming UI, written in Lua.
@@ -1150,6 +1151,7 @@ smoka7/multicursors.nvim - https://github.com/smoka7/multicursors.nvim - Provide
 tigion/swap.nvim - https://github.com/tigion/swap.nvim - Quickly switch a word under the cursor or a pattern in the current line.
 XXiaoA/atone.nvim - https://github.com/XXiaoA/atone.nvim - Undo tree for visualizing and managing undo history.
 nemanjamalesija/smart-paste.nvim - https://github.com/nemanjamalesija/smart-paste.nvim - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+neur1n/hyphen.nvim - https://github.com/neur1n/hyphen.nvim - Show TeX-style hyphenation breakpoints in text.
 jeangiraldoo/codedocs.nvim - https://github.com/jeangiraldoo/codedocs.nvim - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
@@ -1175,6 +1177,7 @@ chrisgrieser/nvim-origami - https://github.com/chrisgrieser/nvim-origami - Fold 
 malbertzard/inline-fold.nvim - https://github.com/malbertzard/inline-fold.nvim - Hide certain elements inline like long CSS classes or `href` content.
 netmute/foldchanged.nvim - https://github.com/netmute/foldchanged.nvim - Adds a `FoldChanged` User event.
 netmute/foldsigns.nvim - https://github.com/netmute/foldsigns.nvim - Adds fold markers to sign column to make folds more visible while editing.
+fold-logging.nvim - https://github.com/markosnarinian/fold-logging.nvim - Fold logging/debug prints without changing normal folds.
 TheLazyCat00/simple-format - https://github.com/TheLazyCat00/simple-format - Replace text using custom regex and highlight group rules.
 mhartington/formatter.nvim - https://github.com/mhartington/formatter.nvim - A format runner written in Lua.
 sbdchd/neoformat - https://github.com/sbdchd/neoformat - A code formatting runner.
@@ -1231,7 +1234,7 @@ hat0uma/prelive.nvim - https://github.com/hat0uma/prelive.nvim - A simple luv-ba
 hat0uma/doxygen-previewer.nvim - https://github.com/hat0uma/doxygen-previewer.nvim - Live previewing of Doxygen documentation.
 brianhuster/live-preview.nvim - https://github.com/brianhuster/live-preview.nvim - Live preview HTML, Markdown and Asciidoc in the browser.
 SUSTech-data/neopyter - https://github.com/SUSTech-data/neopyter - Edit and preview/run in Jupyter Lab.
-kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook that is synchronised with your editor in real-time.
+kiyoon/jupynium.nvim - https://github.com/kiyoon/jupynium.nvim - Selenium-automated Jupyter Notebook with real-time synchronization.
 gruvw/strudel.nvim - https://github.com/gruvw/strudel.nvim - Live coding controller for [strudel](https://strudel.cc).
 ritschalex/jupyter_ascending.nvim - https://github.com/RitschAlex/jupyter_ascending.nvim - A seamless way to work with Jupyter Notebooks using Jupyter Ascending.
 wsdjeg/tabman.nvim - https://github.com/wsdjeg/tabman.nvim - Navigate between tabs and the windows they contain.
@@ -1311,7 +1314,7 @@ abdellatif-temsamani/adev.nvim - https://github.com/abdellatif-temsamani/adev.nv
 pgosar/CyberNvim - https://github.com/pgosar/CyberNvim - The world's simplest and most extensible Neovim distribution.
 sontungexpt/stinvim - https://github.com/sontungexpt/stinvim - Configuration for Full-Stack developers.
 Abstract-IDE/Abstract - https://github.com/Abstract-IDE/Abstract - Configuration to achieve the power of Modern IDE.
-SpaceVim/SpaceVim - https://spacevim.org - A community-driven modular Neovim distribution, inspired by `spacemacs`.
+SpaceVim/SpaceVim - https://spacevim.org - A community-driven modular distribution, inspired by [spacemacs](https://github.com/syl20bnr/spacemacs).
 CosmicNvim/CosmicNvim - https://github.com/CosmicNvim/CosmicNvim - CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience.
 artart222/CodeArt - https://github.com/artart222/CodeArt - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built-in `:CodeArtUpdate` command for updating it.
 LazyVim/LazyVim - https://github.com/LazyVim/LazyVim - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.
@@ -1327,15 +1330,15 @@ AstroNvim/AstroNvim - https://github.com/AstroNvim/AstroNvim - An aesthetic and 
 shaunsingh/nyoom.nvim - https://github.com/shaunsingh/nyoom.nvim - Blazing fast, configurable, minimal and "lispy" config written in Fennel.
 jrychn/moduleVim - https://github.com/jrychn/ModuleVim - A very easy to use for backend and frontend, install LSP automatically.
 imbacraft/dusk.nvim - https://github.com/imbacraft/dusk.nvim - A lightweight, aesthetically minimal config, written in Lua, able to provide for web and Java development.
-nvim-lua/kickstart.nvim - https://github.com/nvim-lua/kickstart.nvim - A launch point for your personal editor configuration.
+nvim-lua/kickstart.nvim - https://github.com/nvim-lua/kickstart.nvim - A launch point for your personal configuration.
 dam9000/kickstart-modular.nvim - https://github.com/dam9000/kickstart-modular.nvim - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
 cunderw/nvim - https://github.com/cunderw/nvim - A custom, IDE-like configuration for JS/TS, Go, and Java development.
 ldelossa/nvim-ide - https://github.com/ldelossa/nvim-ide - A full featured IDE layer heavily inspired by VSCode.
 linrongbin16/lin.nvim - https://github.com/linrongbin16/lin.nvim - A highly configured Neovim distribution integrated with tons of utilities for development, inspired by `spf13-vim`.
 doctorfree/nvim-lazyman - https://github.com/doctorfree/nvim-lazyman - Configuration manager and a modular configuration on its own. Supports over 40 preconfigured configurations.
 NormalNvim/NormalNvim - https://github.com/NormalNvim/NormalNvim - Configuration focused on stability for your daily work.
-chrisgrieser/nvim-kickstart-python - https://github.com/chrisgrieser/nvim-kickstart-python - A launch point for your editor configuration (for Python).
-mrcjkb/kickstart-nix.nvim - https://github.com/mrcjkb/kickstart-nix.nvim - A simple [Nix flake](https://wiki.nixos.org/wiki/Flakes) template repo for Neovim derivations, with the goal of simplifying the migration from existing editor configurations.
+chrisgrieser/nvim-kickstart-python - https://github.com/chrisgrieser/nvim-kickstart-python - A launch point for your configuration (for Python).
+mrcjkb/kickstart-nix.nvim - https://github.com/mrcjkb/kickstart-nix.nvim - Template repo for Neovim derivations, with the goal of simplifying the migration from existing configurations.
 drybalka/clean.nvim - https://github.com/drybalka/clean.nvim - Cleaning up the default key mappings and plugins and leaving only the bare essentials to build upon.
 StratOS-Linux/StratVIM - https://github.com/StratOS-Linux/StratVIM - A full-fledged Neovim distribution included by default in [StratOS-Linux](https://github.com/StratOS-Linux).
 Shaobin-Jiang/IceNvim - https://github.com/Shaobin-Jiang/IceNvim - A beautiful, powerful and customizable config that is blazingly fast.
