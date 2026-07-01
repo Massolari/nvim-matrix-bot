@@ -416,6 +416,7 @@ josephschmitt/pj.nvim - https://github.com/josephschmitt/pj.nvim - Automatic pro
 martuscellifaria/ahoicpp.nvim - https://github.com/martuscellifaria/ahoicpp.nvim - Sets up C++ projects on a modular fashion and helps newcomers with the language heavy lifting.
 OscarCreator/rsync.nvim - https://github.com/OscarCreator/rsync.nvim - Automatically sync up/down project to a remote with rsync.
 zachyarbrough/anchor.nvim - https://github.com/zachyarbrough/anchor.nvim - Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon.
+Rimkomatic/vimtagger.nvim - https://github.com/Rimkomatic/vimtagger.nvim - Semantic file tagging for projects with Telescope integration. Organize files using custom tags, search them quickly, and manage tags through an interactive UI.
 TheLazyCat00/workspaces-nvim - https://github.com/TheLazyCat00/workspaces-nvim - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 backdround/tabscope.nvim - https://github.com/backdround/tabscope.nvim - Make tab-local buffers.
@@ -1390,3 +1391,4 @@ NeoLand - https://neoland.dev - A beautifully crafted website for Neovim resourc
 Weyaaron/nvim-training - https://github.com/Weyaaron/nvim-training - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 Nvim.app - https://nvim.app - A modern search interface for plugins with fuzzy search, filtering, and self-service updates for plugin authors.
 ChuYanLon/chad46 - https://github.com/ChuYanLon/chad46 - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
+Neovim Cheatsheet - https://neovimcheatsheet.com - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
