@@ -88,6 +88,7 @@ piersolenski/wtf.nvim - https://github.com/piersolenski/wtf.nvim - AI powered di
 chrisgrieser/nvim-rulebook - https://github.com/chrisgrieser/nvim-rulebook - Add inline-comments to ignore rules, or lookup rule documentation online.
 artemave/workspace-diagnostics.nvim - https://github.com/artemave/workspace-diagnostics.nvim - Populate diagnostics for all projects files, not just the opened ones.
 Kurama622/clean-diagnostic - https://github.com/Kurama622/clean-diagnostic - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
+tumillanino/semgrep.nvim - https://github.com/tumillanino/semgrep.nvim - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
 ms-jpq/coq_nvim - https://github.com/ms-jpq/coq_nvim - Fast as FUCK completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 hrsh7th/nvim-cmp - https://github.com/hrsh7th/nvim-cmp - Completion engine written in Lua, successor of `nvim-compe`.
   hrsh7th/cmp-cmdline - https://github.com/hrsh7th/cmp-cmdline - `nvim-cmp` source for cmdline completion.
@@ -907,6 +908,7 @@ ok97465/ipybridge.nvim - https://github.com/ok97465/ipybridge.nvim - Run Python 
 wsdjeg/code-runner.nvim - https://github.com/wsdjeg/code-runner.nvim - Async code runner with range support.
 mikeboiko/nvim-flow - https://github.com/mikeboiko/nvim-flow - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 negativo/nx-nvim - https://github.com/negativo/nx-nvim - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
+lewistg/pesto.nvim - https://github.com/lewistg/pesto.nvim - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 saghen/blink.lib - https://github.com/saghen/blink.lib - Generic utilities for all other `blink.*` plugins.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your plugins to LuaRocks.
