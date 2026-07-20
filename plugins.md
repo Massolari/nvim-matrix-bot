@@ -276,7 +276,7 @@ walkersumida/deepl.nvim - https://github.com/walkersumida/deepl.nvim - Translate
 acidsugarx/babel.nvim - https://github.com/acidsugarx/babel.nvim - Translate text using Google Translate with async support, float display, and multi-picker integration.
 noir4y/comment-translate.nvim - https://github.com/noir4y/comment-translate.nvim - Translate code comments and strings using online as well as local LLMs or external translators.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Tree-sitter configurations and abstraction layer.
-romus204/tree-sitter-manager.nvim - https://github.com/romus204/tree-sitter-manager.nvim - A lightweight Tree-sitter parser manager for Neovim 0.12+ to replace the archived `nvim-treesitter`.
+romus204/tree-sitter-manager.nvim - https://github.com/romus204/tree-sitter-manager.nvim - A lightweight Tree-sitter parser manager for Neovim 0.12+.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
 RRethy/nvim-treesitter-textsubjects - https://github.com/RRethy/nvim-treesitter-textsubjects - Location and syntax aware text objects which _do what you mean_.
 kylechui/nvim-surround - https://github.com/kylechui/nvim-surround - A plugin for adding/changing/deleting surrounding delimiter pairs.
@@ -291,6 +291,7 @@ fei6409/log-highlight.nvim - https://github.com/fei6409/log-highlight.nvim - Gen
 MeanderingProgrammer/treesitter-modules.nvim - https://github.com/MeanderingProgrammer/treesitter-modules.nvim - Original modules from nvim-treesitter master branch.
 BibekBhusal0/tree-hierarchy.nvim - https://github.com/BibekBhusal0/tree-hierarchy.nvim - Edit text and nevigate based on Tree-sitter.
 Sang-it/fluoride - https://github.com/Sang-it/fluoride - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+bird-chinese-community/BIRD.nvim - https://github.com/bird-chinese-community/BIRD.nvim - Syntax highlighting, automatic filetype detection, and filetype-specific editing support for BIRD 2 and BIRD 3 configuration files.
 L3MON4D3/LuaSnip - https://github.com/L3MON4D3/LuaSnip - A snippet engine written in Lua.
 nvim-mini/mini.nvim#mini.snippets - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-snippets.md - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
 smjonas/snippet-converter.nvim - https://github.com/smjonas/snippet-converter.nvim - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
@@ -607,6 +608,7 @@ T-b-t-nchos/Aquavium.nvim - https://github.com/T-b-t-nchos/Aquavium.nvim - **_`[
 54L1M/Oshen.nvim - https://github.com/54L1M/Oshen.nvim - **_`[TS][LSP][L/D][Lua]`_** Inspired by deep ocean water at night, derived entirely from five source colors.
 marekh19/meowsoot.nvim - https://github.com/marekh19/meowsoot.nvim - **_`[TS][LSP][L/D][Lua]`_** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 ntk148v/lauds - https://github.com/ntk148v/lauds - **_`[TS][Lua]`_** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
+alsi-lawr/neotheme.nvim - https://github.com/alsi-lawr/neotheme.nvim - **_`[TS][LSP][L/D][Lua]`_** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define colorschemes as a DSL in Lua, with real-time feedback.
@@ -915,6 +917,7 @@ mikeboiko/nvim-flow - https://github.com/mikeboiko/nvim-flow - File-scoped comma
 negativo/nx-nvim - https://github.com/negativo/nx-nvim - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 lewistg/pesto.nvim - https://github.com/lewistg/pesto.nvim - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 wsdjeg/tasks.nvim - https://github.com/wsdjeg/tasks.nvim - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
+JulOuellet/bzl.nvim - https://github.com/JulOuellet/bzl.nvim - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 saghen/blink.lib - https://github.com/saghen/blink.lib - Generic utilities for all other `blink.*` plugins.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your plugins to LuaRocks.
