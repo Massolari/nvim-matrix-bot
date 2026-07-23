@@ -100,6 +100,7 @@ hrsh7th/nvim-cmp - https://github.com/hrsh7th/nvim-cmp - Completion engine writt
   petertriho/cmp-git - https://github.com/petertriho/cmp-git - `nvim-cmp` source for `git`.
   lukas-reineke/cmp-under-comparator - https://github.com/lukas-reineke/cmp-under-comparator - `nvim-cmp` function for better sorting.
   SergioRibera/cmp-dotenv - https://github.com/SergioRibera/cmp-dotenv - `nvim-cmp` source for environment variables (from system and `.env` files).
+  valenyala/cmp-forge-remappings - https://github.com/valenyala/cmp-forge-remappings - `nvim-cmp` source for Solidity imports in Foundry projects, with remapping-aware paths and symbol auto-import.
 nvim-mini/mini.nvim#mini.completion - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion with LSP and snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
   saghen/blink.compat - https://github.com/saghen/blink.compat - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
@@ -610,6 +611,7 @@ T-b-t-nchos/Aquavium.nvim - https://github.com/T-b-t-nchos/Aquavium.nvim - **_`[
 marekh19/meowsoot.nvim - https://github.com/marekh19/meowsoot.nvim - **_`[TS][LSP][L/D][Lua]`_** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 ntk148v/lauds - https://github.com/ntk148v/lauds - **_`[TS][Lua]`_** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 alsi-lawr/neotheme.nvim - https://github.com/alsi-lawr/neotheme.nvim - **_`[TS][LSP][L/D][Lua]`_** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
+brargenzilian/darcula-solid.nvim - https://codeberg.org/brargenzilian/darcula-solid.nvim - **_`[TS][Lua]`_** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define colorschemes as a DSL in Lua, with real-time feedback.
@@ -1056,6 +1058,7 @@ zdcthomas/yop.nvim - https://github.com/zdcthomas/yop.nvim - Easily create your 
 chrisgrieser/nvim-recorder - https://github.com/chrisgrieser/nvim-recorder - Simplifying and improving how you interact with macros.
 sontungexpt/bim.nvim - https://github.com/sontungexpt/bim.nvim - Enhances insert mode key mapping by showing typed keys in real time, without waiting for timeoutlen. It provides a responsive and intuitive insert-mode experience, ideal for complex input workflows like ime.
 folke/which-key.nvim - https://github.com/folke/which-key.nvim - Shows a popup with possible keybindings of the command you started typing.
+kamegoro/tobira.nvim - https://github.com/kamegoro/tobira.nvim - Watches your keystrokes and suggests the one command you are missing, based on your actual usage patterns.
 nvim-mini/mini.nvim#mini.clue - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
 mrjones2014/legendary.nvim - https://github.com/mrjones2014/legendary.nvim - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`.
 Iron-E/nvim-cartographer - https://github.com/Iron-E/nvim-cartographer - A more convenient `:map`ping syntax for Lua environments.
@@ -1315,6 +1318,7 @@ aikhe/wrapped.nvim - https://github.com/aikhe/wrapped.nvim - Visualize and revie
 gisketch/triforce.nvim - https://github.com/gisketch/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 yal212/pomodoro.nvim - https://github.com/yal212/pomodoro.nvim - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
+raymondware/focusmode.nvim - https://github.com/raymondware/focusmode.nvim - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
 gaborvecsei/usage-tracker.nvim - https://github.com/gaborvecsei/usage-tracker.nvim - Track your usage and visualize statistics easily.
 SunnyTamang/pendulum.nvim - https://github.com/SunnyTamang/pendulum.nvim - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 ptdewey/pendulum-nvim - https://github.com/ptdewey/pendulum-nvim - Track time spent coding and glean insights through on-demand time reports.
