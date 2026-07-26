@@ -1020,6 +1020,7 @@ cd-4/git-needy.nvim - https://github.com/cd-4/git-needy.nvim - Keeps a tally of 
 claydugo/browsher.nvim - https://github.com/claydugo/browsher.nvim - Create commit pinned links to GitHub hosted files/lines.
 gh-tui-tools/gh-review.nvim - https://github.com/gh-tui-tools/gh-review.nvim - Review GitHub PRs.
 justinmk/guh.nvim - https://github.com/justinmk/guh.nvim - View any GitHub object, including CI logs.
+mesirendon/nvim-ghrelease - https://github.com/mesirendon/nvim-ghrelease - Create a new GitHub release based on current releases of the repo.
 HawkinsT/pathfinder.nvim - https://github.com/HawkinsT/pathfinder.nvim - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
 nolleh/warp.nvim - https://github.com/nolleh/warp.nvim - Jump based on labels to file paths, URLs, and Markdown links from any buffer.
 tris203/precognition.nvim - https://github.com/tris203/precognition.nvim - Precognition uses virtual text and gutter signs to show available motions.
