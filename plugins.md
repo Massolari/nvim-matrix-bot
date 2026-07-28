@@ -811,6 +811,7 @@ glyccogen/imprint.nvim - https://github.com/glyccogen/imprint.nvim - Take WYSIWY
 emrearmagan/dockyard.nvim - https://github.com/emrearmagan/dockyard.nvim - Docker dashboard for managing containers, images, networks, and logs.
 ChuYanLon/telegram.nvim - https://github.com/ChuYanLon/telegram.nvim - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 paulburgess1357/nvim-mcp - https://github.com/paulburgess1357/nvim-mcp - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
+dpezto/chezmoi-template.nvim - https://github.com/dpezto/chezmoi-template.nvim - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -822,6 +823,7 @@ rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ 
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 indium114/smudge.nvim - https://github.com/indium114/smudge.nvim - Performant cursor animations.
+TheLazyCat00/termfile-nvim - https://github.com/TheLazyCat00/termfile-nvim - Turn files into persistent terminal sessions that flawlessly allow for background work.
 TheLazyCat00/runner-nvim - https://github.com/TheLazyCat00/runner-nvim - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 LuxVim/nvim-luxterm - https://github.com/LuxVim/nvim-luxterm - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 waiting-for-dev/ergoterm.nvim - https://github.com/waiting-for-dev/ergoterm.nvim - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
