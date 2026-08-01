@@ -122,6 +122,7 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 cursortab/cursortab.nvim - https://github.com/cursortab/cursortab.nvim - Edit completions and cursor predictions with multiple AI providers.
+teocns/neocursor.nvim - https://github.com/teocns/neocursor.nvim - Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.
 ctchen222/openspec.nvim - https://github.com/ctchen222/openspec.nvim - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
 carlos-algms/agentic.nvim - https://github.com/carlos-algms/agentic.nvim - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
 BRONZowl/codux.nvim - https://github.com/BRONZowl/codux.nvim - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
@@ -166,6 +167,7 @@ alsi-lawr/agent-term.nvim - https://github.com/alsi-lawr/agent-term.nvim - Termi
 ishiooon/codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration, no API key required.
 nickjvandyke/opencode.nvim - https://github.com/nickjvandyke/opencode.nvim - OpenCode AI assistant integration.
 taigrr/neocrush.nvim - https://github.com/taigrr/neocrush.nvim - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
+zgs225/pi2.nvim - https://github.com/zgs225/pi2.nvim - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
@@ -613,6 +615,7 @@ marekh19/meowsoot.nvim - https://github.com/marekh19/meowsoot.nvim - **_`[TS][LS
 ntk148v/lauds - https://github.com/ntk148v/lauds - **_`[TS][Lua]`_** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 alsi-lawr/neotheme.nvim - https://github.com/alsi-lawr/neotheme.nvim - **_`[TS][LSP][L/D][Lua]`_** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 brargenzilian/darcula-solid.nvim - https://codeberg.org/brargenzilian/darcula-solid.nvim - **_`[TS][Lua]`_** A color-scheme that was heavily inspired by the JetBrains IntelliJ IDEA default theme, but was carefully refined to bring a more pleasant, aesthetic, and contrasting experience.
+tan-wei/zimablue.nvim - https://github.com/tan-wei/zimablue.nvim - **_`[TS][LSP][Lua]`_** A dark Neovim colorscheme inspired by the iconic color from the _Love, Death and Robots_ episode _Zima Blue_.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define colorschemes as a DSL in Lua, with real-time feedback.
@@ -840,6 +843,7 @@ jlesquembre/nterm.nvim - https://github.com/jlesquembre/nterm.nvim - Interact wi
 s1n7ax/nvim-terminal - https://github.com/s1n7ax/nvim-terminal - A simple and easy to use multi-terminal plugin.
 logicmagix/tide42 - https://github.com/logicmagix/tide42 - A fully integrated terminal IDE built on Lua, tmux, and scriptable workflows.
 samjwill/nvim-unception - https://github.com/samjwill/nvim-unception - Automatic unnesting of editor sessions started from terminal buffers.
+Senal-D-A-Gunaratna/hyprfade.nvim - https://github.com/Senal-D-A-Gunaratna/hyprfade.nvim - When using Hyprland, fade the terminal window via `hyprctl`.
 kassio/neoterm - https://github.com/kassio/neoterm - Wrapper of some `:terminal` functions.
 nyngwang/NeoTerm.lua - https://github.com/nyngwang/NeoTerm.lua - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 idanarye/nvim-channelot - https://github.com/idanarye/nvim-channelot - Operate editor jobs from Lua coroutines.
