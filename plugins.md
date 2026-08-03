@@ -860,6 +860,7 @@ da-moon/telescope-toggleterm.nvim - https://github.com/da-moon/telescope-togglet
 benoror/gpg.nvim - https://github.com/benoror/gpg.nvim - Edit GPG encrypted files symmetrically.
 gh-liu/nvim-winterm - https://github.com/gh-liu/nvim-winterm - Multi-terminal window manager.
 hawknewton/termyank.nvim - https://github.com/hawknewton/termyank.nvim - Avoid yanking newlines in a terminal buffer.
+jaimeibanezrivera/zj-theme - https://github.com/jaimeibanezrivera/zj-theme - Syncs zellij's theme to whatever colorscheme is active, live, no restart needed.
 mfussenegger/nvim-dap - https://github.com/mfussenegger/nvim-dap - Debug Adapter Protocol client implementation.
 sakhnik/nvim-gdb - https://github.com/sakhnik/nvim-gdb - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
 rcarriga/nvim-dap-ui - https://github.com/rcarriga/nvim-dap-ui - A UI for nvim-dap.
@@ -1246,6 +1247,7 @@ nvim-mini/mini.nvim#mini.sessions - https://github.com/nvim-mini/mini.nvim/blob/
 gennaro-tedesco/nvim-possession - https://github.com/gennaro-tedesco/nvim-possession - The no-nonsense session manager.
 olimorris/persisted.nvim - https://github.com/olimorris/persisted.nvim - Simple session management with Git branching, autosave/autoload and Telescope support.
 folke/persistence.nvim - https://github.com/folke/persistence.nvim - Simple automated session management.
+dmshvedchenko/persist.nvim - https://github.com/dmshvedchenko/persist.nvim - Lightweight session persistence with interactive recovery of unnamed scratch buffers.
 Shatur/neovim-session-manager - https://github.com/Shatur/neovim-session-manager - A simple wrapper around :mksession.
 jedrzejboczar/possession.nvim - https://github.com/jedrzejboczar/possession.nvim - Flexible session management with arbitrary persistent data stored as JSON.
 niuiic/multiple-session.nvim - https://github.com/niuiic/multiple-session.nvim - Provides multi-session management capabilities.
