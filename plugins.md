@@ -269,6 +269,7 @@ rogue-87/inlyne.nvim - https://github.com/rogue-87/inlyne.nvim - Wrapper for [in
 Prgebish/sigil.nvim - https://github.com/Prgebish/sigil.nvim - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 satozawa/graft.nvim - https://github.com/satozawa/graft.nvim - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 kibi2/tirenvi.nvim - https://github.com/kibi2/tirenvi.nvim - Edit Markdown and CSV tables with lossless round-trip.
+itsfernn/vimtex-follow - https://github.com/itsfernn/vimtex-follow - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
 niuiic/translate.nvim - https://github.com/niuiic/translate.nvim - Invoke any translation engine via shell command.
 tanloong/interlaced.nvim - https://github.com/tanloong/interlaced.nvim - Help align bilingual parallel texts.
