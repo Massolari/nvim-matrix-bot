@@ -1068,6 +1068,7 @@ drybalka/tree-climber.nvim - https://github.com/drybalka/tree-climber.nvim - Eas
 atusy/treemonkey.nvim - https://github.com/atusy/treemonkey.nvim - Region selection with Tree-sitter nodes.
 kiyoon/treesitter-indent-object.nvim - https://github.com/kiyoon/treesitter-indent-object.nvim - Context-aware indent textobject powered by Tree-sitter.
 subev/sibling-jump.nvim - https://github.com/subev/sibling-jump.nvim - Context-aware navigation between sibling Tree-sitter nodes.
+iago-lito/tree-spider.nvim - https://codeberg.org/iago-lito/tree-spider.nvim - Tree-sitter aware local motions and distant node selection.
 RutaTang/compter.nvim - https://github.com/RutaTang/compter.nvim - Power and extend the ability of `<C-a>` and `<C-x>` with customized patterns.
 zdcthomas/yop.nvim - https://github.com/zdcthomas/yop.nvim - Easily create your own operators (like `d` and `y`).
 chrisgrieser/nvim-recorder - https://github.com/chrisgrieser/nvim-recorder - Simplifying and improving how you interact with macros.
