@@ -446,6 +446,7 @@ ahkohd/buffer-sticks.nvim - https://github.com/ahkohd/buffer-sticks.nvim - Cosme
 famiu/bufdelete.nvim - https://github.com/famiu/bufdelete.nvim - Delete buffers without losing your window layout.
 wsdjeg/bufdel.nvim - https://github.com/wsdjeg/bufdel.nvim - Delete buffers without changing windows layout.
 m-demare/attempt.nvim - https://github.com/m-demare/attempt.nvim - Manage and run temporary buffers.
+iago-lito/bufmarks.nvim - https://codeberg.org/iago-lito/bufmarks.nvim - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
 catgoose/nvim-colorizer.lua - https://github.com/catgoose/nvim-colorizer.lua - A high-performance color highlighter which has no external dependencies.
 winston0410/range-highlight.nvim - https://github.com/winston0410/range-highlight.nvim - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
 folke/twilight.nvim - https://github.com/folke/twilight.nvim - Dim inactive portions of the code you're editing using Tree-sitter.
@@ -1191,6 +1192,7 @@ neur1n/hyphen.nvim - https://github.com/neur1n/hyphen.nvim - Show TeX-style hyph
 ntk148v/yankdown.nvim - https://github.com/ntk148v/yankdown.nvim - Paste rich clipboard content as clean Markdown.
 Chiarandini/smart-enter.nvim - https://github.com/Chiarandini/smart-enter.nvim - Context-aware newline that continues LaTeX environments, Markdown lists, and more.
 yaocccc/visual-multi.nvim - https://github.com/yaocccc/visual-multi.nvim - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
+iago-lito/lastput.nvim - https://codeberg.org/iago-lito/lastput.nvim - One mapping to (re)select the last piece of text you've pasted.
 jeangiraldoo/codedocs.nvim - https://github.com/jeangiraldoo/codedocs.nvim - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 numToStr/Comment.nvim - https://github.com/numToStr/Comment.nvim - Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 b3nj5m1n/kommentary - https://github.com/b3nj5m1n/kommentary - Commenting plugin written in Lua.
