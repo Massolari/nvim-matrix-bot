@@ -120,6 +120,7 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
   benborla/at-file.nvim - https://github.com/benborla/at-file.nvim - `blink.cmp` source for file path completion using `@`.
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+saya-ashen/agent-workbench.nvim - https://github.com/saya-ashen/agent-workbench.nvim - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 nwiizo/signalbox.nvim - https://github.com/nwiizo/signalbox.nvim - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
 cursortab/cursortab.nvim - https://github.com/cursortab/cursortab.nvim - Edit completions and cursor predictions with multiple AI providers.
 teocns/neocursor.nvim - https://github.com/teocns/neocursor.nvim - Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.
@@ -404,6 +405,7 @@ vodchella/hodur.nvim - https://github.com/vodchella/hodur.nvim - Allows you to q
 A7Lavinraj/fyler.nvim - https://github.com/A7Lavinraj/fyler.nvim - File manager which can edit file system like a buffer with tree view.
 adriancmiranda/glimpse.nvim - https://github.com/adriancmiranda/glimpse.nvim - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
 ingur/fzf-oil.nvim - https://github.com/ingur/fzf-oil.nvim - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
+Dev-Addict/FloatingFile.nvim - https://github.com/Dev-Addict/FloatingFile.nvim - Quickly preview any readable file in a centered floating window without replacing the current buffer.
 karnull/switchboard.nvim - https://github.com/karnull/switchboard.nvim - Define "run", "build", or any custom command/bind per language or project, then use the same keybinds everywhere.
 Abstract-IDE/penvim - https://github.com/Abstract-IDE/penvim - Project's root directory and documents Indentation detector with project based config loader.
 windwp/nvim-projectconfig - https://github.com/windwp/nvim-projectconfig - Load specific configs depending on the project directory.
