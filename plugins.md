@@ -8,7 +8,6 @@ lumen-oss/rocks.nvim - https://github.com/lumen-oss/rocks.nvim - A modern approa
 nvim-mini/mini.nvim#mini.deps - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous plugin manager written in Lua.
 piersolenski/plugin-addict.nvim - https://github.com/piersolenski/plugin-addict.nvim - A stupidly simple way to quickly install plugins.
-OriginCoderPulse/synapse.nvim - https://github.com/OriginCoderPulse/synapse.nvim - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 zuqini/zpack.nvim - https://github.com/zuqini/zpack.nvim - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 nvim-pio - https://github.com/batoaqaa/nvim-pio - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
@@ -575,7 +574,6 @@ ribru17/bamboo.nvim - https://github.com/ribru17/bamboo.nvim - **_`[TS][LSP][Lua
 cryptomilk/nightcity.nvim - https://github.com/cryptomilk/nightcity.nvim - **_`[TS][LSP][Lua]`_** A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 polirritmico/monokai-nightasty.nvim - https://github.com/polirritmico/monokai-nightasty.nvim - **_`[TS][LSP][L/D][Lua]`_** A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 oxfist/night-owl.nvim - https://github.com/oxfist/night-owl.nvim - **_`[TS][LSP][Lua]`_** A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
-micdzu/aalto.nvim - https://github.com/micdzu/aalto.nvim - **_`[TS][LSP][L/D][Lua]`_** A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants.
 miikanissi/modus-themes.nvim - https://github.com/miikanissi/modus-themes.nvim - **_`[TS][LSP][L/D][Lua]`_** Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 alexmozaidze/palenight.nvim - https://github.com/alexmozaidze/palenight.nvim - **_`[TS][LSP][Fnl]`_** Palenight colorscheme supporting Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins.
 scottmckendry/cyberdream.nvim - https://github.com/scottmckendry/cyberdream.nvim - **_`[TS][L/D][Lua]`_** A high-contrast, futuristic and vibrant coloursheme.
@@ -733,7 +731,6 @@ DaFi-1/tasknvim - https://github.com/DaFi-1/tasknvim - A simple tool for life an
 niuiic/todo.nvim - https://github.com/niuiic/todo.nvim - Simple but powerful TODO manager based on text.
 flashcodes-themayankjha/Fknotes.nvim - https://github.com/flashcodes-themayankjha/Fknotes.nvim - Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more.
 apdot/doodle - https://github.com/apdot/doodle - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
-sduras/duras_bridge - https://github.com/sduras/duras_bridge - Bridge for [duras](https://codeberg.org/duras/duras) plain-text daily notes; append, search, and open notes from the editor.
 gmcusaro/ma.nvim - https://github.com/gmcusaro/ma.nvim - Minimal Markdown knowledge management with relational note navigation and safe file operations.
 jameswolensky/marker-groups.nvim - https://github.com/jameswolensky/marker-groups.nvim - Take persistent code notes without modifying code.
 bngarren/checkmate.nvim - https://github.com/bngarren/checkmate.nvim - A full-featured Markdown-based TODO plugin.
@@ -982,6 +979,7 @@ Silletr/LazyDeveloperHelper - https://github.com/Silletr/LazyDeveloperHelper - P
 JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgunnar.nvim - C# dependency manager with support for handling references between projects and solution files.
 cosmicbuffalo/gem_install.nvim - https://github.com/cosmicbuffalo/gem_install.nvim - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 taigrr/glaze.nvim - https://github.com/taigrr/glaze.nvim - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
+Darkskittlz/GitCompanion - https://github.com/Darkskittlz/GitCompanion - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 YouSame2/inlinediff-nvim - https://github.com/YouSame2/inlinediff-nvim - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 f-person/git-blame.nvim - https://github.com/f-person/git-blame.nvim - Show Git blame info.
