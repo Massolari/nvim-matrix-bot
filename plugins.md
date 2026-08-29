@@ -642,7 +642,6 @@ f-person/auto-dark-mode.nvim - https://github.com/f-person/auto-dark-mode.nvim -
 zaldih/themery.nvim - https://github.com/zaldih/themery.nvim - A new way to change the colorscheme on the fly like in VSCode.
 linrongbin16/colorbox.nvim - https://github.com/linrongbin16/colorbox.nvim - Load all the ultra colorschemes into your editor's player.
 CWood-sdf/pineapple - https://github.com/CWood-sdf/pineapple - Install any colorscheme in your config without leaving your terminal. Collects every colorscheme on the internet and allows you to preview them all before installing.
-BrunoCiccarino/gardenal - https://github.com/BrunoCiccarino/gardenal - Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.
 LmanTW/themify.nvim - https://github.com/LmanTW/themify.nvim/tree/main - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 nishu-murmu/ThemeSwitch.nvim - https://github.com/nishu-murmu/ThemeSwitch.nvim - Light weight color scheme switcher.
 Erl-koenig/theme-hub.nvim - https://github.com/Erl-koenig/theme-hub.nvim - Manage and install colorschemes via telescope-pickers.
@@ -930,7 +929,7 @@ chrisgrieser/nvim-justice - https://github.com/chrisgrieser/nvim-justice - Light
 pewpewnor/pilot.nvim - https://github.com/pewpewnor/pilot.nvim - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 ok97465/ipybridge.nvim - https://github.com/ok97465/ipybridge.nvim - Run Python code, execute Jupyter cells, debug, and explore variables.
 wsdjeg/code-runner.nvim - https://github.com/wsdjeg/code-runner.nvim - Async code runner with range support.
-mikeboiko/nvim-flow - https://github.com/mikeboiko/nvim-flow - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+bytehound-labs/nvim-flow - https://github.com/bytehound-labs/nvim-flow - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 negativo/nx-nvim - https://github.com/negativo/nx-nvim - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
 lewistg/pesto.nvim - https://github.com/lewistg/pesto.nvim - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 wsdjeg/tasks.nvim - https://github.com/wsdjeg/tasks.nvim - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
