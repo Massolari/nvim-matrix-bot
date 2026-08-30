@@ -1320,7 +1320,6 @@ piersolenski/skifree.nvim - https://github.com/piersolenski/skifree.nvim - Play 
 xiangnongWu2233/rubiks-cube.nvim - https://github.com/xiangnongWu2233/rubiks-cube.nvim - A playable Rubik's cube with auto-solver.
 ~chinmay/cphelper.nvim - https://git.sr.ht/~chinmay/cphelper.nvim - Helper for competitive programming written in Lua.
 xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugin to automate testcases management and checking for Competitive Programming contests.
-barrettruth/cp.nvim - https://github.com/barrettruth/cp.nvim - Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel.
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
 2KAbhishek/exercism.nvim - https://github.com/2KAbhishek/exercism.nvim - Browse and solve Exercism problems.
 folke/drop.nvim - https://github.com/folke/drop.nvim - Screensavers with support for dashboards.
@@ -1349,7 +1348,6 @@ taigrr/blast.nvim - https://github.com/taigrr/blast.nvim - Activity tracking cli
 zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly with JSON results.
 kndndrj/nvim-dbee - https://github.com/kndndrj/nvim-dbee - Interactive database client.
 tashikomaaa/neomongo.nvim - https://github.com/tashikomaaa/neomongo.nvim - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
-zerochae/dbab.nvim - https://github.com/zerochae/dbab.nvim - Lightweight database client with a modern UI and async execution.
 joryeugene/dadbod-grip.nvim - https://github.com/joryeugene/dadbod-grip.nvim - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 clang-engineer/dadbod-vertica.nvim - https://github.com/clang-engineer/dadbod-vertica.nvim - Vertica adapter for [vim-dadbod](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 tokiory/neovim-boilerplate - https://github.com/tokiory/neovim-boilerplate - Starter boilerplate for making new configurations.
