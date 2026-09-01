@@ -119,6 +119,7 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
   benborla/at-file.nvim - https://github.com/benborla/at-file.nvim - `blink.cmp` source for file path completion using `@`.
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+raymondware/herdr.nvim - https://github.com/raymondware/herdr.nvim - Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling.
 saya-ashen/agent-workbench.nvim - https://github.com/saya-ashen/agent-workbench.nvim - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 nwiizo/signalbox.nvim - https://github.com/nwiizo/signalbox.nvim - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
 cursortab/cursortab.nvim - https://github.com/cursortab/cursortab.nvim - Edit completions and cursor predictions with multiple AI providers.
@@ -166,6 +167,7 @@ nishu-murmu/cursor-inline - https://github.com/nishu-murmu/cursor-inline - Curso
 alsi-lawr/agent-term.nvim - https://github.com/alsi-lawr/agent-term.nvim - Terminal-agent UI with persistent views, lightweight hook-based editor context, and extensible presets for any native AI TUI.
 ishiooon/codex.nvim - https://github.com/ishiooon/codex.nvim - Codex IDE integration, no API key required.
 nickjvandyke/opencode.nvim - https://github.com/nickjvandyke/opencode.nvim - OpenCode AI assistant integration.
+overflow/fs-review.nvim - https://github.com/overflow/fs-review.nvim - Filesystem and OpenCode review panel with isolated diff tabs, project-scoped activity tracking, and live cross-process refresh.
 taigrr/neocrush.nvim - https://github.com/taigrr/neocrush.nvim - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 zgs225/pi2.nvim - https://github.com/zgs225/pi2.nvim - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
@@ -978,6 +980,7 @@ Silletr/LazyDeveloperHelper - https://github.com/Silletr/LazyDeveloperHelper - P
 JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgunnar.nvim - C# dependency manager with support for handling references between projects and solution files.
 cosmicbuffalo/gem_install.nvim - https://github.com/cosmicbuffalo/gem_install.nvim - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 taigrr/glaze.nvim - https://github.com/taigrr/glaze.nvim - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
+jpease/hex-outdated.nvim - https://github.com/jpease/hex-outdated.nvim - Display latest Hex package version and status as virtual text in `mix.exs`.
 Darkskittlz/GitCompanion - https://github.com/Darkskittlz/GitCompanion - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 YouSame2/inlinediff-nvim - https://github.com/YouSame2/inlinediff-nvim - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
