@@ -658,6 +658,7 @@ mawkler/hml.nvim - https://github.com/mawkler/hml.nvim - Adds `H`/`M`/`L` indica
 neur1n/noline.nvim - https://github.com/neur1n/noline.nvim - Fully customizable bars and lines components with no presets nor constraints.
 OXY2DEV/bars.nvim - https://github.com/OXY2DEV/bars.nvim - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
 zaakiy/line-justice.nvim - https://github.com/zaakiy/line-justice.nvim - Shows both absolute and relative line numbers simultaneously.
+nvim-mini/mini.nvim#mini.statuscolumn - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - A light-weight and super fast statusline plugin written in Lua.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
 sontungexpt/witch-line - https://github.com/sontungexpt/witch-line - A blazing fast statusline based on reference concept.
@@ -981,6 +982,7 @@ JesperLundberg/projektgunnar.nvim - https://github.com/JesperLundberg/projektgun
 cosmicbuffalo/gem_install.nvim - https://github.com/cosmicbuffalo/gem_install.nvim - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 taigrr/glaze.nvim - https://github.com/taigrr/glaze.nvim - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
 jpease/hex-outdated.nvim - https://github.com/jpease/hex-outdated.nvim - Display latest Hex package version and status as virtual text in `mix.exs`.
+mm4cN/nvim-conan - https://github.com/mm4cN/nvim-conan - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
 Darkskittlz/GitCompanion - https://github.com/Darkskittlz/GitCompanion - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 YouSame2/inlinediff-nvim - https://github.com/YouSame2/inlinediff-nvim - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
