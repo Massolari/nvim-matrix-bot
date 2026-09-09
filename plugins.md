@@ -1352,6 +1352,7 @@ Rtarun3606k/takatime - https://github.com/Rtarun3606k/takatime - Privacy-first W
 taigrr/blast.nvim - https://github.com/taigrr/blast.nvim - Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls.
 zongben/dbout.nvim - https://github.com/zongben/dbout.nvim - Manage database connections and run SQL queries directly with JSON results.
 kndndrj/nvim-dbee - https://github.com/kndndrj/nvim-dbee - Interactive database client.
+caskstrength/nvim-dbeer - https://codeberg.org/caskstrength/nvim-dbeer - Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.
 tashikomaaa/neomongo.nvim - https://github.com/tashikomaaa/neomongo.nvim - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 joryeugene/dadbod-grip.nvim - https://github.com/joryeugene/dadbod-grip.nvim - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 clang-engineer/dadbod-vertica.nvim - https://github.com/clang-engineer/dadbod-vertica.nvim - Vertica adapter for [vim-dadbod](https://github.com/tpope/vim-dadbod) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
