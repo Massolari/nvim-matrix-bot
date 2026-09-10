@@ -1,4 +1,4 @@
-alyxshang/nuwa.nvim - https://source.alyxshang.boo/alyxshang/nuwa.nvim - A light package manager.
+alyxshang/nuwa.nvim - https://github.com/alyxshang/nuwa.nvim - A light package manager.
 lewis6991/pckr.nvim - https://github.com/lewis6991/pckr.nvim - Spiritual successor of `wbthomason/packer.nvim`.
 savq/paq-nvim - https://github.com/savq/paq-nvim - Package manager written in Lua.
 folke/lazy.nvim - https://github.com/folke/lazy.nvim - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
@@ -119,6 +119,8 @@ saghen/blink.cmp - https://github.com/saghen/blink.cmp - Really fast completion 
   benborla/at-file.nvim - https://github.com/benborla/at-file.nvim - `blink.cmp` source for file path completion using `@`.
 zbirenbaum/copilot.lua - https://github.com/zbirenbaum/copilot.lua - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 brianaung/compl.nvim - https://github.com/brianaung/compl.nvim - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+coder/claudecode.nvim - https://github.com/coder/claudecode.nvim - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+  hebercosfer/floating-claude.nvim - https://github.com/hebercosfer/floating-claude.nvim - Floating terminal provider for [claudecode.nvim](https://github.com/coder/claudecode.nvim) that collapses into a corner notification while Claude edits and returns once idle.
 raymondware/herdr.nvim - https://github.com/raymondware/herdr.nvim - Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling.
 saya-ashen/agent-workbench.nvim - https://github.com/saya-ashen/agent-workbench.nvim - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 nwiizo/signalbox.nvim - https://github.com/nwiizo/signalbox.nvim - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
@@ -659,6 +661,7 @@ neur1n/noline.nvim - https://github.com/neur1n/noline.nvim - Fully customizable 
 OXY2DEV/bars.nvim - https://github.com/OXY2DEV/bars.nvim - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
 zaakiy/line-justice.nvim - https://github.com/zaakiy/line-justice.nvim - Shows both absolute and relative line numbers simultaneously.
 nvim-mini/mini.nvim#mini.statuscolumn - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
+olivgr/winbarbuf.nvim - https://github.com/olivgr/winbarbuf.nvim - Clickable buffer list in the winbar.
 NTBBloodbath/galaxyline.nvim - https://github.com/NTBBloodbath/galaxyline.nvim - A light-weight and super fast statusline plugin written in Lua.
 tjdevries/express_line.nvim - https://github.com/tjdevries/express_line.nvim - Supports co-routines, functions and jobs.
 sontungexpt/witch-line - https://github.com/sontungexpt/witch-line - A blazing fast statusline based on reference concept.
@@ -1027,6 +1030,7 @@ spacedentist/resolve.nvim - https://github.com/spacedentist/resolve.nvim - Resol
 jceb/jiejie.nvim - https://github.com/jceb/jiejie.nvim - Frontend for Jujutsu in the style of `fugitive`.
 chojs23/ec - https://github.com/chojs23/ec - A TUI native Git mergetool with 3 panes.
 harrisoncramer/GitLab.nvim - https://github.com/harrisoncramer/GitLab.nvim - Review pull requests and manage other GitLab resources.
+mm4cN/nvim-gitlab - https://github.com/mm4cN/nvim-gitlab - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
@@ -1401,6 +1405,7 @@ m00qek/plugin-template.nvim - https://github.com/m00qek/plugin-template.nvim - A
 ellisonleao/nvim-plugin-template - https://github.com/ellisonleao/nvim-plugin-template - Another plugin template, using GitHub's template feature.
 2KAbhishek/template.nvim - https://github.com/2KAbhishek/template.nvim - Opinionated template for starting plugin dev quickly.
 jkeresman01/spring-initializr.nvim - https://github.com/jkeresman01/spring-initializr.nvim - Scaffold Spring Boot projects with a Telescope-powered UI.
+caskstrength/nvim-springtime - https://codeberg.org/caskstrength/nvim-springtime - A scaffold builder based on Spring Initializr.
 DrKJeff16/nvim-plugin-boilerplate - https://github.com/DrKJeff16/nvim-plugin-boilerplate - A documented template for new plugins generated by a script. Includes tests, CI utilities, etc.
 chrisgrieser/nvim-pseudometa-plugin-template - https://github.com/chrisgrieser/nvim-pseudometa-plugin-template - Template for new plugins.
 chrisgrieser/alfred-neovim-utilities - https://github.com/chrisgrieser/alfred-neovim-utilities - Search plugins and online `:help` via Alfred (macOS).
