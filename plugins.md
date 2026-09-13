@@ -828,6 +828,7 @@ emrearmagan/dockyard.nvim - https://github.com/emrearmagan/dockyard.nvim - Docke
 ChuYanLon/telegram.nvim - https://github.com/ChuYanLon/telegram.nvim - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 paulburgess1357/nvim-mcp - https://github.com/paulburgess1357/nvim-mcp - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
 dpezto/chezmoi-template.nvim - https://github.com/dpezto/chezmoi-template.nvim - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
+7KiLL/copybara.nvim - https://github.com/7KiLL/copybara.nvim - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
@@ -906,6 +907,7 @@ zkucekovic/tdd.nvim - https://github.com/zkucekovic/tdd.nvim - Opens or creates 
 nvim-neotest/neotest-jest - https://github.com/nvim-neotest/neotest-jest - Neotest adapter for running Jest tests.
 MisanthropicBit/neotest-busted - https://github.com/MisanthropicBit/neotest-busted - Neotest adapter for running busted tests using your editor as a Lua interpreter.
 mr-u0b0dy/crazy-coverage.nvim - https://github.com/mr-u0b0dy/crazy-coverage.nvim - Display code coverage.
+wurli/jet.nvim - https://github.com/wurli/jet.nvim - A LSP-enabled, extensible Jupyter client that just works.
 rafcamlet/nvim-luapad - https://github.com/rafcamlet/nvim-luapad - Interactive scratchpad for running Lua code.
 michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of any language directly from your editor.
 CRAG666/code_runner.nvim - https://github.com/CRAG666/code_runner.nvim - The best code runner you could have, with super powers.
@@ -1157,6 +1159,7 @@ gregorias/coerce.nvim - https://github.com/gregorias/coerce.nvim - Change keywor
 nvim-mini/mini.nvim#mini.operators - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 gbprod/yanky.nvim - https://github.com/gbprod/yanky.nvim - Improved Yank and Put functionalities.
 sQVe/sort.nvim - https://github.com/sQVe/sort.nvim - Sorting plugin that intelligently supports line-wise and delimiter sorting.
+Nagato-Yuzuru/bang.nvim - https://github.com/Nagato-Yuzuru/bang.nvim - `g!` operator that filters a motion, text object or Visual selection through a shell command, like `!` without the whole-line limit.
 booperlv/nvim-gomove - https://github.com/booperlv/nvim-gomove - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 hinell/duplicate.nvim - https://github.com/hinell/duplicate.nvim - Duplicate lines and blocks of lines easily; undo and unfolding support; full OOP.
 hinell/move.nvim - https://github.com/hinell/move.nvim - Move chunks of text around; fork of [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim).
