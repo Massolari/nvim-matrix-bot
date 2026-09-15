@@ -813,6 +813,7 @@ Owen-Dechow/videre.nvim - https://github.com/Owen-Dechow/videre.nvim - Explore J
 mahyarmirrashed/famous-quotes.nvim - https://github.com/mahyarmirrashed/famous-quotes.nvim - Get famous quotes from history to display on startup.
 iquzart/toggleword.nvim - https://github.com/iquzart/toggleword.nvim - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 leblocks/toggle.nvim - https://github.com/leblocks/toggle.nvim - Toggle between common words under the cursor such as _public_ ⇄ _private_ ⇄ _protected_. Easy to add and overwrite built-in toggles.
+javanoo6/persist-toggle.nvim - https://github.com/javanoo6/persist-toggle.nvim - Persistent registry for runtime toggle states and preferences.
 piersolenski/brewfile.nvim - https://github.com/piersolenski/brewfile.nvim - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 gpanders/nvim-moonwalk - https://github.com/gpanders/nvim-moonwalk - Use any language that compiles to Lua anywhere in your configuration.
 johannww/tts.nvim - https://github.com/johannww/tts.nvim - Text to speech tool based on the Microsoft Edge online services.
@@ -833,7 +834,7 @@ VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
 hat0uma/csvview.nvim - https://github.com/hat0uma/csvview.nvim - An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes.
-LuxVim/nvim-luxmotion - https://github.com/LuxVim/nvim-luxmotion - Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
+josstei/whisk.nvim - https://github.com/josstei/whisk.nvim - Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
 sphamba/smear-cursor.nvim - https://github.com/sphamba/smear-cursor.nvim - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 nvim-mini/mini.nvim#mini.animate - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ - Adds subtle animations to various operations.
