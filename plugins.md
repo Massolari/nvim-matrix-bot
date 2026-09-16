@@ -208,6 +208,7 @@ Who5673/who5673-nasm - https://github.com/Who5673/who5673-nasm - Helps people pr
 sachinsenal0x64/hot.nvim - https://github.com/sachinsenal0x64/hot.nvim - A hot reloader that works with any programming language.
 simonwinther/cppman.nvim - https://github.com/simonwinther/cppman.nvim - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 redpierrot/ballerina.nvim - https://github.com/redpierrot/ballerina.nvim - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
+jgonmor16/hdlsnip.nvim - https://github.com/jgonmor16/hdlsnip.nvim - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightweight plugin to manage struct field tags in Go files.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
@@ -945,6 +946,7 @@ negativo/nx-nvim - https://github.com/negativo/nx-nvim - Telescope picker for NX
 lewistg/pesto.nvim - https://github.com/lewistg/pesto.nvim - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 wsdjeg/tasks.nvim - https://github.com/wsdjeg/tasks.nvim - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 JulOuellet/bzl.nvim - https://github.com/JulOuellet/bzl.nvim - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
+caskstrength/nvim-soil - https://codeberg.org/caskstrength/nvim-soil - Run PlantUML script and generate UML design.
 saghen/blink.lib - https://github.com/saghen/blink.lib - Generic utilities for all other `blink.*` plugins.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your plugins to LuaRocks.
