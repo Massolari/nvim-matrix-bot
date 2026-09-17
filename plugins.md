@@ -240,6 +240,7 @@ cjodo/convert.nvim - https://github.com/cjodo/convert.nvim - Helps with CSS unit
 tednguyendev/recent_rails.nvim - https://github.com/tednguyendev/recent_rails.nvim - Telescope picker for recent Rails actions, views, and errors.
 ankushbhagats/liveserver.nvim - https://github.com/ankushbhagats/liveserver.nvim - Live-server integration with smart commands and a clickable lualine toggle.
 harukikuri/viteenv.nvim - https://github.com/harukikuri/viteenv.nvim - Shows the effective value of `import.meta.env` variables inline per mode, resolved by your project's own `Vite`.
+the-mayankjha/fk_markdown.nvim - https://github.com/the-mayankjha/fk_markdown.nvim - Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images.
 iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through the job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
