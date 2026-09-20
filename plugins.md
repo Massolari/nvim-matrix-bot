@@ -843,6 +843,7 @@ rachartier/tiny-glimmer.nvim - https://github.com/rachartier/tiny-glimmer.nvim/ 
 y3owk1n/undo-glow.nvim - https://github.com/y3owk1n/undo-glow.nvim/ - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 gen740/SmoothCursor.nvim - https://github.com/gen740/SmoothCursor.nvim - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 indium114/smudge.nvim - https://github.com/indium114/smudge.nvim - Performant cursor animations.
+RedEye-Developers/starfall.nvim - https://github.com/RedEye-Developers/starfall.nvim - Star twinkling, falling and shooting star crossing animation in background.
 TheLazyCat00/termfile-nvim - https://github.com/TheLazyCat00/termfile-nvim - Turn files into persistent terminal sessions that flawlessly allow for background work.
 TheLazyCat00/runner-nvim - https://github.com/TheLazyCat00/runner-nvim - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 LuxVim/nvim-luxterm - https://github.com/LuxVim/nvim-luxterm - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
@@ -1269,6 +1270,7 @@ notomo/cmdbuf.nvim - https://github.com/notomo/cmdbuf.nvim - Alternative command
 gelguy/wilder.nvim - https://github.com/gelguy/wilder.nvim - A plugin for fuzzy command line autocompletion.
 vzze/cmdline.nvim - https://github.com/vzze/cmdline.nvim - Helix-like command line with fuzzy autocompletion.
 nvim-mini/mini.nvim#mini.cmdline - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
+juniorsundar/cling.nvim - https://github.com/juniorsundar/cling.nvim - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
 rmagatti/auto-session - https://github.com/rmagatti/auto-session - A small automated session manager.
 nvim-mini/mini.nvim#mini.sessions - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md - Module of `mini.nvim` for session management (read, write, delete).
 gennaro-tedesco/nvim-possession - https://github.com/gennaro-tedesco/nvim-possession - The no-nonsense session manager.
