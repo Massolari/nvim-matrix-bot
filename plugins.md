@@ -173,6 +173,7 @@ nickjvandyke/opencode.nvim - https://github.com/nickjvandyke/opencode.nvim - Ope
 overflow/fs-review.nvim - https://github.com/overflow/fs-review.nvim - Filesystem and OpenCode review panel with isolated diff tabs, project-scoped activity tracking, and live cross-process refresh.
 taigrr/neocrush.nvim - https://github.com/taigrr/neocrush.nvim - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 zgs225/pi2.nvim - https://github.com/zgs225/pi2.nvim - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
+jaitd/fieldguide.nvim - https://github.com/jaitd/fieldguide.nvim - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
@@ -191,6 +192,7 @@ neolooong/whichpy.nvim - https://github.com/neolooong/whichpy.nvim - Switch Pyth
 nvim-java/nvim-java - https://github.com/nvim-java/nvim-java - Everything you need for a painless Java experience.
 clang-engineer/jvm-env.nvim - https://github.com/clang-engineer/jvm-env.nvim - Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle.
 artur-shaik/jc.nvim - https://github.com/artur-shaik/jc.nvim - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+ag-libs/lathe.nvim - https://github.com/ag-libs/lathe.nvim - Java language server for Maven — code intelligence, diagnostics, run/test/debug, no classpath setup.
 kiyoon/python-import.nvim - https://github.com/kiyoon/python-import.nvim - Add Python import statements with Tree-sitter, LSP, and more.
 kiyoon/haskell-scope-highlighting.nvim - https://github.com/kiyoon/haskell-scope-highlighting.nvim - Haskell syntax highlighting which considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 apyra/nvim-unity.nvim - https://github.com/apyra/nvim-unity - Editor support for Unity with full LSP support via OmniSharp.
@@ -833,6 +835,7 @@ ChuYanLon/telegram.nvim - https://github.com/ChuYanLon/telegram.nvim - A Telegra
 paulburgess1357/nvim-mcp - https://github.com/paulburgess1357/nvim-mcp - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
 dpezto/chezmoi-template.nvim - https://github.com/dpezto/chezmoi-template.nvim - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
 7KiLL/copybara.nvim - https://github.com/7KiLL/copybara.nvim - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
+rifen/timescope - https://github.com/rifen/timescope - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
 VidocqH/data-viewer.nvim - https://github.com/VidocqH/data-viewer.nvim - Provide a simple table view to inspect data files such as `csv`, `tsv`.
 theKnightsOfRohan/csvlens.nvim - https://github.com/theKnightsOfRohan/csvlens.nvim - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens), for easy previewing of tabular data.
 emmanueltouzery/decisive.nvim - https://github.com/emmanueltouzery/decisive.nvim - View and edit CSV files with ease and speed.
