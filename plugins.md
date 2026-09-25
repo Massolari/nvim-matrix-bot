@@ -1448,6 +1448,7 @@ xieyonn/spinner.nvim - https://github.com/xieyonn/spinner.nvim - Extensible spin
 quickui.nvim - https://github.com/mjmjm0101/quickui.nvim - Structured, keyboard-driven menus and context menus with nested navigation.
 ln.nvim - https://github.com/markosnarinian/ln.nvim - Relative numbers on the active window, absolute everywhere else.
 nvim-mini/mini.nvim#mini.input - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
+simifalaye/minibuffer.nvim - https://github.com/simifalaye/minibuffer.nvim - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
 Vimawesome - https://vimawesome.com/ - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
 akrawchyk/awesome-vim#tools - https://github.com/akrawchyk/awesome-vim#tools - A short list of Vim plugins and helpful guides.
 Neovimcraft - https://neovimcraft.com - A site dedicated to searching specific plugins and guides for building plugins in Lua.
