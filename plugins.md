@@ -79,6 +79,7 @@ nemanjamalesija/ts-expand-hover.nvim - https://github.com/nemanjamalesija/ts-exp
 mason-org/mason.nvim - https://github.com/mason-org/mason.nvim - Easily install and manage LSP servers, DAP servers, linters, and formatters.
 Senal-D-A-Gunaratna/swapson.nvim - https://github.com/Senal-D-A-Gunaratna/swapson.nvim - Monkeypatches `mason.nvim` to route `npm` and `pip` installs through `bun` and `uv`, speeding up LSP and tool installation.
 Crysthamus/nvim-file-operations - https://github.com/Crysthamus/nvim-file-operations - Add support for workspace file operations using built-in LSPs.
+antosha417/nvim-lsp-file-operations - https://github.com/antosha417/nvim-lsp-file-operations - File operations using built-in LSP support.
 carldaws/miser.nvim - https://github.com/carldaws/miser.nvim - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
 sontungexpt/better-diagnostic-virtual-text - https://github.com/sontungexpt/better-diagnostic-virtual-text - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
 ~whynothugo/lsp_lines.nvim - https://git.sr.ht/~whynothugo/lsp_lines.nvim - Render diagnostics using virtual lines on top of the real line of code.
@@ -953,6 +954,7 @@ lewistg/pesto.nvim - https://github.com/lewistg/pesto.nvim - - Bazel integration
 wsdjeg/tasks.nvim - https://github.com/wsdjeg/tasks.nvim - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 JulOuellet/bzl.nvim - https://github.com/JulOuellet/bzl.nvim - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 caskstrength/nvim-soil - https://codeberg.org/caskstrength/nvim-soil - Run PlantUML script and generate UML design.
+pewpewnor/dove.nvim - https://github.com/pewpewnor/dove.nvim - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
 saghen/blink.lib - https://github.com/saghen/blink.lib - Generic utilities for all other `blink.*` plugins.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your plugins to LuaRocks.
