@@ -1130,6 +1130,7 @@ nvim-mini/mini.nvim#mini.map - https://github.com/nvim-mini/mini.nvim/blob/main/
 gorbit99/codewindow.nvim - https://github.com/gorbit99/codewindow.nvim - Minimap plugin, that is closely integrated with Tree-sitter and the built-in LSP to display more information to the user.
 lewis6991/satellite.nvim - https://github.com/lewis6991/satellite.nvim - Decorate scrollbar.
 wsdjeg/scrollbar.nvim - https://github.com/wsdjeg/scrollbar.nvim - Floating scrollbar.
+mihovilrak/scroll.nvim - https://github.com/mihovilrak/scroll.nvim - Draggable scrollbars with support for diagnostics, Git changes and search matches and minimap.
 DrKJeff16/boolean-toggle.nvim - https://github.com/DrKJeff16/boolean-toggle.nvim - Toggle between `true` and `false` under your cursor.
 DrKJeff16/shebang.nvim - https://github.com/DrKJeff16/shebang.nvim - Add or modify a shebang on top of the current file.
 nxhung2304/lastplace.nvim - https://github.com/nxhung2304/lastplace.nvim - Intelligently restore your cursor position when reopening files.
@@ -1281,6 +1282,7 @@ gelguy/wilder.nvim - https://github.com/gelguy/wilder.nvim - A plugin for fuzzy 
 vzze/cmdline.nvim - https://github.com/vzze/cmdline.nvim - Helix-like command line with fuzzy autocompletion.
 nvim-mini/mini.nvim#mini.cmdline - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
 juniorsundar/cling.nvim - https://github.com/juniorsundar/cling.nvim - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
+wurli/servery.nvim - https://github.com/wurli/servery.nvim - Jump between sessions using your favourite fuzzy finder.
 rmagatti/auto-session - https://github.com/rmagatti/auto-session - A small automated session manager.
 nvim-mini/mini.nvim#mini.sessions - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md - Module of `mini.nvim` for session management (read, write, delete).
 gennaro-tedesco/nvim-possession - https://github.com/gennaro-tedesco/nvim-possession - The no-nonsense session manager.
@@ -1418,6 +1420,7 @@ adoyle-h/one.nvim - https://github.com/adoyle-h/one.nvim - All-in-one config fra
 nvim-mini/MiniMax - https://github.com/nvim-mini/MiniMax - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 TheItcor/MoaiVim - https://github.com/TheItcor/MoaiVim - A minimalist config that emulates a lightweight IDE.
 plutowang/nvim.pack - https://github.com/plutowang/nvim.pack - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
+JimmyPla6z/FireVim - https://gitlab.com/JimmyPla6z/Firevim - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
 MordechaiHadad/bob - https://github.com/MordechaiHadad/bob - A cross-platform, easy to use version manager.
 NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and blazingly fast version manager.
 y3owk1n/nvs - https://github.com/y3owk1n/nvs - Another version manager with config switcher.
