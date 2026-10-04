@@ -1249,7 +1249,7 @@ chrisgrieser/nvim-origami - https://github.com/chrisgrieser/nvim-origami - Fold 
 malbertzard/inline-fold.nvim - https://github.com/malbertzard/inline-fold.nvim - Hide certain elements inline like long CSS classes or `href` content.
 netmute/foldchanged.nvim - https://github.com/netmute/foldchanged.nvim - Adds a `FoldChanged` User event.
 netmute/foldsigns.nvim - https://github.com/netmute/foldsigns.nvim - Adds fold markers to sign column to make folds more visible while editing.
-fold-logging.nvim - https://github.com/markosnarinian/fold-logging.nvim - Fold logging/debug prints without changing normal folds.
+markosnarinian/distill.nvim - https://github.com/markosnarinian/distill.nvim - Fold logging and debug calls while preserving your function, class, and block folds.
 TheLazyCat00/simple-format - https://github.com/TheLazyCat00/simple-format - Replace text using custom regex and highlight group rules.
 mhartington/formatter.nvim - https://github.com/mhartington/formatter.nvim - A format runner written in Lua.
 sbdchd/neoformat - https://github.com/sbdchd/neoformat - A code formatting runner.
@@ -1390,7 +1390,6 @@ abdellatif-temsamani/adev.nvim - https://github.com/abdellatif-temsamani/adev.nv
 pgosar/CyberNvim - https://github.com/pgosar/CyberNvim - The world's simplest and most extensible Neovim distribution.
 sontungexpt/stinvim - https://github.com/sontungexpt/stinvim - Configuration for Full-Stack developers.
 Abstract-IDE/Abstract - https://github.com/Abstract-IDE/Abstract - Configuration to achieve the power of Modern IDE.
-SpaceVim/SpaceVim - https://spacevim.org - A community-driven modular distribution, inspired by [spacemacs](https://github.com/syl20bnr/spacemacs).
 CosmicNvim/CosmicNvim - https://github.com/CosmicNvim/CosmicNvim - CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience.
 artart222/CodeArt - https://github.com/artart222/CodeArt - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built-in `:CodeArtUpdate` command for updating it.
 LazyVim/LazyVim - https://github.com/LazyVim/LazyVim - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.
@@ -1455,8 +1454,8 @@ ariel-frischer/bmessages.nvim - https://github.com/ariel-frischer/bmessages.nvim
 markgandolfo/lightswitch.nvim - https://github.com/markgandolfo/lightswitch.nvim - Toggle various options using the `nui.nvim` library.
 wsdjeg/calendar.nvim - https://github.com/wsdjeg/calendar.nvim - A simple floating calendar with extensions support.
 xieyonn/spinner.nvim - https://github.com/xieyonn/spinner.nvim - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
-quickui.nvim - https://github.com/mjmjm0101/quickui.nvim - Structured, keyboard-driven menus and context menus with nested navigation.
-ln.nvim - https://github.com/markosnarinian/ln.nvim - Relative numbers on the active window, absolute everywhere else.
+mjmjm0101/quickui.nvim - https://github.com/mjmjm0101/quickui.nvim - Structured, keyboard-driven menus and context menus with nested navigation.
+markosnarinian/ln.nvim - https://github.com/markosnarinian/ln.nvim - Relative numbers on the active window, absolute everywhere else.
 nvim-mini/mini.nvim#mini.input - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
 simifalaye/minibuffer.nvim - https://github.com/simifalaye/minibuffer.nvim - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
 Vimawesome - https://vimawesome.com/ - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
