@@ -921,6 +921,7 @@ zkucekovic/tdd.nvim - https://github.com/zkucekovic/tdd.nvim - Opens or creates 
 nvim-neotest/neotest-jest - https://github.com/nvim-neotest/neotest-jest - Neotest adapter for running Jest tests.
 MisanthropicBit/neotest-busted - https://github.com/MisanthropicBit/neotest-busted - Neotest adapter for running busted tests using your editor as a Lua interpreter.
 mr-u0b0dy/crazy-coverage.nvim - https://github.com/mr-u0b0dy/crazy-coverage.nvim - Display code coverage.
+nghiant03/jove.nvim - https://github.com/nghiant03/jove.nvim - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 wurli/jet.nvim - https://github.com/wurli/jet.nvim - A LSP-enabled, extensible Jupyter client that just works.
 rafcamlet/nvim-luapad - https://github.com/rafcamlet/nvim-luapad - Interactive scratchpad for running Lua code.
 michaelb/sniprun - https://github.com/michaelb/sniprun - Run parts of code of any language directly from your editor.
