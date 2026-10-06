@@ -634,6 +634,7 @@ mitander/flume.nvim - https://github.com/mitander/flume.nvim - **_`[TS][LSP][L/D
 aadielpr/bono.nvim - https://github.com/aadielpr/bono.nvim - **_`[TS][LSP][L/D][Lua]`_** A warm muted colorscheme with cream (light) and espresso (dark) variants.
 art220/dancheong.nvim - https://github.com/art220/dancheong.nvim - **_`[TS][LSP][L/D][Lua]`_** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
 jonestristand/dune.nvim - https://github.com/jonestristand/dune.nvim - **_`[TS][LSP][Lua]`_** Four (plus one) variants inspired by Frank Herbert's Dune.
+2giosangmitom/nightfall.nvim - https://github.com/2giosangmitom/nightfall.nvim - **_`[TS][LSP][L/D][Lua]`_** Dracula-inspired colorscheme with four flavors including a light variant.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define colorschemes as a DSL in Lua, with real-time feedback.
