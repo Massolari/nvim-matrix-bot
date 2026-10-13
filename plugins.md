@@ -214,6 +214,7 @@ sachinsenal0x64/hot.nvim - https://github.com/sachinsenal0x64/hot.nvim - A hot r
 simonwinther/cppman.nvim - https://github.com/simonwinther/cppman.nvim - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 redpierrot/ballerina.nvim - https://github.com/redpierrot/ballerina.nvim - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 jgonmor16/hdlsnip.nvim - https://github.com/jgonmor16/hdlsnip.nvim - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
+upyesp/epher.nvim - https://github.com/upyesp/epher.nvim - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightweight plugin to manage struct field tags in Go files.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
@@ -482,6 +483,7 @@ cxwx/shadowMyName.nvim - https://github.com/cxwx/shadowMyName.nvim - Redact sens
 - **_`[L/D]`_** - Has both "light" and "dark" variants.
 - **_`[Lua]`_** - Is written in Lua.
 - **_`[Fnl]`_** - Is written in Fennel.
+daaanny90/interlinked.nvim - https://github.com/daaanny90/interlinked.nvim - **_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 rezniqov/soviet.nvim - https://github.com/rezniqov/soviet.nvim - **_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture.
 ThorstenRhau/token - https://github.com/ThorstenRhau/token - **_`[TS][LSP][L/D][Lua]`_** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 oskarnurm/koda.nvim - https://github.com/oskarnurm/koda.nvim - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
@@ -1358,6 +1360,7 @@ piersolenski/skifree.nvim - https://github.com/piersolenski/skifree.nvim - Play 
 xiangnongWu2233/rubiks-cube.nvim - https://github.com/xiangnongWu2233/rubiks-cube.nvim - A playable Rubik's cube with auto-solver.
 ~chinmay/cphelper.nvim - https://git.sr.ht/~chinmay/cphelper.nvim - Helper for competitive programming written in Lua.
 xeluxee/competitest.nvim - https://github.com/xeluxee/competitest.nvim - A plugin to automate testcases management and checking for Competitive Programming contests.
+FrancescoDerme/tuna.nvim - https://github.com/FrancescoDerme/tuna.nvim - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
 kawre/leetcode.nvim - https://github.com/kawre/leetcode.nvim - Solve Leetcode problems.
 2KAbhishek/exercism.nvim - https://github.com/2KAbhishek/exercism.nvim - Browse and solve Exercism problems.
 folke/drop.nvim - https://github.com/folke/drop.nvim - Screensavers with support for dashboards.
