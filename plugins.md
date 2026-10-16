@@ -1375,7 +1375,7 @@ emrearmagan/atlas.nvim - https://github.com/emrearmagan/atlas.nvim - A single wo
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
 jghauser/mkdir.nvim - https://github.com/jghauser/mkdir.nvim - Automatically create missing directories when saving files.
 aikhe/wrapped.nvim - https://github.com/aikhe/wrapped.nvim - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
-gisketch/triforce.nvim - https://github.com/gisketch/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+DrKJeff16/triforce.nvim - https://github.com/DrKJeff16/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 yal212/pomodoro.nvim - https://github.com/yal212/pomodoro.nvim - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 raymondware/focusmode.nvim - https://github.com/raymondware/focusmode.nvim - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
@@ -1474,3 +1474,4 @@ Weyaaron/nvim-training - https://github.com/Weyaaron/nvim-training - A beginner-
 Nvim.app - https://nvim.app - A modern search interface for plugins with fuzzy search, filtering, and self-service updates for plugin authors.
 ChuYanLon/chad46 - https://github.com/ChuYanLon/chad46 - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 Neovim Cheatsheet - https://neovimcheatsheet.com - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
+nvim-edu - https://s3onghyun.github.io/nvim-edu/ - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
