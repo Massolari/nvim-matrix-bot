@@ -10,6 +10,7 @@ wsdjeg/nvim-plug - https://github.com/wsdjeg/nvim-plug - Asynchronous plugin man
 piersolenski/plugin-addict.nvim - https://github.com/piersolenski/plugin-addict.nvim - A stupidly simple way to quickly install plugins.
 zuqini/zpack.nvim - https://github.com/zuqini/zpack.nvim - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 okram78/vahti.nvim - https://github.com/okram78/vahti.nvim - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
+Imngzx/resonance.nvim - https://github.com/Imngzx/resonance.nvim - An optimized `vim.pack` wrapper with lazy-loading, automatic build hooks, and an elegant UI.
 batoaqaa/nvim-pio - https://github.com/batoaqaa/nvim-pio - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
@@ -292,6 +293,7 @@ kiyoon/Korean-IME.nvim - https://github.com/kiyoon/Korean-IME.nvim - OS-independ
 walkersumida/deepl.nvim - https://github.com/walkersumida/deepl.nvim - Translates text using the DeepL API with multiple output modes (float, replace, append).
 acidsugarx/babel.nvim - https://github.com/acidsugarx/babel.nvim - Translate text using Google Translate with async support, float display, and multi-picker integration.
 noir4y/comment-translate.nvim - https://github.com/noir4y/comment-translate.nvim - Translate code comments and strings using online as well as local LLMs or external translators.
+Imngzx/jisho.nvim - https://github.com/Imngzx/jisho.nvim - Japanese dictionary, powered by `jisho.org`.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Tree-sitter configurations and abstraction layer.
 romus204/tree-sitter-manager.nvim - https://github.com/romus204/tree-sitter-manager.nvim - A lightweight Tree-sitter parser manager for Neovim 0.12+.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
@@ -967,6 +969,7 @@ wsdjeg/tasks.nvim - https://github.com/wsdjeg/tasks.nvim - A tasks manager that 
 JulOuellet/bzl.nvim - https://github.com/JulOuellet/bzl.nvim - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 caskstrength/nvim-soil - https://codeberg.org/caskstrength/nvim-soil - Run PlantUML script and generate UML design.
 pewpewnor/dove.nvim - https://github.com/pewpewnor/dove.nvim - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
+trimclain/builder.nvim - https://github.com/trimclain/builder.nvim - Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.
 saghen/blink.lib - https://github.com/saghen/blink.lib - Generic utilities for all other `blink.*` plugins.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your plugins to LuaRocks.
