@@ -1061,6 +1061,7 @@ jceb/jiejie.nvim - https://github.com/jceb/jiejie.nvim - Frontend for Jujutsu in
 chojs23/ec - https://github.com/chojs23/ec - A TUI native Git mergetool with 3 panes.
 harrisoncramer/GitLab.nvim - https://github.com/harrisoncramer/GitLab.nvim - Review pull requests and manage other GitLab resources.
 mm4cN/nvim-gitlab - https://github.com/mm4cN/nvim-gitlab - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
+ryutaro-asada/partial-diff.nvim - https://github.com/ryutaro-asada/partial-diff.nvim - Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm.
 pwntester/octo.nvim - https://github.com/pwntester/octo.nvim - Work with GitHub issues and PRs.
 ldelossa/gh.nvim - https://github.com/ldelossa/gh.nvim - A fully featured GitHub integration for performing code reviews.
 topaxi/pipeline.nvim - https://github.com/topaxi/pipeline.nvim - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
