@@ -177,6 +177,7 @@ overflow/fs-review.nvim - https://github.com/overflow/fs-review.nvim - Filesyste
 taigrr/neocrush.nvim - https://github.com/taigrr/neocrush.nvim - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 zgs225/pi2.nvim - https://github.com/zgs225/pi2.nvim - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 jaitd/fieldguide.nvim - https://github.com/jaitd/fieldguide.nvim - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
+mrwatts88/ghost.nvim - https://github.com/mrwatts88/ghost.nvim - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
@@ -643,6 +644,7 @@ art220/dancheong.nvim - https://github.com/art220/dancheong.nvim - **_`[TS][LSP]
 jonestristand/dune.nvim - https://github.com/jonestristand/dune.nvim - **_`[TS][LSP][Lua]`_** Four (plus one) variants inspired by Frank Herbert's Dune.
 2giosangmitom/nightfall.nvim - https://github.com/2giosangmitom/nightfall.nvim - **_`[TS][LSP][L/D][Lua]`_** Dracula-inspired colorscheme with four flavors including a light variant.
 oxidescheme/nvim - https://github.com/oxidescheme/nvim - **_`[TS][LSP][Lua]`_** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
+RazikSF/lumina-themes - https://github.com/RazikSF/lumina-themes - **_`[TS][LSP][L/D][Lua]`_** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define colorschemes as a DSL in Lua, with real-time feedback.
@@ -727,6 +729,7 @@ Kurama622/profile.nvim - https://github.com/Kurama622/profile.nvim - A dashboard
 leo-alvarenga/homecoming.nvim - https://github.com/leo-alvarenga/homecoming.nvim - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 Amansingh-afk/milli.nvim - https://github.com/Amansingh-afk/milli.nvim - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 zdcthomas/sprout.nvim - https://github.com/zdcthomas/sprout.nvim - An ASCII art bonsai for your start screen that grows as the day goes forward.
+hawknewton/matrix-splash.nvim - https://github.com/hawknewton/matrix-splash.nvim - Customizable Matrix-inspired splash screen.
 nvim-tree/nvim-web-devicons - https://github.com/nvim-tree/nvim-web-devicons - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 nvim-mini/mini.nvim#mini.icons - https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
 2KAbhishek/nerdy.nvim - https://github.com/2KAbhishek/nerdy.nvim/ - Find and insert the latest nerd font glyphs.
