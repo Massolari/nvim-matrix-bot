@@ -1439,6 +1439,7 @@ nvim-mini/MiniMax - https://github.com/nvim-mini/MiniMax - A collection of self-
 TheItcor/MoaiVim - https://github.com/TheItcor/MoaiVim - A minimalist config that emulates a lightweight IDE.
 plutowang/nvim.pack - https://github.com/plutowang/nvim.pack - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 JimmyPla6z/FireVim - https://gitlab.com/JimmyPla6z/Firevim - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
+gamjagoon/earlgrey.nvim - https://github.com/gamjagoon/earlgrey.nvim - A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.
 MordechaiHadad/bob - https://github.com/MordechaiHadad/bob - A cross-platform, easy to use version manager.
 NTBBloodbath/nvenv - https://github.com/NTBBloodbath/nvenv - A lightweight and blazingly fast version manager.
 y3owk1n/nvs - https://github.com/y3owk1n/nvs - Another version manager with config switcher.
