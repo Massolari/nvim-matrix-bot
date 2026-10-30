@@ -217,6 +217,7 @@ simonwinther/cppman.nvim - https://github.com/simonwinther/cppman.nvim - Search 
 redpierrot/ballerina.nvim - https://github.com/redpierrot/ballerina.nvim - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 jgonmor16/hdlsnip.nvim - https://github.com/jgonmor16/hdlsnip.nvim - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 upyesp/epher.nvim - https://github.com/upyesp/epher.nvim - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
+dobsontom/dbt-ft.nvim - https://github.com/dobsontom/dbt-ft.nvim - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
 romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightweight plugin to manage struct field tags in Go files.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
@@ -250,7 +251,7 @@ ankushbhagats/liveserver.nvim - https://github.com/ankushbhagats/liveserver.nvim
 harukikuri/viteenv.nvim - https://github.com/harukikuri/viteenv.nvim - Shows the effective value of `import.meta.env` variables inline per mode, resolved by your project's own `Vite`.
 mcp1766/stylepeek.nvim - https://github.com/mcp1766/stylepeek.nvim - Browse, preview and manage CSS rules.
 the-mayankjha/fk_markdown.nvim - https://github.com/the-mayankjha/fk_markdown.nvim - Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images.
-iamcco/markdown-preview.nvim - https://github.com/iamcco/markdown-preview.nvim - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
+sammaji/markdown-preview.nvim - https://github.com/sammaji/markdown-preview.nvim - Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling.
 davidgranstrom/nvim-markdown-preview - https://github.com/davidgranstrom/nvim-markdown-preview - Markdown preview in the browser using pandoc and live-server through the job-control API.
 jghauser/auto-pandoc.nvim - https://github.com/jghauser/auto-pandoc.nvim - Easy pandoc conversion leveraging YAML blocks.
 jghauser/follow-md-links.nvim - https://github.com/jghauser/follow-md-links.nvim - Press enter to follow internal Markdown links.
@@ -486,6 +487,7 @@ cxwx/shadowMyName.nvim - https://github.com/cxwx/shadowMyName.nvim - Redact sens
 - **_`[L/D]`_** - Has both "light" and "dark" variants.
 - **_`[Lua]`_** - Is written in Lua.
 - **_`[Fnl]`_** - Is written in Fennel.
+heritage-themes/heritage-themes.nvim - https://github.com/heritage-themes/heritage-themes.nvim - **_`[TS][LSP][L/D][Lua]`_** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
 zacesshq/zacess.nvim - https://github.com/zacesshq/zacess.nvim - **_`[TS][LSP][L/D][Lua]`_** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 daaanny90/interlinked.nvim - https://github.com/daaanny90/interlinked.nvim - **_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 rezniqov/soviet.nvim - https://github.com/rezniqov/soviet.nvim - **_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture.
