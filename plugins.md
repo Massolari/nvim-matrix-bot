@@ -466,6 +466,7 @@ famiu/bufdelete.nvim - https://github.com/famiu/bufdelete.nvim - Delete buffers 
 wsdjeg/bufdel.nvim - https://github.com/wsdjeg/bufdel.nvim - Delete buffers without changing windows layout.
 m-demare/attempt.nvim - https://github.com/m-demare/attempt.nvim - Manage and run temporary buffers.
 iago-lito/bufmarks.nvim - https://codeberg.org/iago-lito/bufmarks.nvim - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
+tiagovla/scope.nvim - https://github.com/tiagovla/scope.nvim - Scope buffers to individual tabs while keeping native buffer navigation commands.
 catgoose/nvim-colorizer.lua - https://github.com/catgoose/nvim-colorizer.lua - A high-performance color highlighter which has no external dependencies.
 winston0410/range-highlight.nvim - https://github.com/winston0410/range-highlight.nvim - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
 folke/twilight.nvim - https://github.com/folke/twilight.nvim - Dim inactive portions of the code you're editing using Tree-sitter.
@@ -651,6 +652,7 @@ jonestristand/dune.nvim - https://github.com/jonestristand/dune.nvim - **_`[TS][
 oxidescheme/nvim - https://github.com/oxidescheme/nvim - **_`[TS][LSP][Lua]`_** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
 RazikSF/lumina-themes - https://github.com/RazikSF/lumina-themes - **_`[TS][LSP][L/D][Lua]`_** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 kryptamine/gruber-darker-renaissance - https://github.com/kryptamine/gruber-darker-renaissance - **_`[TS][LSP][Lua]`_** A dark, minimal colorscheme based on Gruber Darker.
+tiagovla/tokyodark.nvim - https://github.com/tiagovla/tokyodark.nvim - **_`[TS][LSP][Lua]`_** A clean and customizable dark colorscheme.
 tjdevries/colorbuddy.nvim - https://github.com/tjdevries/colorbuddy.nvim - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
 norcalli/nvim-base16.lua - https://github.com/norcalli/nvim-base16.lua - Programmatic Lua library for setting base16 themes.
 rktjmp/lush.nvim - https://github.com/rktjmp/lush.nvim - Define colorschemes as a DSL in Lua, with real-time feedback.
@@ -1028,6 +1030,7 @@ cosmicbuffalo/gem_install.nvim - https://github.com/cosmicbuffalo/gem_install.nv
 taigrr/glaze.nvim - https://github.com/taigrr/glaze.nvim - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
 jpease/hex-outdated.nvim - https://github.com/jpease/hex-outdated.nvim - Display latest Hex package version and status as virtual text in `mix.exs`.
 mm4cN/nvim-conan - https://github.com/mm4cN/nvim-conan - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
+alessandropietrobelli/nuget.nvim - https://github.com/alessandropietrobelli/nuget.nvim - NuGet package manager for .NET solutions.
 Darkskittlz/GitCompanion - https://github.com/Darkskittlz/GitCompanion - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 YouSame2/inlinediff-nvim - https://github.com/YouSame2/inlinediff-nvim - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 mrloop/telescope-git-branch.nvim - https://github.com/mrloop/telescope-git-branch.nvim - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
