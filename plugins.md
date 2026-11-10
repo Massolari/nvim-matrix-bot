@@ -447,6 +447,7 @@ martuscellifaria/ahoicpp.nvim - https://github.com/martuscellifaria/ahoicpp.nvim
 OscarCreator/rsync.nvim - https://github.com/OscarCreator/rsync.nvim - Automatically sync up/down project to a remote with rsync.
 zachyarbrough/anchor.nvim - https://github.com/zachyarbrough/anchor.nvim - Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon.
 Rimkomatic/vimtagger.nvim - https://github.com/Rimkomatic/vimtagger.nvim - Semantic file tagging for projects with Telescope integration. Organize files using custom tags, search them quickly, and manage tags through an interactive UI.
+tiagovla/projet.nvim - https://github.com/tiagovla/projet.nvim - A minimalist tool for managing your projects, with just enough French to feel fancy.
 TheLazyCat00/workspaces-nvim - https://github.com/TheLazyCat00/workspaces-nvim - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 dzfrias/arena.nvim - https://github.com/dzfrias/arena.nvim - A smart (frecency-based) buffer switcher.
 backdround/tabscope.nvim - https://github.com/backdround/tabscope.nvim - Make tab-local buffers.
