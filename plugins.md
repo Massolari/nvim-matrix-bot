@@ -1401,7 +1401,7 @@ emrearmagan/atlas.nvim - https://github.com/emrearmagan/atlas.nvim - A single wo
 mateuszwieloch/automkdir.nvim - https://github.com/mateuszwieloch/automkdir.nvim - Automatically create non-existent parent directories when writing a file.
 jghauser/mkdir.nvim - https://github.com/jghauser/mkdir.nvim - Automatically create missing directories when saving files.
 aikhe/wrapped.nvim - https://github.com/aikhe/wrapped.nvim - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
-DrKJeff16/triforce.nvim - https://github.com/DrKJeff16/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+gisketch/triforce.nvim - https://github.com/gisketch/triforce.nvim - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 QuentinGruber/pomodoro.nvim - https://github.com/QuentinGruber/pomodoro.nvim - Use the Pomodoro Technique with built-in session tracking and break reminders.
 yal212/pomodoro.nvim - https://github.com/yal212/pomodoro.nvim - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 raymondware/focusmode.nvim - https://github.com/raymondware/focusmode.nvim - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
