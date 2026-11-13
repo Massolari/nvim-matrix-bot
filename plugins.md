@@ -11,6 +11,7 @@ piersolenski/plugin-addict.nvim - https://github.com/piersolenski/plugin-addict.
 zuqini/zpack.nvim - https://github.com/zuqini/zpack.nvim - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 okram78/vahti.nvim - https://github.com/okram78/vahti.nvim - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
 Imngzx/resonance.nvim - https://github.com/Imngzx/resonance.nvim - An optimized `vim.pack` wrapper with lazy-loading, automatic build hooks, and an elegant UI.
+jtprogru/pack-ui.nvim - https://github.com/jtprogru/pack-ui.nvim - A simple UI on top of `vim.pack` for managing plugins.
 batoaqaa/nvim-pio - https://github.com/batoaqaa/nvim-pio - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 romus204/referencer.nvim - https://github.com/romus204/referencer.nvim - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 Dan7h3x/signup.nvim - https://github.com/Dan7h3x/signup.nvim - a little smart `lsp_signature` helper with awesome features.
@@ -178,6 +179,7 @@ taigrr/neocrush.nvim - https://github.com/taigrr/neocrush.nvim - Integration wit
 zgs225/pi2.nvim - https://github.com/zgs225/pi2.nvim - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 jaitd/fieldguide.nvim - https://github.com/jaitd/fieldguide.nvim - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
 mrwatts88/ghost.nvim - https://github.com/mrwatts88/ghost.nvim - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
+kova1max/float-claude.nvim - https://github.com/kova1max/float-claude.nvim - Ask Claude Code about the current file or selection from a popup, using the `claude` CLI subscription instead of an API key.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
@@ -573,7 +575,7 @@ nvim-mini/mini.nvim#colorschemes - https://github.com/nvim-mini/mini.nvim#plugin
 luisiacc/gruvbox-baby - https://github.com/luisiacc/gruvbox-baby - **_`[TS][LSP][Lua]`_** A modern gruvbox theme with full Tree-sitter support.
 titanzero/zephyrium - https://github.com/titanzero/zephyrium - **_`[TS][Lua]`_** A zephyr-esque theme, written in Lua, with Tree-sitter support.
 rebelot/kanagawa.nvim - https://github.com/rebelot/kanagawa.nvim - **_`[TS][LSP][L/D][Lua]`_** A dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
-thesimonho/kanagawa-paper.nvim - https://github.com/thesimonho/kanagawa-paper.nvim - **_`[TS][LSP][L/D][Lua]`_** Remixed light and dark Kanagawa colourschemes with muted colors.
+thesimonho/kanagawa-paper - https://github.com/thesimonho/kanagawa-paper - **_`[TS][LSP][L/D][Lua]`_** Remixed light and dark Kanagawa colourschemes with muted colors.
 kevinm6/kurayami.nvim - https://github.com/kevinm6/kurayami.nvim - **_`[TS][LSP][Lua]`_** Dark only theme with Tree-sitter support.
 cpea2506/one_monokai.nvim - https://github.com/cpea2506/one_monokai.nvim - **_`[TS][LSP][Lua]`_** One Monokai theme written in Lua.
 phha/zenburn.nvim - https://github.com/phha/zenburn.nvim - **_`[TS][Lua]`_** A low-contrast dark colorscheme with support for various plugins.
