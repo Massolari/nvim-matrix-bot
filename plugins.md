@@ -222,6 +222,7 @@ upyesp/epher.nvim - https://github.com/upyesp/epher.nvim - Calculator language w
 dobsontom/dbt-ft.nvim - https://github.com/dobsontom/dbt-ft.nvim - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
 alessandropietrobelli/dotnet-tree.nvim - https://github.com/alessandropietrobelli/dotnet-tree.nvim - A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions.
 alessandropietrobelli/dotnet-counters.nvim - https://github.com/alessandropietrobelli/dotnet-counters.nvim - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
+anirbanchakraborty-dev/swara - https://github.com/anirbanchakraborty-dev/swara - LilyPond support with its own Tree-sitter grammar and LSP server.
 romus204/go-tagger.nvim - https://github.com/romus204/go-tagger.nvim - A lightweight plugin to manage struct field tags in Go files.
 ray-x/go.nvim - https://github.com/ray-x/go.nvim - Golang plugin based on LSP and Tree-sitter.
 crusj/structrue-go.nvim - https://github.com/crusj/structrue-go.nvim - A better structured display of Golang symbols information.
