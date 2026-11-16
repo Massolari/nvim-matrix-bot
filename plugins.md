@@ -180,6 +180,7 @@ zgs225/pi2.nvim - https://github.com/zgs225/pi2.nvim - Frontend for the [pi](htt
 jaitd/fieldguide.nvim - https://github.com/jaitd/fieldguide.nvim - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
 mrwatts88/ghost.nvim - https://github.com/mrwatts88/ghost.nvim - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 kova1max/float-claude.nvim - https://github.com/kova1max/float-claude.nvim - Ask Claude Code about the current file or selection from a popup, using the `claude` CLI subscription instead of an API key.
+vshulcz/deja-vu - https://github.com/vshulcz/deja-vu - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
@@ -634,7 +635,7 @@ motaz-shokry/gruvbox.nvim - https://gitlab.com/motaz-shokry/gruvbox.nvim - **_`[
 pebeto/dookie.nvim - https://github.com/pebeto/dookie.nvim - **_`[TS][Lua]`_** A color scheme inspired by Plan9's acme editor.
 metalelf0/jellybeans-nvim - https://github.com/metalelf0/jellybeans-nvim - **_`[TS][Lua]`_** A port of jellybeans colorscheme.
 lalitmee/cobalt2.nvim - https://github.com/lalitmee/cobalt2.nvim - **_`[Lua]`_** A port of cobalt2 colorscheme using colorbuddy.
-dybdeskarphet/gruvbox-minimal.nvim - https://github.com/dybdeskarphet/gruvbox-minimal.nvim - **_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster.
+dybdeskarphet/min.nvim - https://github.com/dybdeskarphet/min.nvim - **_`[TS][LSP][L/D][Lua]`_** A minimal colorscheme with several flavors, conceptually inspired by Alabaster.
 taigrr/cyberpunk.nvim - https://github.com/taigrr/cyberpunk.nvim - **_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 ankushbhagats/pastel.nvim - https://github.com/ankushbhagats/pastel.nvim - **_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 0x-ximon/acario.nvim - https://github.com/0x-ximon/acario.nvim - **_`[TS][LSP][L/D][Lua]`_** A port of the clean, high-contrast Doom Emacs Acario theme.
