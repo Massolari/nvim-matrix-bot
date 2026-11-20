@@ -304,6 +304,7 @@ walkersumida/deepl.nvim - https://github.com/walkersumida/deepl.nvim - Translate
 acidsugarx/babel.nvim - https://github.com/acidsugarx/babel.nvim - Translate text using Google Translate with async support, float display, and multi-picker integration.
 noir4y/comment-translate.nvim - https://github.com/noir4y/comment-translate.nvim - Translate code comments and strings using online as well as local LLMs or external translators.
 Imngzx/jisho.nvim - https://github.com/Imngzx/jisho.nvim - Japanese dictionary, powered by `jisho.org`.
+refine-sh/refine.nvim - https://github.com/refine-sh/refine.nvim - Grammar and fluency checks with a local LLM, powered by the `Refine` app for macOS.
 nvim-treesitter/nvim-treesitter - https://github.com/nvim-treesitter/nvim-treesitter - Tree-sitter configurations and abstraction layer.
 romus204/tree-sitter-manager.nvim - https://github.com/romus204/tree-sitter-manager.nvim - A lightweight Tree-sitter parser manager for Neovim 0.12+.
 nvim-treesitter/nvim-treesitter-textobjects - https://github.com/nvim-treesitter/nvim-treesitter-textobjects - Create your own textobjects using Tree-sitter queries.
@@ -991,6 +992,7 @@ JulOuellet/bzl.nvim - https://github.com/JulOuellet/bzl.nvim - Bazel integration
 caskstrength/nvim-soil - https://codeberg.org/caskstrength/nvim-soil - Run PlantUML script and generate UML design.
 pewpewnor/dove.nvim - https://github.com/pewpewnor/dove.nvim - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
 trimclain/builder.nvim - https://github.com/trimclain/builder.nvim - Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.
+cxwx/rslime.nvim - https://github.com/cxwx/rslime.nvim - Slime-style REPL for the CERN ROOT C++ interpreter (Cling); send `// %%` cells to `root -l`, with kernel restart, `.undo`, and `THttpServer` inspection.
 saghen/blink.lib - https://github.com/saghen/blink.lib - Generic utilities for all other `blink.*` plugins.
 folke/lazydev.nvim - https://github.com/folke/lazydev.nvim - Faster LuaLS setup.
 lumen-oss/luarocks-tag-release - https://github.com/lumen-oss/luarocks-tag-release - A GitHub action that publishes your plugins to LuaRocks.
@@ -1341,6 +1343,7 @@ niuiic/remote.nvim - https://github.com/niuiic/remote.nvim - Edit remote files w
 uhs-robert/sshfs.nvim - https://github.com/uhs-robert/sshfs.nvim - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
 nosduco/remote-sshfs.nvim - https://github.com/nosduco/remote-sshfs.nvim - Explore, edit, and develop on a remote machine via SSHFS.
 azratul/live-share.nvim - https://github.com/azratul/live-share.nvim - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+bradley101/nvim-remote-ssh - https://github.com/bradley101/nvim-remote-ssh - Work on a remote machine, similar to VSCode's "Remote-SSH" plugin.
 hat0uma/prelive.nvim - https://github.com/hat0uma/prelive.nvim - A simple luv-based development server with live reloading.
 hat0uma/doxygen-previewer.nvim - https://github.com/hat0uma/doxygen-previewer.nvim - Live previewing of Doxygen documentation.
 brianhuster/live-preview.nvim - https://github.com/brianhuster/live-preview.nvim - Live preview HTML, Markdown and Asciidoc in the browser.
@@ -1509,3 +1512,4 @@ Nvim.app - https://nvim.app - A modern search interface for plugins with fuzzy s
 ChuYanLon/chad46 - https://github.com/ChuYanLon/chad46 - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 Neovim Cheatsheet - https://neovimcheatsheet.com - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 nvim-edu - https://s3onghyun.github.io/nvim-edu/ - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
+editortheme/editorthemes.com - https://editorthemes.com/editors/neovim - Directory for various colorschemes, with live previews and install snippets.
