@@ -181,6 +181,7 @@ jaitd/fieldguide.nvim - https://github.com/jaitd/fieldguide.nvim - Sidebar agent
 mrwatts88/ghost.nvim - https://github.com/mrwatts88/ghost.nvim - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 kova1max/float-claude.nvim - https://github.com/kova1max/float-claude.nvim - Ask Claude Code about the current file or selection from a popup, using the `claude` CLI subscription instead of an API key.
 vshulcz/deja-vu - https://github.com/vshulcz/deja-vu - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
+~foosoft/boomer.nvim - https://git.sr.ht/~foosoft/boomer.nvim - Minimalist agent chat buffer for Codex and ACP agents such as Copilot CLI, Gemini CLI, and Claude Agent.
 alessio-vivaldelli/java-creator-nvim - https://github.com/alessio-vivaldelli/java-creator-nvim - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 Julian/lean.nvim - https://github.com/Julian/lean.nvim - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 nvim-flutter/flutter-tools.nvim - https://github.com/nvim-flutter/flutter-tools.nvim - Build Flutter and Dart applications using the native LSP.
