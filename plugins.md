@@ -296,6 +296,7 @@ satozawa/graft.nvim - https://github.com/satozawa/graft.nvim - Tree-structured e
 kibi2/tirenvi.nvim - https://github.com/kibi2/tirenvi.nvim - Edit Markdown and CSV tables with lossless round-trip.
 itsfernn/vimtex-follow - https://github.com/itsfernn/vimtex-follow - Adds a toggleable "follow mode", synchronizing your PDF viewer with your cursor position.
 ywsrock/nvim-md-preview - https://github.com/ywsrock/nvim-md-preview - Markdown preview in your browser with two-way cursor sync, Mermaid and KaTeX support, and PDF/DOCX/HTML/EPUB export.
+Kepler2024/iterm-preview.nvim - https://github.com/Kepler2024/iterm-preview.nvim - Route `markdown-preview.nvim` live previews into an iTerm2 browser split pane instead of an external browser window, with scroll sync.
 potamides/pantran.nvim - https://github.com/potamides/pantran.nvim - Translate your text with an interactive translation window.
 niuiic/translate.nvim - https://github.com/niuiic/translate.nvim - Invoke any translation engine via shell command.
 tanloong/interlaced.nvim - https://github.com/tanloong/interlaced.nvim - Help align bilingual parallel texts.
