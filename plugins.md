@@ -223,6 +223,7 @@ redpierrot/ballerina.nvim - https://github.com/redpierrot/ballerina.nvim - Synta
 jgonmor16/hdlsnip.nvim - https://github.com/jgonmor16/hdlsnip.nvim - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 upyesp/epher.nvim - https://github.com/upyesp/epher.nvim - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 dobsontom/dbt-ft.nvim - https://github.com/dobsontom/dbt-ft.nvim - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
+drumandbytes/dbt-lens.nvim - https://github.com/drumandbytes/dbt-lens.nvim - Run dbt models, read compiled SQL, and jump to `ref()`, `source()` and macro definitions.
 alessandropietrobelli/dotnet-tree.nvim - https://github.com/alessandropietrobelli/dotnet-tree.nvim - A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions.
 alessandropietrobelli/dotnet-counters.nvim - https://github.com/alessandropietrobelli/dotnet-counters.nvim - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
 anirbanchakraborty-dev/swara - https://github.com/anirbanchakraborty-dev/swara - LilyPond support with its own Tree-sitter grammar and LSP server.
@@ -501,6 +502,7 @@ cxwx/shadowMyName.nvim - https://github.com/cxwx/shadowMyName.nvim - Redact sens
 - **_`[L/D]`_** - Has both "light" and "dark" variants.
 - **_`[Lua]`_** - Is written in Lua.
 - **_`[Fnl]`_** - Is written in Fennel.
+ryanjayleyva/kasumi.nvim - https://github.com/ryanjayleyva/kasumi.nvim - **_`[TS][LSP][Lua]`_** Muted dark colorscheme of dusty pinks, sages and greys, with matching themes for Ghostty, WezTerm, tmux and Zsh.
 heritage-themes/heritage-themes.nvim - https://github.com/heritage-themes/heritage-themes.nvim - **_`[TS][LSP][L/D][Lua]`_** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
 zacesshq/zacess.nvim - https://github.com/zacesshq/zacess.nvim - **_`[TS][LSP][L/D][Lua]`_** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 daaanny90/interlinked.nvim - https://github.com/daaanny90/interlinked.nvim - **_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
